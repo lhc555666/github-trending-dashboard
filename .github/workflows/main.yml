@@ -1,0 +1,33 @@
+name: Auto Update GitHub Trending
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. Checkout code
+        uses: actions/checkout@v3
+
+      - name: 2. Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 3. Install deps
+        run: pip install httpx
+
+      - name: 4. Run spider
+        run: python fetch_trending.py
+
+      - name: 5. Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto update data"
+          file_pattern: data.json
