@@ -1,12 +1,13 @@
 {
-  "lastUpdate": "2026/04/12 10:06:31",
+  "lastUpdate": "2026/04/13 07:27:04",
   "charts": {
     "languageDistribution": {
-      "Swift": 2,
-      "JavaScript": 2,
+      "Swift": 1,
+      "Python": 4,
+      "JavaScript": 1,
+      "TypeScript": 1,
       "Shell": 1,
-      "Python": 2,
-      "TypeScript": 1
+      "Rust": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3844,
-          "forks": 676
+          "totalStars": 3982,
+          "forks": 704
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15614124?v=4"
@@ -34,26 +35,6 @@
       },
       {
         "rank": 2,
-        "name": "xixu-me/awesome-persona-distill-skills",
-        "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3298,
-          "forks": 365
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/109734945?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "alchaincyf/hermes-agent-orange-book",
         "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
         "language": {
@@ -62,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1995,
-          "forks": 216
+          "totalStars": 2181,
+          "forks": 238
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -73,47 +54,27 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "KKKKhazix/khazix-skills",
-        "description": "数字生命卡兹克开源的 AI Skills 合集",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1651,
-          "forks": 348
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/239590580?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "yizhiyanhua-ai/fireworks-tech-graph",
         "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
         "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1240,
-          "forks": 97
+          "totalStars": 1727,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/251871046?v=4"
         ],
         "tags": [
-          "#Shell"
+          "#Python"
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "mattmireles/gemma-tuner-multimodal",
         "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
         "language": {
@@ -122,14 +83,54 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1202,
-          "forks": 77
+          "totalStars": 1238,
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4949789?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "QLHazyCoder/codex-oauth-automation-extension",
+        "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1051,
+          "forks": 219
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/109800873?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "nashsu/llm_wiki",
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 998,
+          "forks": 113
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2127280?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -142,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 864,
-          "forks": 122
+          "totalStars": 882,
+          "forks": 130
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7837354?v=4"
@@ -154,108 +155,6 @@
       },
       {
         "rank": 8,
-        "name": "wxtsky/CodeIsland",
-        "description": "暂无描述",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 853,
-          "forks": 102
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/79189721?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "QLHazyCoder/codex-oauth-automation-extension",
-        "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 766,
-          "forks": 158
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/109800873?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "nashsu/llm_wiki",
-        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 765,
-          "forks": 95
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2127280?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "mattmireles/gemma-tuner-multimodal",
-        "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1202,
-          "forks": 77
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4949789?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "phuryn/claude-usage",
-        "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 864,
-          "forks": 122
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7837354?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "joeynyc/hermes-hudui",
         "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
         "language": {
@@ -264,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 607,
-          "forks": 61
+          "totalStars": 753,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17919866?v=4"
@@ -275,20 +174,122 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "coleam00/claude-memory-compiler",
-        "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+        "rank": 9,
+        "name": "AgriciDaniel/claude-obsidian",
+        "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 751,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/223140489?v=4"
+        ],
+        "tags": [
+          "#Shell"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "vyfor/rattles",
+        "description": "🪇 Minimal terminal spinners for Rust",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 683,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/92883017?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "yizhiyanhua-ai/fireworks-tech-graph",
+        "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 583,
-          "forks": 151
+          "totalStars": 1727,
+          "forks": 127
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/47287758?v=4"
+          "https://avatars.githubusercontent.com/u/251871046?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "mattmireles/gemma-tuner-multimodal",
+        "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1238,
+          "forks": 78
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4949789?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "phuryn/claude-usage",
+        "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 882,
+          "forks": 130
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7837354?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "joeynyc/hermes-hudui",
+        "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 753,
+          "forks": 80
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/17919866?v=4"
         ],
         "tags": [
           "#Python"
@@ -304,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 553,
-          "forks": 55
+          "totalStars": 605,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79965746?v=4"
@@ -324,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 387,
-          "forks": 55
+          "totalStars": 471,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/202896035?v=4"
@@ -336,46 +337,6 @@
       },
       {
         "rank": 7,
-        "name": "DLYuanGod/MegaTrain",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 326,
-          "forks": 28
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/96673402?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Ar9av/obsidian-wiki",
-        "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 305,
-          "forks": 50
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/29639685?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
         "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
         "language": {
@@ -384,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 292,
-          "forks": 21
+          "totalStars": 338,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85532891?v=4"
@@ -395,7 +356,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "JinGuYuan/jinguyuan-dumpling-skill",
+        "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 292,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/269964815?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "CodMughees/envradar",
         "description": "Catch undocumented, unused, and drifting environment variables in your repo",
         "language": {
@@ -404,11 +385,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 270,
+          "totalStars": 272,
           "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207321946?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "LoseNine/ruyipage",
+        "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 247,
+          "forks": 75
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/45224858?v=4"
         ],
         "tags": [
           "#Python"
@@ -418,26 +419,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "xixu-me/awesome-persona-distill-skills",
-        "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3298,
-          "forks": 365
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/109734945?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "QLHazyCoder/codex-oauth-automation-extension",
         "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
         "language": {
@@ -446,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 766,
-          "forks": 158
+          "totalStars": 1051,
+          "forks": 219
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/109800873?v=4"
@@ -457,7 +438,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "NyxTides/SimpleAuthFlow",
         "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
         "language": {
@@ -466,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 339,
-          "forks": 96
+          "totalStars": 349,
+          "forks": 99
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/205922613?v=4"
@@ -477,67 +458,27 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "pithings/coderaft",
+        "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 134,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/263128954?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 4,
-        "name": "cporter202/agentic-ai-apis",
-        "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 265,
-          "forks": 88
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/163957687?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "WenXiaoWendy/cyberboss",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 194,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/93314148?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "whwh1233/StepFlow-Duck",
-        "description": "cpa+duck结合体",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 147,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/37824587?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "professor-lee/StoneBadge",
         "description": "Add a Rotating Stone in your README file.",
         "language": {
@@ -546,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 121,
+          "totalStars": 130,
           "forks": 8
         },
         "contributors": [
@@ -557,20 +498,80 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "pithings/coderaft",
-        "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
+        "rank": 5,
+        "name": "V-IOLE-T/hotmail-register-extension",
+        "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
-          "forks": 2
+          "totalStars": 124,
+          "forks": 40
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/263128954?v=4"
+          "https://avatars.githubusercontent.com/u/168922623?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "iBUHub/CanvasToAPI",
+        "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 122,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/255295353?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Kunkun2116/AI-Truth",
+        "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 120,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/258886174?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "xaspx/hermes-control-interface",
+        "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 108,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38959282?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -578,26 +579,6 @@
       },
       {
         "rank": 9,
-        "name": "destefanis/twitter-bookmarks-grid",
-        "description": "An infinite, pannable masonry grid for browsing your Twitter/X bookmarks visually",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 109,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7717963?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "mr-r3b00t/fingerprintdetector",
         "description": "A very in development/test of a chrome extension to see who is conducting what fingerprinting when you visit a website. use at own risk",
         "language": {
@@ -606,11 +587,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 101,
-          "forks": 8
+          "totalStars": 102,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14963690?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "paopaojun/Douyin_Curation_Assistant",
+        "description": "抖音自动评论、点赞、收藏、关注，自动刷视频、自动获取作者、作品、评论区信息、自动关键字搜索视频获取信息。创作者画像和直接互动执行等能力，适合本地化的数据采集、内容筛选和运营动作工作流。",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 98,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20484068?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,46 +621,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "URLab-Sim/UnrealRoboticsLab",
-        "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 310,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/272231138?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "tsoding/ht.h",
-        "description": "Hash Table in C but with a nice Generic API",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 284,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18597647?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "mrT4ntr4/NtWarden",
         "description": "Windows Analysis and Research Toolkit",
         "language": {
@@ -668,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 197,
-          "forks": 20
+          "totalStars": 254,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46223734?v=4"
@@ -679,7 +640,127 @@
         ]
       },
       {
+        "rank": 2,
+        "name": "ListerOvO1211/LazyEnv",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 146,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/90462614?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "ProjectPhysX/hw-smi",
+        "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 141,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/90851087?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 4,
+        "name": "bhh-4209/Crimson-Desert-OptiScaler-FSR-4-Mod",
+        "description": "Crimson Desert OptiScaler FSR 4 Mod brings the latest AMD FSR 4 upscaling and OptiScaler technology to Crimson Desert. Significantly improves image quality, sharpness, and performance with higher FPS and excellent visual clarity on any GPU.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 128,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/237418453?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "akanksh13/Crimson-Desert-RenoDX-Desktop",
+        "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 126,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76583641?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+        "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 126,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/142124916?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "HzWeta/Delta-For-Roblox-PC-Edition",
+        "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 122,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/100251311?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "ingegroeneveld0620/fps-tweaks-26",
         "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience.",
         "language": {
@@ -699,100 +780,20 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "ProjectPhysX/hw-smi",
-        "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 116,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/90851087?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "exomi29zikzak/Valo-Vision-26",
-        "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 103,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273206044?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
-        "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 103,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273206187?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "bhh-4209/Crimson-Desert-OptiScaler-FSR-4-Mod",
-        "description": "Crimson Desert OptiScaler FSR 4 Mod brings the latest AMD FSR 4 upscaling and OptiScaler technology to Crimson Desert. Significantly improves image quality, sharpness, and performance with higher FPS and excellent visual clarity on any GPU.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 96,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/237418453?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
-        "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay.",
+        "name": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+        "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
+          "totalStars": 121,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/142124916?v=4"
+          "https://avatars.githubusercontent.com/u/115763025?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +801,19 @@
       },
       {
         "rank": 10,
-        "name": "akanksh13/Crimson-Desert-RenoDX-Desktop",
-        "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure.",
+        "name": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
+        "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 119,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/76583641?v=4"
+          "https://avatars.githubusercontent.com/u/193146826?v=4"
         ],
         "tags": [
           "#C++"
