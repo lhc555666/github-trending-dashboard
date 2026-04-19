@@ -1,12 +1,14 @@
 {
-  "lastUpdate": "2026/04/18 02:51:31",
+  "lastUpdate": "2026/04/19 02:28:18",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 3,
+      "TypeScript": 2,
+      "Python": 1,
       "C++": 1,
       "HTML": 2,
-      "Python": 2,
-      "JavaScript": 1
+      "JavaScript": 1,
+      "Kotlin": 1,
+      "Rust": 1
     },
     "starGrowth": {}
   },
@@ -14,7 +16,7 @@
     "All": [
       {
         "rank": 1,
-        "name": "AgentSeal/codeburn",
+        "name": "getagentseal/codeburn",
         "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
         "language": {
           "name": "TypeScript",
@@ -22,11 +24,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2592,
-          "forks": 177
+          "totalStars": 2719,
+          "forks": 191
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265224789?v=4"
+          "https://avatars.githubusercontent.com/u/277308000?v=4"
         ],
         "tags": [
           "#TypeScript"
@@ -34,22 +36,22 @@
       },
       {
         "rank": 2,
-        "name": "Nightmare-Eclipse/RedSun",
-        "description": "The Red Sun vulnerability repository",
+        "name": "Robbyant/lingbot-map",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
         "language": {
-          "name": "C++",
-          "color": "text-purple-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1366,
-          "forks": 293
+          "totalStars": 1936,
+          "forks": 139
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/271389851?v=4"
+          "https://avatars.githubusercontent.com/u/212647524?v=4"
         ],
         "tags": [
-          "#C++"
+          "#Python"
         ]
       },
       {
@@ -62,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1356,
-          "forks": 41
+          "totalStars": 1603,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -74,22 +76,22 @@
       },
       {
         "rank": 4,
-        "name": "Mouseww/anything-analyzer",
-        "description": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
+        "name": "Nightmare-Eclipse/RedSun",
+        "description": "The Red Sun vulnerability repository",
         "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
+          "name": "C++",
+          "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1283,
-          "forks": 296
+          "totalStars": 1502,
+          "forks": 324
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/28473201?v=4"
+          "https://avatars.githubusercontent.com/u/271389851?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#C++"
         ]
       },
       {
@@ -102,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1103,
-          "forks": 135
+          "totalStars": 1199,
+          "forks": 143
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -114,46 +116,6 @@
       },
       {
         "rank": 6,
-        "name": "browser-use/video-use",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 979,
-          "forks": 89
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Robbyant/lingbot-map",
-        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 945,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/212647524?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "lewislulu/html-ppt-skill",
         "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
         "language": {
@@ -162,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 923,
-          "forks": 103
+          "totalStars": 1150,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155287332?v=4"
@@ -173,17 +135,17 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "Manavarya09/design-extract",
-        "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+        "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 888,
-          "forks": 71
+          "totalStars": 1009,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/144777973?v=4"
@@ -193,7 +155,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "BuilderPulse/BuilderPulse",
         "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
         "language": {
@@ -202,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 885,
-          "forks": 65
+          "totalStars": 932,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275986651?v=4"
@@ -211,31 +173,51 @@
         "tags": [
           "#Trending"
         ]
+      },
+      {
+        "rank": 9,
+        "name": "sogonov/anubis",
+        "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+        "language": {
+          "name": "Kotlin",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 913,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/111385605?v=4"
+        ],
+        "tags": [
+          "#Kotlin"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "WeaveMindAI/weft",
+        "description": "A programming language for AI systems",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 837,
+          "forks": 113
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/234981286?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "browser-use/video-use",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 979,
-          "forks": 89
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Robbyant/lingbot-map",
         "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
         "language": {
@@ -244,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 945,
-          "forks": 65
+          "totalStars": 1936,
+          "forks": 139
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -255,47 +237,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "sterlingcrispin/nothing-ever-happens",
-        "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 823,
-          "forks": 84
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2976761?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "patterniha/SNI-Spoofing",
-        "description": "Bypass DPI with IP/TCP-Header manipulation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 801,
-          "forks": 82
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/71074308?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "name": "wbh604/UZI-Skill",
         "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
         "language": {
@@ -304,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 689,
-          "forks": 120
+          "totalStars": 764,
+          "forks": 132
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16127958?v=4"
@@ -315,7 +257,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 3,
         "name": "Lazarus-AI/clearwing",
         "description": "暂无描述",
         "language": {
@@ -324,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 491,
-          "forks": 68
+          "totalStars": 650,
+          "forks": 93
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/66968374?v=4"
@@ -335,27 +277,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "stanford-iris-lab/meta-harness",
-        "description": "Reference code for the Meta-Harness paper.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 427,
-          "forks": 28
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63766302?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "name": "codejunkie99/agentic-stack",
         "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
         "language": {
@@ -364,8 +286,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
-          "forks": 43
+          "totalStars": 507,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52658655?v=4"
@@ -375,27 +297,47 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Fenng/Tech-Doc-Style-Chinese",
-        "description": "Yet another reusable writing skill for Chinese technical documentation and product copy.",
+        "rank": 5,
+        "name": "browser-use/browser-harness",
+        "description": "Self-healing browser harness that enables LLMs to complete any task.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
-          "forks": 18
+          "totalStars": 451,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/527391?v=4"
+          "https://avatars.githubusercontent.com/u/192012301?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 6,
+        "name": "stanford-iris-lab/meta-harness",
+        "description": "Reference code for the Meta-Harness paper.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 450,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63766302?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "zhuyansen/wx-favorites-report",
         "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线",
         "language": {
@@ -404,11 +346,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 290,
-          "forks": 70
+          "totalStars": 421,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24306647?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "koffuxu/ai-influence-digest",
+        "description": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 274,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2215282?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "redai-infra/Relax",
+        "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 266,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/256302077?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "poseljacob/agentic-video-editor",
+        "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 264,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/110408753?v=4"
         ],
         "tags": [
           "#Python"
@@ -419,15 +421,15 @@
       {
         "rank": 1,
         "name": "Manavarya09/design-extract",
-        "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+        "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 888,
-          "forks": 71
+          "totalStars": 1009,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/144777973?v=4"
@@ -446,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 607,
-          "forks": 110
+          "totalStars": 634,
+          "forks": 122
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/906752?v=4"
@@ -466,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 368,
-          "forks": 47
+          "totalStars": 427,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/109292896?v=4"
@@ -486,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
-          "forks": 135
+          "totalStars": 370,
+          "forks": 173
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275414185?v=4"
@@ -498,26 +500,6 @@
       },
       {
         "rank": 5,
-        "name": "V-IOLE-T/hotmail-register-extension",
-        "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 295,
-          "forks": 76
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/168922623?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "activetheory/activeframe",
         "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
         "language": {
@@ -526,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 254,
+          "totalStars": 264,
           "forks": 10
         },
         "contributors": [
@@ -537,27 +519,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "MangoLion/stretchystudio",
-        "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 226,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9015144?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "name": "shaom/svg-hand-drawn-skill",
         "description": "暂无描述",
         "language": {
@@ -566,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 168,
           "forks": 26
         },
         "contributors": [
@@ -577,27 +539,7 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "haeyupi/hotmail_re_plugin",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 108,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/174196366?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 7,
         "name": "Web3CZ/Web3Hermes",
         "description": "【Hermes WebUI】Hermes-Agent 中文版 WebUI，便于中国用户使用",
         "language": {
@@ -606,11 +548,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
-          "forks": 20
+          "totalStars": 105,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118263377?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "haruharo101/BOJ-memory",
+        "description": "BOJ 서비스 종료 이전까지의 자신의 정보를 요약해서 볼 수 있는 서비스",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 71,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/83638053?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "mo-tunn/OpenGuider",
+        "description": "An AI companion that lives on your desktop - OpenGuider watches your screen, listens to your voice, and guides every step with clear actions.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 66,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/79705009?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "zhaleff/Awesome-Dotfiles",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 52,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203539898?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1366,
-          "forks": 293
+          "totalStars": 1502,
+          "forks": 324
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -640,66 +642,6 @@
       },
       {
         "rank": 2,
-        "name": "Nightmare-Eclipse/UnDefend",
-        "description": "Repository hosting windows defender DOS tool",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 226,
-          "forks": 80
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/271389851?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "adanto/EtwTiViewer",
-        "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on. ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 118,
-          "forks": 15
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9393785?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
-        "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 77,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/94567530?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
         "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows.",
         "language": {
@@ -708,8 +650,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 68,
-          "forks": 0
+          "totalStars": 118,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42376982?v=4"
@@ -719,47 +661,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "zju3dv/habitat-gs",
-        "description": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
+        "rank": 3,
+        "name": "Noteshagutter/Best-Fortnite-Cheats-2026",
+        "description": "⭐️ Fortnite Cheats 2026 Download – Aimbot, ESP, Wallhack, Triggerbot, Multihack, Recoil Control, Bunnyhop | Silent Aim, Radarhack, Loader, Injector, Undetected Bypass ⭐️ ",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 67,
-          "forks": 1
+          "totalStars": 112,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/48914724?v=4"
+          "https://avatars.githubusercontent.com/u/274322516?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 7,
-        "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
-        "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation. Optimize FPS with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 64,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17230640?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "name": "vbhwlvbn/FL-Production-25.2.5-For-PC",
         "description": "FL Production 25.2.5 For PC is the Producer Edition of 25.2.5. Professional DAW for music production, beatmaking, and mastering. Includes all plugins, improved performance, and low latency. Optimized for Windows 10/11.",
         "language": {
@@ -768,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 62,
+          "totalStars": 102,
           "forks": 0
         },
         "contributors": [
@@ -779,7 +701,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 5,
         "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
         "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features.",
         "language": {
@@ -788,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 62,
+          "totalStars": 101,
           "forks": 0
         },
         "contributors": [
@@ -799,20 +721,100 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "landitbot/marathongo",
-        "description": "暂无描述",
+        "rank": 6,
+        "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
+        "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation. Optimize FPS with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 60,
-          "forks": 13
+          "totalStars": 100,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/187521014?v=4"
+          "https://avatars.githubusercontent.com/u/17230640?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
+        "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 98,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/94567530?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "pietdijkstra7910754/discord-server-booster",
+        "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 87,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276052239?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "reinierrentrop2331/Delta-Executor-26",
+        "description": "The ultimate C++ collection of robust PC Luau executors, providing flawless script bridging and high-level UNC API performance. Engineered for seamless modern integration and unpatched runtime deployment. Awpgg executor, xeno executor, solara executor, velocity executor.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 85,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276060729?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "pistachote/Cheat-Engine-Modding-Games",
+        "description": "Cheat Engine Modding Games is a powerful tool for modifying single-player games on PC. Find and change game values, create cheats and trainers easily. Optimized 2026 version with ready cheat tables and Lua scripting support.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 78,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/180124401?v=4"
         ],
         "tags": [
           "#C++"
