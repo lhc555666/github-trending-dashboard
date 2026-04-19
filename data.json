@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/19 02:28:18",
+  "lastUpdate": "2026/04/19 03:26:33",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2719,
-          "forks": 191
+          "totalStars": 2724,
+          "forks": 192
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277308000?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1936,
-          "forks": 139
+          "totalStars": 1974,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -64,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1603,
-          "forks": 51
+          "totalStars": 1630,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1502,
-          "forks": 324
+          "totalStars": 1506,
+          "forks": 326
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1199,
+          "totalStars": 1201,
           "forks": 143
         },
         "contributors": [
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1150,
-          "forks": 127
+          "totalStars": 1164,
+          "forks": 129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155287332?v=4"
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1009,
+          "totalStars": 1013,
           "forks": 81
         },
         "contributors": [
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 932,
+          "totalStars": 934,
           "forks": 66
         },
         "contributors": [
@@ -184,7 +184,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 913,
+          "totalStars": 915,
           "forks": 26
         },
         "contributors": [
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1936,
-          "forks": 139
+          "totalStars": 1975,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 764,
+          "totalStars": 765,
           "forks": 132
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 650,
+          "totalStars": 655,
           "forks": 93
         },
         "contributors": [
@@ -278,26 +278,6 @@
       },
       {
         "rank": 4,
-        "name": "codejunkie99/agentic-stack",
-        "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 507,
-          "forks": 58
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52658655?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "browser-use/browser-harness",
         "description": "Self-healing browser harness that enables LLMs to complete any task.",
         "language": {
@@ -306,11 +286,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 451,
-          "forks": 41
+          "totalStars": 527,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "codejunkie99/agentic-stack",
+        "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 510,
+          "forks": 58
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/52658655?v=4"
         ],
         "tags": [
           "#Python"
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 450,
+          "totalStars": 451,
           "forks": 32
         },
         "contributors": [
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 421,
+          "totalStars": 428,
           "forks": 98
         },
         "contributors": [
@@ -428,7 +428,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1009,
+          "totalStars": 1013,
           "forks": 81
         },
         "contributors": [
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 634,
+          "totalStars": 635,
           "forks": 122
         },
         "contributors": [
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 427,
-          "forks": 52
+          "totalStars": 429,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/109292896?v=4"
@@ -488,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 370,
-          "forks": 173
+          "totalStars": 376,
+          "forks": 177
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275414185?v=4"
@@ -568,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
+          "totalStars": 72,
           "forks": 1
         },
         "contributors": [
@@ -600,19 +600,19 @@
       },
       {
         "rank": 10,
-        "name": "zhaleff/Awesome-Dotfiles",
-        "description": "暂无描述",
+        "name": "V-IOLE-T/tab-harbor",
+        "description": "一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 2
+          "totalStars": 54,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/203539898?v=4"
+          "https://avatars.githubusercontent.com/u/168922623?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1502,
-          "forks": 324
+          "totalStars": 1506,
+          "forks": 326
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 102,
+          "totalStars": 101,
           "forks": 0
         },
         "contributors": [
@@ -702,26 +702,6 @@
       },
       {
         "rank": 5,
-        "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
-        "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 101,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/91273108?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
         "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation. Optimize FPS with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors.",
         "language": {
@@ -741,6 +721,26 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
+        "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 101,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/91273108?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 7,
         "name": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
         "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics.",
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
+          "totalStars": 97,
           "forks": 0
         },
         "contributors": [
@@ -810,7 +810,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 78,
+          "totalStars": 79,
           "forks": 0
         },
         "contributors": [
