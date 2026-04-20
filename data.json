@@ -1,13 +1,12 @@
 {
-  "lastUpdate": "2026/04/19 03:26:33",
+  "lastUpdate": "2026/04/20 02:29:00",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 2,
-      "Python": 1,
+      "Python": 4,
+      "TypeScript": 1,
       "C++": 1,
-      "HTML": 2,
+      "HTML": 1,
       "JavaScript": 1,
-      "Kotlin": 1,
       "Rust": 1
     },
     "starGrowth": {}
@@ -16,26 +15,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "getagentseal/codeburn",
-        "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2724,
-          "forks": 192
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277308000?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Robbyant/lingbot-map",
         "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
         "language": {
@@ -44,11 +23,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1974,
-          "forks": 145
+          "totalStars": 2673,
+          "forks": 205
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "browser-use/browser-harness",
+        "description": "Self-healing browser harness that enables LLMs to complete any task.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2308,
+          "forks": 197
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/192012301?v=4"
         ],
         "tags": [
           "#Python"
@@ -64,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1630,
-          "forks": 52
+          "totalStars": 2092,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -76,6 +75,26 @@
       },
       {
         "rank": 4,
+        "name": "kyegomez/OpenMythos",
+        "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1601,
+          "forks": 283
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/98760976?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "Nightmare-Eclipse/RedSun",
         "description": "The Red Sun vulnerability repository",
         "language": {
@@ -84,34 +103,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1506,
-          "forks": 326
+          "totalStars": 1576,
+          "forks": 344
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
         ],
         "tags": [
           "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "alchaincyf/darwin-skill",
-        "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1201,
-          "forks": 143
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127714341?v=4"
-        ],
-        "tags": [
-          "#HTML"
         ]
       },
       {
@@ -124,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1164,
-          "forks": 129
+          "totalStars": 1454,
+          "forks": 164
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155287332?v=4"
@@ -144,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1013,
-          "forks": 81
+          "totalStars": 1089,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/144777973?v=4"
@@ -164,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 66
+          "totalStars": 968,
+          "forks": 71
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275986651?v=4"
@@ -176,26 +175,6 @@
       },
       {
         "rank": 9,
-        "name": "sogonov/anubis",
-        "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-        "language": {
-          "name": "Kotlin",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 915,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/111385605?v=4"
-        ],
-        "tags": [
-          "#Kotlin"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "WeaveMindAI/weft",
         "description": "A programming language for AI systems",
         "language": {
@@ -204,14 +183,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 837,
-          "forks": 113
+          "totalStars": 880,
+          "forks": 115
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/234981286?v=4"
         ],
         "tags": [
           "#Rust"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "wbh604/UZI-Skill",
+        "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 818,
+          "forks": 138
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16127958?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       }
     ],
@@ -226,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1975,
-          "forks": 145
+          "totalStars": 2673,
+          "forks": 205
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -238,46 +237,6 @@
       },
       {
         "rank": 2,
-        "name": "wbh604/UZI-Skill",
-        "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 765,
-          "forks": 132
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16127958?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "Lazarus-AI/clearwing",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 655,
-          "forks": 93
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/66968374?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "browser-use/browser-harness",
         "description": "Self-healing browser harness that enables LLMs to complete any task.",
         "language": {
@@ -286,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 527,
-          "forks": 46
+          "totalStars": 2308,
+          "forks": 197
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -297,7 +256,67 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "kyegomez/OpenMythos",
+        "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1601,
+          "forks": 283
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/98760976?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "wbh604/UZI-Skill",
+        "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 818,
+          "forks": 138
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16127958?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 5,
+        "name": "Lazarus-AI/clearwing",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 748,
+          "forks": 104
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/66968374?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "codejunkie99/agentic-stack",
         "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
         "language": {
@@ -306,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 510,
-          "forks": 58
+          "totalStars": 593,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52658655?v=4"
@@ -317,7 +336,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "stanford-iris-lab/meta-harness",
         "description": "Reference code for the Meta-Harness paper.",
         "language": {
@@ -326,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 451,
-          "forks": 32
+          "totalStars": 500,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63766302?v=4"
@@ -337,7 +356,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "zhuyansen/wx-favorites-report",
         "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线",
         "language": {
@@ -346,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 428,
-          "forks": 98
+          "totalStars": 483,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24306647?v=4"
@@ -357,7 +376,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "koffuxu/ai-influence-digest",
         "description": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. ",
         "language": {
@@ -366,31 +385,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
-          "forks": 31
+          "totalStars": 285,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2215282?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "redai-infra/Relax",
-        "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 266,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/256302077?v=4"
         ],
         "tags": [
           "#Python"
@@ -406,8 +405,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
-          "forks": 31
+          "totalStars": 282,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/110408753?v=4"
@@ -428,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1013,
-          "forks": 81
+          "totalStars": 1089,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/144777973?v=4"
@@ -440,26 +439,6 @@
       },
       {
         "rank": 2,
-        "name": "andrewjiang/palantir-for-family-trips",
-        "description": "A Palantir-ish dashboard for family trip planning.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 635,
-          "forks": 122
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/906752?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "bergside/design-md-chrome",
         "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
         "language": {
@@ -468,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 429,
-          "forks": 53
+          "totalStars": 475,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/109292896?v=4"
@@ -479,7 +458,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "assai-id/nemesis",
         "description": "暂无描述",
         "language": {
@@ -488,11 +467,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 376,
-          "forks": 177
+          "totalStars": 437,
+          "forks": 190
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275414185?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "ZeroZ-lab/cc-design",
+        "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 283,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12062960?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -508,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
+          "totalStars": 268,
           "forks": 10
         },
         "contributors": [
@@ -520,46 +519,6 @@
       },
       {
         "rank": 6,
-        "name": "shaom/svg-hand-drawn-skill",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 168,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2596224?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Web3CZ/Web3Hermes",
-        "description": "【Hermes WebUI】Hermes-Agent 中文版 WebUI，便于中国用户使用",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 105,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/118263377?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "haruharo101/BOJ-memory",
         "description": "BOJ 서비스 종료 이전까지의 자신의 정보를 요약해서 볼 수 있는 서비스",
         "language": {
@@ -568,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 72,
+          "totalStars": 81,
           "forks": 1
         },
         "contributors": [
@@ -579,7 +538,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "mo-tunn/OpenGuider",
         "description": "An AI companion that lives on your desktop - OpenGuider watches your screen, listens to your voice, and guides every step with clear actions.",
         "language": {
@@ -588,8 +547,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
-          "forks": 5
+          "totalStars": 72,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79705009?v=4"
@@ -599,7 +558,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "zhaleff/Awesome-Dotfiles",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 70,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203539898?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "V-IOLE-T/tab-harbor",
         "description": "一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。",
         "language": {
@@ -608,11 +587,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
+          "totalStars": 61,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/168922623?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "miamirabella66721427201/Stream-Metrics-Auditor-GUI",
+        "description": "Professional Desktop GUI for distributed stream stress-testing and metric auditing. Features a real-time dashboard for browser cluster management, visual traffic analytics, and automated proxy orchestration.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 57,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276071906?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1506,
-          "forks": 326
+          "totalStars": 1576,
+          "forks": 344
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -642,26 +641,6 @@
       },
       {
         "rank": 2,
-        "name": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
-        "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 118,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/42376982?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Noteshagutter/Best-Fortnite-Cheats-2026",
         "description": "⭐️ Fortnite Cheats 2026 Download – Aimbot, ESP, Wallhack, Triggerbot, Multihack, Recoil Control, Bunnyhop | Silent Aim, Radarhack, Loader, Injector, Undetected Bypass ⭐️ ",
         "language": {
@@ -681,69 +660,9 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "vbhwlvbn/FL-Production-25.2.5-For-PC",
-        "description": "FL Production 25.2.5 For PC is the Producer Edition of 25.2.5. Professional DAW for music production, beatmaking, and mastering. Includes all plugins, improved performance, and low latency. Optimized for Windows 10/11.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 101,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/140766052?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
-        "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation. Optimize FPS with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 100,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17230640?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
-        "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 101,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/91273108?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
-        "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics.",
+        "rank": 3,
+        "name": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+        "description": "esp32-s3-touch-amoled-1.8",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -751,17 +670,17 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 97,
-          "forks": 0
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/94567530?v=4"
+          "https://avatars.githubusercontent.com/u/1506722?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 8,
+        "rank": 4,
         "name": "pietdijkstra7910754/discord-server-booster",
         "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
         "language": {
@@ -770,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
+          "totalStars": 88,
           "forks": 0
         },
         "contributors": [
@@ -781,7 +700,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 5,
         "name": "reinierrentrop2331/Delta-Executor-26",
         "description": "The ultimate C++ collection of robust PC Luau executors, providing flawless script bridging and high-level UNC API performance. Engineered for seamless modern integration and unpatched runtime deployment. Awpgg executor, xeno executor, solara executor, velocity executor.",
         "language": {
@@ -790,11 +709,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 85,
+          "totalStars": 86,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/276060729?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "grohunneyman24084362584/Fake-Balance-2026-V2",
+        "description": "GUI Wallet Collection",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 77,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276064237?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "landitbot/marathongo",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/187521014?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "nizarlbogos/Windrose-Game-Server-Docker",
+        "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/78905401?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "chabba1234/Claude-Design-By-Anthropic",
+        "description": "Download Free Claude Desktop - Designed by Anthropic is a beautiful and free desktop application for Claude AI. Enjoy fast chatting, advanced coding, writing assistance, and a modern elegant interface optimized for Windows users.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/62203125?v=4"
         ],
         "tags": [
           "#C++"
@@ -810,7 +809,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 79,
+          "totalStars": 72,
           "forks": 0
         },
         "contributors": [
