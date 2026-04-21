@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/21 02:24:56",
+  "lastUpdate": "2026/04/21 03:20:18",
   "charts": {
     "languageDistribution": {
       "Python": 4,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4365,
-          "forks": 984
+          "totalStars": 4453,
+          "forks": 1005
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98760976?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3642,
-          "forks": 299
+          "totalStars": 3688,
+          "forks": 301
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3295,
-          "forks": 279
+          "totalStars": 3332,
+          "forks": 282
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1665,
-          "forks": 187
+          "totalStars": 1670,
+          "forks": 189
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155287332?v=4"
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1643,
+          "totalStars": 1646,
           "forks": 356
         },
         "contributors": [
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1160,
+          "totalStars": 1163,
           "forks": 91
         },
         "contributors": [
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 975,
-          "forks": 65
+          "totalStars": 988,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/50469282?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 971,
+          "totalStars": 979,
           "forks": 165
         },
         "contributors": [
@@ -202,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 853,
-          "forks": 79
+          "totalStars": 875,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253253881?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4365,
-          "forks": 984
+          "totalStars": 4453,
+          "forks": 1005
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98760976?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3642,
-          "forks": 299
+          "totalStars": 3688,
+          "forks": 301
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3295,
-          "forks": 279
+          "totalStars": 3332,
+          "forks": 282
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 971,
+          "totalStars": 979,
           "forks": 165
         },
         "contributors": [
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 765,
-          "forks": 84
+          "totalStars": 774,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52658655?v=4"
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
+          "totalStars": 520,
           "forks": 109
         },
         "contributors": [
@@ -356,6 +356,26 @@
       },
       {
         "rank": 8,
+        "name": "OranAi-Ltd/oransim",
+        "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 293,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/237740540?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "koffuxu/ai-influence-digest",
         "description": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. ",
         "language": {
@@ -375,26 +395,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "OranAi-Ltd/oransim",
-        "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 284,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/237740540?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
         "name": "shivampkumar/trellis-mac",
         "description": "暂无描述",
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
+          "totalStars": 275,
           "forks": 8
         },
         "contributors": [
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1160,
+          "totalStars": 1163,
           "forks": 91
         },
         "contributors": [
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 496,
+          "totalStars": 502,
           "forks": 230
         },
         "contributors": [
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 478,
-          "forks": 48
+          "totalStars": 485,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12062960?v=4"
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
-          "forks": 39
+          "totalStars": 134,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208459185?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
+          "totalStars": 93,
           "forks": 6
         },
         "contributors": [
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 84,
+          "totalStars": 85,
           "forks": 1
         },
         "contributors": [
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
+          "totalStars": 67,
           "forks": 1
         },
         "contributors": [
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1643,
+          "totalStars": 1646,
           "forks": 356
         },
         "contributors": [
@@ -720,6 +720,26 @@
       },
       {
         "rank": 6,
+        "name": "danielfuller00/PRAGMATA-REFramework",
+        "description": "Download PRAGMATA REFramework Optiscaler FSR4,— Full REFramework mod loader and scripting support for Pragmata. Enables advanced mods, Lua scripts, RenoDX graphics presets, and more.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 87,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34405128?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "BVZEOADSFV/Internet-Manager-For-PC",
         "description": "Internet Manager For PC is a powerful download accelerator for Windows. Boost your download speeds with multi-connection technology, resume interrupted downloads, and manage all your files easily. Fast, reliable, and user-friendly  manager.",
         "language": {
@@ -733,26 +753,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192540732?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "danielfuller00/PRAGMATA-REFramework",
-        "description": "Download PRAGMATA REFramework Optiscaler FSR4,— Full REFramework mod loader and scripting support for Pragmata. Enables advanced mods, Lua scripts, RenoDX graphics presets, and more.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 86,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/34405128?v=4"
         ],
         "tags": [
           "#C++"
@@ -788,7 +788,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 65,
+          "totalStars": 66,
           "forks": 0
         },
         "contributors": [
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 64,
+          "totalStars": 65,
           "forks": 0
         },
         "contributors": [
