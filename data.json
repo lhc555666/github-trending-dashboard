@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/24 02:27:14",
+  "lastUpdate": "2026/04/24 03:24:40",
   "charts": {
     "languageDistribution": {
       "Python": 4,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9746,
-          "forks": 2127
+          "totalStars": 9773,
+          "forks": 2135
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98760976?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5516,
-          "forks": 856
+          "totalStars": 5554,
+          "forks": 862
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2903,
-          "forks": 141
+          "totalStars": 2911,
+          "forks": 142
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8736212?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2787,
-          "forks": 246
+          "totalStars": 2841,
+          "forks": 255
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253253881?v=4"
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1923,
-          "forks": 145
+          "totalStars": 1937,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/254727761?v=4"
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1413,
+          "totalStars": 1415,
           "forks": 149
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1028,
+          "totalStars": 1033,
           "forks": 97
         },
         "contributors": [
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 940,
-          "forks": 238
+          "totalStars": 944,
+          "forks": 239
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22024444?v=4"
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 925,
+          "totalStars": 929,
           "forks": 190
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9746,
-          "forks": 2127
+          "totalStars": 9773,
+          "forks": 2135
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98760976?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2787,
-          "forks": 246
+          "totalStars": 2841,
+          "forks": 255
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253253881?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1028,
+          "totalStars": 1033,
           "forks": 97
         },
         "contributors": [
@@ -303,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 754,
-          "forks": 100
+          "totalStars": 764,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237740540?v=4"
@@ -323,8 +323,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 692,
-          "forks": 36
+          "totalStars": 742,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 657,
+          "totalStars": 670,
           "forks": 16
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 462,
+          "totalStars": 470,
           "forks": 61
         },
         "contributors": [
@@ -383,8 +383,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 422,
-          "forks": 28
+          "totalStars": 428,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/206703724?v=4"
@@ -457,26 +457,6 @@
       },
       {
         "rank": 3,
-        "name": "simoncirstoiu/alice",
-        "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 255,
-          "forks": 27
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46245735?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "levelsio/superlevels",
         "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
         "language": {
@@ -485,11 +465,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 249,
-          "forks": 29
+          "totalStars": 257,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7150848?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "simoncirstoiu/alice",
+        "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 256,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46245735?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -505,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
+          "totalStars": 217,
           "forks": 10
         },
         "contributors": [
@@ -545,8 +545,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 147,
-          "forks": 15
+          "totalStars": 161,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10742417?v=4"
@@ -565,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
+          "totalStars": 147,
           "forks": 52
         },
         "contributors": [
@@ -585,8 +585,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
-          "forks": 22
+          "totalStars": 111,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86117891?v=4"
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
+          "totalStars": 97,
           "forks": 0
         },
         "contributors": [
@@ -687,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 97,
+          "totalStars": 96,
           "forks": 0
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 92,
           "forks": 0
         },
         "contributors": [
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 92,
           "forks": 0
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
+          "totalStars": 91,
           "forks": 0
         },
         "contributors": [
@@ -799,19 +799,19 @@
       },
       {
         "rank": 10,
-        "name": "danielfuller00/PRAGMATA-REFramework",
-        "description": "Download PRAGMATA REFramework Optiscaler FSR4,— Full REFramework mod loader and scripting support for Pragmata. Enables advanced mods, Lua scripts, RenoDX graphics presets, and more.",
+        "name": "m-schuetz/CuRast",
+        "description": "Cuda-Based Software Rasterization for Billions of Triangles",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 63,
+          "totalStars": 64,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/34405128?v=4"
+          "https://avatars.githubusercontent.com/u/6705073?v=4"
         ],
         "tags": [
           "#C++"
