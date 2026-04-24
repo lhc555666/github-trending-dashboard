@@ -1,10 +1,11 @@
 {
-  "lastUpdate": "2026/04/23 03:22:27",
+  "lastUpdate": "2026/04/24 02:27:14",
   "charts": {
     "languageDistribution": {
       "Python": 4,
       "HTML": 2,
-      "TypeScript": 2
+      "TypeScript": 2,
+      "Go": 1
     },
     "starGrowth": {}
   },
@@ -20,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8956,
-          "forks": 1906
+          "totalStars": 9746,
+          "forks": 2127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98760976?v=4"
@@ -32,26 +33,6 @@
       },
       {
         "rank": 2,
-        "name": "browser-use/browser-harness",
-        "description": "Self-healing browser harness that enables LLMs to complete any task.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 5112,
-          "forks": 459
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "alchaincyf/huashu-design",
         "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
         "language": {
@@ -60,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4578,
-          "forks": 724
+          "totalStars": 5516,
+          "forks": 856
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -71,7 +52,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "tw93/Kami",
         "description": "👩‍🚒 Good content deserves good paper.",
         "language": {
@@ -80,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2591,
-          "forks": 125
+          "totalStars": 2903,
+          "forks": 141
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8736212?v=4"
@@ -91,17 +72,17 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
-        "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+        "description": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1886,
-          "forks": 162
+          "totalStars": 2787,
+          "forks": 246
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253253881?v=4"
@@ -111,7 +92,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "OpenCoworkAI/open-codesign",
         "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
         "language": {
@@ -120,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1306,
-          "forks": 100
+          "totalStars": 1923,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/254727761?v=4"
@@ -131,7 +112,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "VoltAgent/awesome-claude-design",
         "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
         "language": {
@@ -140,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1231,
-          "forks": 129
+          "totalStars": 1413,
+          "forks": 149
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201282378?v=4"
@@ -151,7 +132,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "the-hidden-fish/advisor-ledger",
         "description": "暂无描述",
         "language": {
@@ -160,14 +141,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 904,
-          "forks": 89
+          "totalStars": 1028,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277556120?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "432539/gpt2api",
+        "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 940,
+          "forks": 238
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22024444?v=4"
+        ],
+        "tags": [
+          "#Go"
         ]
       },
       {
@@ -180,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 831,
-          "forks": 172
+          "totalStars": 925,
+          "forks": 190
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6277035?v=4"
@@ -192,22 +193,22 @@
       },
       {
         "rank": 10,
-        "name": "bwjoke/BTC-Trading-Since-2020",
-        "description": "Public BTC trading context since 2020.",
+        "name": "masterking32/MasterHttpRelayVPN",
+        "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 821,
-          "forks": 284
+          "totalStars": 910,
+          "forks": 91
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1284814?v=4"
+          "https://avatars.githubusercontent.com/u/1076030?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Python"
         ]
       }
     ],
@@ -222,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8956,
-          "forks": 1906
+          "totalStars": 9746,
+          "forks": 2127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98760976?v=4"
@@ -234,36 +235,16 @@
       },
       {
         "rank": 2,
-        "name": "browser-use/browser-harness",
-        "description": "Self-healing browser harness that enables LLMs to complete any task.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 5112,
-          "forks": 459
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
-        "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+        "description": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1886,
-          "forks": 162
+          "totalStars": 2787,
+          "forks": 246
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253253881?v=4"
@@ -273,7 +254,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "the-hidden-fish/advisor-ledger",
         "description": "暂无描述",
         "language": {
@@ -282,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 904,
-          "forks": 89
+          "totalStars": 1028,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277556120?v=4"
@@ -293,17 +274,17 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "masterking32/MasterHttpRelayVPN",
-        "description": "暂无描述",
+        "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 691,
-          "forks": 62
+          "totalStars": 910,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1076030?v=4"
@@ -313,7 +294,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "OranAi-Ltd/oransim",
         "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
         "language": {
@@ -322,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 572,
-          "forks": 81
+          "totalStars": 754,
+          "forks": 100
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237740540?v=4"
@@ -333,20 +314,40 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "openai/privacy-filter",
-        "description": "OpenAI Privacy Filter",
+        "rank": 6,
+        "name": "deepseek-ai/TileKernels",
+        "description": "A kernel library written in tilelang",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 474,
-          "forks": 25
+          "totalStars": 692,
+          "forks": 36
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14957082?v=4"
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Einsia/OpenChronicle",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 657,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/246131017?v=4"
         ],
         "tags": [
           "#Python"
@@ -362,8 +363,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 354,
-          "forks": 50
+          "totalStars": 462,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97342736?v=4"
@@ -374,6 +375,26 @@
       },
       {
         "rank": 9,
+        "name": "Russell-cell/PPT-Design-Prompt",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 422,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/206703724?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "shivampkumar/trellis-mac",
         "description": "暂无描述",
         "language": {
@@ -382,31 +403,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 320,
-          "forks": 9
+          "totalStars": 326,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7513060?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "yzhao062/agent-style",
-        "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 259,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/15079146?v=4"
         ],
         "tags": [
           "#Python"
@@ -424,7 +425,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 595,
+          "totalStars": 615,
           "forks": 65
         },
         "contributors": [
@@ -444,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 296,
+          "totalStars": 297,
           "forks": 4
         },
         "contributors": [
@@ -464,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 198,
-          "forks": 21
+          "totalStars": 255,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46245735?v=4"
@@ -476,6 +477,26 @@
       },
       {
         "rank": 4,
+        "name": "levelsio/superlevels",
+        "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 249,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7150848?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "vuciv/artblock",
         "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections.",
         "language": {
@@ -484,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
-          "forks": 9
+          "totalStars": 216,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26664687?v=4"
@@ -495,7 +516,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "imtonyjaa/ggemu-fishing-joy",
         "description": "a ggemu.com (play retro games online) sdk example",
         "language": {
@@ -515,27 +536,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "fimbox/html-in-canvas",
-        "description": "HTML in Canvas — arrival.space",
+        "rank": 7,
+        "name": "earthtojake/text-to-cad",
+        "description": "An open source harness for generating CAD models",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
+          "totalStars": 147,
           "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/28051000?v=4"
+          "https://avatars.githubusercontent.com/u/10742417?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Yu9191/sub-store-workers",
         "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版",
         "language": {
@@ -544,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
-          "forks": 40
+          "totalStars": 145,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -555,7 +576,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "guanxiaol/WindsurfPoolAPI",
         "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理",
         "language": {
@@ -564,8 +585,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
-          "forks": 21
+          "totalStars": 109,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86117891?v=4"
@@ -575,7 +596,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "robzolkos/LazyPi",
         "description": "Pi coding agent setup for the lazy",
         "language": {
@@ -584,31 +605,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
+          "totalStars": 101,
           "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/290616?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Pedrozz13755/Lottie-Whatsapp",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 77,
-          "forks": 15
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/153025824?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -626,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
+          "totalStars": 152,
           "forks": 8
         },
         "contributors": [
@@ -646,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 107,
-          "forks": 12
+          "totalStars": 111,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -658,6 +659,106 @@
       },
       {
         "rank": 3,
+        "name": "furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions",
+        "description": "Create Aeronautics is an advanced aviation expansion for the Create Mod. It introduces real-world physics and aerodynamics to Minecraft. Build functional airships and planes with realistic lift and mechanical integration. Experience the ultimate engineering challenge in the skies of 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 98,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/78299231?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Ch-Abdou/Lossless-Scaling-Upscale-FPS-Games",
+        "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation.  with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 97,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/192788924?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "GamingOddyseyYT/Splatoon-Raiders-PC",
+        "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 93,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/85214085?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Drakelo10/AutoDesk-Resource",
+        "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 93,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/154846133?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+        "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 92,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121423487?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "kernullist/windbg-decompile-ext",
         "description": "WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode.",
         "language": {
@@ -666,8 +767,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 68,
-          "forks": 3
+          "totalStars": 79,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6062663?v=4"
@@ -677,7 +778,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 9,
         "name": "pwnnex/ByeByeVPN",
         "description": "Full TSPU/DPI/VPN detectability scanner. Scan any IP as a censor sees it.",
         "language": {
@@ -686,111 +787,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 63,
-          "forks": 2
+          "totalStars": 66,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/276111476?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "chabba1234/Claude-Design-By-Anthropic",
-        "description": "Download Free Claude Desktop - Designed by Anthropic is a beautiful and free desktop application for Claude AI. Enjoy fast chatting, advanced coding, writing assistance, and a modern elegant interface optimized for Windows users.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 62,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/62203125?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "wageningenisabella8852/SU-Pro-26",
-        "description": "Advanced management and deployment toolkit for SketchUp Pro. Automates extension synchronization, Ruby API environment setup, and asset library integration for professional architectural workflows.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 54,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276069700?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "luitenjolein0715/Memory-Integrity-Auditor-GUI-26",
-        "description": "Advanced Desktop GUI for dynamic memory integrity auditing and runtime module analysis. Features high-performance binary synthesis, virtual address space mapping, and low-level system telemetry for security researchers.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 54,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276074042?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "clairesukovich42551640493/Fake-Wallet-V5-2026",
-        "description": "GUI Wallet Collection",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 51,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277612702?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "GitKittys/AndroidPrybar",
-        "description": "Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 51,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/75344625?v=4"
         ],
         "tags": [
           "#C++"
@@ -806,7 +807,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51,
+          "totalStars": 63,
           "forks": 0
         },
         "contributors": [
