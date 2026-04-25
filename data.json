@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/25 02:08:50",
+  "lastUpdate": "2026/04/25 02:53:02",
   "charts": {
     "languageDistribution": {
       "HTML": 3,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6106,
-          "forks": 941
+          "totalStars": 6121,
+          "forks": 942
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3052,
-          "forks": 150
+          "totalStars": 3053,
+          "forks": 151
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8736212?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1972,
-          "forks": 239
+          "totalStars": 2008,
+          "forks": 241
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1073,
-          "forks": 79
+          "totalStars": 1077,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1019,
-          "forks": 192
+          "totalStars": 1025,
+          "forks": 193
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30708545?v=4"
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 995,
+          "totalStars": 997,
           "forks": 197
         },
         "contributors": [
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 980,
-          "forks": 114
+          "totalStars": 985,
+          "forks": 115
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57628855?v=4"
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 789,
+          "totalStars": 792,
           "forks": 21
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1073,
-          "forks": 79
+          "totalStars": 1077,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -283,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 789,
+          "totalStars": 792,
           "forks": 21
         },
         "contributors": [
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 695,
+          "totalStars": 701,
           "forks": 206
         },
         "contributors": [
@@ -324,7 +324,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 531,
-          "forks": 67
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97342736?v=4"
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
+          "totalStars": 472,
           "forks": 31
         },
         "contributors": [
@@ -363,8 +363,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 337,
-          "forks": 115
+          "totalStars": 350,
+          "forks": 119
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278484961?v=4"
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
+          "totalStars": 316,
           "forks": 14
         },
         "contributors": [
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
+          "totalStars": 373,
           "forks": 39
         },
         "contributors": [
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
+          "totalStars": 358,
           "forks": 47
         },
         "contributors": [
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 227,
+          "totalStars": 230,
           "forks": 191
         },
         "contributors": [
@@ -565,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
-          "forks": 302
+          "totalStars": 227,
+          "forks": 310
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277802627?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 121,
+          "totalStars": 122,
           "forks": 0
         },
         "contributors": [
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 116,
+          "totalStars": 119,
           "forks": 0
         },
         "contributors": [
@@ -679,6 +679,26 @@
       },
       {
         "rank": 4,
+        "name": "GamingOddyseyYT/Splatoon-Raiders-PC",
+        "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 113,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/85214085?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "m-schuetz/CuRast",
         "description": "Cuda-Based Software Rasterization for Billions of Triangles",
         "language": {
@@ -698,26 +718,6 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "GamingOddyseyYT/Splatoon-Raiders-PC",
-        "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 111,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/85214085?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 6,
         "name": "Mike04ylno/Pokemon-Pokopia-PC",
         "description": "Pokemon Pokopia For PC is an optimized desktop version of the popular adventure game. It features high-resolution support, uncapped FPS, and enhanced controls for Windows. Designed for stability and performance, it offers a seamless experience for creature collection and exploration in 2026.",
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
+          "totalStars": 106,
           "forks": 0
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
+          "totalStars": 106,
           "forks": 0
         },
         "contributors": [
@@ -779,26 +779,6 @@
       },
       {
         "rank": 9,
-        "name": "H4D3ZS/AcheronARM64",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 65,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/21985514?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
         "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility",
         "language": {
@@ -807,11 +787,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 65,
+          "totalStars": 71,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100170423?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "MentalPrism42/FL-Production-25.2.5-DAW",
+        "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 68,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/169089378?v=4"
         ],
         "tags": [
           "#C++"
