@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/04/25 02:53:02",
+  "lastUpdate": "2026/04/26 02:31:40",
   "charts": {
     "languageDistribution": {
-      "HTML": 3,
-      "Python": 4,
-      "CSS": 1,
+      "HTML": 2,
+      "Python": 3,
+      "JavaScript": 2,
       "TypeScript": 2
     },
     "starGrowth": {}
@@ -13,26 +13,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "alchaincyf/huashu-design",
-        "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6121,
-          "forks": 942
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127714341?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "tw93/Kami",
         "description": "👩‍🚒 Good content deserves good paper.",
         "language": {
@@ -41,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3053,
-          "forks": 151
+          "totalStars": 3273,
+          "forks": 169
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8736212?v=4"
@@ -52,7 +32,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "op7418/guizang-ppt-skill",
         "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
         "language": {
@@ -61,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2008,
-          "forks": 241
+          "totalStars": 2725,
+          "forks": 298
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -72,188 +52,6 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "deepseek-ai/TileKernels",
-        "description": "A kernel library written in tilelang",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1077,
-          "forks": 80
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/148330874?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "the-hidden-fish/advisor-ledger",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1060,
-          "forks": 100
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277556120?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "masterking32/MasterHttpRelayVPN",
-        "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1055,
-          "forks": 104
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1076030?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "ConardLi/web-design-skill",
-        "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
-        "language": {
-          "name": "CSS",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1025,
-          "forks": 193
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30708545?v=4"
-        ],
-        "tags": [
-          "#CSS"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "golbin/hop",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 997,
-          "forks": 197
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6277035?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "leigest519/OpenGame",
-        "description": "OpenGame: Open Agentic Coding for Games",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 985,
-          "forks": 115
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/57628855?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Einsia/OpenChronicle",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 792,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/246131017?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "deepseek-ai/TileKernels",
-        "description": "A kernel library written in tilelang",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1077,
-          "forks": 80
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/148330874?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "the-hidden-fish/advisor-ledger",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1060,
-          "forks": 100
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277556120?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 3,
         "name": "masterking32/MasterHttpRelayVPN",
         "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
@@ -263,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1055,
-          "forks": 104
+          "totalStars": 1249,
+          "forks": 121
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1076030?v=4"
@@ -275,6 +73,46 @@
       },
       {
         "rank": 4,
+        "name": "ConardLi/garden-skills",
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1242,
+          "forks": 233
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/30708545?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "deepseek-ai/TileKernels",
+        "description": "A kernel library written in tilelang",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1163,
+          "forks": 89
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "Einsia/OpenChronicle",
         "description": "暂无描述",
         "language": {
@@ -283,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 792,
-          "forks": 21
+          "totalStars": 1142,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246131017?v=4"
@@ -294,67 +132,149 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "basketikun/chatgpt2api",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 701,
-          "forks": 206
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/114481029?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "MrsEWE44/musicDownload",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 531,
-          "forks": 68
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97342736?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 7,
-        "name": "Russell-cell/PPT-Design-Prompt",
-        "description": "暂无描述",
+        "name": "cosmicstack-labs/mercury-agent",
+        "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 472,
-          "forks": 31
+          "totalStars": 1133,
+          "forks": 130
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/206703724?v=4"
+          "https://avatars.githubusercontent.com/u/277752932?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       },
       {
         "rank": 8,
+        "name": "leigest519/OpenGame",
+        "description": "OpenGame: Open Agentic Coding for Games",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1095,
+          "forks": 131
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57628855?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+        "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 850,
+          "forks": 46
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/19264756?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "openclaw/clawsweeper",
+        "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 653,
+          "forks": 62
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252820863?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "masterking32/MasterHttpRelayVPN",
+        "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1249,
+          "forks": 121
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1076030?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "deepseek-ai/TileKernels",
+        "description": "A kernel library written in tilelang",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1163,
+          "forks": 89
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Einsia/OpenChronicle",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1142,
+          "forks": 59
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/246131017?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "GammaLabTechnologies/harmonist",
         "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
         "language": {
@@ -363,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 350,
-          "forks": 119
+          "totalStars": 608,
+          "forks": 251
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278484961?v=4"
@@ -374,8 +294,8 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "shivampkumar/trellis-mac",
+        "rank": 5,
+        "name": "Russell-cell/PPT-Design-Prompt",
         "description": "暂无描述",
         "language": {
           "name": "Python",
@@ -383,11 +303,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 329,
-          "forks": 11
+          "totalStars": 483,
+          "forks": 32
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/7513060?v=4"
+          "https://avatars.githubusercontent.com/u/206703724?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "wuyoscar/gpt_image_2_skill",
+        "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 449,
+          "forks": 41
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/72287536?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "future-agi/future-agi",
+        "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 424,
+          "forks": 63
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/147392366?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "0x0funky/agent-sprite-forge",
+        "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 423,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148287731?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "chiefautism/privacy-parser",
+        "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 286,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/219407464?v=4"
         ],
         "tags": [
           "#Python"
@@ -395,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "yzhao062/agent-style",
-        "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+        "name": "nateherkai/token-dashboard",
+        "description": "See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
-          "forks": 14
+          "totalStars": 271,
+          "forks": 55
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/15079146?v=4"
+          "https://avatars.githubusercontent.com/u/253835467?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,19 +417,19 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "ZeroZ-lab/cc-design",
-        "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+        "name": "ConardLi/garden-skills",
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 628,
-          "forks": 66
+          "totalStars": 1242,
+          "forks": 233
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/12062960?v=4"
+          "https://avatars.githubusercontent.com/u/30708545?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -437,19 +437,19 @@
       },
       {
         "rank": 2,
-        "name": "levelsio/superlevels",
-        "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+        "name": "openclaw/clawsweeper",
+        "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 373,
-          "forks": 39
+          "totalStars": 653,
+          "forks": 62
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/7150848?v=4"
+          "https://avatars.githubusercontent.com/u/252820863?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
-          "forks": 47
+          "totalStars": 474,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10742417?v=4"
@@ -477,19 +477,19 @@
       },
       {
         "rank": 4,
-        "name": "Ledger-Wallet-LLC/ledgerwallet",
-        "description": "Official Ledger Wallet Repository ",
+        "name": "levelsio/superlevels",
+        "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
-          "forks": 4
+          "totalStars": 404,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/277556627?v=4"
+          "https://avatars.githubusercontent.com/u/7150848?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -497,46 +497,6 @@
       },
       {
         "rank": 5,
-        "name": "simoncirstoiu/alice",
-        "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 267,
-          "forks": 28
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46245735?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "vuciv/artblock",
-        "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 239,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/26664687?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Parallax-Trading/polymarket-copy-trading-bot",
         "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
         "language": {
@@ -545,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 230,
-          "forks": 191
+          "totalStars": 279,
+          "forks": 302
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/40151926?v=4"
@@ -556,7 +516,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
         "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
         "language": {
@@ -565,8 +525,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 227,
-          "forks": 310
+          "totalStars": 275,
+          "forks": 357
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277802627?v=4"
@@ -576,27 +536,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "imtonyjaa/ggemu-fishing-joy",
-        "description": "a ggemu.com (play retro games online) sdk example",
+        "rank": 7,
+        "name": "vuciv/artblock",
+        "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 161,
-          "forks": 46
+          "totalStars": 250,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/208459185?v=4"
+          "https://avatars.githubusercontent.com/u/26664687?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "Yu9191/sub-store-workers",
         "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版",
         "language": {
@@ -605,11 +565,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
-          "forks": 62
+          "totalStars": 170,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "guanxiaol/WindsurfPoolAPI",
+        "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 132,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/86117891?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+        "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 93,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/279283643?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,19 +619,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
-        "description": "esp32-s3-touch-amoled-1.8",
+        "name": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+        "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
-          "forks": 8
+          "totalStars": 152,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1506722?v=4"
+          "https://avatars.githubusercontent.com/u/121423487?v=4"
         ],
         "tags": [
           "#C++"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
+          "totalStars": 150,
           "forks": 0
         },
         "contributors": [
@@ -659,26 +659,6 @@
       },
       {
         "rank": 3,
-        "name": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
-        "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 119,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/121423487?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "GamingOddyseyYT/Splatoon-Raiders-PC",
         "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support.",
         "language": {
@@ -687,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
+          "totalStars": 142,
           "forks": 0
         },
         "contributors": [
@@ -698,20 +678,40 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "m-schuetz/CuRast",
-        "description": "Cuda-Based Software Rasterization for Billions of Triangles",
+        "rank": 4,
+        "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+        "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
-          "forks": 4
+          "totalStars": 141,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/6705073?v=4"
+          "https://avatars.githubusercontent.com/u/100170423?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
+        "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 136,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/144497783?v=4"
         ],
         "tags": [
           "#C++"
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 106,
+          "totalStars": 136,
           "forks": 0
         },
         "contributors": [
@@ -739,66 +739,6 @@
       },
       {
         "rank": 7,
-        "name": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
-        "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 106,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/144497783?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "kernullist/windbg-decompile-ext",
-        "description": "WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 83,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6062663?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
-        "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 71,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/100170423?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "MentalPrism42/FL-Production-25.2.5-DAW",
         "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
         "language": {
@@ -807,11 +747,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 68,
+          "totalStars": 136,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/169089378?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "m-schuetz/CuRast",
+        "description": "Cuda-Based Software Rasterization for Billions of Triangles",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 131,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6705073?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
+        "description": "Lossless Scaling is a professional Windows utility for universal frame generation and spatial upscaling. Featuring LSFG 3.1 (X2/X3/X4) and LS1 algorithms, it ensures high-fidelity motion and sharp visuals on any GPU. Designed for stability and low latency in modern 2026 gaming environments.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 117,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/110728542?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "GHOST-227/Auto-2026-Desktop",
+        "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 107,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/202561789?v=4"
         ],
         "tags": [
           "#C++"
