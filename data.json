@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/04/27 02:33:44",
+  "lastUpdate": "2026/04/27 03:35:50",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
-      "Python": 4,
-      "JavaScript": 2,
+      "Python": 3,
+      "JavaScript": 3,
       "Rust": 1
     },
     "starGrowth": {}
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3038,
+          "totalStars": 3085,
           "forks": 329
         },
         "contributors": [
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1438,
-          "forks": 94
+          "totalStars": 1459,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246131017?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1394,
-          "forks": 257
+          "totalStars": 1405,
+          "forks": 259
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30708545?v=4"
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1223,
+          "totalStars": 1226,
           "forks": 94
         },
         "contributors": [
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1101,
+          "totalStars": 1121,
           "forks": 55
         },
         "contributors": [
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1024,
-          "forks": 111
+          "totalStars": 1034,
+          "forks": 112
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252820863?v=4"
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 750,
+          "totalStars": 752,
           "forks": 86
         },
         "contributors": [
@@ -153,6 +153,26 @@
       },
       {
         "rank": 8,
+        "name": "freestylefly/awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 751,
+          "forks": 161
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/43960064?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "Russell-cell/PPT-Design-Prompt",
         "description": "暂无描述",
         "language": {
@@ -161,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 721,
+          "totalStars": 731,
           "forks": 54
         },
         "contributors": [
@@ -172,43 +192,23 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "GammaLabTechnologies/harmonist",
-        "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 693,
-          "forks": 297
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/278484961?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+        "name": "earthtojake/text-to-cad",
+        "description": "An open source harness for generating CAD models",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "JavaScript",
+          "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 691,
-          "forks": 153
+          "totalStars": 696,
+          "forks": 113
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/43960064?v=4"
+          "https://avatars.githubusercontent.com/u/10742417?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#JavaScript"
         ]
       }
     ],
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1438,
-          "forks": 94
+          "totalStars": 1459,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246131017?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1223,
+          "totalStars": 1226,
           "forks": 94
         },
         "contributors": [
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 721,
+          "totalStars": 731,
           "forks": 54
         },
         "contributors": [
@@ -283,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 693,
+          "totalStars": 695,
           "forks": 297
         },
         "contributors": [
@@ -303,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 669,
-          "forks": 59
+          "totalStars": 690,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72287536?v=4"
@@ -323,8 +323,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 614,
-          "forks": 61
+          "totalStars": 650,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148287731?v=4"
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 552,
+          "totalStars": 556,
           "forks": 80
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 368,
+          "totalStars": 385,
           "forks": 50
         },
         "contributors": [
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 298,
+          "totalStars": 300,
           "forks": 61
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1394,
-          "forks": 257
+          "totalStars": 1405,
+          "forks": 259
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30708545?v=4"
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1024,
-          "forks": 111
+          "totalStars": 1034,
+          "forks": 112
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252820863?v=4"
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 684,
-          "forks": 110
+          "totalStars": 696,
+          "forks": 113
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10742417?v=4"
@@ -497,26 +497,6 @@
       },
       {
         "rank": 5,
-        "name": "Orbital-Alpha/polymarket-copy-trading-bot",
-        "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 276,
-          "forks": 272
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279281096?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
         "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
         "language": {
@@ -525,11 +505,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 277,
-          "forks": 159
+          "totalStars": 284,
+          "forks": 168
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279283643?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Orbital-Alpha/polymarket-copy-trading-bot",
+        "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 282,
+          "forks": 282
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/279281096?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -605,8 +605,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 647
+          "totalStars": 148,
+          "forks": 686
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/49340580?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
+          "totalStars": 163,
           "forks": 2
         },
         "contributors": [
@@ -687,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
+          "totalStars": 154,
           "forks": 3
         },
         "contributors": [
@@ -787,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
+          "totalStars": 142,
           "forks": 5
         },
         "contributors": [
