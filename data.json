@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/28 02:41:14",
+  "lastUpdate": "2026/04/28 03:40:19",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3470,
-          "forks": 358
+          "totalStars": 3493,
+          "forks": 361
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -32,26 +32,6 @@
       },
       {
         "rank": 2,
-        "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-        "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1322,
-          "forks": 67
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/19264756?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
         "language": {
@@ -60,11 +40,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1309,
-          "forks": 237
+          "totalStars": 1335,
+          "forks": 241
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43960064?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+        "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1330,
+          "forks": 67
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/19264756?v=4"
         ],
         "tags": [
           "#Trending"
@@ -80,7 +80,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1287,
+          "totalStars": 1290,
           "forks": 105
         },
         "contributors": [
@@ -100,8 +100,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1201,
-          "forks": 128
+          "totalStars": 1205,
+          "forks": 129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252820863?v=4"
@@ -120,8 +120,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 958,
-          "forks": 153
+          "totalStars": 964,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10742417?v=4"
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 880,
-          "forks": 84
+          "totalStars": 884,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148287731?v=4"
@@ -152,26 +152,6 @@
       },
       {
         "rank": 8,
-        "name": "Russell-cell/PPT-Design-Prompt",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 831,
-          "forks": 64
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/206703724?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "wuyoscar/gpt_image_2_skill",
         "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
         "language": {
@@ -180,11 +160,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 830,
+          "totalStars": 840,
           "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72287536?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Russell-cell/PPT-Design-Prompt",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 833,
+          "forks": 64
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/206703724?v=4"
         ],
         "tags": [
           "#Python"
@@ -200,8 +200,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 747,
-          "forks": 293
+          "totalStars": 750,
+          "forks": 292
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278484961?v=4"
@@ -222,7 +222,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1287,
+          "totalStars": 1290,
           "forks": 105
         },
         "contributors": [
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 880,
-          "forks": 84
+          "totalStars": 884,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148287731?v=4"
@@ -254,26 +254,6 @@
       },
       {
         "rank": 3,
-        "name": "Russell-cell/PPT-Design-Prompt",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 831,
-          "forks": 64
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/206703724?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "wuyoscar/gpt_image_2_skill",
         "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
         "language": {
@@ -282,11 +262,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 830,
+          "totalStars": 840,
           "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72287536?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Russell-cell/PPT-Design-Prompt",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 833,
+          "forks": 64
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/206703724?v=4"
         ],
         "tags": [
           "#Python"
@@ -302,8 +302,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 747,
-          "forks": 293
+          "totalStars": 750,
+          "forks": 292
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278484961?v=4"
@@ -322,7 +322,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 646,
+          "totalStars": 648,
           "forks": 103
         },
         "contributors": [
@@ -342,8 +342,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 527,
-          "forks": 52
+          "totalStars": 536,
+          "forks": 54
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252882157?v=4"
@@ -402,7 +402,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 304,
+          "totalStars": 305,
           "forks": 28
         },
         "contributors": [
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1201,
-          "forks": 128
+          "totalStars": 1205,
+          "forks": 129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252820863?v=4"
@@ -444,8 +444,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 958,
-          "forks": 153
+          "totalStars": 964,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10742417?v=4"
@@ -464,8 +464,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 559,
-          "forks": 2575
+          "totalStars": 563,
+          "forks": 2595
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/49340580?v=4"
@@ -504,7 +504,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
+          "totalStars": 328,
           "forks": 308
         },
         "contributors": [
@@ -524,7 +524,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
+          "totalStars": 326,
           "forks": 320
         },
         "contributors": [
@@ -564,7 +564,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 255,
+          "totalStars": 256,
           "forks": 357
         },
         "contributors": [
@@ -604,7 +604,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 116,
+          "totalStars": 117,
           "forks": 29
         },
         "contributors": [
@@ -646,7 +646,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 170,
+          "totalStars": 171,
           "forks": 2
         },
         "contributors": [
@@ -666,7 +666,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 156,
+          "totalStars": 157,
           "forks": 0
         },
         "contributors": [
@@ -698,6 +698,26 @@
       },
       {
         "rank": 5,
+        "name": "MentalPrism42/FL-Production-25.2.5-DAW",
+        "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 153,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/169089378?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "GamingOddyseyYT/Splatoon-Raiders-PC",
         "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support.",
         "language": {
@@ -711,26 +731,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85214085?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "MentalPrism42/FL-Production-25.2.5-DAW",
-        "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/169089378?v=4"
         ],
         "tags": [
           "#C++"
@@ -766,7 +766,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
+          "totalStars": 139,
           "forks": 0
         },
         "contributors": [
@@ -786,7 +786,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
+          "totalStars": 137,
           "forks": 0
         },
         "contributors": [
@@ -806,7 +806,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 125,
           "forks": 0
         },
         "contributors": [
