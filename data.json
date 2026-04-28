@@ -1,11 +1,10 @@
 {
-  "lastUpdate": "2026/04/27 03:35:50",
+  "lastUpdate": "2026/04/28 02:41:14",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
-      "Python": 3,
-      "JavaScript": 3,
-      "Rust": 1
+      "Python": 5,
+      "JavaScript": 2
     },
     "starGrowth": {}
   },
@@ -21,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3085,
-          "forks": 329
+          "totalStars": 3470,
+          "forks": 358
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -33,66 +32,6 @@
       },
       {
         "rank": 2,
-        "name": "Einsia/OpenChronicle",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1459,
-          "forks": 98
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/246131017?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "ConardLi/garden-skills",
-        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1405,
-          "forks": 259
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30708545?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "deepseek-ai/TileKernels",
-        "description": "A kernel library written in tilelang",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1226,
-          "forks": 94
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/148330874?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "victorchen96/deepseek_v4_rolepaly_instruct",
         "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
         "language": {
@@ -101,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1121,
-          "forks": 55
+          "totalStars": 1322,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/19264756?v=4"
@@ -112,57 +51,17 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "openclaw/clawsweeper",
-        "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1034,
-          "forks": 112
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/252820863?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "therealaleph/MasterHttpRelayVPN-RUST",
-        "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 752,
-          "forks": 86
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/67456590?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 3,
         "name": "freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
         "language": {
           "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 751,
-          "forks": 161
+          "totalStars": 1309,
+          "forks": 237
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43960064?v=4"
@@ -172,7 +71,87 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 4,
+        "name": "deepseek-ai/TileKernels",
+        "description": "A kernel library written in tilelang",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1287,
+          "forks": 105
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "openclaw/clawsweeper",
+        "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1201,
+          "forks": 128
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252820863?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "earthtojake/text-to-cad",
+        "description": "An open source harness for generating CAD models",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 958,
+          "forks": 153
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/10742417?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "0x0funky/agent-sprite-forge",
+        "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 880,
+          "forks": 84
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148287731?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "Russell-cell/PPT-Design-Prompt",
         "description": "暂无描述",
         "language": {
@@ -181,8 +160,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 731,
-          "forks": 54
+          "totalStars": 831,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/206703724?v=4"
@@ -192,49 +171,49 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "earthtojake/text-to-cad",
-        "description": "An open source harness for generating CAD models",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 696,
-          "forks": 113
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/10742417?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "Einsia/OpenChronicle",
-        "description": "暂无描述",
+        "rank": 9,
+        "name": "wuyoscar/gpt_image_2_skill",
+        "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1459,
-          "forks": 98
+          "totalStars": 830,
+          "forks": 83
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/246131017?v=4"
+          "https://avatars.githubusercontent.com/u/72287536?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 2,
+        "rank": 10,
+        "name": "GammaLabTechnologies/harmonist",
+        "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 747,
+          "forks": 293
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/278484961?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
         "name": "deepseek-ai/TileKernels",
         "description": "A kernel library written in tilelang",
         "language": {
@@ -243,11 +222,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1226,
-          "forks": 94
+          "totalStars": 1287,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "0x0funky/agent-sprite-forge",
+        "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 880,
+          "forks": 84
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148287731?v=4"
         ],
         "tags": [
           "#Python"
@@ -263,8 +262,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 731,
-          "forks": 54
+          "totalStars": 831,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/206703724?v=4"
@@ -275,26 +274,6 @@
       },
       {
         "rank": 4,
-        "name": "GammaLabTechnologies/harmonist",
-        "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 695,
-          "forks": 297
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/278484961?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "wuyoscar/gpt_image_2_skill",
         "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
         "language": {
@@ -303,8 +282,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 690,
-          "forks": 62
+          "totalStars": 830,
+          "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72287536?v=4"
@@ -314,27 +293,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "0x0funky/agent-sprite-forge",
-        "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+        "rank": 5,
+        "name": "GammaLabTechnologies/harmonist",
+        "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 650,
-          "forks": 62
+          "totalStars": 747,
+          "forks": 293
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/148287731?v=4"
+          "https://avatars.githubusercontent.com/u/278484961?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "future-agi/future-agi",
         "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
         "language": {
@@ -343,8 +322,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 556,
-          "forks": 80
+          "totalStars": 646,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/147392366?v=4"
@@ -354,7 +333,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "epoko77-ai/im-not-ai",
         "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
         "language": {
@@ -363,8 +342,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 385,
-          "forks": 50
+          "totalStars": 527,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252882157?v=4"
@@ -374,7 +353,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "chiefautism/privacy-parser",
         "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.",
         "language": {
@@ -383,8 +362,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 341,
-          "forks": 30
+          "totalStars": 364,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/219407464?v=4"
@@ -394,7 +373,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "seulee26/mckinsey-pptx",
         "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필).",
         "language": {
@@ -403,11 +382,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 300,
-          "forks": 61
+          "totalStars": 320,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/47336074?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "NyxTides/ppt-image-first",
+        "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 304,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/205922613?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +416,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "ConardLi/garden-skills",
-        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1405,
-          "forks": 259
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30708545?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "openclaw/clawsweeper",
         "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
         "language": {
@@ -445,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1034,
-          "forks": 112
+          "totalStars": 1201,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252820863?v=4"
@@ -456,7 +435,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "earthtojake/text-to-cad",
         "description": "An open source harness for generating CAD models",
         "language": {
@@ -465,11 +444,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 696,
-          "forks": 113
+          "totalStars": 958,
+          "forks": 153
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10742417?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "avaco-cloud/Vercel-XHTTP",
+        "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 559,
+          "forks": 2575
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/49340580?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -485,8 +484,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 414,
-          "forks": 42
+          "totalStars": 420,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7150848?v=4"
@@ -505,8 +504,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 284,
-          "forks": 168
+          "totalStars": 327,
+          "forks": 308
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279283643?v=4"
@@ -525,8 +524,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
-          "forks": 282
+          "totalStars": 325,
+          "forks": 320
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279281096?v=4"
@@ -545,7 +544,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 268,
+          "totalStars": 260,
           "forks": 378
         },
         "contributors": [
@@ -565,7 +564,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
+          "totalStars": 255,
           "forks": 357
         },
         "contributors": [
@@ -585,8 +584,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
-          "forks": 65
+          "totalStars": 183,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -597,19 +596,19 @@
       },
       {
         "rank": 10,
-        "name": "avaco-cloud/Vercel-XHTTP",
-        "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app",
+        "name": "asdfgh1445/ctf-super-hub",
+        "description": " 面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
-          "forks": 686
+          "totalStars": 116,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/49340580?v=4"
+          "https://avatars.githubusercontent.com/u/101942781?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -647,7 +646,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
+          "totalStars": 170,
           "forks": 2
         },
         "contributors": [
@@ -659,19 +658,19 @@
       },
       {
         "rank": 3,
-        "name": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
-        "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS",
+        "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+        "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
-          "forks": 7
+          "totalStars": 156,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121423487?v=4"
+          "https://avatars.githubusercontent.com/u/100170423?v=4"
         ],
         "tags": [
           "#C++"
@@ -687,7 +686,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 154,
+          "totalStars": 155,
           "forks": 3
         },
         "contributors": [
@@ -699,26 +698,6 @@
       },
       {
         "rank": 5,
-        "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
-        "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 152,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/100170423?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "GamingOddyseyYT/Splatoon-Raiders-PC",
         "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support.",
         "language": {
@@ -727,7 +706,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
+          "totalStars": 151,
           "forks": 0
         },
         "contributors": [
@@ -738,7 +717,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "MentalPrism42/FL-Production-25.2.5-DAW",
         "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
         "language": {
@@ -747,8 +726,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
-          "forks": 0
+          "totalStars": 151,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/169089378?v=4"
@@ -758,27 +737,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
-        "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 145,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/144497783?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "name": "m-schuetz/CuRast",
         "description": "Cuda-Based Software Rasterization for Billions of Triangles",
         "language": {
@@ -787,7 +746,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
+          "totalStars": 146,
           "forks": 5
         },
         "contributors": [
@@ -798,7 +757,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "Alfattah07/Acrobat-Editor-2026",
         "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download",
         "language": {
@@ -807,11 +766,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
+          "totalStars": 137,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75185584?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "aresthehacker/Assassin-s-Creed-Black-Flag",
+        "description": "Assassin's Creed Black Flag Resynced Collector's Edition 2026 Edward Kenway Statue PS5 Pro PSSR Ray Tracing High FPS Anvil Engine Caribbean Open World Pirate Simulator PC Download Steam Deck Performance Save Editor Gameplay Reveal July 9 Release Official Roadmap Ubisoft 2026",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 136,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/84771702?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "GHOST-227/Auto-2026-Desktop",
+        "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 124,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/202561789?v=4"
         ],
         "tags": [
           "#C++"
