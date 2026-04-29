@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/29 02:41:12",
+  "lastUpdate": "2026/04/29 03:38:17",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3865,
-          "forks": 399
+          "totalStars": 3893,
+          "forks": 401
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1741,
-          "forks": 305
+          "totalStars": 1768,
+          "forks": 310
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43960064?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1499,
-          "forks": 175
+          "totalStars": 1683,
+          "forks": 199
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1462,
+          "totalStars": 1466,
           "forks": 74
         },
         "contributors": [
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1052,
-          "forks": 108
+          "totalStars": 1058,
+          "forks": 109
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148287731?v=4"
@@ -143,7 +143,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 841,
-          "forks": 308
+          "forks": 307
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278484961?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 709,
+          "totalStars": 710,
           "forks": 119
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
+          "totalStars": 522,
           "forks": 21
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1052,
-          "forks": 108
+          "totalStars": 1058,
+          "forks": 109
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148287731?v=4"
@@ -245,7 +245,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 841,
-          "forks": 308
+          "forks": 307
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278484961?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 709,
+          "totalStars": 710,
           "forks": 119
         },
         "contributors": [
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 337,
+          "totalStars": 338,
           "forks": 66
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
+          "totalStars": 254,
           "forks": 20
         },
         "contributors": [
@@ -396,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "DanOps-1/gpt-pp-team",
-        "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+        "name": "ZRainbow1275/AutoTeam-F",
+        "description": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 239,
-          "forks": 162
+          "totalStars": 240,
+          "forks": 76
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/136412026?v=4"
+          "https://avatars.githubusercontent.com/u/140617370?v=4"
         ],
         "tags": [
           "#Python"
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 121,
+          "totalStars": 122,
           "forks": 31
         },
         "contributors": [
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
+          "totalStars": 183,
           "forks": 2
         },
         "contributors": [
@@ -708,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
+          "totalStars": 161,
           "forks": 1
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
+          "totalStars": 157,
           "forks": 0
         },
         "contributors": [
