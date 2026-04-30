@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/04/30 02:42:22",
+  "lastUpdate": "2026/04/30 03:39:21",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4607,
-          "forks": 565
+          "totalStars": 4753,
+          "forks": 588
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2169,
-          "forks": 357
+          "totalStars": 2188,
+          "forks": 359
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43960064?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1618,
-          "forks": 171
+          "totalStars": 1720,
+          "forks": 181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126759922?v=4"
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1522,
+          "totalStars": 1524,
           "forks": 75
         },
         "contributors": [
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 646,
-          "forks": 68
+          "totalStars": 651,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252882157?v=4"
@@ -113,6 +113,26 @@
       },
       {
         "rank": 6,
+        "name": "theori-io/copy-fail-CVE-2026-31431",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 567,
+          "forks": 125
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/18063559?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "alash3al/stash",
         "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
         "language": {
@@ -132,7 +152,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "ps5-linux/ps5-linux-loader",
         "description": "Linux payload implementing the HV exploit and a custom bootloader",
         "language": {
@@ -141,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 540,
-          "forks": 30
+          "totalStars": 559,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278984012?v=4"
@@ -152,7 +172,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "GENEXIS-AI/chromex",
         "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
         "language": {
@@ -161,34 +181,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
-          "forks": 38
+          "totalStars": 458,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131945398?v=4"
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "theori-io/copy-fail-CVE-2026-31431",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 439,
-          "forks": 88
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18063559?v=4"
-        ],
-        "tags": [
-          "#Python"
         ]
       },
       {
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 435,
+          "totalStars": 442,
           "forks": 45
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 646,
-          "forks": 68
+          "totalStars": 651,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252882157?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
-          "forks": 88
+          "totalStars": 567,
+          "forks": 125
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 435,
+          "totalStars": 442,
           "forks": 45
         },
         "contributors": [
@@ -283,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
-          "forks": 203
+          "totalStars": 396,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/136412026?v=4"
@@ -295,6 +295,26 @@
       },
       {
         "rank": 5,
+        "name": "QwenLM/FlashQLA",
+        "description": "high-performance linear attention kernel library built on TileLang",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 297,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/141221163?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "denuitt1/mhr-cfw",
         "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
         "language": {
@@ -308,26 +328,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "QwenLM/FlashQLA",
-        "description": "high-performance linear attention kernel library built on TileLang",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 291,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/141221163?v=4"
         ],
         "tags": [
           "#Python"
@@ -375,26 +375,6 @@
       },
       {
         "rank": 9,
-        "name": "1bananachicken/MaaNTE",
-        "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 196,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/116740703?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "val1813/kwcode",
         "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
         "language": {
@@ -403,11 +383,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 190,
+          "totalStars": 222,
           "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265172612?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Fokkyp/SoftwareCopyright-Skill",
+        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 218,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5858642?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,7 +426,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 192,
-          "forks": 822
+          "forks": 829
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74258437?v=4"
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
-          "forks": 83
+          "totalStars": 165,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3765602?v=4"
@@ -606,7 +606,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 57,
-          "forks": 319
+          "forks": 323
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280159435?v=4"
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 186,
           "forks": 2
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
+          "totalStars": 163,
           "forks": 0
         },
         "contributors": [
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
+          "totalStars": 161,
           "forks": 0
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 147,
+          "totalStars": 148,
           "forks": 14
         },
         "contributors": [
@@ -767,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
+          "totalStars": 146,
           "forks": 0
         },
         "contributors": [
@@ -807,7 +807,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
+          "totalStars": 139,
           "forks": 0
         },
         "contributors": [
