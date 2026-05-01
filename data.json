@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/01 02:48:51",
+  "lastUpdate": "2026/05/01 03:51:58",
   "charts": {
     "languageDistribution": {
       "TypeScript": 5,
@@ -19,8 +19,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8510,
-          "forks": 947
+          "totalStars": 8630,
+          "forks": 960
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -39,8 +39,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2647,
-          "forks": 292
+          "totalStars": 2662,
+          "forks": 297
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126759922?v=4"
@@ -59,8 +59,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2597,
-          "forks": 394
+          "totalStars": 2628,
+          "forks": 397
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43960064?v=4"
@@ -79,8 +79,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1720,
-          "forks": 378
+          "totalStars": 1744,
+          "forks": 383
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -99,8 +99,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 794,
-          "forks": 188
+          "totalStars": 804,
+          "forks": 193
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85235185?v=4"
@@ -119,8 +119,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 366
+          "totalStars": 798,
+          "forks": 367
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/136412026?v=4"
@@ -139,7 +139,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 691,
+          "totalStars": 694,
           "forks": 57
         },
         "contributors": [
@@ -159,8 +159,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 546,
-          "forks": 22
+          "totalStars": 558,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -171,26 +171,6 @@
       },
       {
         "rank": 9,
-        "name": "Fokkyp/SoftwareCopyright-Skill",
-        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 492,
-          "forks": 118
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5858642?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "denuitt1/mhr-cfw",
         "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
         "language": {
@@ -199,11 +179,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
-          "forks": 97
+          "totalStars": 505,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Fokkyp/SoftwareCopyright-Skill",
+        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 495,
+          "forks": 119
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5858642?v=4"
         ],
         "tags": [
           "#Python"
@@ -221,8 +221,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1720,
-          "forks": 378
+          "totalStars": 1744,
+          "forks": 383
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -241,8 +241,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 366
+          "totalStars": 798,
+          "forks": 367
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/136412026?v=4"
@@ -253,26 +253,6 @@
       },
       {
         "rank": 3,
-        "name": "Fokkyp/SoftwareCopyright-Skill",
-        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 492,
-          "forks": 118
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5858642?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "denuitt1/mhr-cfw",
         "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
         "language": {
@@ -281,11 +261,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
-          "forks": 97
+          "totalStars": 505,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Fokkyp/SoftwareCopyright-Skill",
+        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 495,
+          "forks": 119
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5858642?v=4"
         ],
         "tags": [
           "#Python"
@@ -301,8 +301,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 476,
-          "forks": 46
+          "totalStars": 477,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/205922613?v=4"
@@ -321,8 +321,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 370,
-          "forks": 57
+          "totalStars": 373,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265172612?v=4"
@@ -341,7 +341,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
+          "totalStars": 313,
           "forks": 58
         },
         "contributors": [
@@ -361,7 +361,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 298,
+          "totalStars": 301,
           "forks": 35
         },
         "contributors": [
@@ -401,7 +401,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
+          "totalStars": 181,
           "forks": 220
         },
         "contributors": [
@@ -423,8 +423,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
-          "forks": 158
+          "totalStars": 333,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3765602?v=4"
@@ -443,8 +443,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
-          "forks": 925
+          "totalStars": 279,
+          "forks": 926
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74258437?v=4"
@@ -463,7 +463,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 167,
           "forks": 19
         },
         "contributors": [
@@ -503,7 +503,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
+          "totalStars": 111,
           "forks": 28
         },
         "contributors": [
@@ -603,8 +603,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 70,
-          "forks": 391
+          "totalStars": 71,
+          "forks": 392
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280159435?v=4"
@@ -625,7 +625,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
+          "totalStars": 178,
           "forks": 0
         },
         "contributors": [
@@ -645,7 +645,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
+          "totalStars": 177,
           "forks": 0
         },
         "contributors": [
@@ -665,7 +665,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 167,
           "forks": 0
         },
         "contributors": [
@@ -685,7 +685,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
+          "totalStars": 166,
           "forks": 0
         },
         "contributors": [
@@ -705,7 +705,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
+          "totalStars": 161,
           "forks": 0
         },
         "contributors": [
@@ -725,7 +725,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
+          "totalStars": 154,
           "forks": 0
         },
         "contributors": [
@@ -765,7 +765,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
+          "totalStars": 151,
           "forks": 0
         },
         "contributors": [
@@ -785,7 +785,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 149,
           "forks": 0
         },
         "contributors": [
