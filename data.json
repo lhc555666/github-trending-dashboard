@@ -1,10 +1,11 @@
 {
-  "lastUpdate": "2026/05/02 02:31:06",
+  "lastUpdate": "2026/05/02 03:25:23",
   "charts": {
     "languageDistribution": {
       "TypeScript": 5,
       "Python": 3,
-      "Swift": 1
+      "Swift": 1,
+      "Vue": 1
     },
     "starGrowth": {}
   },
@@ -20,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 12061,
-          "forks": 1357
+          "totalStars": 12212,
+          "forks": 1379
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -40,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2971,
-          "forks": 340
+          "totalStars": 2980,
+          "forks": 344
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126759922?v=4"
@@ -60,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2494,
-          "forks": 520
+          "totalStars": 2522,
+          "forks": 523
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -80,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1324,
-          "forks": 152
+          "totalStars": 1330,
+          "forks": 153
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
@@ -100,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1097,
-          "forks": 277
+          "totalStars": 1105,
+          "forks": 280
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85235185?v=4"
@@ -140,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 761,
-          "forks": 33
+          "totalStars": 767,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -152,6 +153,26 @@
       },
       {
         "rank": 8,
+        "name": "darrylmorley/whatcable",
+        "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 763,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20406137?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "GENEXIS-AI/chromex",
         "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
         "language": {
@@ -160,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 739,
+          "totalStars": 740,
           "forks": 59
         },
         "contributors": [
@@ -171,43 +192,23 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "darrylmorley/whatcable",
-        "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 725,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/20406137?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "ka-pi-ba-la/AIbijia",
-        "description": "分享便宜靠谱Token，抹平信息差",
+        "name": "t8y2/dbx",
+        "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
         "language": {
-          "name": "Unknown",
+          "name": "Vue",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 596,
-          "forks": 26
+          "totalStars": 603,
+          "forks": 28
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279716989?v=4"
+          "https://avatars.githubusercontent.com/u/77960507?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Vue"
         ]
       }
     ],
@@ -222,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2494,
-          "forks": 520
+          "totalStars": 2522,
+          "forks": 523
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -242,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1324,
-          "forks": 152
+          "totalStars": 1330,
+          "forks": 153
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
@@ -302,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 515,
-          "forks": 120
+          "totalStars": 524,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5858642?v=4"
@@ -322,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 407,
+          "totalStars": 411,
           "forks": 38
         },
         "contributors": [
@@ -342,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 404,
+          "totalStars": 406,
           "forks": 57
         },
         "contributors": [
@@ -362,8 +363,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 395,
-          "forks": 77
+          "totalStars": 399,
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11039165?v=4"
@@ -402,8 +403,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 14
+          "totalStars": 261,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1326112?v=4"
@@ -424,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 403,
-          "forks": 183
+          "totalStars": 406,
+          "forks": 184
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3765602?v=4"
@@ -445,7 +446,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 310,
-          "forks": 963
+          "forks": 964
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74258437?v=4"
@@ -464,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 186,
           "forks": 21
         },
         "contributors": [
@@ -485,7 +486,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 142,
-          "forks": 35
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9423482?v=4"
@@ -504,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
+          "totalStars": 129,
           "forks": 0
         },
         "contributors": [
@@ -746,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 167,
           "forks": 0
         },
         "contributors": [
@@ -767,7 +768,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 163,
-          "forks": 17
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -786,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
+          "totalStars": 160,
           "forks": 0
         },
         "contributors": [
@@ -806,7 +807,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
+          "totalStars": 153,
           "forks": 0
         },
         "contributors": [
