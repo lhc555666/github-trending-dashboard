@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/02 03:25:23",
+  "lastUpdate": "2026/05/03 02:40:13",
   "charts": {
     "languageDistribution": {
       "TypeScript": 5,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 12212,
-          "forks": 1379
+          "totalStars": 16292,
+          "forks": 1835
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2980,
-          "forks": 344
+          "totalStars": 3142,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126759922?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2522,
-          "forks": 523
+          "totalStars": 2907,
+          "forks": 603
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1330,
-          "forks": 153
+          "totalStars": 1706,
+          "forks": 192
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1105,
-          "forks": 280
+          "totalStars": 1427,
+          "forks": 379
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85235185?v=4"
@@ -113,6 +113,26 @@
       },
       {
         "rank": 6,
+        "name": "darrylmorley/whatcable",
+        "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1266,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20406137?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "DanOps-1/Gpt-Agreement-Payment",
         "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
         "language": {
@@ -121,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 881,
-          "forks": 396
+          "totalStars": 918,
+          "forks": 409
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/136412026?v=4"
@@ -132,7 +152,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "b-nnett/codex-plusplus",
         "description": "Codex++ tweak system for the Codex desktop app",
         "language": {
@@ -141,34 +161,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 767,
-          "forks": 34
+          "totalStars": 838,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "darrylmorley/whatcable",
-        "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 763,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/20406137?v=4"
-        ],
-        "tags": [
-          "#Swift"
         ]
       },
       {
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 740,
-          "forks": 59
+          "totalStars": 755,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131945398?v=4"
@@ -194,15 +194,15 @@
       {
         "rank": 10,
         "name": "t8y2/dbx",
-        "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
+        "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
         "language": {
           "name": "Vue",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
-          "forks": 28
+          "totalStars": 714,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77960507?v=4"
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2522,
-          "forks": 523
+          "totalStars": 2907,
+          "forks": 603
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1330,
-          "forks": 153
+          "totalStars": 1706,
+          "forks": 192
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279854002?v=4"
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 881,
-          "forks": 396
+          "totalStars": 918,
+          "forks": 409
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/136412026?v=4"
@@ -275,26 +275,6 @@
       },
       {
         "rank": 4,
-        "name": "NyxTides/ppt-image-first",
-        "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 525,
-          "forks": 49
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/205922613?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "Fokkyp/SoftwareCopyright-Skill",
         "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
         "language": {
@@ -303,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 524,
-          "forks": 124
+          "totalStars": 638,
+          "forks": 139
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5858642?v=4"
@@ -314,27 +294,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "1bananachicken/MaaNTE",
-        "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 411,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/116740703?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 5,
         "name": "val1813/kwcode",
         "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
         "language": {
@@ -343,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 406,
-          "forks": 57
+          "totalStars": 439,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265172612?v=4"
@@ -354,7 +314,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "name": "rootsecdev/cve_2026_31431",
         "description": "Exploit POC for CVE_2026_31431",
         "language": {
@@ -363,8 +323,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 399,
-          "forks": 78
+          "totalStars": 431,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11039165?v=4"
@@ -374,20 +334,60 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "browser-use/bux",
-        "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own.",
+        "rank": 7,
+        "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
-          "forks": 27
+          "totalStars": 297,
+          "forks": 74
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
+          "https://avatars.githubusercontent.com/u/99977116?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "vibeforge1111/keep-codex-fast",
+        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 249,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/224284815?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Snaplii-Inc/agent-to-merchant-payments",
+        "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 195,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/279859560?v=4"
         ],
         "tags": [
           "#Python"
@@ -395,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "tiangolo/library-skills",
-        "description": "Library Agent Skills",
+        "name": "NoFxAi-OS/hyperliquid-trading-bot",
+        "description": "hyperliquid grid trading bot dex perpetuals l1 crypto typescript nodejs automated algorithmic grid-strategy testnet wallet orderbook risk stop-loss drawdown rebalance python defi hft open-source trading-strategy spot leverage ohlcv rest-api crypto-bot quant scalp dca maker taker",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 261,
-          "forks": 15
+          "totalStars": 193,
+          "forks": 183
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1326112?v=4"
+          "https://avatars.githubusercontent.com/u/280325392?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +417,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "sandeco/reversa",
-        "description": "Transform legacy systems into executable specifications for AI coding agents",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 406,
-          "forks": 184
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3765602?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "amirshaker000/netlify-relay",
         "description": "暂无描述",
         "language": {
@@ -445,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 310,
-          "forks": 964
+          "totalStars": 328,
+          "forks": 1004
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74258437?v=4"
@@ -456,47 +436,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "waybarrios/opencode-power-pack",
-        "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 186,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6794828?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "Pathos0925/SatoshiGuesser",
-        "description": "Roll for lost bitcoin.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 142,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9423482?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "name": "TQ-trade/defidollar-core",
         "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
         "language": {
@@ -505,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
+          "totalStars": 170,
           "forks": 0
         },
         "contributors": [
@@ -516,27 +456,67 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "AeternaLabsHQ/pullmd",
-        "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+        "rank": 3,
+        "name": "Pathos0925/SatoshiGuesser",
+        "description": "Roll for lost bitcoin.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
-          "forks": 6
+          "totalStars": 151,
+          "forks": 43
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/263174715?v=4"
+          "https://avatars.githubusercontent.com/u/9423482?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 4,
+        "name": "tgies/klattsch",
+        "description": "primitive parallel-formant speech synth in the browser",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 113,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1594352?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "avacocloud/netlify-XHHTP",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 113,
+          "forks": 437
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280159435?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "AIScientists-Dev/loupe",
         "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
         "language": {
@@ -545,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
+          "totalStars": 108,
           "forks": 9
         },
         "contributors": [
@@ -556,7 +536,47 @@
         ]
       },
       {
+        "rank": 7,
+        "name": "AeternaLabsHQ/pullmd",
+        "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 104,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/263174715?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 8,
+        "name": "maxmo2009/CMR_QC_Studio",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 101,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1887863?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "qq-dao/defidollar-core",
         "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
         "language": {
@@ -576,7 +596,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "vibeshotclub/vsc-skills",
         "description": "暂无描述",
         "language": {
@@ -586,30 +606,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 88,
-          "forks": 17
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/249521570?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "avacocloud/netlify-XHHTP",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 77,
-          "forks": 411
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280159435?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 209,
-          "forks": 0
+          "totalStars": 224,
+          "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195259087?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
+          "totalStars": 213,
           "forks": 0
         },
         "contributors": [
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 211,
           "forks": 0
         },
         "contributors": [
@@ -687,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 183,
+          "totalStars": 206,
           "forks": 0
         },
         "contributors": [
@@ -699,6 +699,66 @@
       },
       {
         "rank": 5,
+        "name": "Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
+        "description": "Tomodachi Life Living The Dream PC Download April 2026 Sequel Release Switch Emulator Eden Ryujinx Performance Fix Mii Maker HD Same Sex Marriage Guide Shop Lock Solution Time Travel Bypass 4K Textures Free Full Version Save Transfer Tutorial Latest Build Gaming Utility",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/186414619?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+        "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 187,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/48482094?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+        "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 186,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/254251538?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
         "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free",
         "language": {
@@ -707,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
+          "totalStars": 185,
           "forks": 0
         },
         "contributors": [
@@ -718,7 +778,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
+        "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 185,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76068856?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "mostafamo123/Pragmata-Reframework",
         "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer",
         "language": {
@@ -727,91 +807,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 183,
           "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/69251586?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "homer66/Windows-Xbox-Mode",
-        "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 167,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/32862713?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "antirez/llama.cpp-deepseek-v4-flash",
-        "description": "Experimental implementation of DeepSeek v4 flaash in llama.cpp",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 163,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65632?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "VoctorX/All-the-Mods-11-Minecraft",
-        "description": "All the Mods 11 Download Minecraft 1.21 Release ATM11 GregTech Modern Questing Server Pack Performance Optimization Productive Bees Ad Astra Allthemodium Guide Multiplayer Gameplay Tutorial CurseForge Modrinth Latest Update Stable Build",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 160,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/131315028?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
-        "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 153,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48482094?v=4"
         ],
         "tags": [
           "#C++"
