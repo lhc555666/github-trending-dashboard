@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026/05/03 03:44:40",
+  "lastUpdate": "2026/05/04 02:38:11",
   "charts": {
     "languageDistribution": {
       "TypeScript": 5,
-      "Python": 3,
+      "Python": 2,
       "Swift": 1,
       "Vue": 1
     },
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 16447,
-          "forks": 1855
+          "totalStars": 19757,
+          "forks": 2185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -33,26 +33,6 @@
       },
       {
         "rank": 2,
-        "name": "cursor/cookbook",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3148,
-          "forks": 366
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/126759922?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "theori-io/copy-fail-CVE-2026-31431",
         "description": "暂无描述",
         "language": {
@@ -61,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2917,
-          "forks": 605
+          "totalStars": 3025,
+          "forks": 630
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -72,27 +52,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "denuitt1/mhr-cfw",
-        "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1710,
-          "forks": 192
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279854002?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "willchen96/mike",
         "description": "OSS AI Legal Platform",
         "language": {
@@ -101,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1434,
-          "forks": 380
+          "totalStars": 1698,
+          "forks": 442
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85235185?v=4"
@@ -112,7 +72,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "darrylmorley/whatcable",
         "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
         "language": {
@@ -121,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1274,
-          "forks": 28
+          "totalStars": 1462,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20406137?v=4"
@@ -132,27 +92,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "DanOps-1/Gpt-Agreement-Payment",
-        "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 920,
-          "forks": 410
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/136412026?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "b-nnett/codex-plusplus",
         "description": "Codex++ tweak system for the Codex desktop app",
         "language": {
@@ -161,14 +101,74 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 838,
-          "forks": 40
+          "totalStars": 858,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "mattpocock/dictionary-of-ai-coding",
+        "description": "AI coding jargon, explained in plain English.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 853,
+          "forks": 114
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/28293365?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+        "description": "暂无描述",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 813,
+          "forks": 299
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280653626?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "t8y2/dbx",
+        "description": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
+        "language": {
+          "name": "Vue",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 778,
+          "forks": 43
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/77960507?v=4"
+        ],
+        "tags": [
+          "#Vue"
         ]
       },
       {
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 757,
-          "forks": 63
+          "totalStars": 772,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131945398?v=4"
@@ -193,22 +193,22 @@
       },
       {
         "rank": 10,
-        "name": "t8y2/dbx",
-        "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
+        "name": "Fokkyp/SoftwareCopyright-Skill",
+        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
         "language": {
-          "name": "Vue",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 716,
-          "forks": 38
+          "totalStars": 673,
+          "forks": 145
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/77960507?v=4"
+          "https://avatars.githubusercontent.com/u/5858642?v=4"
         ],
         "tags": [
-          "#Vue"
+          "#Python"
         ]
       }
     ],
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2917,
-          "forks": 605
+          "totalStars": 3025,
+          "forks": 630
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18063559?v=4"
@@ -235,46 +235,6 @@
       },
       {
         "rank": 2,
-        "name": "denuitt1/mhr-cfw",
-        "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1710,
-          "forks": 192
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279854002?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "DanOps-1/Gpt-Agreement-Payment",
-        "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 920,
-          "forks": 410
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/136412026?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "Fokkyp/SoftwareCopyright-Skill",
         "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
         "language": {
@@ -283,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 638,
-          "forks": 140
+          "totalStars": 673,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5858642?v=4"
@@ -294,67 +254,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "val1813/kwcode",
-        "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 439,
-          "forks": 62
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265172612?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "rootsecdev/cve_2026_31431",
-        "description": "Exploit POC for CVE_2026_31431",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 432,
-          "forks": 87
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11039165?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 298,
-          "forks": 75
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/99977116?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 3,
         "name": "vibeforge1111/keep-codex-fast",
         "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
@@ -363,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
-          "forks": 9
+          "totalStars": 525,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/224284815?v=4"
@@ -374,20 +274,120 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Snaplii-Inc/agent-to-merchant-payments",
-        "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+        "rank": 4,
+        "name": "rootsecdev/cve_2026_31431",
+        "description": "Exploit POC for CVE_2026_31431",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
-          "forks": 31
+          "totalStars": 456,
+          "forks": 92
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279859560?v=4"
+          "https://avatars.githubusercontent.com/u/11039165?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Tommy-yw/RunbookHermes",
+        "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 338,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203919907?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 322,
+          "forks": 82
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/99977116?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "simchowitzlabpublic/nano-world-model",
+        "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 245,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/240366951?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "ynsmroztas/cPanelSniper",
+        "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 234,
+          "forks": 77
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/58443521?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "lukiIabs/trading-agents",
+        "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 211,
+          "forks": 213
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280650432?v=4"
         ],
         "tags": [
           "#Python"
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
+          "totalStars": 206,
           "forks": 183
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 328,
-          "forks": 1004
+          "totalStars": 358,
+          "forks": 1025
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74258437?v=4"
@@ -437,6 +437,26 @@
       },
       {
         "rank": 2,
+        "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203409268?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "TQ-trade/defidollar-core",
         "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
         "language": {
@@ -445,31 +465,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
-          "forks": 0
+          "totalStars": 197,
+          "forks": 164
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280887189?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "Pathos0925/SatoshiGuesser",
-        "description": "Roll for lost bitcoin.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9423482?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -485,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
-          "forks": 5
+          "totalStars": 168,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1594352?v=4"
@@ -497,6 +497,46 @@
       },
       {
         "rank": 5,
+        "name": "Pathos0925/SatoshiGuesser",
+        "description": "Roll for lost bitcoin.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 165,
+          "forks": 45
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/9423482?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "aattaran/deepclaude",
+        "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 156,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/18339644?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "avacocloud/netlify-XHHTP",
         "description": "暂无描述",
         "language": {
@@ -505,8 +545,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
-          "forks": 437
+          "totalStars": 123,
+          "forks": 444
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280159435?v=4"
@@ -516,47 +556,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "AIScientists-Dev/loupe",
-        "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 108,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/226059021?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "AeternaLabsHQ/pullmd",
-        "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 104,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/263174715?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 8,
+        "name": "abdosorour7/git-commands-cheatsheet",
+        "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 115,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/155462072?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "maxmo2009/CMR_QC_Studio",
         "description": "暂无描述",
         "language": {
@@ -576,7 +596,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "qq-dao/defidollar-core",
         "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
         "language": {
@@ -594,26 +614,6 @@
         "tags": [
           "#JavaScript"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "vibeshotclub/vsc-skills",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 88,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/249521570?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
       }
     ],
     "C++": [
@@ -627,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 224,
-          "forks": 2
+          "totalStars": 242,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195259087?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
+          "totalStars": 226,
           "forks": 0
         },
         "contributors": [
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
+          "totalStars": 220,
           "forks": 0
         },
         "contributors": [
@@ -687,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 207,
+          "totalStars": 218,
           "forks": 0
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
+          "totalStars": 205,
           "forks": 0
         },
         "contributors": [
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 201,
           "forks": 0
         },
         "contributors": [
@@ -739,46 +739,6 @@
       },
       {
         "rank": 7,
-        "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
-        "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 187,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/254251538?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
-        "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 186,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/161631545?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
         "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version",
         "language": {
@@ -787,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
+          "totalStars": 200,
           "forks": 0
         },
         "contributors": [
@@ -798,20 +758,60 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "mostafamo123/Pragmata-Reframework",
-        "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer",
+        "rank": 8,
+        "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+        "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 183,
-          "forks": 1
+          "totalStars": 198,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/69251586?v=4"
+          "https://avatars.githubusercontent.com/u/254251538?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "VoctorX/All-the-Mods-11-Minecraft",
+        "description": "All the Mods 11 Download Minecraft 1.21 Release ATM11 GregTech Modern Questing Server Pack Performance Optimization Productive Bees Ad Astra Allthemodium Guide Multiplayer Gameplay Tutorial CurseForge Modrinth Latest Update Stable Build",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 179,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/131315028?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ayoub11233/Zelda-Twilight-Princess-PC",
+        "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 171,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/27865468?v=4"
         ],
         "tags": [
           "#C++"
