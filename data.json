@@ -1,12 +1,11 @@
 {
-  "lastUpdate": "2026/05/05 03:27:44",
+  "lastUpdate": "2026/05/06 02:36:25",
   "charts": {
     "languageDistribution": {
-      "Python": 3,
-      "TypeScript": 3,
-      "Swift": 1,
+      "Swift": 2,
       "JavaScript": 1,
-      "Vue": 1
+      "TypeScript": 2,
+      "Python": 2
     },
     "starGrowth": {}
   },
@@ -14,46 +13,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "theori-io/copy-fail-CVE-2026-31431",
-        "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3176,
-          "forks": 675
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18063559?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "willchen96/mike",
-        "description": "OSS AI Legal Platform",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2040,
-          "forks": 542
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/85235185?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "darrylmorley/whatcable",
         "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
         "language": {
@@ -62,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1742,
-          "forks": 36
+          "totalStars": 1956,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20406137?v=4"
@@ -73,7 +32,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 2,
         "name": "aattaran/deepclaude",
         "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
         "language": {
@@ -82,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1070,
-          "forks": 47
+          "totalStars": 1342,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -93,7 +52,27 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "name": "vercel-labs/deepsec",
+        "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1088,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/108547162?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "mattpocock/dictionary-of-ai-coding",
         "description": "AI coding jargon, explained in plain English.",
         "language": {
@@ -102,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 979,
-          "forks": 122
+          "totalStars": 1075,
+          "forks": 133
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28293365?v=4"
@@ -113,7 +92,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
         "description": "暂无描述",
         "language": {
@@ -122,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 888,
-          "forks": 331
+          "totalStars": 943,
+          "forks": 346
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280653626?v=4"
@@ -133,149 +112,47 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "t8y2/dbx",
-        "description": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
+        "rank": 6,
+        "name": "vibeforge1111/keep-codex-fast",
+        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
-          "name": "Vue",
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 759,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/224284815?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "tddworks/baguette",
+        "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
+        "language": {
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
-          "forks": 47
+          "totalStars": 643,
+          "forks": 24
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/77960507?v=4"
+          "https://avatars.githubusercontent.com/u/154110414?v=4"
         ],
         "tags": [
-          "#Vue"
+          "#Swift"
         ]
       },
       {
         "rank": 8,
-        "name": "Fokkyp/SoftwareCopyright-Skill",
-        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 696,
-          "forks": 147
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5858642?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "vibeforge1111/keep-codex-fast",
-        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 663,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/224284815?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "EvanBacon/serve-sim",
-        "description": "The `npx serve` of Apple Simulators.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 619,
-          "forks": 33
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9664363?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "theori-io/copy-fail-CVE-2026-31431",
-        "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3176,
-          "forks": 675
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18063559?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "Fokkyp/SoftwareCopyright-Skill",
-        "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 696,
-          "forks": 147
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5858642?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "vibeforge1111/keep-codex-fast",
-        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 663,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/224284815?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "Tommy-yw/RunbookHermes",
         "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
         "language": {
@@ -284,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
-          "forks": 23
+          "totalStars": 517,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203919907?v=4"
@@ -295,47 +172,109 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "rootsecdev/cve_2026_31431",
-        "description": "Exploit POC for CVE_2026_31431",
+        "rank": 9,
+        "name": "WeritoP/BetterNitroDiscord",
+        "description": "BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 462,
+          "forks": 91
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/186848166?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "WeritoP/FL-STUDIO-PATCHER",
+        "description": "Fl Stduio patch for lifetime works",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 461,
+          "forks": 93
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/186848166?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "vibeforge1111/keep-codex-fast",
+        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 483,
-          "forks": 98
+          "totalStars": 759,
+          "forks": 42
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/11039165?v=4"
+          "https://avatars.githubusercontent.com/u/224284815?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 6,
-        "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
-        "description": "暂无描述",
+        "rank": 2,
+        "name": "Tommy-yw/RunbookHermes",
+        "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 341,
-          "forks": 86
+          "totalStars": 517,
+          "forks": 26
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/99977116?v=4"
+          "https://avatars.githubusercontent.com/u/203919907?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 7,
+        "rank": 3,
+        "name": "LayrKits/Sprite-Pipeline",
+        "description": "2D Sprite Sheet Creation Pipeline",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 395,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/281445166?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "simchowitzlabpublic/nano-world-model",
         "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
         "language": {
@@ -344,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 331,
+          "totalStars": 357,
           "forks": 19
         },
         "contributors": [
@@ -355,7 +294,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
         "name": "ynsmroztas/cPanelSniper",
         "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
         "language": {
@@ -364,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 298,
-          "forks": 93
+          "totalStars": 323,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/58443521?v=4"
@@ -375,27 +314,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "LayrKits/Sprite-Pipeline",
-        "description": "2D Sprite Sheet Creation Pipeline",
+        "rank": 6,
+        "name": "XBuilderLAB/cheat-on-content",
+        "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 245,
-          "forks": 26
+          "totalStars": 309,
+          "forks": 47
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/281445166?v=4"
+          "https://avatars.githubusercontent.com/u/280592915?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
         "name": "lukiIabs/trading-agents",
         "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
         "language": {
@@ -404,11 +343,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 214
+          "totalStars": 237,
+          "forks": 215
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280650432?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "NyxFoundation/speca",
+        "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 231,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/220889498?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "virgiliojr94/book-to-skill",
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 211,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/23645449?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "joshawome/chainreason",
+        "description": "A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 166,
+          "forks": 116
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/257220544?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1070,
-          "forks": 47
+          "totalStars": 1342,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -446,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 385,
-          "forks": 34
+          "totalStars": 418,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -458,26 +457,6 @@
       },
       {
         "rank": 3,
-        "name": "amirshaker000/netlify-relay",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 367,
-          "forks": 1047
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/74258437?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "tgies/klattsch",
         "description": "primitive parallel-formant speech synth in the browser",
         "language": {
@@ -486,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 224,
+          "totalStars": 247,
           "forks": 11
         },
         "contributors": [
@@ -497,67 +476,27 @@
         ]
       },
       {
+        "rank": 4,
+        "name": "ircfspace/teleMirror",
+        "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 159,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/128790947?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 5,
-        "name": "TQ-trade/defidollar-core",
-        "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 206,
-          "forks": 412
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280887189?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "Pathos0925/SatoshiGuesser",
-        "description": "Roll for lost bitcoin.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 168,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9423482?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "abdosorour7/git-commands-cheatsheet",
-        "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 136,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/155462072?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "tolibear/goal-maker",
         "description": "Supercharge Codex Goals",
         "language": {
@@ -566,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 126,
-          "forks": 8
+          "totalStars": 135,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3253693?v=4"
@@ -577,27 +516,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "avacocloud/netlify-XHHTP",
-        "description": "暂无描述",
+        "rank": 6,
+        "name": "b-nnett/codex-plusplus-ios-simulator",
+        "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 125,
-          "forks": 447
+          "totalStars": 108,
+          "forks": 24
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/280159435?v=4"
+          "https://avatars.githubusercontent.com/u/62760393?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
         "name": "maxmo2009/CMR_QC_Studio",
         "description": "暂无描述",
         "language": {
@@ -615,31 +554,71 @@
         "tags": [
           "#JavaScript"
         ]
+      },
+      {
+        "rank": 8,
+        "name": "vivekg13186/Daisy-DAG",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 70,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5846891?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "freq-trades/polymarket-trading-bot-v2",
+        "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 69,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/281909400?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "upenn/web-scroll-video",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 61,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/70291621?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
       }
     ],
     "C++": [
       {
         "rank": 1,
-        "name": "Julpygo/Claude-Code-AI-Design",
-        "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 233,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/72952395?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "OpenYSM/YSMParser",
         "description": "A Parser to recover Yes-Steve-Model Encrypted Binaries.",
         "language": {
@@ -648,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 230,
-          "forks": 83
+          "totalStars": 287,
+          "forks": 101
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280289859?v=4"
@@ -659,27 +638,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "Senabayu08989/Stable-Diffusion-AI-Free",
-        "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 228,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/55636719?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
         "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support",
         "language": {
@@ -688,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
+          "totalStars": 210,
           "forks": 0
         },
         "contributors": [
@@ -699,7 +658,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
         "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version",
         "language": {
@@ -708,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
+          "totalStars": 207,
           "forks": 0
         },
         "contributors": [
@@ -719,7 +678,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
         "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx",
         "language": {
@@ -728,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 206,
+          "totalStars": 205,
           "forks": 0
         },
         "contributors": [
@@ -739,7 +698,27 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
+        "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 194,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121433089?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "ayoub11233/Zelda-Twilight-Princess-PC",
         "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation",
         "language": {
@@ -759,6 +738,26 @@
         ]
       },
       {
+        "rank": 7,
+        "name": "nikolinakovacevic1/MLB-The-Show-26-PC",
+        "description": "MLB The Show 26 PC: Modding tools, roster editors & Diamond Dynasty API. Automation scripts, market analytics, and save utilities for ultimate gameplay.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121821214?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 8,
         "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
         "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag",
@@ -768,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 187,
           "forks": 0
         },
         "contributors": [
@@ -788,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
+          "totalStars": 184,
           "forks": 0
         },
         "contributors": [
@@ -808,7 +807,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
+          "totalStars": 183,
           "forks": 0
         },
         "contributors": [
