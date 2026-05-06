@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/06 02:36:25",
+  "lastUpdate": "2026/05/06 03:38:41",
   "charts": {
     "languageDistribution": {
       "Swift": 2,
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1956,
+          "totalStars": 1962,
           "forks": 39
         },
         "contributors": [
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1342,
-          "forks": 63
+          "totalStars": 1348,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1088,
-          "forks": 69
+          "totalStars": 1106,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1075,
+          "totalStars": 1079,
           "forks": 133
         },
         "contributors": [
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 943,
-          "forks": 346
+          "totalStars": 946,
+          "forks": 348
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280653626?v=4"
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 759,
+          "totalStars": 763,
           "forks": 42
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 643,
+          "totalStars": 650,
           "forks": 24
         },
         "contributors": [
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 517,
+          "totalStars": 518,
           "forks": 26
         },
         "contributors": [
@@ -223,7 +223,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 759,
+          "totalStars": 763,
           "forks": 42
         },
         "contributors": [
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 517,
+          "totalStars": 518,
           "forks": 26
         },
         "contributors": [
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 395,
+          "totalStars": 397,
           "forks": 40
         },
         "contributors": [
@@ -275,6 +275,26 @@
       },
       {
         "rank": 4,
+        "name": "XBuilderLAB/cheat-on-content",
+        "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 372,
+          "forks": 65
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280592915?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "simchowitzlabpublic/nano-world-model",
         "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
         "language": {
@@ -283,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 360,
           "forks": 19
         },
         "contributors": [
@@ -294,7 +314,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "ynsmroztas/cPanelSniper",
         "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
         "language": {
@@ -314,47 +334,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "XBuilderLAB/cheat-on-content",
-        "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 309,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280592915?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 7,
-        "name": "lukiIabs/trading-agents",
-        "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 237,
-          "forks": 215
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280650432?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "NyxFoundation/speca",
         "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework",
         "language": {
@@ -363,11 +343,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 231,
+          "totalStars": 240,
           "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220889498?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "lukiIabs/trading-agents",
+        "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 236,
+          "forks": 215
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280650432?v=4"
         ],
         "tags": [
           "#Python"
@@ -383,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
+          "totalStars": 219,
           "forks": 26
         },
         "contributors": [
@@ -403,8 +403,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
-          "forks": 116
+          "totalStars": 168,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257220544?v=4"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1342,
-          "forks": 63
+          "totalStars": 1348,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 418,
+          "totalStars": 419,
           "forks": 40
         },
         "contributors": [
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
-          "forks": 11
+          "totalStars": 249,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1594352?v=4"
@@ -505,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 135,
+          "totalStars": 136,
           "forks": 9
         },
         "contributors": [
@@ -525,8 +525,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 108,
-          "forks": 24
+          "totalStars": 110,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -557,6 +557,26 @@
       },
       {
         "rank": 8,
+        "name": "freq-trades/polymarket-trading-bot-v2",
+        "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/281909400?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "vivekg13186/Daisy-DAG",
         "description": "暂无描述",
         "language": {
@@ -570,26 +590,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5846891?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "freq-trades/polymarket-trading-bot-v2",
-        "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 69,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/281909400?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 287,
+          "totalStars": 289,
           "forks": 101
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
+          "totalStars": 195,
           "forks": 0
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 189,
           "forks": 0
         },
         "contributors": [
