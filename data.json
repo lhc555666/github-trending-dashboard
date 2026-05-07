@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/07 02:38:42",
+  "lastUpdate": "2026/05/07 03:38:39",
   "charts": {
     "languageDistribution": {
       "Swift": 2,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2056,
+          "totalStars": 2058,
           "forks": 42
         },
         "contributors": [
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1496,
+          "totalStars": 1502,
           "forks": 79
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1156,
+          "totalStars": 1157,
           "forks": 140
         },
         "contributors": [
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 164
+          "totalStars": 797,
+          "forks": 165
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 752,
-          "forks": 32
+          "totalStars": 771,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120886289?v=4"
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 734,
+          "totalStars": 743,
           "forks": 15
         },
         "contributors": [
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 692,
+          "totalStars": 693,
           "forks": 26
         },
         "contributors": [
@@ -174,26 +174,6 @@
       },
       {
         "rank": 9,
-        "name": "raiyanyahya/how-to-train-your-gpt",
-        "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-        "language": {
-          "name": "Jupyter Notebook",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 586,
-          "forks": 73
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/23720340?v=4"
-        ],
-        "tags": [
-          "#Jupyter Notebook"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "Kappaemme-git/codex-startup-pressure-test-skill",
         "description": "暂无描述",
         "language": {
@@ -202,14 +182,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 579,
-          "forks": 52
+          "totalStars": 594,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "raiyanyahya/how-to-train-your-gpt",
+        "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+        "language": {
+          "name": "Jupyter Notebook",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 591,
+          "forks": 73
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/23720340?v=4"
+        ],
+        "tags": [
+          "#Jupyter Notebook"
         ]
       }
     ],
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 164
+          "totalStars": 797,
+          "forks": 165
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 469,
-          "forks": 56
+          "totalStars": 525,
+          "forks": 71
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 47
+          "totalStars": 427,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/23645449?v=4"
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 347,
+          "totalStars": 348,
           "forks": 107
         },
         "contributors": [
@@ -356,19 +356,19 @@
       },
       {
         "rank": 8,
-        "name": "MayersScott/rkn-block-checker",
-        "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+        "name": "lightseekorg/tokenspeed",
+        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 314,
-          "forks": 7
+          "totalStars": 334,
+          "forks": 19
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/148715834?v=4"
+          "https://avatars.githubusercontent.com/u/238925110?v=4"
         ],
         "tags": [
           "#Python"
@@ -384,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
-          "forks": 17
+          "totalStars": 316,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220889498?v=4"
@@ -396,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "lightseekorg/tokenspeed",
-        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+        "name": "MayersScott/rkn-block-checker",
+        "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 304,
-          "forks": 16
+          "totalStars": 315,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/238925110?v=4"
+          "https://avatars.githubusercontent.com/u/148715834?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1496,
+          "totalStars": 1502,
           "forks": 79
         },
         "contributors": [
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 579,
-          "forks": 52
+          "totalStars": 594,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 195,
-          "forks": 25
+          "totalStars": 208,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/31625914?v=4"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
-          "forks": 145
+          "totalStars": 191,
+          "forks": 156
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/282015462?v=4"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 187,
           "forks": 18
         },
         "contributors": [
@@ -546,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
-          "forks": 75
+          "totalStars": 141,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94289429?v=4"
@@ -566,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
-          "forks": 215
+          "totalStars": 134,
+          "forks": 227
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/281909400?v=4"
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 74,
+          "totalStars": 77,
           "forks": 4
         },
         "contributors": [
@@ -760,6 +760,26 @@
       },
       {
         "rank": 8,
+        "name": "Ajai53200/DeepSeek-V4-Pro-App",
+        "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 186,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/194476668?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
         "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag",
         "language": {
@@ -773,26 +793,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/112269041?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Ajai53200/DeepSeek-V4-Pro-App",
-        "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 184,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/194476668?v=4"
         ],
         "tags": [
           "#C++"
