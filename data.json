@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/05/06 03:38:41",
+  "lastUpdate": "2026/05/07 02:38:42",
   "charts": {
     "languageDistribution": {
       "Swift": 2,
-      "JavaScript": 1,
+      "JavaScript": 2,
       "TypeScript": 2,
-      "Python": 2
+      "Python": 2,
+      "Jupyter Notebook": 1
     },
     "starGrowth": {}
   },
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1962,
-          "forks": 39
+          "totalStars": 2056,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20406137?v=4"
@@ -41,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1348,
-          "forks": 64
+          "totalStars": 1496,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -53,26 +54,6 @@
       },
       {
         "rank": 3,
-        "name": "vercel-labs/deepsec",
-        "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1106,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108547162?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "mattpocock/dictionary-of-ai-coding",
         "description": "AI coding jargon, explained in plain English.",
         "language": {
@@ -81,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1079,
-          "forks": 133
+          "totalStars": 1156,
+          "forks": 140
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28293365?v=4"
@@ -92,27 +73,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-        "description": "暂无描述",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 946,
-          "forks": 348
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280653626?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "name": "vibeforge1111/keep-codex-fast",
         "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
@@ -121,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 763,
-          "forks": 42
+          "totalStars": 816,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/224284815?v=4"
@@ -132,7 +93,67 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "XBuilderLAB/cheat-on-content",
+        "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 791,
+          "forks": 164
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280592915?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "crafter-station/petdex",
+        "description": "Public gallery of animated Codex pets",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 752,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/120886289?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "jherrodthomas/automotive-skills-suite",
+        "description": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 734,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/275361233?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "tddworks/baguette",
         "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
         "language": {
@@ -141,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 650,
-          "forks": 24
+          "totalStars": 692,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/154110414?v=4"
@@ -152,63 +173,43 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "Tommy-yw/RunbookHermes",
-        "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 518,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203919907?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "WeritoP/BetterNitroDiscord",
-        "description": "BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!",
+        "name": "raiyanyahya/how-to-train-your-gpt",
+        "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
         "language": {
-          "name": "Unknown",
+          "name": "Jupyter Notebook",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 462,
-          "forks": 91
+          "totalStars": 586,
+          "forks": 73
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/186848166?v=4"
+          "https://avatars.githubusercontent.com/u/23720340?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Jupyter Notebook"
         ]
       },
       {
         "rank": 10,
-        "name": "WeritoP/FL-STUDIO-PATCHER",
-        "description": "Fl Stduio patch for lifetime works",
+        "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+        "description": "暂无描述",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "JavaScript",
+          "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 461,
-          "forks": 93
+          "totalStars": 579,
+          "forks": 52
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/186848166?v=4"
+          "https://avatars.githubusercontent.com/u/203409268?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#JavaScript"
         ]
       }
     ],
@@ -223,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 763,
-          "forks": 42
+          "totalStars": 816,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/224284815?v=4"
@@ -235,46 +236,6 @@
       },
       {
         "rank": 2,
-        "name": "Tommy-yw/RunbookHermes",
-        "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 518,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203919907?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "LayrKits/Sprite-Pipeline",
-        "description": "2D Sprite Sheet Creation Pipeline",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 397,
-          "forks": 40
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/281445166?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "XBuilderLAB/cheat-on-content",
         "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
         "language": {
@@ -283,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
-          "forks": 65
+          "totalStars": 791,
+          "forks": 164
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -294,87 +255,47 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "Tommy-yw/RunbookHermes",
+        "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 530,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203919907?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "yaojingang/yao-open-prompts",
+        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 469,
+          "forks": 56
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266242792?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 5,
-        "name": "simchowitzlabpublic/nano-world-model",
-        "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 360,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/240366951?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "ynsmroztas/cPanelSniper",
-        "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 323,
-          "forks": 97
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/58443521?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "NyxFoundation/speca",
-        "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 240,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/220889498?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "lukiIabs/trading-agents",
-        "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 236,
-          "forks": 215
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280650432?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": {
@@ -383,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
-          "forks": 26
+          "totalStars": 424,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/23645449?v=4"
@@ -394,20 +315,100 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "joshawome/chainreason",
-        "description": "A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks",
+        "rank": 6,
+        "name": "LayrKits/Sprite-Pipeline",
+        "description": "2D Sprite Sheet Creation Pipeline",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 117
+          "totalStars": 414,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/257220544?v=4"
+          "https://avatars.githubusercontent.com/u/281445166?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "ynsmroztas/cPanelSniper",
+        "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 347,
+          "forks": 107
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/58443521?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "MayersScott/rkn-block-checker",
+        "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 314,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148715834?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "NyxFoundation/speca",
+        "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 313,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/220889498?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "lightseekorg/tokenspeed",
+        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 304,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/238925110?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1348,
-          "forks": 64
+          "totalStars": 1496,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -445,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 419,
-          "forks": 40
+          "totalStars": 579,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -457,19 +458,19 @@
       },
       {
         "rank": 3,
-        "name": "tgies/klattsch",
-        "description": "primitive parallel-formant speech synth in the browser",
+        "name": "thcp/stemdeck",
+        "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 249,
-          "forks": 12
+          "totalStars": 195,
+          "forks": 25
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1594352?v=4"
+          "https://avatars.githubusercontent.com/u/31625914?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -477,6 +478,26 @@
       },
       {
         "rank": 4,
+        "name": "TitanFlow-Systems/polymarket-trading-bot-v2",
+        "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 145
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/282015462?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "ircfspace/teleMirror",
         "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
         "language": {
@@ -485,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
-          "forks": 16
+          "totalStars": 185,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128790947?v=4"
@@ -496,8 +517,8 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "tolibear/goal-maker",
+        "rank": 6,
+        "name": "tolibear/goalbuddy",
         "description": "Supercharge Codex Goals",
         "language": {
           "name": "JavaScript",
@@ -505,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 9
+          "totalStars": 146,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3253693?v=4"
@@ -516,27 +537,47 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "b-nnett/codex-plusplus-ios-simulator",
-        "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+        "rank": 7,
+        "name": "cv-cat/XHS_ALL_IN_ONE",
+        "description": "XHS_ALL_IN_ONE 小红书全域运营",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 25
+          "totalStars": 138,
+          "forks": 75
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/62760393?v=4"
+          "https://avatars.githubusercontent.com/u/94289429?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "name": "freq-trades/polymarket-trading-bot-v2",
+        "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 131,
+          "forks": 215
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/281909400?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "maxmo2009/CMR_QC_Studio",
         "description": "暂无描述",
         "language": {
@@ -556,60 +597,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "freq-trades/polymarket-trading-bot-v2",
-        "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/281909400?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "vivekg13186/Daisy-DAG",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 70,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5846891?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "upenn/web-scroll-video",
-        "description": "暂无描述",
+        "name": "m00grin/ph-intercept",
+        "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ships destroying 'blocked query' baddies, space invaders style.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
-          "forks": 1
+          "totalStars": 74,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/70291621?v=4"
+          "https://avatars.githubusercontent.com/u/53917237?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,19 +620,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "OpenYSM/YSMParser",
-        "description": "A Parser to recover Yes-Steve-Model Encrypted Binaries.",
+        "name": "ryrylliee/Super-Smash-Bros-PC",
+        "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
-          "forks": 101
+          "totalStars": 223,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/280289859?v=4"
+          "https://avatars.githubusercontent.com/u/225806958?v=4"
         ],
         "tags": [
           "#C++"
@@ -639,66 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
-        "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 210,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48482094?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
-        "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 207,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76068856?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
-        "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 205,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/254251538?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
         "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing",
         "language": {
@@ -707,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 195,
+          "totalStars": 216,
           "forks": 0
         },
         "contributors": [
@@ -718,27 +659,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "ayoub11233/Zelda-Twilight-Princess-PC",
-        "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 191,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/27865468?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 3,
         "name": "nikolinakovacevic1/MLB-The-Show-26-PC",
         "description": "MLB The Show 26 PC: Modding tools, roster editors & Diamond Dynasty API. Automation scripts, market analytics, and save utilities for ultimate gameplay.",
         "language": {
@@ -747,11 +668,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
+          "totalStars": 213,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121821214?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "CamTheBun/KMS-Auto-Tool",
+        "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 210,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/55546097?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Mathifygaming/OpenGOAL-Jak-PC-Port",
+        "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 202,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/24534025?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Viedie/BongoCat-Windows",
+        "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 201,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/88770566?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "aidenboomhero/Subnautica-2-PS5-Port",
+        "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/97759480?v=4"
         ],
         "tags": [
           "#C++"
@@ -767,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
+          "totalStars": 186,
           "forks": 0
         },
         "contributors": [
@@ -779,8 +780,8 @@
       },
       {
         "rank": 9,
-        "name": "ryrylliee/Super-Smash-Bros-PC",
-        "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build",
+        "name": "Ajai53200/DeepSeek-V4-Pro-App",
+        "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -791,7 +792,7 @@
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/225806958?v=4"
+          "https://avatars.githubusercontent.com/u/194476668?v=4"
         ],
         "tags": [
           "#C++"
@@ -807,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 183,
+          "totalStars": 182,
           "forks": 0
         },
         "contributors": [
