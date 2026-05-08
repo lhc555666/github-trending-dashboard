@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/05/07 03:38:39",
+  "lastUpdate": "2026/05/08 02:43:50",
   "charts": {
     "languageDistribution": {
-      "Swift": 2,
       "JavaScript": 2,
+      "Python": 3,
       "TypeScript": 2,
-      "Python": 2,
+      "C": 2,
       "Jupyter Notebook": 1
     },
     "starGrowth": {}
@@ -14,26 +14,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "darrylmorley/whatcable",
-        "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2058,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/20406137?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "aattaran/deepclaude",
         "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
         "language": {
@@ -42,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1502,
-          "forks": 79
+          "totalStars": 1600,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -53,47 +33,27 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "mattpocock/dictionary-of-ai-coding",
-        "description": "AI coding jargon, explained in plain English.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1157,
-          "forks": 140
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/28293365?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "vibeforge1111/keep-codex-fast",
-        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+        "rank": 2,
+        "name": "yaojingang/yao-open-prompts",
+        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 816,
-          "forks": 45
+          "totalStars": 1159,
+          "forks": 180
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/224284815?v=4"
+          "https://avatars.githubusercontent.com/u/266242792?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "XBuilderLAB/cheat-on-content",
         "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
         "language": {
@@ -102,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 165
+          "totalStars": 1043,
+          "forks": 222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -113,7 +73,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "name": "strukto-ai/mirage",
+        "description": "A Unified Virtual Filesystem For AI Agents",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1036,
+          "forks": 63
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/248286111?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "crafter-station/petdex",
         "description": "Public gallery of animated Codex pets",
         "language": {
@@ -122,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 771,
-          "forks": 34
+          "totalStars": 973,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120886289?v=4"
@@ -133,47 +113,47 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "jherrodthomas/automotive-skills-suite",
-        "description": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
+        "rank": 6,
+        "name": "vibeforge1111/keep-codex-fast",
+        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
-          "name": "Unknown",
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 877,
+          "forks": 51
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/224284815?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "V4bel/dirtyfrag",
+        "description": "暂无描述",
+        "language": {
+          "name": "C",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 743,
-          "forks": 15
+          "totalStars": 851,
+          "forks": 121
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/275361233?v=4"
+          "https://avatars.githubusercontent.com/u/42788779?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#C"
         ]
       },
       {
         "rank": 8,
-        "name": "tddworks/baguette",
-        "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 693,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/154110414?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "Kappaemme-git/codex-startup-pressure-test-skill",
         "description": "暂无描述",
         "language": {
@@ -182,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 594,
-          "forks": 53
+          "totalStars": 707,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -193,7 +173,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "raiyanyahya/how-to-train-your-gpt",
         "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
         "language": {
@@ -202,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 591,
-          "forks": 73
+          "totalStars": 696,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/23720340?v=4"
@@ -211,24 +191,44 @@
         "tags": [
           "#Jupyter Notebook"
         ]
+      },
+      {
+        "rank": 10,
+        "name": "antirez/ds4",
+        "description": "DeepSeek 4 Flash local inference engine for Metal",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 679,
+          "forks": 36
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/65632?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "vibeforge1111/keep-codex-fast",
-        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+        "name": "yaojingang/yao-open-prompts",
+        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 816,
-          "forks": 45
+          "totalStars": 1159,
+          "forks": 180
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/224284815?v=4"
+          "https://avatars.githubusercontent.com/u/266242792?v=4"
         ],
         "tags": [
           "#Python"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 165
+          "totalStars": 1043,
+          "forks": 222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -256,19 +256,19 @@
       },
       {
         "rank": 3,
-        "name": "Tommy-yw/RunbookHermes",
-        "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+        "name": "vibeforge1111/keep-codex-fast",
+        "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 530,
-          "forks": 29
+          "totalStars": 877,
+          "forks": 51
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/203919907?v=4"
+          "https://avatars.githubusercontent.com/u/224284815?v=4"
         ],
         "tags": [
           "#Python"
@@ -276,19 +276,19 @@
       },
       {
         "rank": 4,
-        "name": "yaojingang/yao-open-prompts",
-        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+        "name": "lightseekorg/tokenspeed",
+        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 525,
-          "forks": 71
+          "totalStars": 668,
+          "forks": 37
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/266242792?v=4"
+          "https://avatars.githubusercontent.com/u/238925110?v=4"
         ],
         "tags": [
           "#Python"
@@ -296,19 +296,19 @@
       },
       {
         "rank": 5,
-        "name": "virgiliojr94/book-to-skill",
-        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "name": "MayersScott/rkn-block-checker",
+        "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 427,
-          "forks": 48
+          "totalStars": 524,
+          "forks": 17
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/23645449?v=4"
+          "https://avatars.githubusercontent.com/u/148715834?v=4"
         ],
         "tags": [
           "#Python"
@@ -324,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 414,
-          "forks": 41
+          "totalStars": 423,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/281445166?v=4"
@@ -336,19 +336,19 @@
       },
       {
         "rank": 7,
-        "name": "ynsmroztas/cPanelSniper",
-        "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
+        "name": "NamKhoa-07/wallet-recovery-seed",
+        "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 348,
-          "forks": 107
+          "totalStars": 363,
+          "forks": 124
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/58443521?v=4"
+          "https://avatars.githubusercontent.com/u/238495696?v=4"
         ],
         "tags": [
           "#Python"
@@ -356,26 +356,6 @@
       },
       {
         "rank": 8,
-        "name": "lightseekorg/tokenspeed",
-        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 334,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/238925110?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "NyxFoundation/speca",
         "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework",
         "language": {
@@ -384,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
+          "totalStars": 351,
           "forks": 18
         },
         "contributors": [
@@ -395,20 +375,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "MayersScott/rkn-block-checker",
-        "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+        "rank": 9,
+        "name": "facebookresearch/ProgramBench",
+        "description": "Can Language Models Rebuild Programs From Scratch?",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
-          "forks": 7
+          "totalStars": 325,
+          "forks": 17
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/148715834?v=4"
+          "https://avatars.githubusercontent.com/u/16943930?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "joshawome/chainreason",
+        "description": "A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 294,
+          "forks": 201
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/257220544?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1502,
-          "forks": 79
+          "totalStars": 1600,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 594,
-          "forks": 53
+          "totalStars": 707,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -459,15 +459,15 @@
       {
         "rank": 3,
         "name": "thcp/stemdeck",
-        "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+        "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
-          "forks": 28
+          "totalStars": 344,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/31625914?v=4"
@@ -479,15 +479,15 @@
       {
         "rank": 4,
         "name": "TitanFlow-Systems/polymarket-trading-bot-v2",
-        "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+        "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
-          "forks": 156
+          "totalStars": 242,
+          "forks": 315
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/282015462?v=4"
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
-          "forks": 18
+          "totalStars": 225,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128790947?v=4"
@@ -526,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 146,
-          "forks": 10
+          "totalStars": 190,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3253693?v=4"
@@ -546,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
-          "forks": 76
+          "totalStars": 162,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94289429?v=4"
@@ -566,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 134,
-          "forks": 227
+          "totalStars": 158,
+          "forks": 274
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/281909400?v=4"
@@ -578,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "maxmo2009/CMR_QC_Studio",
-        "description": "暂无描述",
+        "name": "m00grin/ph-intercept",
+        "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ship destroying 'blocked query' baddies, space invaders style.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 101,
-          "forks": 10
+          "totalStars": 91,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1887863?v=4"
+          "https://avatars.githubusercontent.com/u/53917237?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -598,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "m00grin/ph-intercept",
-        "description": "A Pi-hole DNS visual dashboard. Blocking is represented by an interceptor ships destroying 'blocked query' baddies, space invaders style.",
+        "name": "adminlby/NTSB_FOIA_MU5735",
+        "description": "由NTSB发布的3·21空难（MU5735）调查报告",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 77,
-          "forks": 4
+          "totalStars": 88,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/53917237?v=4"
+          "https://avatars.githubusercontent.com/u/164741640?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,19 +620,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "ryrylliee/Super-Smash-Bros-PC",
-        "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build",
+        "name": "Viedie/BongoCat-Windows",
+        "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
+          "totalStars": 253,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/225806958?v=4"
+          "https://avatars.githubusercontent.com/u/88770566?v=4"
         ],
         "tags": [
           "#C++"
@@ -640,19 +640,19 @@
       },
       {
         "rank": 2,
-        "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
-        "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing",
+        "name": "CamTheBun/KMS-Auto-Tool",
+        "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
-          "forks": 0
+          "totalStars": 231,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121433089?v=4"
+          "https://avatars.githubusercontent.com/u/55546097?v=4"
         ],
         "tags": [
           "#C++"
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
+          "totalStars": 226,
           "forks": 0
         },
         "contributors": [
@@ -680,19 +680,19 @@
       },
       {
         "rank": 4,
-        "name": "CamTheBun/KMS-Auto-Tool",
-        "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build",
+        "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
+        "description": "Tomodachi Life Living The Dream PC Mii island life-sim social logic relationships behavior personality apartments dreams marriage concerts food clothing",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 210,
-          "forks": 1
+          "totalStars": 225,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/55546097?v=4"
+          "https://avatars.githubusercontent.com/u/121433089?v=4"
         ],
         "tags": [
           "#C++"
@@ -708,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
+          "totalStars": 221,
           "forks": 0
         },
         "contributors": [
@@ -720,19 +720,19 @@
       },
       {
         "rank": 6,
-        "name": "Viedie/BongoCat-Windows",
-        "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard.",
+        "name": "ryrylliee/Super-Smash-Bros-PC",
+        "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
+          "totalStars": 221,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/88770566?v=4"
+          "https://avatars.githubusercontent.com/u/225806958?v=4"
         ],
         "tags": [
           "#C++"
@@ -740,26 +740,6 @@
       },
       {
         "rank": 7,
-        "name": "aidenboomhero/Subnautica-2-PS5-Port",
-        "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 188,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97759480?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "Ajai53200/DeepSeek-V4-Pro-App",
         "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
         "language": {
@@ -768,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
+          "totalStars": 211,
           "forks": 2
         },
         "contributors": [
@@ -779,20 +759,40 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
-        "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag",
+        "rank": 8,
+        "name": "aidenboomhero/Subnautica-2-PS5-Port",
+        "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
+          "totalStars": 210,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/112269041?v=4"
+          "https://avatars.githubusercontent.com/u/97759480?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Deesama22/FiveM-Steam-Edition",
+        "description": "FiveM download GTA 5 RP roleplay scripts ESX QB-Core client launcher MLO EUP custom cars maps mods servers assets resources multiplayer gameplay.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 198,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/28515562?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "cH1LLa/Photoshop-v27.6",
-        "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build",
+        "name": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+        "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
-          "forks": 0
+          "totalStars": 179,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/77656396?v=4"
+          "https://avatars.githubusercontent.com/u/42578741?v=4"
         ],
         "tags": [
           "#C++"
