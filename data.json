@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/08 02:43:50",
+  "lastUpdate": "2026/05/08 03:33:06",
   "charts": {
     "languageDistribution": {
       "JavaScript": 2,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1600,
+          "totalStars": 1601,
           "forks": 89
         },
         "contributors": [
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1159,
-          "forks": 180
+          "totalStars": 1189,
+          "forks": 183
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1043,
-          "forks": 222
+          "totalStars": 1053,
+          "forks": 224
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1036,
-          "forks": 63
+          "totalStars": 1051,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/248286111?v=4"
@@ -94,6 +94,26 @@
       },
       {
         "rank": 5,
+        "name": "V4bel/dirtyfrag",
+        "description": "暂无描述",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1004,
+          "forks": 148
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/42788779?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "crafter-station/petdex",
         "description": "Public gallery of animated Codex pets",
         "language": {
@@ -102,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 973,
-          "forks": 43
+          "totalStars": 990,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120886289?v=4"
@@ -113,7 +133,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "vibeforge1111/keep-codex-fast",
         "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
         "language": {
@@ -122,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 877,
+          "totalStars": 878,
           "forks": 51
         },
         "contributors": [
@@ -133,27 +153,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "V4bel/dirtyfrag",
-        "description": "暂无描述",
+        "rank": 8,
+        "name": "antirez/ds4",
+        "description": "DeepSeek 4 Flash local inference engine for Metal",
         "language": {
           "name": "C",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 851,
-          "forks": 121
+          "totalStars": 740,
+          "forks": 38
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/42788779?v=4"
+          "https://avatars.githubusercontent.com/u/65632?v=4"
         ],
         "tags": [
           "#C"
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Kappaemme-git/codex-startup-pressure-test-skill",
         "description": "暂无描述",
         "language": {
@@ -173,7 +193,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "raiyanyahya/how-to-train-your-gpt",
         "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
         "language": {
@@ -182,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 696,
+          "totalStars": 702,
           "forks": 88
         },
         "contributors": [
@@ -190,26 +210,6 @@
         ],
         "tags": [
           "#Jupyter Notebook"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "antirez/ds4",
-        "description": "DeepSeek 4 Flash local inference engine for Metal",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 679,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65632?v=4"
-        ],
-        "tags": [
-          "#C"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1159,
-          "forks": 180
+          "totalStars": 1189,
+          "forks": 183
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1043,
-          "forks": 222
+          "totalStars": 1053,
+          "forks": 224
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 877,
+          "totalStars": 878,
           "forks": 51
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 668,
+          "totalStars": 675,
           "forks": 37
         },
         "contributors": [
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 524,
-          "forks": 17
+          "totalStars": 532,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148715834?v=4"
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 423,
+          "totalStars": 424,
           "forks": 43
         },
         "contributors": [
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
+          "totalStars": 328,
           "forks": 17
         },
         "contributors": [
@@ -404,8 +404,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 294,
-          "forks": 201
+          "totalStars": 297,
+          "forks": 202
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257220544?v=4"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1600,
+          "totalStars": 1601,
           "forks": 89
         },
         "contributors": [
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
+          "totalStars": 345,
           "forks": 40
         },
         "contributors": [
@@ -486,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
+          "totalStars": 243,
           "forks": 315
         },
         "contributors": [
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
+          "totalStars": 226,
           "forks": 26
         },
         "contributors": [
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 190,
+          "totalStars": 193,
           "forks": 15
         },
         "contributors": [
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
+          "totalStars": 164,
           "forks": 84
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 231,
+          "totalStars": 233,
           "forks": 1
         },
         "contributors": [
@@ -708,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
+          "totalStars": 222,
           "forks": 0
         },
         "contributors": [
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
+          "totalStars": 212,
           "forks": 2
         },
         "contributors": [
@@ -788,7 +788,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 198,
+          "totalStars": 199,
           "forks": 0
         },
         "contributors": [
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
+          "totalStars": 180,
           "forks": 1
         },
         "contributors": [
