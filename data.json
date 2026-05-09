@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/09 02:37:58",
+  "lastUpdate": "2026/05/09 03:33:07",
   "charts": {
     "languageDistribution": {
       "C": 2,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2926,
-          "forks": 459
+          "totalStars": 2969,
+          "forks": 464
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42788779?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2553,
-          "forks": 158
+          "totalStars": 2612,
+          "forks": 165
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1644,
-          "forks": 91
+          "totalStars": 1645,
+          "forks": 92
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1466,
+          "totalStars": 1479,
           "forks": 86
         },
         "contributors": [
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1385,
-          "forks": 215
+          "totalStars": 1396,
+          "forks": 218
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1222,
-          "forks": 257
+          "totalStars": 1232,
+          "forks": 259
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 810,
-          "forks": 32
+          "totalStars": 817,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148715834?v=4"
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 794,
-          "forks": 48
+          "totalStars": 799,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/238925110?v=4"
@@ -204,7 +204,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 729,
-          "forks": 66
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1385,
-          "forks": 215
+          "totalStars": 1396,
+          "forks": 218
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 810,
-          "forks": 32
+          "totalStars": 817,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148715834?v=4"
@@ -265,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 794,
-          "forks": 48
+          "totalStars": 799,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/238925110?v=4"
@@ -277,6 +277,26 @@
       },
       {
         "rank": 4,
+        "name": "WenyuChiou/awesome-agentic-ai-zh",
+        "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 432,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/162016108?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "LayrKits/Sprite-Pipeline",
         "description": "2D Sprite Sheet Creation Pipeline",
         "language": {
@@ -290,26 +310,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/281445166?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "WenyuChiou/awesome-agentic-ai-zh",
-        "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 425,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/162016108?v=4"
         ],
         "tags": [
           "#Python"
@@ -345,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 347,
-          "forks": 19
+          "totalStars": 359,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237402563?v=4"
@@ -365,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 342,
-          "forks": 237
+          "totalStars": 345,
+          "forks": 238
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257220544?v=4"
@@ -385,8 +385,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 339,
-          "forks": 221
+          "totalStars": 341,
+          "forks": 222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257218376?v=4"
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 308,
+          "totalStars": 312,
           "forks": 38
         },
         "contributors": [
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1644,
-          "forks": 91
+          "totalStars": 1645,
+          "forks": 92
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18339644?v=4"
@@ -448,7 +448,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 729,
-          "forks": 66
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 269,
+          "totalStars": 268,
           "forks": 315
         },
         "contributors": [
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
+          "totalStars": 265,
           "forks": 21
         },
         "contributors": [
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
+          "totalStars": 184,
           "forks": 19
         },
         "contributors": [
