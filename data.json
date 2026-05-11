@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/05/11 02:52:34",
+  "lastUpdate": "2026/05/11 03:59:06",
   "charts": {
     "languageDistribution": {
       "C": 2,
       "Zig": 1,
       "TypeScript": 1,
-      "Python": 3,
       "Shell": 1,
+      "Python": 3,
       "JavaScript": 1,
       "HTML": 1
     },
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6348,
-          "forks": 458
+          "totalStars": 6451,
+          "forks": 465
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4035,
-          "forks": 603
+          "totalStars": 4042,
+          "forks": 605
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42788779?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2337,
+          "totalStars": 2355,
           "forks": 102
         },
         "contributors": [
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1803,
+          "totalStars": 1805,
           "forks": 109
         },
         "contributors": [
@@ -96,26 +96,6 @@
       },
       {
         "rank": 5,
-        "name": "yaojingang/yao-open-prompts",
-        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1571,
-          "forks": 247
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/266242792?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "XBuilderLAB/cheat-on-content",
         "description": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.",
         "language": {
@@ -124,14 +104,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1570,
-          "forks": 318
+          "totalStars": 1580,
+          "forks": 319
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
         ],
         "tags": [
           "#Shell"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "yaojingang/yao-open-prompts",
+        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1580,
+          "forks": 248
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266242792?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 914,
+          "totalStars": 922,
           "forks": 65
         },
         "contributors": [
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 819,
-          "forks": 140
+          "totalStars": 868,
+          "forks": 150
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -176,26 +176,6 @@
       },
       {
         "rank": 9,
-        "name": "zarazhangrui/beautiful-html-templates",
-        "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 743,
-          "forks": 68
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/153693696?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "BigPizzaV3/CodexPlusPlus",
         "description": "一个CodexApp的增强工具",
         "language": {
@@ -204,14 +184,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 738,
-          "forks": 45
+          "totalStars": 770,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237402563?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "zarazhangrui/beautiful-html-templates",
+        "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 756,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/153693696?v=4"
+        ],
+        "tags": [
+          "#HTML"
         ]
       }
     ],
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1571,
-          "forks": 247
+          "totalStars": 1580,
+          "forks": 248
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 914,
+          "totalStars": 922,
           "forks": 65
         },
         "contributors": [
@@ -266,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 738,
-          "forks": 45
+          "totalStars": 770,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237402563?v=4"
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
+          "totalStars": 457,
           "forks": 63
         },
         "contributors": [
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
+          "totalStars": 404,
           "forks": 21
         },
         "contributors": [
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
-          "forks": 32
+          "totalStars": 314,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/54376811?v=4"
@@ -366,8 +366,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
-          "forks": 6
+          "totalStars": 224,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199627684?v=4"
@@ -386,8 +386,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 200,
-          "forks": 53
+          "totalStars": 201,
+          "forks": 54
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121211931?v=4"
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
+          "totalStars": 195,
           "forks": 15
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 819,
-          "forks": 140
+          "totalStars": 868,
+          "forks": 150
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 275,
+          "totalStars": 273,
           "forks": 641
         },
         "contributors": [
@@ -468,7 +468,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 231,
+          "totalStars": 232,
           "forks": 24
         },
         "contributors": [
@@ -488,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
+          "totalStars": 229,
           "forks": 24
         },
         "contributors": [
@@ -548,7 +548,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
+          "totalStars": 116,
           "forks": 28
         },
         "contributors": [
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 266,
+          "totalStars": 267,
           "forks": 0
         },
         "contributors": [
@@ -650,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
+          "totalStars": 258,
           "forks": 1
         },
         "contributors": [
@@ -670,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
+          "totalStars": 254,
           "forks": 1
         },
         "contributors": [
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 246,
+          "totalStars": 247,
           "forks": 0
         },
         "contributors": [
@@ -710,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 241,
+          "totalStars": 242,
           "forks": 0
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
+          "totalStars": 236,
           "forks": 0
         },
         "contributors": [
@@ -770,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
+          "totalStars": 229,
           "forks": 3
         },
         "contributors": [
@@ -810,7 +810,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
+          "totalStars": 220,
           "forks": 0
         },
         "contributors": [
