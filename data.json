@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/12 02:44:29",
+  "lastUpdate": "2026/05/12 03:42:03",
   "charts": {
     "languageDistribution": {
       "C": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7455,
-          "forks": 560
+          "totalStars": 7496,
+          "forks": 567
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4207,
-          "forks": 626
+          "totalStars": 4210,
+          "forks": 627
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42788779?v=4"
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2678,
+          "totalStars": 2697,
           "forks": 116
         },
         "contributors": [
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1949,
-          "forks": 122
+          "totalStars": 1950,
+          "forks": 125
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/248286111?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1632,
-          "forks": 253
+          "totalStars": 1636,
+          "forks": 254
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1449,
-          "forks": 251
+          "totalStars": 1482,
+          "forks": 257
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -135,15 +135,15 @@
       {
         "rank": 7,
         "name": "BigPizzaV3/CodexPlusPlus",
-        "description": "一个CodexApp的增强工具",
+        "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1074,
-          "forks": 69
+          "totalStars": 1108,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237402563?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1632,
-          "forks": 253
+          "totalStars": 1636,
+          "forks": 254
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266242792?v=4"
@@ -237,15 +237,15 @@
       {
         "rank": 2,
         "name": "BigPizzaV3/CodexPlusPlus",
-        "description": "一个CodexApp的增强工具",
+        "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1074,
-          "forks": 69
+          "totalStars": 1108,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/237402563?v=4"
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
+          "totalStars": 315,
           "forks": 1
         },
         "contributors": [
@@ -324,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
-          "forks": 10
+          "totalStars": 276,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199627684?v=4"
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
-          "forks": 87
+          "totalStars": 251,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9389563?v=4"
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
+          "totalStars": 247,
           "forks": 0
         },
         "contributors": [
@@ -384,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 16
+          "totalStars": 224,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275098769?v=4"
@@ -404,8 +404,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
-          "forks": 114
+          "totalStars": 214,
+          "forks": 115
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62748761?v=4"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1449,
-          "forks": 251
+          "totalStars": 1482,
+          "forks": 257
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -447,7 +447,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 263,
-          "forks": 31
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3233006?v=4"
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 104,
+          "totalStars": 105,
           "forks": 0
         },
         "contributors": [
@@ -680,6 +680,26 @@
       },
       {
         "rank": 4,
+        "name": "ktn0721/osu-frequency",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 30,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/220492387?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "flash-23-flash/vrx-vln",
         "description": "ROS 2 / Gazebo VRX workspace for marine visual-language navigation demos.",
         "language": {
@@ -693,26 +713,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/159707607?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "ktn0721/osu-frequency",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 29,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/220492387?v=4"
         ],
         "tags": [
           "#C++"
