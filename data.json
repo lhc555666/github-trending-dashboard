@@ -1,12 +1,13 @@
 {
-  "lastUpdate": "2026/05/12 03:42:03",
+  "lastUpdate": "2026/05/13 02:50:15",
   "charts": {
     "languageDistribution": {
-      "C": 2,
+      "C": 1,
       "Zig": 1,
+      "JavaScript": 1,
+      "C++": 2,
       "TypeScript": 1,
-      "Python": 3,
-      "JavaScript": 1
+      "Python": 1
     },
     "starGrowth": {}
   },
@@ -14,26 +15,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "antirez/ds4",
-        "description": "DeepSeek 4 Flash local inference engine for Metal",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 7496,
-          "forks": 567
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65632?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "V4bel/dirtyfrag",
         "description": "暂无描述",
         "language": {
@@ -42,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4210,
-          "forks": 627
+          "totalStars": 4334,
+          "forks": 651
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42788779?v=4"
@@ -53,7 +34,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "vercel-labs/zero-native",
         "description": "Build desktop + mobile apps with Zig and web UI",
         "language": {
@@ -62,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2697,
-          "forks": 116
+          "totalStars": 2975,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -73,47 +54,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "strukto-ai/mirage",
-        "description": "A Unified Virtual Filesystem For AI Agents",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1950,
-          "forks": 125
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/248286111?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "yaojingang/yao-open-prompts",
-        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1636,
-          "forks": 254
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/266242792?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 3,
         "name": "huangserva/3DCellForge",
         "description": "AI-powered interactive 3D cell generation and exploration studio.",
         "language": {
@@ -122,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1482,
-          "forks": 257
+          "totalStars": 1716,
+          "forks": 295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -133,47 +74,67 @@
         ]
       },
       {
+        "rank": 4,
+        "name": "FULU-Foundation/OrcaSlicer-bambulab",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1274,
+          "forks": 331
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/223959643?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "haydenbleasel/files-sdk",
+        "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 571,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4142719?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ywnd1144/Gopay_plus_automatic",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 549,
+          "forks": 379
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/264395641?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 7,
-        "name": "BigPizzaV3/CodexPlusPlus",
-        "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1108,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/237402563?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "lightseekorg/tokenspeed",
-        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 945,
-          "forks": 71
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/238925110?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "thakur-works/DarkGPT",
         "description": "Darkgpt mod free #chatgpt",
         "language": {
@@ -193,7 +154,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "thakur-works/Velocity-Executor",
         "description": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.",
         "language": {
@@ -211,24 +172,64 @@
         "tags": [
           "#Trending"
         ]
+      },
+      {
+        "rank": 9,
+        "name": "RadianceToadAmend/Fortnite-Cheats-2026",
+        "description": "⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 521,
+          "forks": 123
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280151611?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
+        "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 521,
+          "forks": 109
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280151611?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "yaojingang/yao-open-prompts",
-        "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+        "name": "ywnd1144/Gopay_plus_automatic",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1636,
-          "forks": 254
+          "totalStars": 549,
+          "forks": 379
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/266242792?v=4"
+          "https://avatars.githubusercontent.com/u/264395641?v=4"
         ],
         "tags": [
           "#Python"
@@ -236,19 +237,19 @@
       },
       {
         "rank": 2,
-        "name": "BigPizzaV3/CodexPlusPlus",
-        "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
+        "name": "patchfighterway90/cs2-external-overlay",
+        "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1108,
-          "forks": 70
+          "totalStars": 519,
+          "forks": 104
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/237402563?v=4"
+          "https://avatars.githubusercontent.com/u/272090371?v=4"
         ],
         "tags": [
           "#Python"
@@ -256,46 +257,6 @@
       },
       {
         "rank": 3,
-        "name": "lightseekorg/tokenspeed",
-        "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 945,
-          "forks": 71
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/238925110?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "fendouai/CodexSaver",
-        "description": "Make Codex cheaper without making it dumber with DeepSeek.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 421,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6284532?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "AvenueSleuth/delta-exec",
         "description": "Delta Exec scripting utility",
         "language": {
@@ -304,11 +265,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
-          "forks": 1
+          "totalStars": 402,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/273872515?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "ChristianJR19/Goblin-Agent",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 350,
+          "forks": 130
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/9389563?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "TrueGunsmithFence/Hentaihunter",
+        "description": "Hentaihunter - How to steal your Doujinshi easily",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 343,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273875654?v=4"
         ],
         "tags": [
           "#Python"
@@ -324,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 276,
+          "totalStars": 314,
           "forks": 11
         },
         "contributors": [
@@ -336,16 +337,16 @@
       },
       {
         "rank": 7,
-        "name": "ChristianJR19/GoblinOS",
-        "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
+        "name": "ChristianJR19/byteview",
+        "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
-          "forks": 91
+          "totalStars": 311,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9389563?v=4"
@@ -356,19 +357,19 @@
       },
       {
         "rank": 8,
-        "name": "TrueGunsmithFence/Hentaihunter",
-        "description": "Hentaihunter - How to steal your Doujinshi easily",
+        "name": "JUk1-GH/gpt-promo-scanner",
+        "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
-          "forks": 0
+          "totalStars": 287,
+          "forks": 63
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/273875654?v=4"
+          "https://avatars.githubusercontent.com/u/236887312?v=4"
         ],
         "tags": [
           "#Python"
@@ -376,19 +377,19 @@
       },
       {
         "rank": 9,
-        "name": "opensquilla/opensquilla",
-        "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+        "name": "TencentARC/Pixal3D",
+        "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 224,
-          "forks": 17
+          "totalStars": 280,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/275098769?v=4"
+          "https://avatars.githubusercontent.com/u/83739826?v=4"
         ],
         "tags": [
           "#Python"
@@ -404,8 +405,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 214,
-          "forks": 115
+          "totalStars": 241,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62748761?v=4"
@@ -426,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1482,
-          "forks": 257
+          "totalStars": 1716,
+          "forks": 295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -446,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
-          "forks": 32
+          "totalStars": 292,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3233006?v=4"
@@ -466,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 240,
-          "forks": 25
+          "totalStars": 251,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5328474?v=4"
@@ -478,26 +479,6 @@
       },
       {
         "rank": 4,
-        "name": "cv-cat/XHS_ALL_IN_ONE",
-        "description": "XHS_ALL_IN_ONE 小红书全域运营",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 225,
-          "forks": 102
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/94289429?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "killervillsy/SessionToJson",
         "description": "暂无描述",
         "language": {
@@ -506,11 +487,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 154,
-          "forks": 30
+          "totalStars": 168,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/68230308?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "DenAB-NVS/submarine",
+        "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 166,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/277577823?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -527,7 +528,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 112,
-          "forks": 1
+          "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/273874167?v=4"
@@ -538,66 +539,6 @@
       },
       {
         "rank": 7,
-        "name": "Blueemi/codex-eu-patcher",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 108,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/111887417?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "DenAB-NVS/submarine",
-        "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 105,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277577823?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "ChypherFish3r/coinbase-trading-bot",
-        "description": "coinbase trading bot for momentum strategies with optional profit transfers, CSV backtests, and a clean CLI",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 96,
-          "forks": 149
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/214722628?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "MusiCode1/obsidian-web",
         "description": "Run Obsidian's desktop app in a standard browser — no Electron needed",
         "language": {
@@ -606,11 +547,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 77,
-          "forks": 20
+          "totalStars": 83,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/54508123?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "yunus-0x/charon",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/226052934?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "frankheat/noxen",
+        "description": "Android interception tool for component communication and attack-surface mapping",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 69,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46446664?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "tapter-dev/kaspi-pos-automation",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 63,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/283138218?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,6 +621,46 @@
     "C++": [
       {
         "rank": 1,
+        "name": "FULU-Foundation/OrcaSlicer-bambulab",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1274,
+          "forks": 331
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/223959643?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
+        "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 521,
+          "forks": 109
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/280151611?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "RadianceToadAmend/cs2-overlay-utility",
         "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes.",
         "language": {
@@ -628,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 498,
+          "totalStars": 499,
           "forks": 0
         },
         "contributors": [
@@ -639,60 +680,20 @@
         ]
       },
       {
-        "rank": 2,
-        "name": "automatous-io/shelly-1-gen4-matter-thread",
-        "description": "The first open source Matter over Thread firmware for Shelly 1 Gen4 — Apple Home, Google Home, Alexa, and Home Assistant support, no HA bridge or middleware required.",
+        "rank": 4,
+        "name": "ltyzen/KMSAutoTool",
+        "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 59,
+          "totalStars": 238,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/261785141?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "Indras-Mirror/llama.cpp-mtp",
-        "description": "Fused TBQ4 Flash Attention + MTP + Shared Tensors for llama.cpp — 82+ tok/s with lossless 4.25 bpv KV cache at 200K context on RTX 4090",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 33,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/142304505?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "ktn0721/osu-frequency",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 30,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/220492387?v=4"
+          "https://avatars.githubusercontent.com/u/103900554?v=4"
         ],
         "tags": [
           "#C++"
@@ -700,19 +701,19 @@
       },
       {
         "rank": 5,
-        "name": "flash-23-flash/vrx-vln",
-        "description": "ROS 2 / Gazebo VRX workspace for marine visual-language navigation demos.",
+        "name": "sunyouzhi2003/LSFG-Desktop",
+        "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 30,
+          "totalStars": 228,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/159707607?v=4"
+          "https://avatars.githubusercontent.com/u/131721654?v=4"
         ],
         "tags": [
           "#C++"
@@ -720,19 +721,19 @@
       },
       {
         "rank": 6,
-        "name": "NodeSkinkSwell/rdr-2-mod-manager",
-        "description": "⭐️ Red Dead Redemption 2 Hack 2026 - God Mode, ESP, Unlimited Money, Aimbot, No Clip | Best RDR2 Online Cheat | Lifetime Access | Working Mod Menu 2026",
+        "name": "manojmidhul92-art/Umbrella-HWID",
+        "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 25,
-          "forks": 0
+          "totalStars": 225,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/274339092?v=4"
+          "https://avatars.githubusercontent.com/u/275599639?v=4"
         ],
         "tags": [
           "#C++"
@@ -740,19 +741,19 @@
       },
       {
         "rank": 7,
-        "name": "ddeverill/SteamlessController",
-        "description": "Support for the 2026 Steam Controller in Non-Steam games",
+        "name": "mark9-droid/TomodachiPC",
+        "description": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 24,
+          "totalStars": 223,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1892297?v=4"
+          "https://avatars.githubusercontent.com/u/229989326?v=4"
         ],
         "tags": [
           "#C++"
@@ -760,19 +761,19 @@
       },
       {
         "rank": 8,
-        "name": "macroverseshout25/bubblegum",
-        "description": "Bubblegum Script 2026 - Auto Farm, ESP, God Mode, Fly, Auto Collect (Undetected GUI Script, Working 2026) ⭐️ ",
+        "name": "yaassin12/DeepSeek-V4-Pro-App",
+        "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 21,
+          "totalStars": 222,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/274334815?v=4"
+          "https://avatars.githubusercontent.com/u/168301267?v=4"
         ],
         "tags": [
           "#C++"
@@ -780,19 +781,19 @@
       },
       {
         "rank": 9,
-        "name": "closedcooperpray/marvel-rivals-external-upgraded",
-        "description": "⭐️ Marvel Rivals Hack 2026 Undetected - Aimbot, ESP, Triggerbot, No Recoil (Best Marvel Rivals Cheat Working 2026)⭐️ ",
+        "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+        "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 20,
+          "totalStars": 220,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/274340831?v=4"
+          "https://avatars.githubusercontent.com/u/179905873?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +801,19 @@
       },
       {
         "rank": 10,
-        "name": "BLANK2077/xwave",
-        "description": "暂无描述",
+        "name": "Nightmare-Eclipse/GreenPlasma",
+        "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 16,
-          "forks": 3
+          "totalStars": 179,
+          "forks": 33
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/43205335?v=4"
+          "https://avatars.githubusercontent.com/u/271389851?v=4"
         ],
         "tags": [
           "#C++"
