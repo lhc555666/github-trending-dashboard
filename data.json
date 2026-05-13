@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026/05/13 02:50:15",
+  "lastUpdate": "2026/05/13 03:52:03",
   "charts": {
     "languageDistribution": {
       "C": 1,
       "Zig": 1,
       "JavaScript": 1,
       "C++": 2,
-      "TypeScript": 1,
-      "Python": 1
+      "Python": 1,
+      "TypeScript": 1
     },
     "starGrowth": {}
   },
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4334,
-          "forks": 651
+          "totalStars": 4341,
+          "forks": 652
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42788779?v=4"
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2975,
+          "totalStars": 2989,
           "forks": 127
         },
         "contributors": [
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1716,
-          "forks": 295
+          "totalStars": 1724,
+          "forks": 298
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1274,
-          "forks": 331
+          "totalStars": 1367,
+          "forks": 351
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223959643?v=4"
@@ -95,26 +95,6 @@
       },
       {
         "rank": 5,
-        "name": "haydenbleasel/files-sdk",
-        "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 571,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4142719?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "ywnd1144/Gopay_plus_automatic",
         "description": "暂无描述",
         "language": {
@@ -123,14 +103,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 549,
-          "forks": 379
+          "totalStars": 577,
+          "forks": 392
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264395641?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "haydenbleasel/files-sdk",
+        "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 574,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4142719?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 532,
+          "totalStars": 533,
           "forks": 90
         },
         "contributors": [
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 549,
-          "forks": 379
+          "totalStars": 577,
+          "forks": 392
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264395641?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
+          "totalStars": 408,
           "forks": 3
         },
         "contributors": [
@@ -285,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 350,
+          "totalStars": 355,
           "forks": 130
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 343,
+          "totalStars": 348,
           "forks": 0
         },
         "contributors": [
@@ -325,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 314,
-          "forks": 11
+          "totalStars": 317,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199627684?v=4"
@@ -357,26 +357,6 @@
       },
       {
         "rank": 8,
-        "name": "JUk1-GH/gpt-promo-scanner",
-        "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 287,
-          "forks": 63
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/236887312?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "TencentARC/Pixal3D",
         "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
         "language": {
@@ -385,11 +365,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 280,
-          "forks": 18
+          "totalStars": 303,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83739826?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "JUk1-GH/gpt-promo-scanner",
+        "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 290,
+          "forks": 63
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/236887312?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1716,
-          "forks": 295
+          "totalStars": 1724,
+          "forks": 298
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/201197786?v=4"
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
+          "totalStars": 169,
           "forks": 34
         },
         "contributors": [
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 76,
+          "totalStars": 77,
           "forks": 61
         },
         "contributors": [
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1274,
-          "forks": 331
+          "totalStars": 1367,
+          "forks": 351
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223959643?v=4"
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 238,
+          "totalStars": 250,
           "forks": 0
         },
         "contributors": [
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
+          "totalStars": 240,
           "forks": 0
         },
         "contributors": [
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
+          "totalStars": 237,
           "forks": 2
         },
         "contributors": [
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
+          "totalStars": 235,
           "forks": 0
         },
         "contributors": [
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
+          "totalStars": 235,
           "forks": 0
         },
         "contributors": [
@@ -789,7 +789,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 220,
+          "totalStars": 234,
           "forks": 0
         },
         "contributors": [
@@ -809,8 +809,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
-          "forks": 33
+          "totalStars": 188,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
