@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/15 02:55:02",
+  "lastUpdate": "2026/05/15 03:55:08",
   "charts": {
     "languageDistribution": {
       "C++": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4101,
-          "forks": 1385
+          "totalStars": 4130,
+          "forks": 1393
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223959643?v=4"
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2016,
+          "totalStars": 2020,
           "forks": 337
         },
         "contributors": [
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1775,
-          "forks": 416
+          "totalStars": 1787,
+          "forks": 421
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1101,
-          "forks": 121
+          "totalStars": 1205,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 886,
-          "forks": 67
+          "totalStars": 896,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5817854?v=4"
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 723,
-          "forks": 174
+          "totalStars": 736,
+          "forks": 177
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/166034225?v=4"
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 644,
-          "forks": 48
+          "totalStars": 649,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83739826?v=4"
@@ -183,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 570,
-          "forks": 120
+          "totalStars": 571,
+          "forks": 121
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -195,19 +195,19 @@
       },
       {
         "rank": 10,
-        "name": "thakur-works/DarkGPT",
-        "description": "Darkgpt mod free #chatgpt",
+        "name": "yetone/native-feel-skill",
+        "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
         "language": {
           "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 535,
-          "forks": 90
+          "totalStars": 565,
+          "forks": 20
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/107716847?v=4"
+          "https://avatars.githubusercontent.com/u/1206493?v=4"
         ],
         "tags": [
           "#Trending"
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 644,
-          "forks": 48
+          "totalStars": 649,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83739826?v=4"
@@ -285,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 516,
+          "totalStars": 519,
           "forks": 28
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
+          "totalStars": 480,
           "forks": 86
         },
         "contributors": [
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 450,
+          "totalStars": 456,
           "forks": 0
         },
         "contributors": [
@@ -345,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 434,
-          "forks": 93
+          "totalStars": 441,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/236887312?v=4"
@@ -365,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 333,
+          "totalStars": 339,
           "forks": 0
         },
         "contributors": [
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2016,
+          "totalStars": 2020,
           "forks": 337
         },
         "contributors": [
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 335,
+          "totalStars": 343,
           "forks": 2
         },
         "contributors": [
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
+          "totalStars": 166,
           "forks": 23
         },
         "contributors": [
@@ -507,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 139,
-          "forks": 17
+          "totalStars": 140,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7531001?v=4"
@@ -547,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 106,
+          "totalStars": 107,
           "forks": 7
         },
         "contributors": [
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4101,
-          "forks": 1385
+          "totalStars": 4130,
+          "forks": 1393
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223959643?v=4"
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 411,
+          "totalStars": 415,
           "forks": 0
         },
         "contributors": [
@@ -781,26 +781,6 @@
       },
       {
         "rank": 9,
-        "name": "lucasfrre/BongoCat-Desktop",
-        "description": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 342,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/36075389?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "snoozinjs/Delta-exec",
         "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs.",
         "language": {
@@ -809,11 +789,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 342,
+          "totalStars": 351,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107245204?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "lucasfrre/BongoCat-Desktop",
+        "description": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 349,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/36075389?v=4"
         ],
         "tags": [
           "#C++"
