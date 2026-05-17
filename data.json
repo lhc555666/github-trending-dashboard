@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/17 02:50:04",
+  "lastUpdate": "2026/05/17 03:55:39",
   "charts": {
     "languageDistribution": {
       "C++": 1,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5383,
-          "forks": 3392
+          "totalStars": 5402,
+          "forks": 3449
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223959643?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2880,
-          "forks": 606
+          "totalStars": 2893,
+          "forks": 608
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2487,
-          "forks": 293
+          "totalStars": 2498,
+          "forks": 295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1235,
-          "forks": 57
+          "totalStars": 1237,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1206493?v=4"
@@ -93,26 +93,6 @@
       },
       {
         "rank": 5,
-        "name": "HermannBjorgvin/Clawdmeter",
-        "description": "ESP32 desk dashboard that shows Claude Code usage",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1086,
-          "forks": 98
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5817854?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "vercel-labs/zero",
         "description": "The programming language for agents",
         "language": {
@@ -121,11 +101,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1066,
-          "forks": 59
+          "totalStars": 1103,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "HermannBjorgvin/Clawdmeter",
+        "description": "ESP32 desk dashboard that shows Claude Code usage",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1087,
+          "forks": 98
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5817854?v=4"
         ],
         "tags": [
           "#C"
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1001,
-          "forks": 233
+          "totalStars": 1008,
+          "forks": 234
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/166034225?v=4"
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 903,
-          "forks": 535
+          "totalStars": 905,
+          "forks": 536
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264395641?v=4"
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 647,
+          "totalStars": 648,
           "forks": 105
         },
         "contributors": [
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 584,
-          "forks": 48
+          "totalStars": 586,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2140110?v=4"
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 903,
-          "forks": 535
+          "totalStars": 905,
+          "forks": 536
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264395641?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 647,
+          "totalStars": 648,
           "forks": 105
         },
         "contributors": [
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 573,
+          "totalStars": 576,
           "forks": 34
         },
         "contributors": [
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 503,
+          "totalStars": 504,
           "forks": 104
         },
         "contributors": [
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 445,
+          "totalStars": 446,
           "forks": 0
         },
         "contributors": [
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 375,
+          "totalStars": 389,
           "forks": 7
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
+          "totalStars": 299,
           "forks": 10
         },
         "contributors": [
@@ -383,8 +383,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
-          "forks": 80
+          "totalStars": 287,
+          "forks": 82
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/166034225?v=4"
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
+          "totalStars": 276,
           "forks": 12
         },
         "contributors": [
@@ -425,7 +425,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 450,
+          "totalStars": 451,
           "forks": 3
         },
         "contributors": [
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 279,
-          "forks": 51
+          "totalStars": 318,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132214668?v=4"
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
+          "totalStars": 180,
           "forks": 1469
         },
         "contributors": [
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 154,
-          "forks": 154
+          "totalStars": 159,
+          "forks": 223
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284737606?v=4"
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
+          "totalStars": 123,
           "forks": 410
         },
         "contributors": [
@@ -565,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 117,
+          "totalStars": 118,
           "forks": 20
         },
         "contributors": [
@@ -585,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
+          "totalStars": 115,
           "forks": 7
         },
         "contributors": [
@@ -605,7 +605,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
+          "totalStars": 101,
           "forks": 9
         },
         "contributors": [
@@ -627,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5383,
-          "forks": 3392
+          "totalStars": 5402,
+          "forks": 3449
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223959643?v=4"
@@ -647,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 535,
-          "forks": 157
+          "totalStars": 536,
+          "forks": 158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -687,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 490,
+          "totalStars": 500,
           "forks": 2
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 488,
+          "totalStars": 496,
           "forks": 1
         },
         "contributors": [
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 486,
+          "totalStars": 494,
           "forks": 1
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 486,
+          "totalStars": 493,
           "forks": 0
         },
         "contributors": [
@@ -767,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 451,
+          "totalStars": 458,
           "forks": 0
         },
         "contributors": [
@@ -787,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 445,
+          "totalStars": 455,
           "forks": 0
         },
         "contributors": [
