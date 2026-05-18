@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/18 03:26:56",
+  "lastUpdate": "2026/05/18 04:08:19",
   "charts": {
     "languageDistribution": {
       "C": 1,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3179,
-          "forks": 674
+          "totalStars": 3185,
+          "forks": 675
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1751,
-          "forks": 107
+          "totalStars": 1765,
+          "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -60,7 +60,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1283,
+          "totalStars": 1284,
           "forks": 61
         },
         "contributors": [
@@ -92,26 +92,6 @@
       },
       {
         "rank": 5,
-        "name": "DenisSergeevitch/agents-best-practices",
-        "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 725,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2140110?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "facebookresearch/vggt-omega",
         "description": "[CVPR 2026 Oral] VGGT Omega",
         "language": {
@@ -120,14 +100,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 714,
-          "forks": 12
+          "totalStars": 732,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16943930?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "DenisSergeevitch/agents-best-practices",
+        "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 728,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2140110?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       },
       {
@@ -140,7 +140,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 678,
+          "totalStars": 681,
           "forks": 114
         },
         "contributors": [
@@ -160,7 +160,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 647,
+          "totalStars": 652,
           "forks": 35
         },
         "contributors": [
@@ -180,7 +180,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 610,
+          "totalStars": 612,
           "forks": 2
         },
         "contributors": [
@@ -200,7 +200,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 607,
+          "totalStars": 608,
           "forks": 29
         },
         "contributors": [
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 714,
-          "forks": 12
+          "totalStars": 732,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16943930?v=4"
@@ -262,7 +262,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 678,
+          "totalStars": 681,
           "forks": 114
         },
         "contributors": [
@@ -282,7 +282,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 647,
+          "totalStars": 652,
           "forks": 35
         },
         "contributors": [
@@ -302,7 +302,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 494,
+          "totalStars": 495,
           "forks": 0
         },
         "contributors": [
@@ -342,7 +342,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
+          "totalStars": 310,
           "forks": 33
         },
         "contributors": [
@@ -362,7 +362,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 283,
+          "totalStars": 284,
           "forks": 6
         },
         "contributors": [
@@ -402,7 +402,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 190,
+          "totalStars": 192,
           "forks": 36
         },
         "contributors": [
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 576,
-          "forks": 129
+          "totalStars": 579,
+          "forks": 130
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132214668?v=4"
@@ -444,7 +444,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 500,
+          "totalStars": 501,
           "forks": 3
         },
         "contributors": [
@@ -464,7 +464,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 243,
+          "totalStars": 246,
           "forks": 793
         },
         "contributors": [
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 229,
+          "totalStars": 231,
           "forks": 1469
         },
         "contributors": [
@@ -524,7 +524,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
+          "totalStars": 157,
           "forks": 410
         },
         "contributors": [
@@ -544,7 +544,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 135,
+          "totalStars": 136,
           "forks": 17
         },
         "contributors": [
@@ -626,7 +626,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 610,
+          "totalStars": 612,
           "forks": 2
         },
         "contributors": [
@@ -646,7 +646,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 606,
+          "totalStars": 607,
           "forks": 1
         },
         "contributors": [
@@ -666,7 +666,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
+          "totalStars": 604,
           "forks": 1
         },
         "contributors": [
@@ -686,7 +686,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 600,
+          "totalStars": 601,
           "forks": 0
         },
         "contributors": [
@@ -706,8 +706,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 567,
-          "forks": 169
+          "totalStars": 568,
+          "forks": 170
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271389851?v=4"
@@ -746,7 +746,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 557,
+          "totalStars": 558,
           "forks": 0
         },
         "contributors": [
