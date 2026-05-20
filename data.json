@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/20 02:56:30",
+  "lastUpdate": "2026/05/20 04:02:31",
   "charts": {
     "languageDistribution": {
       "C": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3319,
-          "forks": 194
+          "totalStars": 3384,
+          "forks": 196
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1335,
+          "totalStars": 1336,
           "forks": 60
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1232,
+          "totalStars": 1237,
           "forks": 36
         },
         "contributors": [
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 854,
+          "totalStars": 856,
           "forks": 78
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
+          "totalStars": 733,
           "forks": 42
         },
         "contributors": [
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 671,
+          "totalStars": 675,
           "forks": 1
         },
         "contributors": [
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 663,
-          "forks": 158
+          "totalStars": 664,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132214668?v=4"
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1232,
+          "totalStars": 1237,
           "forks": 36
         },
         "contributors": [
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 419,
-          "forks": 39
+          "totalStars": 432,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
+          "totalStars": 379,
           "forks": 0
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 345,
+          "totalStars": 346,
           "forks": 18
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 330,
+          "totalStars": 346,
           "forks": 22
         },
         "contributors": [
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 300,
-          "forks": 40
+          "totalStars": 305,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86922?v=4"
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 245,
+          "totalStars": 246,
           "forks": 5
         },
         "contributors": [
@@ -377,14 +377,14 @@
       {
         "rank": 9,
         "name": "lynote-ai/humanize-text",
-        "description": "Open-source Al text humanizationtoolkit. 4 proven methods totransform Al-generated text intonatural human writing. Translationchain, LLM rewriting, detection-guided feedback loop, and mixed-engine processing.",
+        "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
+          "totalStars": 179,
           "forks": 3
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
+          "totalStars": 173,
           "forks": 8
         },
         "contributors": [
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
+          "totalStars": 733,
           "forks": 42
         },
         "contributors": [
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 663,
-          "forks": 158
+          "totalStars": 664,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132214668?v=4"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
-          "forks": 136
+          "totalStars": 419,
+          "forks": 169
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
+          "totalStars": 154,
           "forks": 23
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 474,
+          "totalStars": 478,
           "forks": 0
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 299,
+          "totalStars": 311,
           "forks": 0
         },
         "contributors": [
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 291,
+          "totalStars": 306,
           "forks": 0
         },
         "contributors": [
@@ -808,8 +808,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 67,
-          "forks": 14
+          "totalStars": 71,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285915761?v=4"
