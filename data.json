@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/05/20 04:02:31",
+  "lastUpdate": "2026/05/21 03:25:38",
   "charts": {
     "languageDistribution": {
-      "C": 2,
-      "Python": 2,
+      "C": 1,
       "JavaScript": 2,
-      "C#": 1,
-      "C++": 1
+      "Shell": 1,
+      "Python": 1,
+      "TypeScript": 3
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3384,
-          "forks": 196
+          "totalStars": 4000,
+          "forks": 239
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -34,42 +34,42 @@
       },
       {
         "rank": 2,
-        "name": "yetone/native-feel-skill",
-        "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
+        "name": "FoundZiGu/GuJumpgate",
+        "description": "暂无描述",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "JavaScript",
+          "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1336,
-          "forks": 60
+          "totalStars": 1017,
+          "forks": 364
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1206493?v=4"
+          "https://avatars.githubusercontent.com/u/98100115?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#JavaScript"
         ]
       },
       {
         "rank": 3,
-        "name": "facebookresearch/vggt-omega",
-        "description": "[CVPR 2026 Oral] VGGT Omega",
+        "name": "thananon/9arm-skills",
+        "description": "暂无描述",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Shell",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1237,
-          "forks": 36
+          "totalStars": 943,
+          "forks": 135
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/16943930?v=4"
+          "https://avatars.githubusercontent.com/u/7318806?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Shell"
         ]
       },
       {
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 856,
-          "forks": 78
+          "totalStars": 907,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2140110?v=4"
@@ -94,46 +94,6 @@
       },
       {
         "rank": 5,
-        "name": "Kappaemme-git/codex-complexity-optimizer",
-        "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 788,
-          "forks": 46
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203409268?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "DuskMosquito/Lossless-Scaling-Desktop-2026",
-        "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 778,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279139821?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Doorman11991/smallcode",
         "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
         "language": {
@@ -142,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 733,
-          "forks": 42
+          "totalStars": 847,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283874042?v=4"
@@ -153,89 +113,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "cdanielc293/Jenny-Mod-All-Versions",
-        "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.",
-        "language": {
-          "name": "C#",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 675,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/58978704?v=4"
-        ],
-        "tags": [
-          "#C#"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "boona13/mykonos-island-voxels",
-        "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 664,
-          "forks": 159
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/132214668?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Juwluuu/Subnautica-2-Release",
-        "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 644,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127411695?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "facebookresearch/vggt-omega",
-        "description": "[CVPR 2026 Oral] VGGT Omega",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1237,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16943930?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
+        "rank": 6,
         "name": "Kappaemme-git/codex-complexity-optimizer",
         "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
         "language": {
@@ -244,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 788,
-          "forks": 46
+          "totalStars": 808,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
@@ -255,7 +133,109 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "name": "xw7872081123/wallpaper-engine-steam",
+        "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, ",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 616,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/36497547?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "openclaw/clawpatch",
+        "description": "Review code. Patch bugs. Land PRs.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 606,
+          "forks": 88
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252820863?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+        "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 603,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46368738?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "arnabchoudhury404/hydra-launcher",
+        "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 602,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/125897715?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "Kappaemme-git/codex-complexity-optimizer",
+        "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 808,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203409268?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "sapientinc/HRM-Text",
         "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
         "language": {
@@ -264,11 +244,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 432,
-          "forks": 40
+          "totalStars": 574,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "bytedance/Lance",
+        "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 536,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4158466?v=4"
         ],
         "tags": [
           "#Python"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 379,
+          "totalStars": 496,
           "forks": 0
         },
         "contributors": [
@@ -296,46 +296,6 @@
       },
       {
         "rank": 5,
-        "name": "agentic-in/elephant-agent",
-        "description": "Personal-Model First Self Evolving AI Agent 🐘",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 346,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/274756484?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "bytedance/Lance",
-        "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 346,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4158466?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "evilsocket/audit",
         "description": "An 8-stage vulnerability-discovery agent.",
         "language": {
@@ -344,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
-          "forks": 41
+          "totalStars": 375,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86922?v=4"
@@ -355,7 +315,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "agentic-in/elephant-agent",
+        "description": "Personal-Model First Self Evolving AI Agent 🐘",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 368,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/274756484?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "LiuMengxuan04/shushu-internship-tool",
         "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
         "language": {
@@ -364,11 +344,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 246,
-          "forks": 5
+          "totalStars": 283,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/225589786?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Klotzkette/claude-fuer-deutsches-recht",
+        "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 243,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/39582916?v=4"
         ],
         "tags": [
           "#Python"
@@ -384,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
-          "forks": 3
+          "totalStars": 241,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285635790?v=4"
@@ -396,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "Klotzkette/claude-fuer-deutsches-recht",
-        "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
+        "name": "WUBING2023/PaperSpine",
+        "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 173,
-          "forks": 8
+          "totalStars": 127,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/39582916?v=4"
+          "https://avatars.githubusercontent.com/u/242776933?v=4"
         ],
         "tags": [
           "#Python"
@@ -418,6 +418,26 @@
     "JavaScript": [
       {
         "rank": 1,
+        "name": "FoundZiGu/GuJumpgate",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1017,
+          "forks": 364
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/98100115?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "Doorman11991/smallcode",
         "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
         "language": {
@@ -426,31 +446,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 733,
-          "forks": 42
+          "totalStars": 847,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283874042?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "boona13/mykonos-island-voxels",
-        "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 664,
-          "forks": 159
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/132214668?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 551,
-          "forks": 19
+          "totalStars": 571,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/49094234?v=4"
@@ -478,7 +478,7 @@
       },
       {
         "rank": 4,
-        "name": "FoundZiGu/GuJumpgate",
+        "name": "energypantry/agent-browser-runtime",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -486,11 +486,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 419,
-          "forks": 169
+          "totalStars": 78,
+          "forks": 24
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/98100115?v=4"
+          "https://avatars.githubusercontent.com/u/34472578?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -498,19 +498,19 @@
       },
       {
         "rank": 5,
-        "name": "arbitrageBot-group/Polymarket-trading-bot",
-        "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+        "name": "kiddo-pwn/ffffirefox",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
-          "forks": 1790
+          "totalStars": 74,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/284737606?v=4"
+          "https://avatars.githubusercontent.com/u/50818874?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -518,86 +518,6 @@
       },
       {
         "rank": 6,
-        "name": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-        "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 269,
-          "forks": 1472
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/284728294?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "POLYMARKET-SPORTS/Polymarket-trading-bot",
-        "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 174,
-          "forks": 410
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/284730655?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "cupidbity/cupid-music-player",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 154,
-          "forks": 23
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/281088569?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Kappaemme-git/local-client-prospector-skill",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 141,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203409268?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "mrdoob/reframe",
         "description": "Webapp for framing a video clip and exporting an MP4.",
         "language": {
@@ -615,31 +535,91 @@
         "tags": [
           "#JavaScript"
         ]
+      },
+      {
+        "rank": 7,
+        "name": "zhouyoukang1234-spec/windsurf-assistant",
+        "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/240407432?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+        "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 70,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/285696684?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "joeseesun/qiaomu-userscripts",
+        "description": "Tampermonkey userscripts for WeChat, Douyin, and X content workflows",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 61,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "SecureBananaLabs/bug-bounty",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 57,
+          "forks": 203
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/284953249?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
       }
     ],
     "C++": [
       {
         "rank": 1,
-        "name": "Juwluuu/Subnautica-2-Release",
-        "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 644,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127411695?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
         "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature",
         "language": {
@@ -648,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 478,
-          "forks": 0
+          "totalStars": 584,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/78200343?v=4"
@@ -659,27 +639,27 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "mcjavarp/Manager2026",
-        "description": "Free IDM. Browser integration, Chrome extension, Firefox addon, Edge module. Download accelerator, segment downloading, resume capability, scheduler. Video grabber, stream detector, batch download. Trial reset, registry cleaner, site analyzer, grabber guide, portable, dark mode.",
+        "rank": 2,
+        "name": "littlefrogyq/UE4SS-Subnautica-2",
+        "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 431,
-          "forks": 34
+          "totalStars": 475,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/81081248?v=4"
+          "https://avatars.githubusercontent.com/u/8310801?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Harshit-pruthi/sklauncher-minecraft",
         "description": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable.",
         "language": {
@@ -699,7 +679,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "dannyhsueh2/Forza-Horizon-6-Premium",
         "description": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate.",
         "language": {
@@ -708,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 396,
+          "totalStars": 412,
           "forks": 1
         },
         "contributors": [
@@ -719,47 +699,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "littlefrogyq/UE4SS-Subnautica-2",
-        "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 311,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8310801?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "nhutdang198/AI-Final-fantasy-6-remake",
-        "description": "ai final fantasy 6 remake: Release download free github fan made game pcwatch viral 3d trailer, , hironobu sakaguchi awesome tweet reaction, square enix 20 years kitase. desusanJP x video, sabin phantom train suplex ai, tina terra theme bgm teaser, ai slop controversy reddit, akitoshi kawazu response, play pixel remaster hd graphics mod.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 306,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/131011697?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "RastProxy88/Vivid-R6-Cracked-2026",
         "description": "External memory analysis framework for Rainbow Six Siege. Features ESP, aimbot, skeleton rendering via DirectX 11 overlay. Read-only operation with direct syscall stubs. Supports Y8S4 — Y9S2. C++17, x64, MIT license.",
         "language": {
@@ -779,7 +719,27 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 6,
+        "name": "redteamfortress/PhantomKiller",
+        "description": "Another BYOVD process killer. works on all EDR's. fully signed.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 151,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/285915761?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "ip-arch/NESLab",
         "description": "Educational materials for Embedded systems with NES",
         "language": {
@@ -788,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 105,
+          "totalStars": 109,
           "forks": 6
         },
         "contributors": [
@@ -799,20 +759,60 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "redteamfortress/PhantomKiller",
-        "description": "Another BYOVD process killer. works on all EDR's. fully signed.",
+        "rank": 8,
+        "name": "5ec1cff/injectrc",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
-          "forks": 17
+          "totalStars": 57,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/285915761?v=4"
+          "https://avatars.githubusercontent.com/u/56485584?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "pwilkin/openmoss",
+        "description": "OpenMOSS pure C++ pipeline based on GGML",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 23,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5802960?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Adiao1973/LibRobotBagFix",
+        "description": "一个兼具二进制文件修复功能的跨平台、轻量化 ROS 2 黑匣子解析与修复 C++ SDK",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 21,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/55833348?v=4"
         ],
         "tags": [
           "#C++"
