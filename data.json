@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/21 03:25:38",
+  "lastUpdate": "2026/05/21 04:11:49",
   "charts": {
     "languageDistribution": {
       "C": 1,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4000,
-          "forks": 239
+          "totalStars": 4018,
+          "forks": 240
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108547162?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1017,
-          "forks": 364
+          "totalStars": 1039,
+          "forks": 370
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 943,
-          "forks": 135
+          "totalStars": 964,
+          "forks": 138
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7318806?v=4"
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 907,
+          "totalStars": 908,
           "forks": 84
         },
         "contributors": [
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
+          "totalStars": 850,
           "forks": 55
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 616,
+          "totalStars": 622,
           "forks": 0
         },
         "contributors": [
@@ -154,26 +154,6 @@
       },
       {
         "rank": 8,
-        "name": "openclaw/clawpatch",
-        "description": "Review code. Patch bugs. Land PRs.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 606,
-          "forks": 88
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/252820863?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
         "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
         "language": {
@@ -182,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
+          "totalStars": 609,
           "forks": 0
         },
         "contributors": [
@@ -190,6 +170,26 @@
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "openclaw/clawpatch",
+        "description": "Review code. Patch bugs. Land PRs.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 607,
+          "forks": 88
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252820863?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 602,
+          "totalStars": 606,
           "forks": 0
         },
         "contributors": [
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 574,
+          "totalStars": 576,
           "forks": 52
         },
         "contributors": [
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 536,
+          "totalStars": 542,
           "forks": 30
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 496,
+          "totalStars": 501,
           "forks": 0
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 375,
+          "totalStars": 377,
           "forks": 51
         },
         "contributors": [
@@ -324,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 368,
-          "forks": 25
+          "totalStars": 369,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/274756484?v=4"
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 283,
-          "forks": 8
+          "totalStars": 285,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/225589786?v=4"
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 241,
+          "totalStars": 243,
           "forks": 6
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 128,
           "forks": 6
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1017,
-          "forks": 364
+          "totalStars": 1039,
+          "forks": 370
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
+          "totalStars": 850,
           "forks": 55
         },
         "contributors": [
@@ -518,6 +518,26 @@
       },
       {
         "rank": 6,
+        "name": "zhouyoukang1234-spec/windsurf-assistant",
+        "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 74,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/240407432?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "mrdoob/reframe",
         "description": "Webapp for framing a video clip and exporting an MP4.",
         "language": {
@@ -531,26 +551,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97088?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "zhouyoukang1234-spec/windsurf-assistant",
-        "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 73,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/240407432?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -606,8 +606,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 57,
-          "forks": 203
+          "totalStars": 59,
+          "forks": 205
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284953249?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 584,
+          "totalStars": 591,
           "forks": 1
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 475,
+          "totalStars": 481,
           "forks": 0
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 153,
           "forks": 24
         },
         "contributors": [
