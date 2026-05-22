@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/22 03:25:04",
+  "lastUpdate": "2026/05/22 04:06:37",
   "charts": {
     "languageDistribution": {
       "JavaScript": 2,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1484,
-          "forks": 454
+          "totalStars": 1500,
+          "forks": 456
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1171,
-          "forks": 181
+          "totalStars": 1185,
+          "forks": 184
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7318806?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1091,
-          "forks": 76
+          "totalStars": 1098,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283874042?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 723,
-          "forks": 73
+          "totalStars": 770,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46047812?v=4"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 631,
+          "totalStars": 632,
           "forks": 58
         },
         "contributors": [
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 614,
+          "totalStars": 617,
           "forks": 0
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 594,
+          "totalStars": 595,
           "forks": 0
         },
         "contributors": [
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 593,
+          "totalStars": 594,
           "forks": 0
         },
         "contributors": [
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 591,
+          "totalStars": 592,
           "forks": 0
         },
         "contributors": [
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 589,
+          "totalStars": 590,
           "forks": 0
         },
         "contributors": [
@@ -223,7 +223,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 631,
+          "totalStars": 632,
           "forks": 58
         },
         "contributors": [
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 408,
-          "forks": 56
+          "totalStars": 409,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86922?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 400,
+          "totalStars": 403,
           "forks": 17
         },
         "contributors": [
@@ -275,26 +275,6 @@
       },
       {
         "rank": 4,
-        "name": "lynote-ai/humanize-text",
-        "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 292,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/285635790?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "WUBING2023/PaperSpine",
         "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
         "language": {
@@ -303,11 +283,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
+          "totalStars": 300,
           "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242776933?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "lynote-ai/humanize-text",
+        "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 295,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/285635790?v=4"
         ],
         "tags": [
           "#Python"
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
+          "totalStars": 214,
           "forks": 27
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
+          "totalStars": 180,
           "forks": 5
         },
         "contributors": [
@@ -383,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 173,
           "forks": 188
         },
         "contributors": [
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
+          "totalStars": 172,
           "forks": 9
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1484,
-          "forks": 454
+          "totalStars": 1500,
+          "forks": 456
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1091,
-          "forks": 76
+          "totalStars": 1098,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283874042?v=4"
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 135,
+          "totalStars": 138,
           "forks": 8
         },
         "contributors": [
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
+          "totalStars": 76,
           "forks": 5
         },
         "contributors": [
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 584,
+          "totalStars": 586,
           "forks": 1
         },
         "contributors": [
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 489,
+          "totalStars": 491,
           "forks": 0
         },
         "contributors": [
