@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/23 02:45:09",
+  "lastUpdate": "2026/05/23 03:43:48",
   "charts": {
     "languageDistribution": {
       "JavaScript": 2,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1787,
-          "forks": 523
+          "totalStars": 1799,
+          "forks": 531
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1545,
-          "forks": 205
+          "totalStars": 1568,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7318806?v=4"
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1232,
+          "totalStars": 1235,
           "forks": 88
         },
         "contributors": [
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1099,
-          "forks": 116
+          "totalStars": 1108,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46047812?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 650,
-          "forks": 59
+          "totalStars": 651,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 598,
+          "totalStars": 599,
           "forks": 17
         },
         "contributors": [
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
+          "totalStars": 466,
           "forks": 38
         },
         "contributors": [
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 454,
+          "totalStars": 453,
           "forks": 0
         },
         "contributors": [
@@ -183,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
-          "forks": 16
+          "totalStars": 447,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242776933?v=4"
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 437,
+          "totalStars": 442,
           "forks": 18
         },
         "contributors": [
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 650,
-          "forks": 59
+          "totalStars": 651,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
+          "totalStars": 466,
           "forks": 38
         },
         "contributors": [
@@ -265,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
-          "forks": 16
+          "totalStars": 447,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242776933?v=4"
@@ -285,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 437,
+          "totalStars": 442,
           "forks": 18
         },
         "contributors": [
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 380,
+          "totalStars": 386,
           "forks": 43
         },
         "contributors": [
@@ -365,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 255,
+          "totalStars": 257,
           "forks": 22
         },
         "contributors": [
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
+          "totalStars": 241,
           "forks": 23
         },
         "contributors": [
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1787,
-          "forks": 523
+          "totalStars": 1799,
+          "forks": 531
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1232,
+          "totalStars": 1235,
           "forks": 88
         },
         "contributors": [
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
+          "totalStars": 203,
           "forks": 15
         },
         "contributors": [
@@ -499,6 +499,26 @@
       },
       {
         "rank": 5,
+        "name": "open-gsd/get-shit-done-redux",
+        "description": "Getting Shit Done, the Aftermath",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 150,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/286935422?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "Frank-Masciopinto/no-kings",
         "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
         "language": {
@@ -507,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
+          "totalStars": 144,
           "forks": 0
         },
         "contributors": [
@@ -518,7 +538,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
         "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
         "language": {
@@ -538,26 +558,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "open-gsd/get-shit-done-redux",
-        "description": "Getting Shit Done, the Aftermath",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 141,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/286935422?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 8,
         "name": "matem6/P2JB-Y2JB-Porting",
         "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 111,
+          "totalStars": 113,
           "forks": 13
         },
         "contributors": [
@@ -607,7 +607,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
+          "totalStars": 93,
           "forks": 27
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 421,
+          "totalStars": 420,
           "forks": 2
         },
         "contributors": [
@@ -669,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
-          "forks": 34
+          "totalStars": 196,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285915761?v=4"
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 46,
+          "totalStars": 49,
           "forks": 2
         },
         "contributors": [
