@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026/05/23 03:43:48",
+  "lastUpdate": "2026/05/24 02:57:46",
   "charts": {
     "languageDistribution": {
       "JavaScript": 2,
       "Shell": 1,
-      "HTML": 1,
-      "Python": 4,
+      "Go": 1,
+      "Python": 3,
       "Swift": 1,
-      "TypeScript": 1
+      "TypeScript": 2
     },
     "starGrowth": {}
   },
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1799,
-          "forks": 531
+          "totalStars": 2078,
+          "forks": 595
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1568,
-          "forks": 207
+          "totalStars": 1866,
+          "forks": 244
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7318806?v=4"
@@ -55,6 +55,26 @@
       },
       {
         "rank": 3,
+        "name": "perplexityai/bumblebee",
+        "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1339,
+          "forks": 104
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/185426709?v=4"
+        ],
+        "tags": [
+          "#Go"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "Doorman11991/smallcode",
         "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
         "language": {
@@ -63,34 +83,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1235,
-          "forks": 88
+          "totalStars": 1323,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283874042?v=4"
         ],
         "tags": [
           "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "datawhalechina/Agent-Learning-Hub",
-        "description": "AI Agent 学习路线与资料库收集",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1108,
-          "forks": 117
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46047812?v=4"
-        ],
-        "tags": [
-          "#HTML"
         ]
       },
       {
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 651,
-          "forks": 60
+          "totalStars": 681,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 599,
+          "totalStars": 629,
           "forks": 17
         },
         "contributors": [
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 466,
-          "forks": 38
+          "totalStars": 562,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285635790?v=4"
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 453,
+          "totalStars": 455,
           "forks": 0
         },
         "contributors": [
@@ -175,39 +175,39 @@
       },
       {
         "rank": 9,
-        "name": "WUBING2023/PaperSpine",
-        "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+        "name": "basketikun/infinite-canvas",
+        "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 447,
-          "forks": 17
+          "totalStars": 454,
+          "forks": 87
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/242776933?v=4"
+          "https://avatars.githubusercontent.com/u/114481029?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       },
       {
         "rank": 10,
-        "name": "LiuMengxuan04/shushu-internship-tool",
-        "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+        "name": "evilsocket/audit",
+        "description": "An 8-stage vulnerability-discovery agent.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
-          "forks": 18
+          "totalStars": 448,
+          "forks": 63
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/225589786?v=4"
+          "https://avatars.githubusercontent.com/u/86922?v=4"
         ],
         "tags": [
           "#Python"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 651,
-          "forks": 60
+          "totalStars": 681,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 466,
-          "forks": 38
+          "totalStars": 562,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285635790?v=4"
@@ -257,46 +257,6 @@
       },
       {
         "rank": 3,
-        "name": "WUBING2023/PaperSpine",
-        "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 447,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/242776933?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "LiuMengxuan04/shushu-internship-tool",
-        "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 442,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/225589786?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "evilsocket/audit",
         "description": "An 8-stage vulnerability-discovery agent.",
         "language": {
@@ -305,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 435,
-          "forks": 60
+          "totalStars": 448,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86922?v=4"
@@ -316,7 +276,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "paradigmxyz/centaur",
         "description": "Multiplayer, self-hosted, secure agents.",
         "language": {
@@ -325,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 386,
-          "forks": 43
+          "totalStars": 435,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97369466?v=4"
@@ -336,7 +296,67 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "0xSero/codex-shim",
+        "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 383,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/69639595?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Tong89/smartNode",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 361,
+          "forks": 33
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96812539?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "Tencent-Hunyuan/Hy-MT2",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 278,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/210980732?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "Klotzkette/claude-fuer-deutsches-recht",
         "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
         "language": {
@@ -345,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 268,
+          "totalStars": 272,
           "forks": 16
         },
         "contributors": [
@@ -356,28 +376,8 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "Tong89/smartNode",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 257,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/96812539?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "Tencent-Hunyuan/Hy-MT2",
+        "name": "orchestration-agent/AgentOrchestration",
         "description": "暂无描述",
         "language": {
           "name": "Python",
@@ -385,11 +385,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
-          "forks": 19
+          "totalStars": 249,
+          "forks": 258
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/210980732?v=4"
+          "https://avatars.githubusercontent.com/u/286040747?v=4"
         ],
         "tags": [
           "#Python"
@@ -397,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "0xSero/codex-shim",
-        "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+        "name": "Jawaz-Keyzor/DarkGPT",
+        "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 241,
-          "forks": 23
+          "totalStars": 243,
+          "forks": 210
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/69639595?v=4"
+          "https://avatars.githubusercontent.com/u/178296144?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1799,
-          "forks": 531
+          "totalStars": 2078,
+          "forks": 595
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1235,
-          "forks": 88
+          "totalStars": 1323,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283874042?v=4"
@@ -459,6 +459,26 @@
       },
       {
         "rank": 3,
+        "name": "open-gsd/get-shit-done-redux",
+        "description": "Getting Shit Done, the Aftermath",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 376,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/286935422?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "edgenuitybot/exodusbot",
         "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
         "language": {
@@ -478,7 +498,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "run-liyi/wechatpay",
         "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
         "language": {
@@ -487,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 203,
-          "forks": 15
+          "totalStars": 271,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/106264291?v=4"
@@ -498,27 +518,27 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "open-gsd/get-shit-done-redux",
-        "description": "Getting Shit Done, the Aftermath",
+        "rank": 6,
+        "name": "jianshuo/ccglass",
+        "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
-          "forks": 13
+          "totalStars": 159,
+          "forks": 10
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/286935422?v=4"
+          "https://avatars.githubusercontent.com/u/2012831?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Frank-Masciopinto/no-kings",
         "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
         "language": {
@@ -527,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 144,
+          "totalStars": 146,
           "forks": 0
         },
         "contributors": [
@@ -538,7 +558,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
         "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
         "language": {
@@ -547,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
+          "totalStars": 142,
           "forks": 9
         },
         "contributors": [
@@ -558,7 +578,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "matem6/P2JB-Y2JB-Porting",
         "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
         "language": {
@@ -567,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
-          "forks": 13
+          "totalStars": 131,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2808337?v=4"
@@ -578,40 +598,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "zhouyoukang1234-spec/windsurf-assistant",
-        "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 103,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/240407432?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "energypantry/agent-browser-runtime",
-        "description": "暂无描述",
+        "name": "elyelysiox/recaptcha",
+        "description": "Documentation and reverse engineering of reCAPTCHA",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
-          "forks": 27
+          "totalStars": 119,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/34472578?v=4"
+          "https://avatars.githubusercontent.com/u/108831238?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 420,
+          "totalStars": 431,
           "forks": 2
         },
         "contributors": [
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
+          "totalStars": 365,
           "forks": 0
         },
         "contributors": [
@@ -669,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 196,
-          "forks": 35
+          "totalStars": 208,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285915761?v=4"
@@ -681,19 +681,19 @@
       },
       {
         "rank": 4,
-        "name": "ip-arch/NESLab",
-        "description": "Educational materials for Embedded systems with NES",
+        "name": "apple/corecrypto",
+        "description": "Apple corecrypto",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 6
+          "totalStars": 132,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14865027?v=4"
+          "https://avatars.githubusercontent.com/u/10639145?v=4"
         ],
         "tags": [
           "#C++"
@@ -710,7 +710,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 89,
-          "forks": 0
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279140317?v=4"
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 74,
+          "totalStars": 77,
           "forks": 7
         },
         "contributors": [
@@ -761,19 +761,19 @@
       },
       {
         "rank": 8,
-        "name": "apple/corecrypto",
-        "description": "Apple corecrypto",
+        "name": "POWER-PILL/ASCII-Aquarium",
+        "description": "ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More!",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 49,
+          "totalStars": 37,
           "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/10639145?v=4"
+          "https://avatars.githubusercontent.com/u/286075298?v=4"
         ],
         "tags": [
           "#C++"
@@ -781,6 +781,26 @@
       },
       {
         "rank": 9,
+        "name": "ZunhaiSu/OScaR-KV-Quant",
+        "description": "🏆 OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond — redefining the accuracy-efficiency Pareto front for X-LLMs KV quantization.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 30,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/146147773?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "CircleViceroy/Elden-Ring-stability",
         "description": "🛡️🔥 Elden Ring Hack 2026 - Undetected cheat with God Mode, Infinite Runes, ESP, One-Hit Kills, Speed Hack and more. Best performance and stability for Elden Ring.",
         "language": {
@@ -794,26 +814,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/281299171?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "StageStaple61/FiveM-Latest-Version-2026",
-        "description": "⭐️ FiveM Mod Menu | GTA V Custom Multiplayer Server | Script Executor Trainer Loader | Aimbot ESP WH NoClip Speedhack | AntiAFK Auto Farm Glow Skin Changer | RageHack Legit Triggerbot | Undetected Latest Build 2026 | Windows 10/11 PC ⭐️",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 24,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279140769?v=4"
         ],
         "tags": [
           "#C++"
