@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/05/27 03:32:33",
+  "lastUpdate": "2026/05/27 04:16:17",
   "charts": {
     "languageDistribution": {
-      "Python": 3,
+      "Python": 4,
       "JavaScript": 2,
-      "TypeScript": 4,
+      "TypeScript": 3,
       "Vue": 1
     },
     "starGrowth": {}
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1170,
-          "forks": 97
+          "totalStars": 1182,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96812539?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1123,
-          "forks": 68
+          "totalStars": 1129,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286935422?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 829,
-          "forks": 68
+          "totalStars": 839,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/106264291?v=4"
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 746,
+          "totalStars": 751,
           "forks": 53
         },
         "contributors": [
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
+          "totalStars": 440,
           "forks": 99
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 340,
+          "totalStars": 339,
           "forks": 3975
         },
         "contributors": [
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 318,
-          "forks": 29
+          "totalStars": 321,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/106414602?v=4"
@@ -173,6 +173,26 @@
       },
       {
         "rank": 9,
+        "name": "nv-tlabs/PiD",
+        "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 318,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/49653101?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "XingYu-Zhong/DeepSeek-GUI",
         "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
         "language": {
@@ -190,26 +210,6 @@
         "tags": [
           "#TypeScript"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "md0070/polymarket-trading-bot",
-        "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 316,
-          "forks": 4486
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/49436704?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
       }
     ],
     "Python": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1170,
-          "forks": 97
+          "totalStars": 1182,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96812539?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
+          "totalStars": 440,
           "forks": 99
         },
         "contributors": [
@@ -283,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
+          "totalStars": 318,
           "forks": 10
         },
         "contributors": [
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 271,
+          "totalStars": 272,
           "forks": 78
         },
         "contributors": [
@@ -364,7 +364,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 249,
-          "forks": 2015
+          "forks": 2059
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286711328?v=4"
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 169,
           "forks": 25
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1123,
-          "forks": 68
+          "totalStars": 1129,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286935422?v=4"
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 829,
-          "forks": 68
+          "totalStars": 839,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/106264291?v=4"
@@ -485,7 +485,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 187,
           "forks": 19
         },
         "contributors": [
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 157,
-          "forks": 1797
+          "totalStars": 159,
+          "forks": 1850
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286714469?v=4"
@@ -565,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
-          "forks": 19
+          "totalStars": 144,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/762025?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
+          "totalStars": 165,
           "forks": 10
         },
         "contributors": [
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 144,
+          "totalStars": 146,
           "forks": 0
         },
         "contributors": [
@@ -687,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
+          "totalStars": 99,
           "forks": 12
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
+          "totalStars": 90,
           "forks": 0
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 58,
+          "totalStars": 59,
           "forks": 0
         },
         "contributors": [
@@ -759,6 +759,26 @@
       },
       {
         "rank": 8,
+        "name": "actuallyaridan/linux-devmgmt",
+        "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 58,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96298432?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "aakash-ak0704/BuddyTracker",
         "description": "暂无描述",
         "language": {
@@ -778,26 +798,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "actuallyaridan/linux-devmgmt",
-        "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 51,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/96298432?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 10,
         "name": "Bhojendra-dev/LSFG-Desktop",
         "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup",
@@ -807,7 +807,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 44,
+          "totalStars": 51,
           "forks": 0
         },
         "contributors": [
