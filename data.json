@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/05/27 04:16:17",
+  "lastUpdate": "2026/05/28 02:52:20",
   "charts": {
     "languageDistribution": {
-      "Python": 4,
-      "JavaScript": 2,
+      "JavaScript": 3,
       "TypeScript": 3,
+      "Python": 3,
       "Vue": 1
     },
     "starGrowth": {}
@@ -13,26 +13,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "Tong89/smartNode",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1182,
-          "forks": 98
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/96812539?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "open-gsd/get-shit-done-redux",
         "description": "Getting Shit Done, the Aftermath",
         "language": {
@@ -41,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1129,
-          "forks": 69
+          "totalStars": 1357,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286935422?v=4"
@@ -52,27 +32,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "run-liyi/wechatpay",
-        "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 839,
-          "forks": 69
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/106264291?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "MoonshotAI/kimi-code",
         "description": "The Starting Point for Next-Gen Agents",
         "language": {
@@ -81,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 751,
-          "forks": 53
+          "totalStars": 895,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -92,7 +52,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "0xSero/codex-shim",
         "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
         "language": {
@@ -101,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 637,
-          "forks": 56
+          "totalStars": 660,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/69639595?v=4"
@@ -112,47 +72,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "zhaoyue4810/pianke",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 440,
-          "forks": 99
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/33751004?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "ShinyaTomitsuka/arbitrage-trading-bot",
-        "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 339,
-          "forks": 3975
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/51909060?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "name": "study8677/awesome-architecture",
         "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
         "language": {
@@ -161,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 321,
-          "forks": 31
+          "totalStars": 579,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/106414602?v=4"
@@ -172,89 +92,7 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "nv-tlabs/PiD",
-        "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 318,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/49653101?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "XingYu-Zhong/DeepSeek-GUI",
-        "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 317,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/42194301?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "Tong89/smartNode",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1182,
-          "forks": 98
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/96812539?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "0xSero/codex-shim",
-        "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 637,
-          "forks": 56
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/69639595?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
+        "rank": 5,
         "name": "zhaoyue4810/pianke",
         "description": "暂无描述",
         "language": {
@@ -263,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 440,
-          "forks": 99
+          "totalStars": 505,
+          "forks": 111
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/33751004?v=4"
@@ -274,27 +112,27 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "nv-tlabs/PiD",
-        "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+        "rank": 6,
+        "name": "UditAkhourii/adhd",
+        "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 318,
-          "forks": 10
+          "totalStars": 362,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/49653101?v=4"
+          "https://avatars.githubusercontent.com/u/156824020?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 5,
+        "rank": 7,
         "name": "VILA-Lab/FigMirror",
         "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
         "language": {
@@ -303,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
+          "totalStars": 334,
           "forks": 19
         },
         "contributors": [
@@ -314,47 +152,129 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "hanyi0000/chatgpt-plus-automation-toolkit",
-        "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 272,
-          "forks": 78
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/169607393?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Simbastack-hq/framedex",
-        "description": "Framedex — a queryable knowledge base for your video archive",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 259,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63765101?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 8,
+        "name": "jianshuo/ccglass",
+        "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 314,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2012831?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "SigmaTradeLabs/aster-bot",
+        "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 312,
+          "forks": 1027
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/286707516?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "yui540/comimi",
+        "description": "Open-source comic reader library for JS/TS",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 312,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12015279?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "0xSero/codex-shim",
+        "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 660,
+          "forks": 57
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/69639595?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "zhaoyue4810/pianke",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 505,
+          "forks": 111
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/33751004?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "VILA-Lab/FigMirror",
+        "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 334,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/101944607?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "Novaquant-labs/hyperliquid-trading-bot",
         "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
         "language": {
@@ -363,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 249,
-          "forks": 2059
+          "totalStars": 311,
+          "forks": 2158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286711328?v=4"
@@ -374,27 +294,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "zqbxdev/webchat2api",
-        "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management",
+        "rank": 5,
+        "name": "FlashML-org/flashlib",
+        "description": "Fast and memory-efficient classical machine learning operators",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 207,
-          "forks": 46
+          "totalStars": 260,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/285846208?v=4"
+          "https://avatars.githubusercontent.com/u/286493426?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 6,
         "name": "leochlon/ntkmirror",
         "description": "暂无描述",
         "language": {
@@ -403,11 +323,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
-          "forks": 25
+          "totalStars": 206,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60907456?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "buaochatuqa/open-source-games",
+        "description": "A list of open source games.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 201,
+          "forks": 1540
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16885843?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "resonancegnatassess/Lossless-Scaling",
+        "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 190,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273874408?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Astraltenprosper/uncensored-ai-image-video-generator",
+        "description": "AI tool for generating uncensored images and videos (18+)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 182,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273874484?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "henliveira/av-curator",
+        "description": "Audio-visual data curation pipeline — scene cuts, silence trim, dedup, CLIP/Whisper filtering for messy web video.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 180,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/257212418?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1129,
-          "forks": 69
+          "totalStars": 1357,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286935422?v=4"
@@ -437,26 +437,6 @@
       },
       {
         "rank": 2,
-        "name": "run-liyi/wechatpay",
-        "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 839,
-          "forks": 69
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/106264291?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "jianshuo/ccglass",
         "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
         "language": {
@@ -465,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
-          "forks": 19
+          "totalStars": 314,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2012831?v=4"
@@ -476,20 +456,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "matem6/P2JB-Y2JB-Porting",
-        "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+        "rank": 3,
+        "name": "SigmaTradeLabs/aster-bot",
+        "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
-          "forks": 19
+          "totalStars": 312,
+          "forks": 1027
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/2808337?v=4"
+          "https://avatars.githubusercontent.com/u/286707516?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "bryanyzhu/agentic-ai-system-course",
+        "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 270,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16021460?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
-          "forks": 1850
+          "totalStars": 237,
+          "forks": 2582
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286714469?v=4"
@@ -517,6 +517,26 @@
       },
       {
         "rank": 6,
+        "name": "paraschopra/make-pages-interactive",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/762025?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "real-Elysia886/Todo-Tree-Next",
         "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
         "language": {
@@ -525,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
+          "totalStars": 178,
           "forks": 8
         },
         "contributors": [
@@ -536,7 +556,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "elyelysiox/recaptcha",
         "description": "Documentation and reverse engineering of reCAPTCHA",
         "language": {
@@ -545,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
-          "forks": 22
+          "totalStars": 149,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108831238?v=4"
@@ -556,40 +576,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "paraschopra/make-pages-interactive",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 144,
-          "forks": 20
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/762025?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
-        "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots.",
+        "name": "ytnrvdf/wha-spell-simulator",
+        "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
-          "forks": 0
+          "totalStars": 107,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279865376?v=4"
+          "https://avatars.githubusercontent.com/u/287546222?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -597,19 +597,19 @@
       },
       {
         "rank": 10,
-        "name": "Frank-Masciopinto/no-kings",
-        "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+        "name": "nevertoday/xposter",
+        "description": "Chrome MV3 extension for importing Markdown drafts into X Articles.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 125,
-          "forks": 0
+          "totalStars": 102,
+          "forks": 20
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/78543213?v=4"
+          "https://avatars.githubusercontent.com/u/166048?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
-          "forks": 17
+          "totalStars": 233,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10639145?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 165,
+          "totalStars": 220,
           "forks": 10
         },
         "contributors": [
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 146,
+          "totalStars": 193,
           "forks": 0
         },
         "contributors": [
@@ -679,86 +679,6 @@
       },
       {
         "rank": 4,
-        "name": "JasonLam08/cursor_agent_status_light",
-        "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 99,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/38150987?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "bakkesmodrocketleague/bakkesmod",
-        "description": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 90,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/87294788?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "x86byte/sbox",
-        "description": "Compile-time AES string obfuscation for C++",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 64,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/111459558?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Liset999/ZenDesktop",
-        "description": "A ultra-lightweight, high-performance Windows desktop and taskbar enhancement utility with a native C++ Windhawk mod and a standalone tray daemon.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 59,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/218059571?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "actuallyaridan/linux-devmgmt",
         "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well.",
         "language": {
@@ -767,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 58,
+          "totalStars": 188,
           "forks": 1
         },
         "contributors": [
@@ -778,27 +698,47 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "aakash-ak0704/BuddyTracker",
-        "description": "暂无描述",
+        "rank": 5,
+        "name": "SMCGames/Paper-Mario-ReCut",
+        "description": "A PC Port of Paper Mario for N64",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
-          "forks": 0
+          "totalStars": 141,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/216832611?v=4"
+          "https://avatars.githubusercontent.com/u/183752111?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 10,
+        "rank": 6,
+        "name": "bakkesmodrocketleague/bakkesmod",
+        "description": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 135,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/87294788?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Bhojendra-dev/LSFG-Desktop",
         "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup",
         "language": {
@@ -807,11 +747,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51,
+          "totalStars": 135,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/178030191?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "JasonLam08/cursor_agent_status_light",
+        "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 134,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38150987?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "oyunhacktr/Windows-Xbox-Mode",
+        "description": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 86,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/157810473?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "x86byte/sbox",
+        "description": "Compile-time AES string obfuscation for C++",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 80,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/111459558?v=4"
         ],
         "tags": [
           "#C++"
