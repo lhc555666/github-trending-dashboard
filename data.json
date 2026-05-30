@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/05/30 02:49:24",
+  "lastUpdate": "2026/05/30 03:53:37",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1175,
+          "totalStars": 1187,
           "forks": 135
         },
         "contributors": [
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 850,
+          "totalStars": 864,
           "forks": 77
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 516,
+          "totalStars": 519,
           "forks": 25
         },
         "contributors": [
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 508,
-          "forks": 126
+          "totalStars": 512,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85094695?v=4"
@@ -94,6 +94,26 @@
       },
       {
         "rank": 5,
+        "name": "Michaelliv/pi-dynamic-workflows",
+        "description": "暂无描述",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 450,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13676242?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "harrietteehisqu7759383/kms-pico-latest-april-2026",
         "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments.",
         "language": {
@@ -113,26 +133,6 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "Michaelliv/pi-dynamic-workflows",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 444,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/13676242?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
         "rank": 7,
         "name": "baoweise-bot/aimili-vpngate",
         "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 158
+          "totalStars": 437,
+          "forks": 164
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287723012?v=4"
@@ -154,6 +154,26 @@
       },
       {
         "rank": 8,
+        "name": "Sophomoresty/gemini-web2api",
+        "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 402,
+          "forks": 152
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/94944221?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "alfiyahkamilah1239298/WallpaperDownloader-26",
         "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.",
         "language": {
@@ -170,26 +190,6 @@
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Sophomoresty/gemini-web2api",
-        "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 397,
-          "forks": 150
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/94944221?v=4"
-        ],
-        "tags": [
-          "#Python"
         ]
       },
       {
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 158
+          "totalStars": 437,
+          "forks": 164
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287723012?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 150
+          "totalStars": 402,
+          "forks": 152
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 362,
           "forks": 2158
         },
         "contributors": [
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
-          "forks": 290
+          "totalStars": 324,
+          "forks": 297
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187950525?v=4"
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 290,
+          "totalStars": 296,
           "forks": 39
         },
         "contributors": [
@@ -345,7 +345,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 224,
-          "forks": 1954
+          "forks": 2014
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/256743813?v=4"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 508,
-          "forks": 126
+          "totalStars": 512,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85094695?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
+          "totalStars": 360,
           "forks": 1027
         },
         "contributors": [
@@ -458,26 +458,6 @@
       },
       {
         "rank": 3,
-        "name": "neuralCPL/polymarket-trading-bot",
-        "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 311,
-          "forks": 2582
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/286714469?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "ytnrvdf/wha-spell-simulator",
         "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
         "language": {
@@ -486,11 +466,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
+          "totalStars": 314,
           "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287546222?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "neuralCPL/polymarket-trading-bot",
+        "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 312,
+          "forks": 2582
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/286714469?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
+          "totalStars": 308,
           "forks": 40
         },
         "contributors": [
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
+          "totalStars": 130,
           "forks": 20
         },
         "contributors": [
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 101,
+          "totalStars": 102,
           "forks": 30
         },
         "contributors": [
@@ -606,8 +606,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
-          "forks": 29
+          "totalStars": 94,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 299,
+          "totalStars": 300,
           "forks": 0
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
+          "totalStars": 235,
           "forks": 1
         },
         "contributors": [
