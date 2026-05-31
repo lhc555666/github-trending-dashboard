@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/05/31 03:33:12",
+  "lastUpdate": "2026/05/31 04:18:32",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
       "TypeScript": 3,
-      "JavaScript": 1,
       "Go": 1,
+      "JavaScript": 1,
       "Python": 2
     },
     "starGrowth": {}
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1678,
-          "forks": 175
+          "totalStars": 1695,
+          "forks": 179
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1166,
-          "forks": 100
+          "totalStars": 1186,
+          "forks": 101
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/89686060?v=4"
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 607,
+          "totalStars": 611,
           "forks": 27
         },
         "contributors": [
@@ -74,26 +74,6 @@
       },
       {
         "rank": 4,
-        "name": "withkynam/vibecode-pro-max-kit",
-        "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 602,
-          "forks": 149
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/85094695?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "MatinSenPai/SenPaiScanner",
         "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
         "language": {
@@ -102,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 601,
+          "totalStars": 608,
           "forks": 41
         },
         "contributors": [
@@ -110,6 +90,26 @@
         ],
         "tags": [
           "#Go"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "withkynam/vibecode-pro-max-kit",
+        "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 606,
+          "forks": 151
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/85094695?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 582,
-          "forks": 30
+          "totalStars": 584,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13676242?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 561,
-          "forks": 189
+          "totalStars": 581,
+          "forks": 191
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 516,
-          "forks": 210
+          "totalStars": 521,
+          "forks": 211
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287723012?v=4"
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 463,
+          "totalStars": 464,
           "forks": 12
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 430,
+          "totalStars": 434,
           "forks": 2
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 561,
-          "forks": 189
+          "totalStars": 581,
+          "forks": 191
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 516,
-          "forks": 210
+          "totalStars": 521,
+          "forks": 211
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287723012?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
-          "forks": 403
+          "totalStars": 418,
+          "forks": 407
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187950525?v=4"
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 379,
+          "totalStars": 380,
           "forks": 52
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 602,
-          "forks": 149
+          "totalStars": 606,
+          "forks": 151
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85094695?v=4"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
+          "totalStars": 335,
           "forks": 2582
         },
         "contributors": [
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 271,
+          "totalStars": 275,
           "forks": 1821
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
+          "totalStars": 114,
           "forks": 0
         },
         "contributors": [
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
+          "totalStars": 265,
           "forks": 2
         },
         "contributors": [
@@ -708,8 +708,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
-          "forks": 24
+          "totalStars": 177,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38150987?v=4"
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 133,
           "forks": 0
         },
         "contributors": [
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
+          "totalStars": 115,
           "forks": 17
         },
         "contributors": [
@@ -788,7 +788,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
+          "totalStars": 62,
           "forks": 38
         },
         "contributors": [
