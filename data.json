@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/02 03:40:51",
+  "lastUpdate": "2026/06/02 04:26:07",
   "charts": {
     "languageDistribution": {
       "JavaScript": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 21848,
-          "forks": 2676
+          "totalStars": 22092,
+          "forks": 2719
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2450,
+          "totalStars": 2453,
           "forks": 245
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1650,
+          "totalStars": 1653,
           "forks": 148
         },
         "contributors": [
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1456,
+          "totalStars": 1458,
           "forks": 131
         },
         "contributors": [
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1100,
-          "forks": 286
+          "totalStars": 1113,
+          "forks": 290
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 858,
+          "totalStars": 859,
           "forks": 57
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 706,
+          "totalStars": 708,
           "forks": 38
         },
         "contributors": [
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 687,
-          "forks": 414
+          "totalStars": 692,
+          "forks": 418
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 641,
+          "totalStars": 638,
           "forks": 17
         },
         "contributors": [
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1456,
+          "totalStars": 1458,
           "forks": 131
         },
         "contributors": [
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1100,
-          "forks": 286
+          "totalStars": 1113,
+          "forks": 290
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 687,
-          "forks": 414
+          "totalStars": 692,
+          "forks": 418
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 336,
+          "totalStars": 338,
           "forks": 26
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 277,
+          "totalStars": 278,
           "forks": 16
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 209,
+          "totalStars": 215,
           "forks": 45
         },
         "contributors": [
@@ -356,6 +356,26 @@
       },
       {
         "rank": 8,
+        "name": "johnmiddleton12/my-whoop",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 192,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6627370?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "bozhouDev/14days-build-claude-code-cli",
         "description": "网页版教程，看起来会舒服一点",
         "language": {
@@ -369,26 +389,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259759010?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "johnmiddleton12/my-whoop",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 190,
-          "forks": 96
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6627370?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 21848,
-          "forks": 2676
+          "totalStars": 22092,
+          "forks": 2719
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
-          "forks": 27
+          "totalStars": 185,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98100115?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
+          "totalStars": 113,
           "forks": 33
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 86,
+          "totalStars": 87,
           "forks": 18
         },
         "contributors": [
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 77,
+          "totalStars": 78,
           "forks": 1
         },
         "contributors": [
@@ -607,7 +607,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 67,
-          "forks": 17
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288935571?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 277,
+          "totalStars": 278,
           "forks": 14
         },
         "contributors": [
@@ -640,26 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "oyunhacktr/Windows-Xbox-Mode",
-        "description": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 234,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/157810473?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "mavi9727stoke6893/Acrobat-Version-Pro-2",
         "description": "Adobe Acrobat Pro Professional 2026 – Industry-standard PDF editor for creating, editing, converting, and signing documents with advanced features.",
         "language": {
@@ -673,6 +653,26 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288400141?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "oyunhacktr/Windows-Xbox-Mode",
+        "description": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 185,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/157810473?v=4"
         ],
         "tags": [
           "#C++"
@@ -700,26 +700,6 @@
       },
       {
         "rank": 5,
-        "name": "faldyrd/Auto-2026",
-        "description": "autocad 2026 free download crack torrent x-force keygen product key activation windows 11 setup guide fix latest version",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 176,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/38848787?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "mudler/parakeet.cpp",
         "description": "Parakeet implementation in C++ with ggml",
         "language": {
@@ -728,11 +708,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
+          "totalStars": 154,
           "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2420543?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "faldyrd/Auto-2026",
+        "description": "autocad 2026 free download crack torrent x-force keygen product key activation windows 11 setup guide fix latest version",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 140,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38848787?v=4"
         ],
         "tags": [
           "#C++"
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
+          "totalStars": 137,
           "forks": 15
         },
         "contributors": [
@@ -760,26 +760,6 @@
       },
       {
         "rank": 8,
-        "name": "kigumotvc/cslol-manager",
-        "description": "cslol manager skins league of legends lol custom skins mod manager github download runeforge fantome format ltk manager",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 105,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/228557814?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "mani5717/hwid-spoofer-utility",
         "description": "Spoof hardware identifiers to bypass system-level bans and restrictions.",
         "language": {
@@ -793,6 +773,26 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/197091217?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "kigumotvc/cslol-manager",
+        "description": "cslol manager skins league of legends lol custom skins mod manager github download runeforge fantome format ltk manager",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 98,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/228557814?v=4"
         ],
         "tags": [
           "#C++"
