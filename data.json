@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/03 03:50:26",
+  "lastUpdate": "2026/06/03 04:45:28",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 34276,
-          "forks": 4088
+          "totalStars": 34613,
+          "forks": 4129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1561,
-          "forks": 447
+          "totalStars": 1589,
+          "forks": 451
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88082356?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1270,
-          "forks": 331
+          "totalStars": 1275,
+          "forks": 334
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1109,
-          "forks": 560
+          "totalStars": 1120,
+          "forks": 565
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 905,
+          "totalStars": 906,
           "forks": 59
         },
         "contributors": [
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 812,
-          "forks": 254
+          "totalStars": 852,
+          "forks": 264
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 741,
+          "totalStars": 744,
           "forks": 38
         },
         "contributors": [
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 687,
+          "totalStars": 689,
           "forks": 19
         },
         "contributors": [
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 649,
-          "forks": 54
+          "totalStars": 654,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242654945?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1270,
-          "forks": 331
+          "totalStars": 1275,
+          "forks": 334
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1109,
-          "forks": 560
+          "totalStars": 1120,
+          "forks": 565
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 649,
-          "forks": 54
+          "totalStars": 654,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242654945?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 431,
-          "forks": 98
+          "totalStars": 441,
+          "forks": 99
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/227941353?v=4"
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
+          "totalStars": 389,
           "forks": 28
         },
         "contributors": [
@@ -316,6 +316,26 @@
       },
       {
         "rank": 6,
+        "name": "tiantianGPU/reg-factory",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 249,
+          "forks": 132
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/164491093?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "VAST-AI-Research/TripoSplat",
         "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
         "language": {
@@ -324,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
+          "totalStars": 248,
           "forks": 15
         },
         "contributors": [
@@ -335,7 +355,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "WUBING2023/ExamPass-Assistant",
         "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友",
         "language": {
@@ -344,31 +364,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 237,
+          "totalStars": 239,
           "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242776933?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "tiantianGPU/reg-factory",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 235,
-          "forks": 130
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/164491093?v=4"
         ],
         "tags": [
           "#Python"
@@ -384,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
-          "forks": 112
+          "totalStars": 223,
+          "forks": 113
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6627370?v=4"
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
+          "totalStars": 221,
           "forks": 17
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 34276,
-          "forks": 4088
+          "totalStars": 34613,
+          "forks": 4129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
-          "forks": 35
+          "totalStars": 125,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
@@ -518,6 +518,26 @@
       },
       {
         "rank": 6,
+        "name": "PanisHandsome/ai-rules-sync",
+        "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 84,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/272724896?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "one880808/gemini-web2api",
         "description": "Sophomoresty/gemini-web2api 的 cf wokers 版本",
         "language": {
@@ -537,7 +557,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "tommy0103/obelisk",
         "description": "Every past session, subagent, and workflow -- queryable by your agent.",
         "language": {
@@ -551,26 +571,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43411539?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "PanisHandsome/ai-rules-sync",
-        "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 61,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/272724896?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 326,
+          "totalStars": 329,
           "forks": 23
         },
         "contributors": [
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 197,
+          "totalStars": 198,
           "forks": 10
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 183,
+          "totalStars": 185,
           "forks": 17
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
+          "totalStars": 116,
           "forks": 0
         },
         "contributors": [
