@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/04 03:43:13",
+  "lastUpdate": "2026/06/04 04:40:06",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 44572,
-          "forks": 5167
+          "totalStars": 44911,
+          "forks": 5197
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1965,
-          "forks": 540
+          "totalStars": 1971,
+          "forks": 541
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88082356?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1483,
-          "forks": 420
+          "totalStars": 1492,
+          "forks": 421
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -73,26 +73,6 @@
       },
       {
         "rank": 4,
-        "name": "asz798838958/aBaiAutoplus",
-        "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1410,
-          "forks": 663
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30143908?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "zgwl/chinese-buy-us-stock-guide",
         "description": "美股指南",
         "language": {
@@ -101,14 +81,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1379,
-          "forks": 216
+          "totalStars": 1479,
+          "forks": 227
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6014068?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "asz798838958/aBaiAutoplus",
+        "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1414,
+          "forks": 666
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/30143908?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 851,
+          "totalStars": 877,
           "forks": 47
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 767,
+          "totalStars": 769,
           "forks": 74
         },
         "contributors": [
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 562,
-          "forks": 38
+          "totalStars": 565,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/140437827?v=4"
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 531,
+          "totalStars": 533,
           "forks": 115
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1410,
-          "forks": 663
+          "totalStars": 1414,
+          "forks": 666
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 767,
+          "totalStars": 769,
           "forks": 74
         },
         "contributors": [
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 531,
+          "totalStars": 533,
           "forks": 115
         },
         "contributors": [
@@ -283,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 401,
-          "forks": 29
+          "totalStars": 402,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24324638?v=4"
@@ -303,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
-          "forks": 188
+          "totalStars": 386,
+          "forks": 189
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/164491093?v=4"
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 328,
+          "totalStars": 329,
           "forks": 28
         },
         "contributors": [
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
+          "totalStars": 314,
           "forks": 23
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
+          "totalStars": 295,
           "forks": 11
         },
         "contributors": [
@@ -383,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
+          "totalStars": 279,
           "forks": 14
         },
         "contributors": [
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 270,
+          "totalStars": 272,
           "forks": 4
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 44572,
-          "forks": 5167
+          "totalStars": 44911,
+          "forks": 5197
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -437,6 +437,26 @@
       },
       {
         "rank": 2,
+        "name": "mrdoob/draco.js",
+        "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 104,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/97088?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "owenshuo/open-bounty-radar",
         "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
         "language": {
@@ -450,26 +470,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/55501274?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "mrdoob/draco.js",
-        "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 101,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97088?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 84,
+          "totalStars": 94,
           "forks": 0
         },
         "contributors": [
