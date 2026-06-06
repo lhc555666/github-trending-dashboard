@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/06 02:52:07",
+  "lastUpdate": "2026/06/06 03:56:48",
   "charts": {
     "languageDistribution": {
       "Python": 6,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55932,
-          "forks": 6641
+          "totalStars": 56049,
+          "forks": 6667
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1712,
-          "forks": 138
+          "totalStars": 1743,
+          "forks": 140
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25715982?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1533,
-          "forks": 695
+          "totalStars": 1537,
+          "forks": 697
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 882,
+          "totalStars": 884,
           "forks": 87
         },
         "contributors": [
@@ -113,6 +113,26 @@
       },
       {
         "rank": 6,
+        "name": "jd-opensource/JoyAI-Echo",
+        "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 586,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/75349771?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
         "description": "暂无描述",
         "language": {
@@ -126,26 +146,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/227941353?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "jd-opensource/JoyAI-Echo",
-        "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 579,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/75349771?v=4"
         ],
         "tags": [
           "#Python"
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 440,
+          "totalStars": 439,
           "forks": 8
         },
         "contributors": [
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 436,
+          "totalStars": 438,
           "forks": 41
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55932,
-          "forks": 6641
+          "totalStars": 56049,
+          "forks": 6667
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/229018391?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1533,
-          "forks": 695
+          "totalStars": 1537,
+          "forks": 697
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 882,
+          "totalStars": 884,
           "forks": 87
         },
         "contributors": [
@@ -275,6 +275,26 @@
       },
       {
         "rank": 4,
+        "name": "jd-opensource/JoyAI-Echo",
+        "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 586,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/75349771?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
         "description": "暂无描述",
         "language": {
@@ -294,26 +314,6 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "jd-opensource/JoyAI-Echo",
-        "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 579,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/75349771?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 6,
         "name": "VAST-AI-Research/TripoSplat",
         "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 436,
+          "totalStars": 438,
           "forks": 41
         },
         "contributors": [
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 435,
+          "totalStars": 438,
           "forks": 212
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 351,
+          "totalStars": 352,
           "forks": 5
         },
         "contributors": [
@@ -425,7 +425,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 389,
+          "totalStars": 398,
           "forks": 64
         },
         "contributors": [
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 144,
+          "totalStars": 145,
           "forks": 8
         },
         "contributors": [
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133,
+          "totalStars": 141,
           "forks": 455
         },
         "contributors": [
@@ -505,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
+          "totalStars": 98,
           "forks": 348
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 152,
           "forks": 5
         },
         "contributors": [
