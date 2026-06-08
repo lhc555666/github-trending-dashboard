@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/06/07 04:23:14",
+  "lastUpdate": "2026/06/08 03:42:33",
   "charts": {
     "languageDistribution": {
-      "Rust": 1,
-      "TypeScript": 1,
-      "Python": 6,
+      "TypeScript": 2,
+      "Rust": 2,
+      "Python": 1,
       "Go": 1,
-      "JavaScript": 1
+      "JavaScript": 3
     },
     "starGrowth": {}
   },
@@ -14,26 +14,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "b-nnett/goose",
-        "description": "Goose Swift proof-of-concept README",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2169,
-          "forks": 506
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/62760393?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "cpaczek/skylight",
         "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
         "language": {
@@ -42,14 +22,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2100,
-          "forks": 200
+          "totalStars": 2281,
+          "forks": 227
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25715982?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "b-nnett/goose",
+        "description": "Goose Swift proof-of-concept README",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2260,
+          "forks": 532
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/62760393?v=4"
+        ],
+        "tags": [
+          "#Rust"
         ]
       },
       {
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 741,
-          "forks": 44
+          "totalStars": 872,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75349771?v=4"
@@ -74,47 +74,7 @@
       },
       {
         "rank": 4,
-        "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 592,
-          "forks": 125
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/227941353?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "VAST-AI-Research/TripoSplat",
-        "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 497,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/149052137?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "tastyeffectco/sandboxes",
+        "name": "tastyeffectco/sandboxd",
         "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
         "language": {
           "name": "Go",
@@ -122,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 472,
-          "forks": 10
+          "totalStars": 498,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/205345397?v=4"
@@ -133,27 +93,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "tiantianGPU/reg-factory",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 460,
-          "forks": 224
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/164491093?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "Jane-xiaoer/xiaoer-videolab",
         "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
         "language": {
@@ -162,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
-          "forks": 70
+          "totalStars": 469,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/175961422?v=4"
@@ -173,43 +113,103 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Fullive-AI/Anima",
-        "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+        "rank": 6,
+        "name": "zenhosta/9drive",
+        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 394,
-          "forks": 9
+          "totalStars": 410,
+          "forks": 146
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/285607428?v=4"
+          "https://avatars.githubusercontent.com/u/287358902?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "jeff141/meatshell",
+        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 392,
+          "forks": 48
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/44336086?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "nevertoday/zhongguo-traditional-colors",
+        "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 364,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/166048?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "JimLiu/baoyu-design",
+        "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 340,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/648674?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
         "rank": 10,
-        "name": "S-Sigdel/vimhjkl",
-        "description": "learn vim from your terminal with spaced repetition",
+        "name": "amElnagdy/guard-skills",
+        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Unknown",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 387,
-          "forks": 6
+          "totalStars": 337,
+          "forks": 42
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/108139412?v=4"
+          "https://avatars.githubusercontent.com/u/7650147?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Trending"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 741,
-          "forks": 44
+          "totalStars": 872,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75349771?v=4"
@@ -236,7 +236,7 @@
       },
       {
         "rank": 2,
-        "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+        "name": "rednote-hilab/dots.tts",
         "description": "暂无描述",
         "language": {
           "name": "Python",
@@ -244,11 +244,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 592,
-          "forks": 125
+          "totalStars": 223,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/227941353?v=4"
+          "https://avatars.githubusercontent.com/u/211634691?v=4"
         ],
         "tags": [
           "#Python"
@@ -256,19 +256,19 @@
       },
       {
         "rank": 3,
-        "name": "VAST-AI-Research/TripoSplat",
-        "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+        "name": "openai/role-specific-plugins",
+        "description": "Role-specific Codex plugin templates",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 497,
-          "forks": 47
+          "totalStars": 219,
+          "forks": 26
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/149052137?v=4"
+          "https://avatars.githubusercontent.com/u/14957082?v=4"
         ],
         "tags": [
           "#Python"
@@ -276,66 +276,6 @@
       },
       {
         "rank": 4,
-        "name": "tiantianGPU/reg-factory",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 460,
-          "forks": 224
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/164491093?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Fullive-AI/Anima",
-        "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 394,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/285607428?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "S-Sigdel/vimhjkl",
-        "description": "learn vim from your terminal with spaced repetition",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 387,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108139412?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Soul-AILab/SoulX-Transcriber",
         "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
         "language": {
@@ -344,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
+          "totalStars": 194,
           "forks": 8
         },
         "contributors": [
@@ -355,47 +295,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "openai/role-specific-plugins",
-        "description": "Role-specific Codex plugin templates",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 193,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/14957082?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "rednote-hilab/dots.tts",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 166,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/211634691?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 5,
         "name": "cellebrite-labs/ghidra-rpc",
         "description": "A Ghidra agentic reverse engineering skill.",
         "language": {
@@ -404,11 +304,111 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
-          "forks": 11
+          "totalStars": 175,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/58266997?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "lbq110/weread-exporter",
+        "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 166,
+          "forks": 51
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8669651?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+        "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 159,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/169434821?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Forlives/21-day-self-interview",
+        "description": "🪞 An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days — and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. 每晚三个问题，一面慢慢显影的镜子。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 149,
+          "forks": 52
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/97235351?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "hoolulu/deep-research",
+        "description": "OpenCode 深度调研报告生成 Skill — 一个命令，十分钟，一份深度专业的调研报告",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 147,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/84072841?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Ymsniper/KTO",
+        "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 145,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/190832399?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
-          "forks": 70
+          "totalStars": 469,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/175961422?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 276,
-          "forks": 34
+          "totalStars": 364,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/166048?v=4"
@@ -458,6 +458,26 @@
       },
       {
         "rank": 3,
+        "name": "JimLiu/baoyu-design",
+        "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 340,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/648674?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "mrdoob/draco.js",
         "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
         "language": {
@@ -466,31 +486,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
-          "forks": 8
+          "totalStars": 163,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97088?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "Obsidian-Trades/polymarket-copy-trading-bot",
-        "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 143,
-          "forks": 455
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/287748270?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
+          "totalStars": 162,
           "forks": 348
         },
         "contributors": [
@@ -518,19 +518,19 @@
       },
       {
         "rank": 6,
-        "name": "PanisHandsome/ai-rules-sync",
-        "description": "Keep one source of truth for your AI coding-agent rules. Convert and sync between AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Windsurf, Cline, Aider & Gemini — or scaffold a fresh AGENTS.md. Zero dependencies.",
+        "name": "Obsidian-Trades/polymarket-copy-trading-bot",
+        "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
-          "forks": 3
+          "totalStars": 144,
+          "forks": 455
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/272724896?v=4"
+          "https://avatars.githubusercontent.com/u/287748270?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -546,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
-          "forks": 26
+          "totalStars": 140,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/54399984?v=4"
@@ -558,6 +558,26 @@
       },
       {
         "rank": 8,
+        "name": "u7079256/paperjury",
+        "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 88,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63005381?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "forter/agentic-readiness-guide",
         "description": "Agentic Readiness Guide",
         "language": {
@@ -566,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 81,
-          "forks": 3
+          "totalStars": 86,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6420463?v=4"
@@ -577,7 +597,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "trueugenee/ai-linux-webapp-wrapper",
         "description": "暂无描述",
         "language": {
@@ -595,26 +615,6 @@
         "tags": [
           "#JavaScript"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "u7079256/paperjury",
-        "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 68,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63005381?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
       }
     ],
     "C++": [
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
-          "forks": 5
+          "totalStars": 178,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96040709?v=4"
@@ -648,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 108,
-          "forks": 4
+          "totalStars": 126,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25671999?v=4"
@@ -660,19 +660,19 @@
       },
       {
         "rank": 3,
-        "name": "gunnardorsey36725068/VapeV4-Client-2026",
-        "description": "⭐️ Minecraft Vape V4 2026 Latest Download Updated Version Client | Vape Minecraft Client Release New Build Patch Update Installer | Setup File Edition V4 2026 Newest Latest Download | Vape V4 Minecraft Update Installer Setup File Edition | Client V4 2026 Release New Build Patch Update New ⭐️",
+        "name": "Plumezisieve/IDM-6.42-Lifetime-Patch-2026",
+        "description": "⭐️ Internet Download Manager 6.42 Full Version with Lifetime Patch. Pre-activated installer with latest build, ready to use on Windows 10 and 11. Fast, optimized and fully unlocked download manager with no registration needed. ⭐️",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 85,
+          "totalStars": 125,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/289480340?v=4"
+          "https://avatars.githubusercontent.com/u/288146823?v=4"
         ],
         "tags": [
           "#C++"
@@ -680,6 +680,66 @@
       },
       {
         "rank": 4,
+        "name": "ninjawarlorddisclose/CapCut-Pro-Crack-2026",
+        "description": "⭐️ Download CapCut PRO 2026 - Professional Video Editor. Full Premium Version with Pre-Activated License and Mod Loader. Latest Build with creative effects, easy editing tools & social media sharing. Works perfectly on Windows 10/11. ⭐️",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 122,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/288148652?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Unicornronote/Microsoft-Office-Activated",
+        "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 92,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/289427891?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "melojuve31-source/kahoottoolsai-desktop-app",
+        "description": "Simple and clean standalone desktop application for KahootToolsAi on Windows PC. Easily manage quizzes, study smarter, and generate educational insights with AI assistance.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/288142563?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Aluccard992ad/twitchdropminer-desktop-setup",
         "description": "Simple and automated desktop installer for TwitchDropMiner on Windows PC. Easily manage your stream notifications and event rewards.",
         "language": {
@@ -699,27 +759,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "melojuve31-source/kahoottoolsai-desktop-app",
-        "description": "Simple and clean standalone desktop application for KahootToolsAi on Windows PC. Easily manage quizzes, study smarter, and generate educational insights with AI assistance.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288142563?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "name": "junjie8/robloxaccountmanager-desktop-app",
         "description": "Simple and clean standalone desktop organization manager for RobloxAccountManager on Windows PC. Easily structure, view, and organize multiple local gaming profiles.",
         "language": {
@@ -739,47 +779,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "hunternightechozerozero2057154/Easy-Anime-Downloader-2026",
-        "description": "The simplest Anime Downloader for Windows. Download your favorite anime episodes for offline viewing with one click. Fast, easy, and user-friendly.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288770265?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "kristybilbrew14180044521/Minecraft-Server-Optimizer-2026",
-        "description": "Minecraft Ultra Server Optimizer — High-Performance Tuning Suite for Paper, Purpur, and Forge. Advanced JVM Garbage Collection Tweaks, Asynchronous Chunk Processing, and Entity AI Optimization. Maximize TPS and reduce latency on high-player count servers for 2026.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288769802?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 9,
+        "name": "lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay",
+        "description": "Simple and clean standalone desktop overlay for HonkaiStarRailExternalCheatMenu on Windows PC. Easily monitor turn-based combat metrics, track farming paths, and manage stats.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290556434?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "alfhamdy515-svg/monkemodmanager-windows-installer-2",
         "description": "Simple and clean standalone desktop installation wizard for MonkeModManager on Windows PC. Easily manage, organize, and update your VR cosmetic configurations.",
         "language": {
@@ -793,26 +813,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/289145822?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "lashaundashirk67060242607/SpotAd-2026",
-        "description": "SpotiNexus Framework — Advanced High-Fidelity Audio Streamer & Local Metadata Researcher. Experimental Lossless Playback Suite with Integrated Buffer Optimization and Session Persistence. Open-source high-performance multimedia engine for 2026.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288769286?v=4"
         ],
         "tags": [
           "#C++"
