@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/08 03:42:33",
+  "lastUpdate": "2026/06/08 04:27:28",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2281,
-          "forks": 227
+          "totalStars": 2284,
+          "forks": 228
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25715982?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2260,
+          "totalStars": 2263,
           "forks": 532
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 872,
-          "forks": 55
+          "totalStars": 878,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75349771?v=4"
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 498,
+          "totalStars": 499,
           "forks": 12
         },
         "contributors": [
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 469,
+          "totalStars": 470,
           "forks": 74
         },
         "contributors": [
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 410,
-          "forks": 146
+          "totalStars": 412,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287358902?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 364,
+          "totalStars": 379,
           "forks": 49
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 340,
+          "totalStars": 349,
           "forks": 21
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 337,
+          "totalStars": 343,
           "forks": 42
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 872,
-          "forks": 55
+          "totalStars": 878,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75349771?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 11
+          "totalStars": 227,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/211634691?v=4"
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
+          "totalStars": 176,
           "forks": 13
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 170,
           "forks": 51
         },
         "contributors": [
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
+          "totalStars": 160,
           "forks": 7
         },
         "contributors": [
@@ -356,6 +356,26 @@
       },
       {
         "rank": 8,
+        "name": "yuzhworkhard-wq/image-to-code",
+        "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 151,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/236988898?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "Forlives/21-day-self-interview",
         "description": "🪞 An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days — and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. 每晚三个问题，一面慢慢显影的镜子。",
         "language": {
@@ -375,7 +395,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "hoolulu/deep-research",
         "description": "OpenCode 深度调研报告生成 Skill — 一个命令，十分钟，一份深度专业的调研报告",
         "language": {
@@ -393,26 +413,6 @@
         "tags": [
           "#Python"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "Ymsniper/KTO",
-        "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 145,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/190832399?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
       }
     ],
     "JavaScript": [
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 469,
+          "totalStars": 470,
           "forks": 74
         },
         "contributors": [
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 364,
+          "totalStars": 379,
           "forks": 49
         },
         "contributors": [
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 340,
+          "totalStars": 349,
           "forks": 21
         },
         "contributors": [
@@ -486,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
+          "totalStars": 164,
           "forks": 9
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
+          "totalStars": 89,
           "forks": 8
         },
         "contributors": [
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 72,
+          "totalStars": 73,
           "forks": 1
         },
         "contributors": [
@@ -620,6 +620,46 @@
     "C++": [
       {
         "rank": 1,
+        "name": "ninjawarlorddisclose/CapCut-Pro-Crack-2026",
+        "description": "⭐️ Download CapCut PRO 2026 - Professional Video Editor. Full Premium Version with Pre-Activated License and Mod Loader. Latest Build with creative effects, easy editing tools & social media sharing. Works perfectly on Windows 10/11. ⭐️",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 237,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/288148652?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Plumezisieve/IDM-6.42-Lifetime-Patch-2026",
+        "description": "⭐️ Internet Download Manager 6.42 Full Version with Lifetime Patch. Pre-activated installer with latest build, ready to use on Windows 10 and 11. Fast, optimized and fully unlocked download manager with no registration needed. ⭐️",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 237,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/288146823?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "Jasionf/smart-home-button",
         "description": "暂无描述",
         "language": {
@@ -639,7 +679,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 4,
         "name": "mchughalex/skate3recomp",
         "description": "暂无描述",
         "language": {
@@ -648,51 +688,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 126,
+          "totalStars": 128,
           "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25671999?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "Plumezisieve/IDM-6.42-Lifetime-Patch-2026",
-        "description": "⭐️ Internet Download Manager 6.42 Full Version with Lifetime Patch. Pre-activated installer with latest build, ready to use on Windows 10 and 11. Fast, optimized and fully unlocked download manager with no registration needed. ⭐️",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 125,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288146823?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "ninjawarlorddisclose/CapCut-Pro-Crack-2026",
-        "description": "⭐️ Download CapCut PRO 2026 - Professional Video Editor. Full Premium Version with Pre-Activated License and Mod Loader. Latest Build with creative effects, easy editing tools & social media sharing. Works perfectly on Windows 10/11. ⭐️",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 122,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288148652?v=4"
         ],
         "tags": [
           "#C++"
@@ -740,6 +740,26 @@
       },
       {
         "rank": 7,
+        "name": "Shahamat21201839/sims4-dls-unlocker-desktop-2",
+        "description": "Simple and clean standalone desktop organization manager for Sims 4 Dls Unlocker on Windows PC. Easily manage, index, and organize your local game expansion contents.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/223110157?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "Aluccard992ad/twitchdropminer-desktop-setup",
         "description": "Simple and automated desktop installer for TwitchDropMiner on Windows PC. Easily manage your stream notifications and event rewards.",
         "language": {
@@ -759,7 +779,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "junjie8/robloxaccountmanager-desktop-app",
         "description": "Simple and clean standalone desktop organization manager for RobloxAccountManager on Windows PC. Easily structure, view, and organize multiple local gaming profiles.",
         "language": {
@@ -779,7 +799,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay",
         "description": "Simple and clean standalone desktop overlay for HonkaiStarRailExternalCheatMenu on Windows PC. Easily monitor turn-based combat metrics, track farming paths, and manage stats.",
         "language": {
@@ -793,26 +813,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/290556434?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "alfhamdy515-svg/monkemodmanager-windows-installer-2",
-        "description": "Simple and clean standalone desktop installation wizard for MonkeModManager on Windows PC. Easily manage, organize, and update your VR cosmetic configurations.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/289145822?v=4"
         ],
         "tags": [
           "#C++"
