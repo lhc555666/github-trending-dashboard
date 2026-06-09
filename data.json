@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/06/09 02:51:20",
+  "lastUpdate": "2026/06/09 03:59:33",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
-      "Swift": 1,
       "JavaScript": 3,
+      "Swift": 1,
       "Go": 1,
       "Python": 1,
       "Rust": 1
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 573,
-          "forks": 31
+          "totalStars": 613,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135729001?v=4"
@@ -35,26 +35,6 @@
       },
       {
         "rank": 2,
-        "name": "NoopApp/noop",
-        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 538,
-          "forks": 491
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/291537941?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
         "language": {
@@ -63,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 531,
+          "totalStars": 542,
           "forks": 39
         },
         "contributors": [
@@ -71,6 +51,26 @@
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "NoopApp/noop",
+        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 542,
+          "forks": 497
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/291537941?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 515,
+          "totalStars": 516,
           "forks": 14
         },
         "contributors": [
@@ -115,26 +115,6 @@
       },
       {
         "rank": 6,
-        "name": "amElnagdy/guard-skills",
-        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 473,
-          "forks": 55
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7650147?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "nevertoday/zhongguo-traditional-colors",
         "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
         "language": {
@@ -143,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 461,
+          "totalStars": 477,
           "forks": 58
         },
         "contributors": [
@@ -154,27 +134,27 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "zenhosta/9drive",
-        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+        "rank": 7,
+        "name": "amElnagdy/guard-skills",
+        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
         "language": {
-          "name": "TypeScript",
+          "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 450,
-          "forks": 156
+          "totalStars": 474,
+          "forks": 55
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/287358902?v=4"
+          "https://avatars.githubusercontent.com/u/7650147?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Trending"
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
         "language": {
@@ -183,14 +163,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
-          "forks": 54
+          "totalStars": 461,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "zenhosta/9drive",
+        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 452,
+          "forks": 156
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/287358902?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 426,
+          "totalStars": 430,
           "forks": 48
         },
         "contributors": [
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
-          "forks": 54
+          "totalStars": 461,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 311,
+          "totalStars": 316,
           "forks": 20
         },
         "contributors": [
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
+          "totalStars": 224,
           "forks": 40
         },
         "contributors": [
@@ -285,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
+          "totalStars": 218,
           "forks": 18
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
+          "totalStars": 192,
           "forks": 51
         },
         "contributors": [
@@ -337,6 +337,26 @@
       },
       {
         "rank": 7,
+        "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+        "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 181,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/169434821?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "beijingcao/binance-deribit-btc",
         "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
         "language": {
@@ -356,26 +376,6 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "GalaxyGeneralRobotics/Humanoid-GPT",
-        "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 180,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/169434821?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
         "name": "yuzhworkhard-wq/image-to-code",
         "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
@@ -385,7 +385,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
+          "totalStars": 177,
           "forks": 21
         },
         "contributors": [
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 156,
+          "totalStars": 161,
           "forks": 4
         },
         "contributors": [
