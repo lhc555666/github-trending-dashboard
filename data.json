@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/10 03:28:19",
+  "lastUpdate": "2026/06/10 04:11:05",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1582,
-          "forks": 78
+          "totalStars": 1606,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135729001?v=4"
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1084,
+          "totalStars": 1100,
           "forks": 576
         },
         "contributors": [
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 645,
-          "forks": 48
+          "totalStars": 648,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/648674?v=4"
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 637,
+          "totalStars": 642,
           "forks": 72
         },
         "contributors": [
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 524,
-          "forks": 13
+          "totalStars": 525,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1922888?v=4"
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 519,
+          "totalStars": 520,
           "forks": 59
         },
         "contributors": [
@@ -184,7 +184,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 474,
-          "forks": 161
+          "forks": 162
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/287358902?v=4"
@@ -203,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 460,
-          "forks": 84
+          "totalStars": 462,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253894366?v=4"
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 637,
+          "totalStars": 642,
           "forks": 72
         },
         "contributors": [
@@ -237,26 +237,6 @@
       },
       {
         "rank": 2,
-        "name": "rednote-hilab/dots.tts",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 398,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/211634691?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "apple/coreai-models",
         "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
         "language": {
@@ -265,11 +245,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 390,
-          "forks": 13
+          "totalStars": 401,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10639145?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "rednote-hilab/dots.tts",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 399,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/211634691?v=4"
         ],
         "tags": [
           "#Python"
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 359,
-          "forks": 54
+          "totalStars": 361,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129160475?v=4"
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 310,
-          "forks": 14
+          "totalStars": 323,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/210980732?v=4"
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
+          "totalStars": 288,
           "forks": 46
         },
         "contributors": [
@@ -345,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
-          "forks": 153
+          "totalStars": 275,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292074598?v=4"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 645,
-          "forks": 48
+          "totalStars": 648,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/648674?v=4"
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
+          "totalStars": 180,
           "forks": 13
         },
         "contributors": [
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
+          "totalStars": 138,
           "forks": 20
         },
         "contributors": [
@@ -527,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
+          "totalStars": 113,
           "forks": 33
         },
         "contributors": [
@@ -559,6 +559,26 @@
       },
       {
         "rank": 8,
+        "name": "emollick/concord",
+        "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63437581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "trueugenee/ai-linux-webapp-wrapper",
         "description": "暂无描述",
         "language": {
@@ -578,26 +598,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "emollick/concord",
-        "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 71,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63437581?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
         "name": "BND-1/horseMD",
         "description": "A free Typora alternative, and then some — tabs + file-tree + WYSIWYG Markdown editor for Windows & macOS | 免费的 Typora 平替：标签页 + 文件树 + 所见即所得",
@@ -607,7 +607,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 50,
+          "totalStars": 51,
           "forks": 2
         },
         "contributors": [
@@ -649,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
-          "forks": 86
+          "totalStars": 271,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -721,26 +721,6 @@
       },
       {
         "rank": 6,
-        "name": "mestankunter321391207/SketchUp-Vortex-Pro-2026",
-        "description": "⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game design. Includes advanced rendering, layout tools and vast 3D Warehouse support on Windows 10/11. ⭐️",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/290393034?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Aluccard992ad/twitchdropminer-desktop-setup",
         "description": "Simple and automated desktop installer for TwitchDropMiner on Windows PC. Easily manage your stream notifications and event rewards.",
         "language": {
@@ -754,6 +734,26 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265602058?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "mestankunter321391207/SketchUp-Vortex-Pro-2026",
+        "description": "⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game design. Includes advanced rendering, layout tools and vast 3D Warehouse support on Windows 10/11. ⭐️",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290393034?v=4"
         ],
         "tags": [
           "#C++"
