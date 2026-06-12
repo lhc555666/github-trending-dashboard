@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/12 03:40:20",
+  "lastUpdate": "2026/06/12 04:26:34",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5007,
-          "forks": 387
+          "totalStars": 5068,
+          "forks": 392
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208276378?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1907,
+          "totalStars": 1928,
           "forks": 66
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1484,
-          "forks": 671
+          "totalStars": 1485,
+          "forks": 672
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291537941?v=4"
@@ -83,7 +83,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 1126,
-          "forks": 474
+          "forks": 475
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 798,
-          "forks": 83
+          "totalStars": 800,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 783,
+          "totalStars": 785,
           "forks": 62
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 753,
+          "totalStars": 758,
           "forks": 50
         },
         "contributors": [
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 626,
-          "forks": 15
+          "totalStars": 629,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1922888?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 798,
-          "forks": 83
+          "totalStars": 800,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 753,
+          "totalStars": 758,
           "forks": 50
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 392,
+          "totalStars": 393,
           "forks": 0
         },
         "contributors": [
@@ -324,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 380,
-          "forks": 63
+          "totalStars": 386,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3615494?v=4"
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 354,
+          "totalStars": 356,
           "forks": 193
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 340,
+          "totalStars": 341,
           "forks": 49
         },
         "contributors": [
@@ -396,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "yuzhworkhard-wq/image-to-code",
-        "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
+        "name": "joeseesun/qiaomu-goal-meta-skill",
+        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
-          "forks": 25
+          "totalStars": 201,
+          "forks": 21
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/236988898?v=4"
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 783,
+          "totalStars": 785,
           "forks": 62
         },
         "contributors": [
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 232,
+          "totalStars": 233,
           "forks": 27
         },
         "contributors": [
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
+          "totalStars": 214,
           "forks": 11
         },
         "contributors": [
@@ -507,7 +507,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 189,
-          "forks": 26
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 117,
+          "totalStars": 118,
           "forks": 0
         },
         "contributors": [
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 95,
+          "totalStars": 96,
           "forks": 14
         },
         "contributors": [
@@ -629,7 +629,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 1126,
-          "forks": 474
+          "forks": 475
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
+          "totalStars": 53,
           "forks": 0
         },
         "contributors": [
