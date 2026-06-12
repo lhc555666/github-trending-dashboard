@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026/06/11 04:24:02",
+  "lastUpdate": "2026/06/12 03:40:20",
   "charts": {
     "languageDistribution": {
-      "Swift": 1,
       "TypeScript": 2,
+      "Swift": 1,
       "C++": 1,
       "Python": 3,
       "JavaScript": 1
@@ -14,26 +14,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "NoopApp/noop",
-        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1404,
-          "forks": 645
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/291537941?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "XiaomiMiMo/MiMo-Code",
         "description": "暂无描述",
         "language": {
@@ -42,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1316,
-          "forks": 104
+          "totalStars": 5007,
+          "forks": 387
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208276378?v=4"
@@ -53,7 +33,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
         "language": {
@@ -62,14 +42,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 978,
-          "forks": 31
+          "totalStars": 1907,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/124599?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "NoopApp/noop",
+        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1484,
+          "forks": 671
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/291537941?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 949,
-          "forks": 407
+          "totalStars": 1126,
+          "forks": 474
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 737,
-          "forks": 80
+          "totalStars": 798,
+          "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 701,
-          "forks": 55
+          "totalStars": 783,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/648674?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 629,
-          "forks": 36
+          "totalStars": 753,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10639145?v=4"
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 577,
-          "forks": 14
+          "totalStars": 626,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1922888?v=4"
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 556,
-          "forks": 61
+          "totalStars": 571,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7650147?v=4"
@@ -202,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 458,
-          "forks": 24
+          "totalStars": 526,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/210980732?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 737,
-          "forks": 80
+          "totalStars": 798,
+          "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 629,
-          "forks": 36
+          "totalStars": 753,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10639145?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 458,
-          "forks": 24
+          "totalStars": 526,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/210980732?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 447,
-          "forks": 70
+          "totalStars": 466,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129160475?v=4"
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 377,
+          "totalStars": 392,
           "forks": 0
         },
         "contributors": [
@@ -316,19 +316,19 @@
       },
       {
         "rank": 6,
-        "name": "JFGAtlas/aethergate-pro",
-        "description": "暂无描述",
+        "name": "jwangkun/claude-for-financial-services-cn",
+        "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 333,
-          "forks": 49
+          "totalStars": 380,
+          "forks": 63
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/284298099?v=4"
+          "https://avatars.githubusercontent.com/u/3615494?v=4"
         ],
         "tags": [
           "#Python"
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 332,
-          "forks": 182
+          "totalStars": 354,
+          "forks": 193
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292074598?v=4"
@@ -356,19 +356,19 @@
       },
       {
         "rank": 8,
-        "name": "ziqihe10-droid/xuefeng-agent",
-        "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+        "name": "JFGAtlas/aethergate-pro",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 290,
-          "forks": 39
+          "totalStars": 340,
+          "forks": 49
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/284885724?v=4"
+          "https://avatars.githubusercontent.com/u/284298099?v=4"
         ],
         "tags": [
           "#Python"
@@ -376,19 +376,19 @@
       },
       {
         "rank": 9,
-        "name": "hoolulu/deep-research",
-        "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+        "name": "beijingcao/binance-deribit-btc",
+        "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 271,
-          "forks": 25
+          "totalStars": 233,
+          "forks": 83
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/84072841?v=4"
+          "https://avatars.githubusercontent.com/u/81492083?v=4"
         ],
         "tags": [
           "#Python"
@@ -396,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "jwangkun/claude-for-financial-services-cn",
-        "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+        "name": "yuzhworkhard-wq/image-to-code",
+        "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 261,
-          "forks": 45
+          "totalStars": 193,
+          "forks": 25
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3615494?v=4"
+          "https://avatars.githubusercontent.com/u/236988898?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 701,
-          "forks": 55
+          "totalStars": 783,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/648674?v=4"
@@ -438,26 +438,6 @@
       },
       {
         "rank": 2,
-        "name": "adamallcock/codex-chatgpt-control",
-        "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 196,
-          "forks": 15
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/92055994?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "XBuilderLAB/cheat-on-money",
         "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
         "language": {
@@ -466,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
-          "forks": 20
+          "totalStars": 232,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -477,20 +457,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "wechat-miniprogram/ai-mode-demo",
-        "description": "暂无描述",
+        "rank": 3,
+        "name": "BuilderIO/skills",
+        "description": "Skills for coding agents",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
-          "forks": 24
+          "totalStars": 212,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/40269642?v=4"
+          "https://avatars.githubusercontent.com/u/35700027?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "adamallcock/codex-chatgpt-control",
+        "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/92055994?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -498,46 +498,6 @@
       },
       {
         "rank": 5,
-        "name": "emollick/concord",
-        "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 139,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63437581?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "ForgetMeAI/FreeDeepseekAPI",
-        "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 130,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76566648?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "alchaincyf/fanbox",
         "description": "暂无描述",
         "language": {
@@ -546,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 82,
-          "forks": 9
+          "totalStars": 189,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -557,20 +517,60 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "trueugenee/ai-linux-webapp-wrapper",
-        "description": "暂无描述",
+        "rank": 6,
+        "name": "emollick/concord",
+        "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
-          "forks": 1
+          "totalStars": 152,
+          "forks": 19
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/125207437?v=4"
+          "https://avatars.githubusercontent.com/u/63437581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "ForgetMeAI/FreeDeepseekAPI",
+        "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 142,
+          "forks": 39
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76566648?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Leonxlnx/lumenshaders",
+        "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 128,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/219127460?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -578,6 +578,26 @@
       },
       {
         "rank": 9,
+        "name": "taisly/agent",
+        "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 117,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/292659094?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "cobusgreyling/loop-engineering",
         "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
         "language": {
@@ -586,31 +606,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 60,
-          "forks": 10
+          "totalStars": 95,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7868717?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "leeshark21/video_portfolio",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 54,
-          "forks": 27
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/201198207?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 950,
-          "forks": 407
+          "totalStars": 1126,
+          "forks": 474
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -648,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
-          "forks": 5
+          "totalStars": 128,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35265770?v=4"
@@ -660,26 +660,6 @@
       },
       {
         "rank": 3,
-        "name": "RafDDB18/Delta-Exec-PC",
-        "description": "Delta Roblox PC  exploit Lua Byfron Hyperion bypass keyless Fluxus Arceus X Codex Blox Fruits  hub game auto farm",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 87,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/169683190?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "Shahamat21201839/sims4-dls-unlocker-desktop-2",
         "description": "Simple and clean standalone desktop organization manager for Sims 4 Dls Unlocker on Windows PC. Easily manage, index, and organize your local game expansion contents.",
         "language": {
@@ -699,47 +679,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "Aluccard992ad/twitchdropminer-desktop-setup",
-        "description": "Simple and automated desktop installer for TwitchDropMiner on Windows PC. Easily manage your stream notifications and event rewards.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265602058?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "junjie8/robloxaccountmanager-desktop-app",
-        "description": "Simple and clean standalone desktop organization manager for RobloxAccountManager on Windows PC. Easily structure, view, and organize multiple local gaming profiles.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/139889954?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay",
         "description": "Simple and clean standalone desktop overlay for HonkaiStarRailExternalCheatMenu on Windows PC. Easily monitor turn-based combat metrics, track farming paths, and manage stats.",
         "language": {
@@ -759,20 +699,80 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "alfhamdy515-svg/monkemodmanager-windows-installer-2",
-        "description": "Simple and clean standalone desktop installation wizard for MonkeModManager on Windows PC. Easily manage, organize, and update your VR cosmetic configurations.",
+        "rank": 5,
+        "name": "mestankunter321391207/SketchUp-Vortex-Pro-2026",
+        "description": "⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game design. Includes advanced rendering, layout tools and vast 3D Warehouse support on Windows 10/11. ⭐️",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
+          "totalStars": 72,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/289145822?v=4"
+          "https://avatars.githubusercontent.com/u/290393034?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "priscilla6930reed6237/SpotAd-2026",
+        "description": "SpotiNexus Framework — Advanced High-Fidelity Audio Streamer & Local Metadata Researcher. Experimental Lossless Playback Suite with Integrated Buffer Optimization and Session Persistence. Open-source high-performance multimedia engine for 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 71,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290396049?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Nyabsi/OpenVR-SpaceOverride",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 70,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/43046474?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "joker01728/robloxfpsunlocker",
+        "description": "Roblox FPS unlocker rbxfpsunlocker bypass 60fps frame limit optimization performance lag fix 144hz 240hz Bloxstrap smoothness config pc tool input lag",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 52,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/162905520?v=4"
         ],
         "tags": [
           "#C++"
@@ -780,19 +780,19 @@
       },
       {
         "rank": 9,
-        "name": "Flavian2222/lunarclientminecraft-windows-installer",
-        "description": "Simple and clean desktop setup wizard for LunarClientMinecraft on Windows PC. Easily optimize game performance, manage your mods, and launch your sandbox worlds.",
+        "name": "safijari/openpuck",
+        "description": "Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
+          "totalStars": 44,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/110355038?v=4"
+          "https://avatars.githubusercontent.com/u/5191844?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "Dogexxxe/optiscalerclient-desktop-setup",
-        "description": "Simple and clean desktop installation wizard for OptiscalerClient on Windows PC. Easily manage your game graphics, scaling configurations, and monitor frame rate optimizations.",
+        "name": "FeatureNAB/air-sensor",
+        "description": "Smart Air Quality Sensor built using ESP32, SEN66 and ESPHome",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
+          "totalStars": 42,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/290762093?v=4"
+          "https://avatars.githubusercontent.com/u/247623788?v=4"
         ],
         "tags": [
           "#C++"
