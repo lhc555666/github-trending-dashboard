@@ -1,12 +1,13 @@
 {
-  "lastUpdate": "2026/06/12 04:26:34",
+  "lastUpdate": "2026/06/13 03:28:09",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
-      "Swift": 1,
+      "Swift": 2,
       "C++": 1,
-      "Python": 3,
-      "JavaScript": 1
+      "JavaScript": 2,
+      "Python": 1,
+      "Shell": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5068,
-          "forks": 392
+          "totalStars": 7003,
+          "forks": 552
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208276378?v=4"
@@ -42,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1928,
-          "forks": 66
+          "totalStars": 2462,
+          "forks": 87
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/124599?v=4"
@@ -62,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1485,
-          "forks": 672
+          "totalStars": 1546,
+          "forks": 691
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291537941?v=4"
@@ -82,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1126,
-          "forks": 475
+          "totalStars": 1219,
+          "forks": 509
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -94,6 +95,26 @@
       },
       {
         "rank": 5,
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 966,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/137048761?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
         "language": {
@@ -102,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 800,
-          "forks": 84
+          "totalStars": 848,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -113,7 +134,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "name": "apple/coreai-models",
+        "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 837,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/10639145?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
         "language": {
@@ -122,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 785,
-          "forks": 62
+          "totalStars": 831,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/648674?v=4"
@@ -133,27 +174,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "apple/coreai-models",
-        "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 758,
-          "forks": 50
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/10639145?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "name": "vorpus/performativeUI",
         "description": "暂无描述",
         "language": {
@@ -162,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 629,
+          "totalStars": 661,
           "forks": 16
         },
         "contributors": [
@@ -173,43 +194,23 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "amElnagdy/guard-skills",
-        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+        "rank": 10,
+        "name": "SkyBlue997/enableMacosAI",
+        "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
         "language": {
-          "name": "Unknown",
+          "name": "Shell",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 571,
-          "forks": 63
+          "totalStars": 642,
+          "forks": 30
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/7650147?v=4"
+          "https://avatars.githubusercontent.com/u/74125386?v=4"
         ],
         "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Tencent-Hunyuan/UniRL",
-        "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 526,
-          "forks": 28
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/210980732?v=4"
-        ],
-        "tags": [
-          "#Python"
+          "#Shell"
         ]
       }
     ],
@@ -224,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 800,
-          "forks": 84
+          "totalStars": 848,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3281492?v=4"
@@ -236,26 +237,6 @@
       },
       {
         "rank": 2,
-        "name": "apple/coreai-models",
-        "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 758,
-          "forks": 50
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/10639145?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Tencent-Hunyuan/UniRL",
         "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
         "language": {
@@ -264,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 526,
-          "forks": 28
+          "totalStars": 555,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/210980732?v=4"
@@ -275,7 +256,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "xiaohuailabs/xiaohu-video-translate",
         "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
         "language": {
@@ -284,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 466,
-          "forks": 72
+          "totalStars": 482,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129160475?v=4"
@@ -295,27 +276,27 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "Parcle-AI/parcle-memory",
-        "description": "暂无描述",
+        "rank": 4,
+        "name": "khrisat/text-humanizer",
+        "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
-          "forks": 0
+          "totalStars": 436,
+          "forks": 54
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/290871470?v=4"
+          "https://avatars.githubusercontent.com/u/32206152?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "jwangkun/claude-for-financial-services-cn",
         "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
         "language": {
@@ -324,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 386,
+          "totalStars": 425,
           "forks": 64
         },
         "contributors": [
@@ -335,7 +316,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "jmmy9609-design/gpt-pp",
         "description": "暂无描述",
         "language": {
@@ -344,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 356,
-          "forks": 193
+          "totalStars": 375,
+          "forks": 200
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292074598?v=4"
@@ -355,7 +336,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "JFGAtlas/aethergate-pro",
         "description": "暂无描述",
         "language": {
@@ -364,11 +345,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 341,
+          "totalStars": 346,
           "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284298099?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "joeseesun/qiaomu-goal-meta-skill",
+        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 315,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
         ],
         "tags": [
           "#Python"
@@ -384,8 +385,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 233,
-          "forks": 83
+          "totalStars": 235,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/81492083?v=4"
@@ -396,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "joeseesun/qiaomu-goal-meta-skill",
-        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+        "name": "MiniMax-AI/MSA",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
-          "forks": 21
+          "totalStars": 216,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
+          "https://avatars.githubusercontent.com/u/194880281?v=4"
         ],
         "tags": [
           "#Python"
@@ -418,6 +419,26 @@
     "JavaScript": [
       {
         "rank": 1,
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 966,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/137048761?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
         "language": {
@@ -426,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 785,
-          "forks": 62
+          "totalStars": 831,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/648674?v=4"
@@ -437,7 +458,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "XBuilderLAB/cheat-on-money",
         "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
         "language": {
@@ -446,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 233,
-          "forks": 27
+          "totalStars": 278,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/280592915?v=4"
@@ -457,7 +478,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "BuilderIO/skills",
         "description": "Skills for coding agents",
         "language": {
@@ -466,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 214,
-          "forks": 11
+          "totalStars": 267,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35700027?v=4"
@@ -477,37 +498,17 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "adamallcock/codex-chatgpt-control",
-        "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 207,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/92055994?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 5,
         "name": "alchaincyf/fanbox",
-        "description": "暂无描述",
+        "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
-          "forks": 27
+          "totalStars": 217,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -518,66 +519,6 @@
       },
       {
         "rank": 6,
-        "name": "emollick/concord",
-        "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 152,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63437581?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "ForgetMeAI/FreeDeepseekAPI",
-        "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 142,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76566648?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Leonxlnx/lumenshaders",
-        "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 128,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/219127460?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "taisly/agent",
         "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
         "language": {
@@ -586,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 118,
+          "totalStars": 158,
           "forks": 0
         },
         "contributors": [
@@ -597,7 +538,47 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "name": "Leonxlnx/lumenshaders",
+        "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 157,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/219127460?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "emollick/concord",
+        "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 157,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63437581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "cobusgreyling/loop-engineering",
         "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
         "language": {
@@ -606,11 +587,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96,
-          "forks": 14
+          "totalStars": 110,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7868717?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "vinayaklatthe/microsoft-security-skills",
+        "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 81,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/292429499?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1126,
-          "forks": 475
+          "totalStars": 1219,
+          "forks": 509
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -648,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
-          "forks": 6
+          "totalStars": 144,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35265770?v=4"
@@ -660,19 +661,19 @@
       },
       {
         "rank": 3,
-        "name": "Shahamat21201839/sims4-dls-unlocker-desktop-2",
-        "description": "Simple and clean standalone desktop organization manager for Sims 4 Dls Unlocker on Windows PC. Easily manage, index, and organize your local game expansion contents.",
+        "name": "joker01728/robloxfpsunlocker",
+        "description": "Roblox FPS unlocker rbxfpsunlocker bypass 60fps frame limit optimization performance lag fix 144hz 240hz Bloxstrap smoothness config pc tool input lag",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 76,
-          "forks": 1
+          "totalStars": 87,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/223110157?v=4"
+          "https://avatars.githubusercontent.com/u/162905520?v=4"
         ],
         "tags": [
           "#C++"
@@ -680,26 +681,6 @@
       },
       {
         "rank": 4,
-        "name": "lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay",
-        "description": "Simple and clean standalone desktop overlay for HonkaiStarRailExternalCheatMenu on Windows PC. Easily monitor turn-based combat metrics, track farming paths, and manage stats.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/290556434?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "mestankunter321391207/SketchUp-Vortex-Pro-2026",
         "description": "⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game design. Includes advanced rendering, layout tools and vast 3D Warehouse support on Windows 10/11. ⭐️",
         "language": {
@@ -713,6 +694,26 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/290393034?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "controllervr/yuzu-emu",
+        "description": "yuzu switch android yuzu emulator pc download  yuzu github download nintendo switch emulator switch games eden emulator  yuzu windows 11 linux vulkan opengl amd nvidia intel",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 72,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/219729192?v=4"
         ],
         "tags": [
           "#C++"
@@ -740,19 +741,19 @@
       },
       {
         "rank": 7,
-        "name": "Nyabsi/OpenVR-SpaceOverride",
-        "description": "暂无描述",
+        "name": "tomodachi-life/tomodachi-pc",
+        "description": "Tomodachi Life  game PC switch 3DS emulator yuzu Ryubing ryujinx Citra emulator life simulator  island QR codes Mii Share",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 70,
-          "forks": 2
+          "totalStars": 58,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/43046474?v=4"
+          "https://avatars.githubusercontent.com/u/103252382?v=4"
         ],
         "tags": [
           "#C++"
@@ -760,46 +761,6 @@
       },
       {
         "rank": 8,
-        "name": "joker01728/robloxfpsunlocker",
-        "description": "Roblox FPS unlocker rbxfpsunlocker bypass 60fps frame limit optimization performance lag fix 144hz 240hz Bloxstrap smoothness config pc tool input lag",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 53,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/162905520?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "safijari/openpuck",
-        "description": "Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 44,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5191844?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "FeatureNAB/air-sensor",
         "description": "Smart Air Quality Sensor built using ESP32, SEN66 and ESPHome",
         "language": {
@@ -808,11 +769,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
+          "totalStars": 53,
           "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/247623788?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "SunJaycy/GoldenEye-Recomp",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 50,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/228057147?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "tengo77/auto-2026",
+        "description": "download student version product key 3d 2d modeling software  blocks  dwg viewer tutorial pdf to 2025 2026 requirements guide",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 48,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/67826603?v=4"
         ],
         "tags": [
           "#C++"
