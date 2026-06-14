@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/14 03:43:35",
+  "lastUpdate": "2026/06/14 04:42:42",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7998,
-          "forks": 664
+          "totalStars": 8012,
+          "forks": 665
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208276378?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3504,
-          "forks": 126
+          "totalStars": 3553,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/124599?v=4"
@@ -64,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1610,
-          "forks": 73
+          "totalStars": 1654,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1018,
+          "totalStars": 1042,
           "forks": 53
         },
         "contributors": [
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 617,
+          "totalStars": 627,
           "forks": 15
         },
         "contributors": [
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
-          "forks": 135
+          "totalStars": 605,
+          "forks": 137
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/149554763?v=4"
@@ -238,6 +238,26 @@
       },
       {
         "rank": 2,
+        "name": "omnigent-ai/omnigent",
+        "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 576,
+          "forks": 73
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/292215228?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "khrisat/text-humanizer",
         "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
         "language": {
@@ -251,26 +271,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32206152?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "omnigent-ai/omnigent",
-        "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 549,
-          "forks": 69
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/292215228?v=4"
         ],
         "tags": [
           "#Python"
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 472,
+          "totalStars": 475,
           "forks": 37
         },
         "contributors": [
@@ -346,8 +346,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
-          "forks": 29
+          "totalStars": 319,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1709751?v=4"
@@ -366,7 +366,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
+          "totalStars": 254,
           "forks": 19
         },
         "contributors": [
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 173,
           "forks": 15
         },
         "contributors": [
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
+          "totalStars": 168,
           "forks": 27
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1611,
-          "forks": 73
+          "totalStars": 1654,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 453,
+          "totalStars": 459,
           "forks": 59
         },
         "contributors": [
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
+          "totalStars": 224,
           "forks": 68
         },
         "contributors": [
@@ -568,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
+          "totalStars": 138,
           "forks": 18
         },
         "contributors": [
@@ -588,7 +588,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
+          "totalStars": 116,
           "forks": 9
         },
         "contributors": [
@@ -608,8 +608,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 90,
-          "forks": 7
+          "totalStars": 92,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121128867?v=4"
@@ -650,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 172,
           "forks": 4
         },
         "contributors": [
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96,
+          "totalStars": 97,
           "forks": 0
         },
         "contributors": [
@@ -730,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 82,
+          "totalStars": 83,
           "forks": 0
         },
         "contributors": [
