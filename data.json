@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/16 03:49:10",
+  "lastUpdate": "2026/06/16 04:56:24",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 17243,
-          "forks": 730
+          "totalStars": 17524,
+          "forks": 742
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9079,
-          "forks": 801
+          "totalStars": 9093,
+          "forks": 802
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208276378?v=4"
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4890,
+          "totalStars": 4896,
           "forks": 168
         },
         "contributors": [
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1998,
-          "forks": 243
+          "totalStars": 2022,
+          "forks": 247
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292215228?v=4"
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1576,
+          "totalStars": 1589,
           "forks": 37
         },
         "contributors": [
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1294,
-          "forks": 69
+          "totalStars": 1298,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74125386?v=4"
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1196,
+          "totalStars": 1203,
           "forks": 30
         },
         "contributors": [
@@ -164,7 +164,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 803,
-          "forks": 219
+          "forks": 221
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/149554763?v=4"
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 683,
+          "totalStars": 685,
           "forks": 65
         },
         "contributors": [
@@ -203,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 664,
-          "forks": 76
+          "totalStars": 670,
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292671063?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1998,
-          "forks": 243
+          "totalStars": 2022,
+          "forks": 247
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292215228?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
+          "totalStars": 505,
           "forks": 42
         },
         "contributors": [
@@ -286,7 +286,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 296,
-          "forks": 27
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/194880281?v=4"
@@ -306,7 +306,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 218,
-          "forks": 26
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
@@ -317,6 +317,26 @@
       },
       {
         "rank": 6,
+        "name": "zhengdian1/InterleaveThinker",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 196,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/55654518?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "itsinseong/value-for-fable",
         "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
         "language": {
@@ -330,26 +350,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/181942708?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "zhengdian1/InterleaveThinker",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 192,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/55654518?v=4"
         ],
         "tags": [
           "#Python"
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 139,
+          "totalStars": 141,
           "forks": 24
         },
         "contributors": [
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 17244,
-          "forks": 730
+          "totalStars": 17524,
+          "forks": 742
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 579,
+          "totalStars": 580,
           "forks": 82
         },
         "contributors": [
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 362,
+          "totalStars": 364,
           "forks": 22
         },
         "contributors": [
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
+          "totalStars": 326,
           "forks": 18
         },
         "contributors": [
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 266,
+          "totalStars": 267,
           "forks": 30
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 377,
+          "totalStars": 388,
           "forks": 12
         },
         "contributors": [
@@ -741,26 +741,6 @@
       },
       {
         "rank": 7,
-        "name": "frankkk96/FlashQwen",
-        "description": "From-scratch C++/CUDA inference engine for Qwen3-8B, with zero external libraries",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 53,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52036272?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "Lagerpun/esp32-cyd-aquarium",
         "description": "A self-running little pixel aquarium for the  CYD / Cheap Yellow Display (ESP32-2432S028R)",
         "language": {
@@ -780,7 +760,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "controllervr/yuzu-emu",
         "description": "yuzu switch android yuzu emulator pc download  yuzu github download nintendo switch emulator switch games eden emulator  yuzu windows 11 linux vulkan opengl amd nvidia intel",
         "language": {
@@ -800,7 +780,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "notune/velo",
         "description": "A fast, friendly non-linear video editor for Linux, Windows and macOS",
         "language": {
@@ -809,11 +789,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
+          "totalStars": 38,
           "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25132780?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Yuheng0426/Game_ProgrammingReference",
+        "description": "If you are serious about designing and developing a game, this might help you—Unreal Engine 5 and Unity are both excellent choices.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 35,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/213254271?v=4"
         ],
         "tags": [
           "#C++"
