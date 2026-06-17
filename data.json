@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/06/16 04:56:24",
+  "lastUpdate": "2026/06/17 03:51:47",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
-      "TypeScript": 2,
-      "Python": 1,
+      "Python": 3,
       "Go": 1,
-      "Shell": 2,
+      "Shell": 1,
+      "Swift": 2,
       "C": 1
     },
     "starGrowth": {}
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 17524,
-          "forks": 742
+          "totalStars": 26082,
+          "forks": 1155
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -35,46 +35,6 @@
       },
       {
         "rank": 2,
-        "name": "XiaomiMiMo/MiMo-Code",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 9093,
-          "forks": 802
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/208276378?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "shadcn/improve",
-        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 4896,
-          "forks": 168
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/124599?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "omnigent-ai/omnigent",
         "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
         "language": {
@@ -83,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2022,
-          "forks": 247
+          "totalStars": 2887,
+          "forks": 334
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292215228?v=4"
@@ -94,7 +54,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "tamnd/kage",
         "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
         "language": {
@@ -103,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1589,
-          "forks": 37
+          "totalStars": 1779,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1218621?v=4"
@@ -114,27 +74,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "SkyBlue997/enableMacosAI",
-        "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-        "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1298,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/74125386?v=4"
-        ],
-        "tags": [
-          "#Shell"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "lenucksi/aur-malware-check",
         "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
         "language": {
@@ -143,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1203,
+          "totalStars": 1356,
           "forks": 30
         },
         "contributors": [
@@ -154,27 +94,47 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "levy-street/world-of-claudecraft",
-        "description": "暂无描述",
+        "rank": 5,
+        "name": "EEliberto/IPA-Download",
+        "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
         "language": {
-          "name": "TypeScript",
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 803,
-          "forks": 221
+          "totalStars": 853,
+          "forks": 48
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/149554763?v=4"
+          "https://avatars.githubusercontent.com/u/74881807?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Swift"
         ]
       },
       {
-        "rank": 9,
+        "rank": 6,
+        "name": "loc567/loc567",
+        "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 791,
+          "forks": 91
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/292671063?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "orange2ai/renwei-writing",
         "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
         "language": {
@@ -183,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 685,
-          "forks": 65
+          "totalStars": 731,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77816124?v=4"
@@ -194,23 +154,63 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "loc567/loc567",
-        "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+        "rank": 8,
+        "name": "joeseesun/qiaomu-goal-meta-skill",
+        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
         "language": {
-          "name": "C",
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 634,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "nolangz/pixel2motion",
+        "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 618,
+          "forks": 54
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/64394910?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "vorssaint/vorssaint-utils",
+        "description": "暂无描述",
+        "language": {
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 670,
-          "forks": 78
+          "totalStars": 514,
+          "forks": 25
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/292671063?v=4"
+          "https://avatars.githubusercontent.com/u/259901989?v=4"
         ],
         "tags": [
-          "#C"
+          "#Swift"
         ]
       }
     ],
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2022,
-          "forks": 247
+          "totalStars": 2888,
+          "forks": 334
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292215228?v=4"
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 617,
-          "forks": 45
+          "totalStars": 634,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
@@ -265,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
-          "forks": 42
+          "totalStars": 618,
+          "forks": 54
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64394910?v=4"
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 296,
-          "forks": 28
+          "totalStars": 313,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/194880281?v=4"
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
-          "forks": 27
+          "totalStars": 257,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 196,
+          "totalStars": 203,
           "forks": 3
         },
         "contributors": [
@@ -345,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
+          "totalStars": 193,
           "forks": 46
         },
         "contributors": [
@@ -357,6 +357,26 @@
       },
       {
         "rank": 8,
+        "name": "dongshuyan/compass-skills",
+        "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 192,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/17682201?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "bingook/bingo",
         "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
         "language": {
@@ -365,7 +385,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 189,
           "forks": 21
         },
         "contributors": [
@@ -376,40 +396,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "joeseesun/qiaomu-ai-prd",
-        "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 144,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "liuluhaixiu/DaVinci-AutoEdit-Agent",
-        "description": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill",
+        "name": "majidmanzarpour/threejs-game-skills",
+        "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
-          "forks": 24
+          "totalStars": 173,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/79068656?v=4"
+          "https://avatars.githubusercontent.com/u/13189110?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 17524,
-          "forks": 742
+          "totalStars": 26082,
+          "forks": 1155
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -439,26 +439,6 @@
       },
       {
         "rank": 2,
-        "name": "alchaincyf/fanbox",
-        "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 580,
-          "forks": 82
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127714341?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "royalbhati/sqltoerdiagram",
         "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
         "language": {
@@ -467,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 364,
-          "forks": 22
+          "totalStars": 398,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11679543?v=4"
@@ -478,27 +458,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "BuilderIO/skills",
-        "description": "Skills for coding agents",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 326,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/35700027?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "buynao/aipath",
         "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
         "language": {
@@ -507,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 267,
+          "totalStars": 284,
           "forks": 30
         },
         "contributors": [
@@ -518,7 +478,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "rotejin/tomari-guruguru",
         "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
         "language": {
@@ -527,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
-          "forks": 44
+          "totalStars": 256,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128216944?v=4"
@@ -538,7 +498,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "taisly/agent",
         "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
         "language": {
@@ -547,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
+          "totalStars": 205,
           "forks": 0
         },
         "contributors": [
@@ -558,7 +518,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "fcompc4/ecommerce-kushi",
+        "description": "E-commerce roupa",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 205,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/28808204?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "sgup/ai",
         "description": "Notes and operating profiles for working with AI coding agents.",
         "language": {
@@ -567,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 104,
+          "totalStars": 111,
           "forks": 10
         },
         "contributors": [
@@ -578,20 +558,40 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "vinayaklatthe/microsoft-security-skills",
-        "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
+        "rank": 8,
+        "name": "amElnagdy/delegate-skills",
+        "description": "Drive the OpenAI Codex CLI as a background implementer, brief it, review its diff, land the commit yourself.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 104,
-          "forks": 27
+          "totalStars": 87,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/292429499?v=4"
+          "https://avatars.githubusercontent.com/u/7650147?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "zexuanw958-svg/travel-plan-viz",
+        "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 87,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266722546?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "cocktailpeanut/image-to-prompt",
-        "description": "暂无描述",
+        "name": "liyupi/zhuanglema",
+        "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
-          "forks": 11
+          "totalStars": 79,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121128867?v=4"
+          "https://avatars.githubusercontent.com/u/26037703?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
-          "forks": 12
+          "totalStars": 496,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228057147?v=4"
@@ -641,26 +641,6 @@
       },
       {
         "rank": 2,
-        "name": "snanas/Forza-Horizon-Spotify-Radio",
-        "description": "Forza Horizon Spotify Radio mod — forza horizon 6 spotify integration custom radio station fh6 fh5 fh4 music overlay track player telemetry audio sync mods pc",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 112,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/144795397?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "soltia48/sdrplusplus-j-alert-plugin",
         "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink.",
         "language": {
@@ -669,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 2
+          "totalStars": 123,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36096887?v=4"
@@ -680,20 +660,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "Alex-Shayo/bakkes-mod-install",
-        "description": "bakkesmod rocket league download github epic games steam plugins mmr viewer injector custom items",
+        "rank": 3,
+        "name": "localai-org/privacy-filter.cpp",
+        "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 95,
-          "forks": 0
+          "totalStars": 96,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/110035286?v=4"
+          "https://avatars.githubusercontent.com/u/260893928?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "TFommy/CapCut-Pro-26",
+        "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/135398819?v=4"
         ],
         "tags": [
           "#C++"
@@ -701,19 +701,19 @@
       },
       {
         "rank": 5,
-        "name": "Adtyahac/Acrobat-Editor",
-        "description": "pdf editor pro free download   dc reader ai assistant merge convert word excel ocr text recognition sign fill forms e-sign compress security",
+        "name": "Nitz1947/Skeet-CC-Game-Sense-2026",
+        "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 78,
-          "forks": 0
+          "totalStars": 75,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/94513791?v=4"
+          "https://avatars.githubusercontent.com/u/92189971?v=4"
         ],
         "tags": [
           "#C++"
@@ -721,19 +721,19 @@
       },
       {
         "rank": 6,
-        "name": "mudler/locate-anything.cpp",
-        "description": "Port of Nvidia LocateAnything-3B on ggml",
+        "name": "VILDEV0205/Steam-KG-2026M1",
+        "description": "Professional developer toolkit for managing, auditing, and organizing Steam product keys and digital distribution assets for indie publishers.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
-          "forks": 5
+          "totalStars": 75,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/2420543?v=4"
+          "https://avatars.githubusercontent.com/u/178444769?v=4"
         ],
         "tags": [
           "#C++"
@@ -741,19 +741,19 @@
       },
       {
         "rank": 7,
-        "name": "Lagerpun/esp32-cyd-aquarium",
-        "description": "A self-running little pixel aquarium for the  CYD / Cheap Yellow Display (ESP32-2432S028R)",
+        "name": "ratters69/Vanguard-Vision-Version-Pro-2026",
+        "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 5
+          "totalStars": 75,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/64220560?v=4"
+          "https://avatars.githubusercontent.com/u/289051500?v=4"
         ],
         "tags": [
           "#C++"
@@ -761,19 +761,19 @@
       },
       {
         "rank": 8,
-        "name": "controllervr/yuzu-emu",
-        "description": "yuzu switch android yuzu emulator pc download  yuzu github download nintendo switch emulator switch games eden emulator  yuzu windows 11 linux vulkan opengl amd nvidia intel",
+        "name": "rqubati/Crimson-Desert-2026-Wq",
+        "description": "Easy-to-use PC utility and installer for Crimson Desert Save Editor, featuring a simple .exe setup. Built for speed and accessibility.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 46,
-          "forks": 1
+          "totalStars": 74,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/219729192?v=4"
+          "https://avatars.githubusercontent.com/u/193001779?v=4"
         ],
         "tags": [
           "#C++"
@@ -781,19 +781,19 @@
       },
       {
         "rank": 9,
-        "name": "notune/velo",
-        "description": "A fast, friendly non-linear video editor for Linux, Windows and macOS",
+        "name": "kenshicage26/FL-Product-Version-25",
+        "description": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 38,
-          "forks": 2
+          "totalStars": 74,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/25132780?v=4"
+          "https://avatars.githubusercontent.com/u/211315930?v=4"
         ],
         "tags": [
           "#C++"
@@ -801,19 +801,19 @@
       },
       {
         "rank": 10,
-        "name": "Yuheng0426/Game_ProgrammingReference",
-        "description": "If you are serious about designing and developing a game, this might help you—Unreal Engine 5 and Unity are both excellent choices.",
+        "name": "senayoub871-pixel/FPS-Tweak-26",
+        "description": "The easiest FPS Booster for Windows. Optimize your system for better gaming performance, reduce input lag, and get more frames in one click.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 35,
-          "forks": 3
+          "totalStars": 74,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/213254271?v=4"
+          "https://avatars.githubusercontent.com/u/270094788?v=4"
         ],
         "tags": [
           "#C++"
