@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/17 03:51:47",
+  "lastUpdate": "2026/06/17 04:43:06",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26082,
-          "forks": 1155
+          "totalStars": 26335,
+          "forks": 1166
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2887,
-          "forks": 334
+          "totalStars": 2922,
+          "forks": 337
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292215228?v=4"
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1779,
+          "totalStars": 1783,
           "forks": 51
         },
         "contributors": [
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1356,
+          "totalStars": 1357,
           "forks": 30
         },
         "contributors": [
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 853,
-          "forks": 48
+          "totalStars": 862,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74881807?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 91
+          "totalStars": 792,
+          "forks": 92
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292671063?v=4"
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 731,
+          "totalStars": 732,
           "forks": 74
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 618,
+          "totalStars": 620,
           "forks": 54
         },
         "contributors": [
@@ -203,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 514,
-          "forks": 25
+          "totalStars": 518,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259901989?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2888,
-          "forks": 334
+          "totalStars": 2922,
+          "forks": 337
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/292215228?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 618,
+          "totalStars": 620,
           "forks": 54
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 257,
+          "totalStars": 258,
           "forks": 30
         },
         "contributors": [
@@ -337,6 +337,26 @@
       },
       {
         "rank": 7,
+        "name": "dongshuyan/compass-skills",
+        "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 194,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/17682201?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "itsinseong/value-for-fable",
         "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
         "language": {
@@ -350,26 +370,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/181942708?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "dongshuyan/compass-skills",
-        "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 192,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17682201?v=4"
         ],
         "tags": [
           "#Python"
@@ -397,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "majidmanzarpour/threejs-game-skills",
-        "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+        "name": "baskduf/FableCodex",
+        "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 173,
-          "forks": 13
+          "totalStars": 180,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/13189110?v=4"
+          "https://avatars.githubusercontent.com/u/20144414?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26082,
-          "forks": 1155
+          "totalStars": 26336,
+          "forks": 1166
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 398,
+          "totalStars": 402,
           "forks": 29
         },
         "contributors": [
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 284,
+          "totalStars": 285,
           "forks": 30
         },
         "contributors": [
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
+          "totalStars": 257,
           "forks": 45
         },
         "contributors": [
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
+          "totalStars": 88,
           "forks": 16
         },
         "contributors": [
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
+          "totalStars": 88,
           "forks": 5
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 496,
+          "totalStars": 499,
           "forks": 16
         },
         "contributors": [
@@ -669,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96,
-          "forks": 2
+          "totalStars": 102,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260893928?v=4"
