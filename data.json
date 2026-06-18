@@ -1,13 +1,14 @@
 {
-  "lastUpdate": "2026/06/17 04:43:06",
+  "lastUpdate": "2026/06/18 03:38:50",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
-      "Python": 3,
       "Go": 1,
       "Shell": 1,
       "Swift": 2,
-      "C": 1
+      "TypeScript": 1,
+      "Python": 1,
+      "C++": 1
     },
     "starGrowth": {}
   },
@@ -23,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26335,
-          "forks": 1166
+          "totalStars": 32382,
+          "forks": 1460
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -35,26 +36,6 @@
       },
       {
         "rank": 2,
-        "name": "omnigent-ai/omnigent",
-        "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2922,
-          "forks": 337
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/292215228?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "tamnd/kage",
         "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
         "language": {
@@ -63,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1783,
-          "forks": 51
+          "totalStars": 1868,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1218621?v=4"
@@ -74,7 +55,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "lenucksi/aur-malware-check",
         "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
         "language": {
@@ -83,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1357,
-          "forks": 30
+          "totalStars": 1466,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2451899?v=4"
@@ -94,7 +75,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "EEliberto/IPA-Download",
         "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
         "language": {
@@ -103,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 862,
-          "forks": 49
+          "totalStars": 1022,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74881807?v=4"
@@ -114,27 +95,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "loc567/loc567",
-        "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+        "rank": 5,
+        "name": "vercel/eve",
+        "description": "The Framework for Building Agents",
         "language": {
-          "name": "C",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 792,
-          "forks": 92
+          "totalStars": 787,
+          "forks": 36
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/292671063?v=4"
+          "https://avatars.githubusercontent.com/u/14985020?v=4"
         ],
         "tags": [
-          "#C"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "orange2ai/renwei-writing",
         "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
         "language": {
@@ -143,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
-          "forks": 74
+          "totalStars": 778,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77816124?v=4"
@@ -154,27 +135,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "joeseesun/qiaomu-goal-meta-skill",
-        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 634,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "name": "nolangz/pixel2motion",
         "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
         "language": {
@@ -183,8 +144,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 620,
-          "forks": 54
+          "totalStars": 727,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64394910?v=4"
@@ -194,17 +155,37 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "alchaincyf/loop-engineering-orange-book",
+        "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 637,
+          "forks": 50
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/127714341?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "vorssaint/vorssaint-utils",
-        "description": "暂无描述",
+        "description": "Vorssaint macOS app",
         "language": {
           "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
-          "forks": 26
+          "totalStars": 601,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259901989?v=4"
@@ -212,51 +193,31 @@
         "tags": [
           "#Swift"
         ]
+      },
+      {
+        "rank": 10,
+        "name": "SunJaycy/GoldenEye-Recomp",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 532,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/228057147?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "omnigent-ai/omnigent",
-        "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2922,
-          "forks": 337
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/292215228?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "joeseesun/qiaomu-goal-meta-skill",
-        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 634,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "nolangz/pixel2motion",
         "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
         "language": {
@@ -265,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 620,
-          "forks": 54
+          "totalStars": 727,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64394910?v=4"
@@ -276,67 +237,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "MiniMax-AI/MSA",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 313,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/194880281?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "joeseesun/qiaomu-novel-generator",
-        "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 258,
-          "forks": 30
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "zhengdian1/InterleaveThinker",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 203,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/55654518?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 2,
         "name": "dongshuyan/compass-skills",
         "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
         "language": {
@@ -345,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
-          "forks": 18
+          "totalStars": 284,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17682201?v=4"
@@ -356,27 +257,67 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "itsinseong/value-for-fable",
-        "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
+        "rank": 3,
+        "name": "joeseesun/qiaomu-novel-generator",
+        "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
-          "forks": 46
+          "totalStars": 278,
+          "forks": 34
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/181942708?v=4"
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 9,
+        "rank": 4,
+        "name": "baskduf/FableCodex",
+        "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 273,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20144414?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "majidmanzarpour/threejs-game-skills",
+        "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 247,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13189110?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "bingook/bingo",
         "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
         "language": {
@@ -396,20 +337,80 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "baskduf/FableCodex",
-        "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+        "rank": 7,
+        "name": "Tyxy-R/codex-referral-risk-research",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 180,
-          "forks": 23
+          "totalStars": 188,
+          "forks": 126
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/20144414?v=4"
+          "https://avatars.githubusercontent.com/u/116926526?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "liuluhaixiu/DaVinci-AutoEdit-Agent",
+        "description": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 184,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/79068656?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "tmchow/illo-skill",
+        "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 164,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/517103?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "YangyangQu/research-idea-scout",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 149,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/44865046?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26336,
-          "forks": 1166
+          "totalStars": 32382,
+          "forks": 1460
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -447,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
-          "forks": 29
+          "totalStars": 452,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11679543?v=4"
@@ -467,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 285,
-          "forks": 30
+          "totalStars": 307,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11701966?v=4"
@@ -479,6 +480,26 @@
       },
       {
         "rank": 4,
+        "name": "rebel0789/codexpro",
+        "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 281,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/126284057?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "rotejin/tomari-guruguru",
         "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
         "language": {
@@ -487,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 257,
+          "totalStars": 264,
           "forks": 45
         },
         "contributors": [
@@ -498,47 +519,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "taisly/agent",
-        "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 205,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/292659094?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 6,
-        "name": "fcompc4/ecommerce-kushi",
-        "description": "E-commerce roupa",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 205,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/28808204?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "sgup/ai",
         "description": "Notes and operating profiles for working with AI coding agents.",
         "language": {
@@ -547,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 111,
+          "totalStars": 116,
           "forks": 10
         },
         "contributors": [
@@ -558,27 +539,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "amElnagdy/delegate-skills",
-        "description": "Drive the OpenAI Codex CLI as a background implementer, brief it, review its diff, land the commit yourself.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 88,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7650147?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "name": "zexuanw958-svg/travel-plan-viz",
         "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
         "language": {
@@ -587,7 +548,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
+          "totalStars": 116,
           "forks": 5
         },
         "contributors": [
@@ -598,9 +559,49 @@
         ]
       },
       {
+        "rank": 8,
+        "name": "yolfinance/yolfi-agent",
+        "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 93,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/285802295?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "amElnagdy/delegate-skills",
+        "description": "Drive the OpenAI Codex CLI as a background implementer, brief it, review its diff, land the commit yourself.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 91,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7650147?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 10,
-        "name": "liyupi/zhuanglema",
-        "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
+        "name": "ProxyAyush/antigravity-fusion-plugin",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
@@ -608,10 +609,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 79,
-          "forks": 13
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/26037703?v=4"
+          "https://avatars.githubusercontent.com/u/65772478?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 499,
-          "forks": 16
+          "totalStars": 532,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228057147?v=4"
@@ -641,6 +642,26 @@
       },
       {
         "rank": 2,
+        "name": "localai-org/privacy-filter.cpp",
+        "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 186,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/260893928?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "soltia48/sdrplusplus-j-alert-plugin",
         "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink.",
         "language": {
@@ -649,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 123,
+          "totalStars": 124,
           "forks": 3
         },
         "contributors": [
@@ -660,47 +681,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "localai-org/privacy-filter.cpp",
-        "description": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 102,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/260893928?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 4,
-        "name": "TFommy/CapCut-Pro-26",
-        "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 76,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/135398819?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "Nitz1947/Skeet-CC-Game-Sense-2026",
         "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
         "language": {
@@ -720,7 +701,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "VILDEV0205/Steam-KG-2026M1",
         "description": "Professional developer toolkit for managing, auditing, and organizing Steam product keys and digital distribution assets for indie publishers.",
         "language": {
@@ -740,7 +721,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "ratters69/Vanguard-Vision-Version-Pro-2026",
         "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay.",
         "language": {
@@ -760,7 +741,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "rqubati/Crimson-Desert-2026-Wq",
         "description": "Easy-to-use PC utility and installer for Crimson Desert Save Editor, featuring a simple .exe setup. Built for speed and accessibility.",
         "language": {
@@ -780,27 +761,7 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "kenshicage26/FL-Product-Version-25",
-        "description": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 74,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/211315930?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "name": "senayoub871-pixel/FPS-Tweak-26",
         "description": "The easiest FPS Booster for Windows. Optimize your system for better gaming performance, reduce input lag, and get more frames in one click.",
         "language": {
@@ -814,6 +775,46 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270094788?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "biolashonde/AI-Voice-Mod-Pro-Studio",
+        "description": "An open-source, local AI-powered voice changer and audio enhancement utility.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 74,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/32555249?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "MohammdKopa/discord-server-booster-2026",
+        "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 74,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/65500530?v=4"
         ],
         "tags": [
           "#C++"
