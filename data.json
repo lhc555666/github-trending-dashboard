@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/18 03:38:50",
+  "lastUpdate": "2026/06/18 04:26:24",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 32382,
-          "forks": 1460
+          "totalStars": 32541,
+          "forks": 1468
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1868,
-          "forks": 58
+          "totalStars": 1870,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1218621?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1466,
+          "totalStars": 1467,
           "forks": 32
         },
         "contributors": [
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1022,
+          "totalStars": 1024,
           "forks": 56
         },
         "contributors": [
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 787,
+          "totalStars": 817,
           "forks": 36
         },
         "contributors": [
@@ -124,7 +124,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 778,
+          "totalStars": 782,
           "forks": 77
         },
         "contributors": [
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 727,
+          "totalStars": 728,
           "forks": 69
         },
         "contributors": [
@@ -184,7 +184,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 601,
+          "totalStars": 602,
           "forks": 30
         },
         "contributors": [
@@ -204,7 +204,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 532,
+          "totalStars": 533,
           "forks": 20
         },
         "contributors": [
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 727,
+          "totalStars": 728,
           "forks": 69
         },
         "contributors": [
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 284,
+          "totalStars": 285,
           "forks": 26
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
+          "totalStars": 279,
           "forks": 34
         },
         "contributors": [
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 273,
+          "totalStars": 274,
           "forks": 38
         },
         "contributors": [
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
-          "forks": 22
+          "totalStars": 248,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13189110?v=4"
@@ -318,6 +318,26 @@
       },
       {
         "rank": 6,
+        "name": "Tyxy-R/codex-referral-risk-research",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 193,
+          "forks": 126
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/116926526?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "bingook/bingo",
         "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
         "language": {
@@ -337,26 +357,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Tyxy-R/codex-referral-risk-research",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 188,
-          "forks": 126
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/116926526?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 8,
         "name": "liuluhaixiu/DaVinci-AutoEdit-Agent",
         "description": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill",
@@ -366,7 +366,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 184,
+          "totalStars": 185,
           "forks": 31
         },
         "contributors": [
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
+          "totalStars": 165,
           "forks": 5
         },
         "contributors": [
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
+          "totalStars": 150,
           "forks": 6
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 32382,
-          "forks": 1460
+          "totalStars": 32541,
+          "forks": 1468
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/137048761?v=4"
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 452,
+          "totalStars": 454,
           "forks": 37
         },
         "contributors": [
@@ -488,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 281,
-          "forks": 23
+          "totalStars": 284,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126284057?v=4"
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
+          "totalStars": 265,
           "forks": 45
         },
         "contributors": [
@@ -520,6 +520,26 @@
       },
       {
         "rank": 6,
+        "name": "zexuanw958-svg/travel-plan-viz",
+        "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 117,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266722546?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "sgup/ai",
         "description": "Notes and operating profiles for working with AI coding agents.",
         "language": {
@@ -539,26 +559,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "zexuanw958-svg/travel-plan-viz",
-        "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 116,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/266722546?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 8,
         "name": "yolfinance/yolfi-agent",
         "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
@@ -568,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 97,
           "forks": 0
         },
         "contributors": [
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 532,
+          "totalStars": 533,
           "forks": 20
         },
         "contributors": [
