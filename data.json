@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/19 04:02:06",
+  "lastUpdate": "2026/06/19 04:53:54",
   "charts": {
     "languageDistribution": {
       "Go": 1,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2015,
+          "totalStars": 2017,
           "forks": 62
         },
         "contributors": [
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1410,
-          "forks": 82
+          "totalStars": 1426,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14985020?v=4"
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1075,
+          "totalStars": 1076,
           "forks": 57
         },
         "contributors": [
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
+          "totalStars": 958,
           "forks": 90
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 500,
+          "totalStars": 503,
           "forks": 56
         },
         "contributors": [
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
+          "totalStars": 482,
           "forks": 72
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
+          "totalStars": 468,
           "forks": 38
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 401,
+          "totalStars": 403,
           "forks": 35
         },
         "contributors": [
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
+          "totalStars": 482,
           "forks": 72
         },
         "contributors": [
@@ -296,26 +296,6 @@
       },
       {
         "rank": 5,
-        "name": "boogu-project/Boogu-Image",
-        "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 289,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/243518726?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "majidmanzarpour/threejs-game-skills",
         "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
         "language": {
@@ -324,11 +304,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 284,
+          "totalStars": 291,
           "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13189110?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "boogu-project/Boogu-Image",
+        "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 291,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/243518726?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
+          "totalStars": 468,
           "forks": 38
         },
         "contributors": [
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 161,
           "forks": 29
         },
         "contributors": [
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
+          "totalStars": 133,
           "forks": 37
         },
         "contributors": [
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 125,
           "forks": 2
         },
         "contributors": [
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 108,
+          "totalStars": 110,
           "forks": 9
         },
         "contributors": [
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
+          "totalStars": 104,
           "forks": 9
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 128,
           "forks": 3
         },
         "contributors": [
