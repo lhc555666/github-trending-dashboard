@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/20 03:24:58",
+  "lastUpdate": "2026/06/20 04:08:44",
   "charts": {
     "languageDistribution": {
       "Go": 1,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2101,
-          "forks": 63
+          "totalStars": 2103,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1218621?v=4"
@@ -41,7 +41,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1661,
+          "totalStars": 1664,
           "forks": 106
         },
         "contributors": [
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1439,
-          "forks": 129
+          "totalStars": 1442,
+          "forks": 131
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86405648?v=4"
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 452,
+          "totalStars": 454,
           "forks": 40
         },
         "contributors": [
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
-          "forks": 29
+          "totalStars": 363,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17682201?v=4"
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 349,
-          "forks": 37
+          "totalStars": 350,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13189110?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
-          "forks": 29
+          "totalStars": 363,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17682201?v=4"
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 349,
-          "forks": 37
+          "totalStars": 350,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13189110?v=4"
@@ -335,6 +335,26 @@
       },
       {
         "rank": 7,
+        "name": "leyten/shard",
+        "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 209,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/86632281?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "aresyn/codex-control-plane-mcp",
         "description": "Durable MCP control plane for long-running Codex Desktop tasks",
         "language": {
@@ -354,27 +374,27 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "leyten/shard",
-        "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+        "rank": 9,
+        "name": "Verdi38/Silent-Crypto-Miner",
+        "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 206,
-          "forks": 18
+          "totalStars": 183,
+          "forks": 35
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/86632281?v=4"
+          "https://avatars.githubusercontent.com/u/244818349?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "YangyangQu/research-idea-scout",
         "description": "暂无描述",
         "language": {
@@ -392,26 +412,6 @@
         "tags": [
           "#Python"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "Verdi38/Silent-Crypto-Miner",
-        "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 169,
-          "forks": 33
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/244818349?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
       }
     ],
     "JavaScript": [
@@ -425,7 +425,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 276,
+          "totalStars": 277,
           "forks": 48
         },
         "contributors": [
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
+          "totalStars": 213,
           "forks": 36
         },
         "contributors": [
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 174,
+          "totalStars": 175,
           "forks": 42
         },
         "contributors": [
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 134,
+          "totalStars": 136,
           "forks": 11
         },
         "contributors": [
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 128,
           "forks": 10
         },
         "contributors": [
