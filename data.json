@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026/06/21 03:55:03",
+  "lastUpdate": "2026/06/21 04:50:10",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
-      "JavaScript": 1,
+      "JavaScript": 2,
       "Python": 2
     },
     "starGrowth": {}
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1882,
-          "forks": 122
+          "totalStars": 1886,
+          "forks": 123
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14985020?v=4"
@@ -40,7 +40,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 717,
+          "totalStars": 718,
           "forks": 62
         },
         "contributors": [
@@ -60,7 +60,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 562,
+          "totalStars": 566,
           "forks": 51
         },
         "contributors": [
@@ -80,7 +80,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 536,
+          "totalStars": 538,
           "forks": 0
         },
         "contributors": [
@@ -120,7 +120,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
+          "totalStars": 398,
           "forks": 34
         },
         "contributors": [
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 367,
-          "forks": 23
+          "totalStars": 370,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10625446?v=4"
@@ -152,6 +152,26 @@
       },
       {
         "rank": 8,
+        "name": "zhongerxin/cowart",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 365,
+          "forks": 33
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8215057?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "boogu-project/Boogu-Image",
         "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
         "language": {
@@ -160,7 +180,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
+          "totalStars": 362,
           "forks": 16
         },
         "contributors": [
@@ -171,7 +191,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "MstKail/polymarket-trading-bot-services-polyedge365",
         "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
         "language": {
@@ -180,31 +200,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 358,
           "forks": 710
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26532345?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
-        "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 339,
-          "forks": 319
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8236491?v=4"
         ],
         "tags": [
           "#Trending"
@@ -222,7 +222,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
+          "totalStars": 398,
           "forks": 34
         },
         "contributors": [
@@ -242,7 +242,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
+          "totalStars": 362,
           "forks": 16
         },
         "contributors": [
@@ -262,8 +262,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 266,
-          "forks": 27
+          "totalStars": 267,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86632281?v=4"
@@ -382,8 +382,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 52
+          "totalStars": 138,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/231181387?v=4"
@@ -424,7 +424,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 562,
+          "totalStars": 566,
           "forks": 51
         },
         "contributors": [
@@ -444,8 +444,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
-          "forks": 23
+          "totalStars": 365,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
+          "totalStars": 170,
           "forks": 1
         },
         "contributors": [
@@ -504,7 +504,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
+          "totalStars": 168,
           "forks": 16
         },
         "contributors": [
@@ -524,7 +524,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
+          "totalStars": 153,
           "forks": 1
         },
         "contributors": [
@@ -604,8 +604,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 414
+          "totalStars": 119,
+          "forks": 476
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142894633?v=4"
