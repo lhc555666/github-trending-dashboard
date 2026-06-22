@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/22 03:56:50",
+  "lastUpdate": "2026/06/22 04:58:29",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -20,7 +20,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2109,
+          "totalStars": 2116,
           "forks": 150
         },
         "contributors": [
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1396,
-          "forks": 116
+          "totalStars": 1447,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -60,8 +60,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 635,
-          "forks": 58
+          "totalStars": 639,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126284057?v=4"
@@ -80,7 +80,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 613,
+          "totalStars": 615,
           "forks": 1
         },
         "contributors": [
@@ -140,7 +140,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
+          "totalStars": 403,
           "forks": 19
         },
         "contributors": [
@@ -172,6 +172,26 @@
       },
       {
         "rank": 9,
+        "name": "aidenybai/cnfast",
+        "description": "Fast drop in replacement for `cn`",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 379,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38025074?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
         "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
         "language": {
@@ -189,26 +209,6 @@
         "tags": [
           "#Trending"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "aidenybai/cnfast",
-        "description": "Fast drop in replacement for `cn`",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 364,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/38025074?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
       }
     ],
     "Python": [
@@ -222,7 +222,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
+          "totalStars": 403,
           "forks": 19
         },
         "contributors": [
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 292,
-          "forks": 38
+          "totalStars": 315,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/235843849?v=4"
@@ -402,8 +402,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 35
+          "totalStars": 140,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44167398?v=4"
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1396,
-          "forks": 116
+          "totalStars": 1447,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -444,8 +444,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 635,
-          "forks": 58
+          "totalStars": 639,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126284057?v=4"
@@ -464,8 +464,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
-          "forks": 41
+          "totalStars": 260,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/173690125?v=4"
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
+          "totalStars": 254,
           "forks": 23
         },
         "contributors": [
@@ -504,8 +504,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 238,
-          "forks": 1014
+          "totalStars": 240,
+          "forks": 1029
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142894633?v=4"
@@ -544,7 +544,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 173,
+          "totalStars": 174,
           "forks": 2
         },
         "contributors": [
@@ -786,7 +786,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 40,
+          "totalStars": 39,
           "forks": 1
         },
         "contributors": [
@@ -806,7 +806,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
+          "totalStars": 38,
           "forks": 1
         },
         "contributors": [
