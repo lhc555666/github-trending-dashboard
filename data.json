@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/06/23 03:59:02",
+  "lastUpdate": "2026/06/24 02:56:37",
   "charts": {
     "languageDistribution": {
+      "Python": 4,
       "JavaScript": 3,
-      "Python": 2,
-      "TypeScript": 2,
-      "C#": 1
+      "TypeScript": 1,
+      "HTML": 1
     },
     "starGrowth": {}
   },
@@ -13,6 +13,26 @@
     "All": [
       {
         "rank": 1,
+        "name": "baidu/Unlimited-OCR",
+        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 3936,
+          "forks": 268
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13245940?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "zhongerxin/Cowart",
         "description": "暂无描述",
         "language": {
@@ -21,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2072,
-          "forks": 159
+          "totalStars": 2396,
+          "forks": 185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -32,7 +52,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "lyra81604/zhengxi-views",
         "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
         "language": {
@@ -41,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 706,
-          "forks": 88
+          "totalStars": 923,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/235843849?v=4"
@@ -52,7 +72,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Forsy-AI/agent-apprenticeship",
         "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
         "language": {
@@ -61,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 692,
+          "totalStars": 865,
           "forks": 46
         },
         "contributors": [
@@ -72,7 +92,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "aidenybai/cnfast",
         "description": "Fast drop in replacement for `cn`",
         "language": {
@@ -81,34 +101,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 676,
-          "forks": 7
+          "totalStars": 796,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38025074?v=4"
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "baidu/Unlimited-OCR",
-        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 662,
-          "forks": 54
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/13245940?v=4"
-        ],
-        "tags": [
-          "#Python"
         ]
       },
       {
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 567,
-          "forks": 0
+          "totalStars": 722,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271289593?v=4"
@@ -133,42 +133,42 @@
       },
       {
         "rank": 7,
-        "name": "Plaer1/junction",
-        "description": "VS Code chat sidebar for local AI coding agents",
+        "name": "bozhouDev/codex-orange-book",
+        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
         "language": {
-          "name": "TypeScript",
+          "name": "HTML",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 526,
-          "forks": 8
+          "totalStars": 597,
+          "forks": 61
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3485414?v=4"
+          "https://avatars.githubusercontent.com/u/259759010?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#HTML"
         ]
       },
       {
         "rank": 8,
-        "name": "MstKail/polymarket-trading-bot-services-polyedge365",
-        "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
+        "name": "sums001/Windows-Copilot-API",
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 399,
-          "forks": 711
+          "totalStars": 546,
+          "forks": 206
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/26532345?v=4"
+          "https://avatars.githubusercontent.com/u/44167398?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Python"
         ]
       },
       {
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 385,
-          "forks": 32
+          "totalStars": 500,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/314135?v=4"
@@ -193,48 +193,28 @@
       },
       {
         "rank": 10,
-        "name": "nnecrkvenuOX/formcms",
-        "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-        "language": {
-          "name": "C#",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 383,
-          "forks": 905
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8410841?v=4"
-        ],
-        "tags": [
-          "#C#"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "lyra81604/zhengxi-views",
-        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+        "name": "yo-WASSUP/Good-Badminton",
+        "description": "🏸  AI Badminton Hawk-Eye System",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 706,
-          "forks": 88
+          "totalStars": 424,
+          "forks": 138
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/235843849?v=4"
+          "https://avatars.githubusercontent.com/u/52742733?v=4"
         ],
         "tags": [
           "#Python"
         ]
-      },
+      }
+    ],
+    "Python": [
       {
-        "rank": 2,
+        "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "language": {
@@ -243,11 +223,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 662,
-          "forks": 54
+          "totalStars": 3936,
+          "forks": 268
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13245940?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "lyra81604/zhengxi-views",
+        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 923,
+          "forks": 114
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/235843849?v=4"
         ],
         "tags": [
           "#Python"
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 383,
-          "forks": 135
+          "totalStars": 546,
+          "forks": 206
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44167398?v=4"
@@ -275,26 +275,6 @@
       },
       {
         "rank": 4,
-        "name": "raiyanyahya/recall",
-        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 333,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/23720340?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "yo-WASSUP/Good-Badminton",
         "description": "🏸  AI Badminton Hawk-Eye System",
         "language": {
@@ -303,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 303,
-          "forks": 110
+          "totalStars": 424,
+          "forks": 138
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52742733?v=4"
@@ -314,20 +294,40 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "Tyxy-R/codex-referral-risk-research",
-        "description": "暂无描述",
+        "rank": 5,
+        "name": "raiyanyahya/recall",
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 229,
-          "forks": 132
+          "totalStars": 418,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/116926526?v=4"
+          "https://avatars.githubusercontent.com/u/23720340?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ksimback/looper",
+        "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 231,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16635828?v=4"
         ],
         "tags": [
           "#Python"
@@ -335,19 +335,19 @@
       },
       {
         "rank": 7,
-        "name": "aresyn/codex-control-plane-mcp",
-        "description": "Durable MCP control plane for long-running Codex Desktop tasks",
+        "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+        "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
-          "forks": 4
+          "totalStars": 154,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/51988059?v=4"
+          "https://avatars.githubusercontent.com/u/117545515?v=4"
         ],
         "tags": [
           "#Python"
@@ -355,19 +355,19 @@
       },
       {
         "rank": 8,
-        "name": "Verdi38/Silent-Crypto-Miner",
-        "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
+        "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+        "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 183,
-          "forks": 35
+          "totalStars": 150,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/244818349?v=4"
+          "https://avatars.githubusercontent.com/u/117545515?v=4"
         ],
         "tags": [
           "#Python"
@@ -375,19 +375,19 @@
       },
       {
         "rank": 9,
-        "name": "LING71671/open-reverselab",
-        "description": "暂无描述",
+        "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+        "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
-          "forks": 60
+          "totalStars": 149,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/231181387?v=4"
+          "https://avatars.githubusercontent.com/u/229883344?v=4"
         ],
         "tags": [
           "#Python"
@@ -395,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "kelleylenc/Seed-Generator",
-        "description": "Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX, and Testnet. Offline CSPRNG generation, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, batch export, and custom paths.",
+        "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+        "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 146,
-          "forks": 34
+          "totalStars": 148,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/244562567?v=4"
+          "https://avatars.githubusercontent.com/u/229883344?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2072,
-          "forks": 159
+          "totalStars": 2396,
+          "forks": 185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 567,
-          "forks": 0
+          "totalStars": 722,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271289593?v=4"
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 385,
-          "forks": 32
+          "totalStars": 500,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/314135?v=4"
@@ -477,26 +477,6 @@
       },
       {
         "rank": 4,
-        "name": "rpanigrahi222/intruth-factcheck",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 309,
-          "forks": 50
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/173690125?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "eooce/transfer-api",
         "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
         "language": {
@@ -505,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
-          "forks": 1343
+          "totalStars": 325,
+          "forks": 1514
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142894633?v=4"
@@ -516,67 +496,27 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "goehou/tabbit-toy",
+        "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 209,
+          "forks": 527
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/126329294?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 6,
-        "name": "Kato-Shoko705/Phoebe-Hub",
-        "description": "全球最可爱的鸣潮角色菲比表情包收集站",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 187,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/184828103?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "yeet-src/httpinspect",
-        "description": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 183,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/125224316?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Ar9av/gemini-nano-chrome",
-        "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 163,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/29639685?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "flatkey-ai/awesome-images",
         "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
         "language": {
@@ -585,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 118,
+          "totalStars": 139,
           "forks": 0
         },
         "contributors": [
@@ -596,7 +536,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "name": "Johell1NS/browser-search",
+        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 137,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/78345296?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "igoruehara/spec-driven",
         "description": "暂无描述",
         "language": {
@@ -605,11 +565,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
-          "forks": 35
+          "totalStars": 130,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15908469?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "FFF686868/proxypin-wloc-spoofer",
+        "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 92,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/294673181?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+        "description": "A three.js agent skills for producing awesome graphics for scenes and games",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 88,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/129048583?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,66 +619,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "Firewalkeroffear/satisfactory-mod-manager",
-        "description": "satisfactory mod manager ficsit smm satisfactory mods github mod installer load order profile manager plugins dependencies game modding coffee stain studios desktop utility pc gaming factory simulation automation blueprint organizer clean build stable version modpack manager satisfactory calculator unreal engine modding game launcher update checker",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 193,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25168518?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "Fahim-SS/lsfg-git",
-        "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 191,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/93438140?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "roppik/tomodachi-pc",
-        "description": "tomodachi pc port life simulator mii sharing qr codes island life citra fork panda3ds 3ds emulator github living the dream save editor transfer modding hd texture pack 60fps mod desktop utility macos linux open source community enhancement patch fan made translation gameplay simulation",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46084787?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "BohemiaInteractive/CWR",
         "description": "Arma: Cold War Assault Remastered Source Code Repository.",
         "language": {
@@ -687,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 99,
-          "forks": 23
+          "totalStars": 177,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25146849?v=4"
@@ -698,97 +638,57 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "Alij83/multiplerobloxinstances",
-        "description": "multiplerobloxinstances roblox multi instances account alt manager github download accounts alts launch launcher multiclient client open opening running session sessions parallel windows concurrent pc",
+        "rank": 2,
+        "name": "Valorant-AI/valorant-ai-aimbot-undetected",
+        "description": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 83,
+          "totalStars": 93,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/170019305?v=4"
+          "https://avatars.githubusercontent.com/u/296269635?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 6,
-        "name": "nicechunk/nicechunk-guardian",
-        "description": "nicechunk-guardian split from NiceChunk",
+        "rank": 3,
+        "name": "cote-tony/walletgen",
+        "description": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 64,
-          "forks": 0
+          "totalStars": 62,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/293527782?v=4"
+          "https://avatars.githubusercontent.com/u/271250392?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 7,
-        "name": "YangSiYv/valo-ai-assistant-2026",
-        "description": "🤖 Valorant AI Assist - Smart AI-powered gaming assistant designed to help players analyze gameplay, improve reaction time, and enhance performance in real-time. Easy setup with a single .exe file!",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 63,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/197630303?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "ahmednasser04/honkaistarrailexternal-2",
-        "description": "Simple and clean standalone desktop overlay for HonkaiStarRailExternalCheatMenu on Windows PC. Easily monitor turn-based combat metrics, track farming paths, and manage stats.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 63,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/111324864?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 4,
         "name": "arickxuan/sms_forwarding",
-        "description": "暂无描述",
+        "description": "可远程管理eSIM的短信转发工具",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 15
+          "totalStars": 62,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5804510?v=4"
@@ -798,7 +698,47 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 5,
+        "name": "MemNixFS/MemNixFS",
+        "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 53,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/285480899?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "madeye/ds-input",
+        "description": "DS Input — an LLM whole-sentence pinyin input method (macOS + Windows): toneless pinyin → Chinese inline, no candidate window. Rust core (C ABI) + thin native frontends.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 47,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/627917?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "natedemoss/cf-recommend",
         "description": "Codeforces CLI tool",
         "language": {
@@ -812,6 +752,66 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/198101284?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "DreamFekk/YoloTouchHelp",
+        "description": "Android FPS 游戏 AI 瞄准辅助工具，基于 YOLOv8n 实时目标检测，支持骁龙 Hexagon QNN HTP 加速。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 39,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/95064332?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "carbonengine/trinity",
+        "description": "Rendering engine for the Carbon Game Engine",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 38,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167449167?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "skizzophrenic/Cardputer-CSI-Human-Detector",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 35,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16942638?v=4"
         ],
         "tags": [
           "#C++"
