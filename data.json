@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/24 02:56:37",
+  "lastUpdate": "2026/06/24 04:01:11",
   "charts": {
     "languageDistribution": {
       "Python": 4,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3936,
-          "forks": 268
+          "totalStars": 4100,
+          "forks": 283
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13245940?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2396,
-          "forks": 185
+          "totalStars": 2422,
+          "forks": 187
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -61,7 +61,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 923,
+          "totalStars": 927,
           "forks": 114
         },
         "contributors": [
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 865,
+          "totalStars": 867,
           "forks": 46
         },
         "contributors": [
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 796,
+          "totalStars": 799,
           "forks": 8
         },
         "contributors": [
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 722,
+          "totalStars": 727,
           "forks": 1
         },
         "contributors": [
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 597,
-          "forks": 61
+          "totalStars": 644,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259759010?v=4"
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 546,
-          "forks": 206
+          "totalStars": 552,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44167398?v=4"
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 500,
-          "forks": 42
+          "totalStars": 506,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/314135?v=4"
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 138
+          "totalStars": 428,
+          "forks": 140
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52742733?v=4"
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3936,
-          "forks": 268
+          "totalStars": 4100,
+          "forks": 283
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13245940?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 923,
+          "totalStars": 927,
           "forks": 114
         },
         "contributors": [
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 546,
-          "forks": 206
+          "totalStars": 552,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44167398?v=4"
@@ -283,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 138
+          "totalStars": 428,
+          "forks": 140
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52742733?v=4"
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 231,
+          "totalStars": 232,
           "forks": 22
         },
         "contributors": [
@@ -395,8 +395,8 @@
       },
       {
         "rank": 10,
-        "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-        "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+        "name": "huang-sir1/radiology-skills",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
@@ -404,10 +404,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 148,
-          "forks": 0
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/229883344?v=4"
+          "https://avatars.githubusercontent.com/u/46629692?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2396,
-          "forks": 185
+          "totalStars": 2422,
+          "forks": 187
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 722,
+          "totalStars": 727,
           "forks": 1
         },
         "contributors": [
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 500,
-          "forks": 42
+          "totalStars": 506,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/314135?v=4"
@@ -485,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
-          "forks": 1514
+          "totalStars": 327,
+          "forks": 1527
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142894633?v=4"
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 209,
-          "forks": 527
+          "totalStars": 219,
+          "forks": 554
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126329294?v=4"
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
+          "totalStars": 139,
           "forks": 15
         },
         "contributors": [
@@ -585,8 +585,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
-          "forks": 12
+          "totalStars": 96,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294673181?v=4"
@@ -605,7 +605,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
+          "totalStars": 90,
           "forks": 13
         },
         "contributors": [
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 177,
+          "totalStars": 179,
           "forks": 35
         },
         "contributors": [
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 107,
           "forks": 0
         },
         "contributors": [
@@ -659,6 +659,26 @@
       },
       {
         "rank": 3,
+        "name": "arickxuan/sms_forwarding",
+        "description": "可远程管理eSIM的短信转发工具",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 63,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5804510?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "cote-tony/walletgen",
         "description": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator.",
         "language": {
@@ -678,26 +698,6 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "arickxuan/sms_forwarding",
-        "description": "可远程管理eSIM的短信转发工具",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 62,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5804510?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 5,
         "name": "MemNixFS/MemNixFS",
         "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem",
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 53,
+          "totalStars": 55,
           "forks": 2
         },
         "contributors": [
@@ -759,6 +759,26 @@
       },
       {
         "rank": 8,
+        "name": "carbonengine/trinity",
+        "description": "Rendering engine for the Carbon Game Engine",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 41,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167449167?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "DreamFekk/YoloTouchHelp",
         "description": "Android FPS 游戏 AI 瞄准辅助工具，基于 YOLOv8n 实时目标检测，支持骁龙 Hexagon QNN HTP 加速。",
         "language": {
@@ -778,40 +798,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "carbonengine/trinity",
-        "description": "Rendering engine for the Carbon Game Engine",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 38,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167449167?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "skizzophrenic/Cardputer-CSI-Human-Detector",
-        "description": "暂无描述",
+        "name": "kernelstub/NTForge",
+        "description": "Toolkit for Windows internals, vulnerability analysis, and reproducible security research workflows.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 35,
-          "forks": 4
+          "totalStars": 37,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/16942638?v=4"
+          "https://avatars.githubusercontent.com/u/246671938?v=4"
         ],
         "tags": [
           "#C++"
