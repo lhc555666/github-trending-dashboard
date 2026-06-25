@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/06/24 04:01:11",
+  "lastUpdate": "2026/06/25 02:56:09",
   "charts": {
     "languageDistribution": {
+      "HTML": 1,
       "Python": 4,
-      "JavaScript": 3,
-      "TypeScript": 1,
-      "HTML": 1
+      "TypeScript": 2,
+      "JavaScript": 1,
+      "Go": 1
     },
     "starGrowth": {}
   },
@@ -13,46 +14,26 @@
     "All": [
       {
         "rank": 1,
-        "name": "baidu/Unlimited-OCR",
-        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+        "name": "bozhouDev/codex-orange-book",
+        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "HTML",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4100,
-          "forks": 283
+          "totalStars": 1508,
+          "forks": 159
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/13245940?v=4"
+          "https://avatars.githubusercontent.com/u/259759010?v=4"
         ],
         "tags": [
-          "#Python"
+          "#HTML"
         ]
       },
       {
         "rank": 2,
-        "name": "zhongerxin/Cowart",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2422,
-          "forks": 187
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8215057?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "lyra81604/zhengxi-views",
         "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
         "language": {
@@ -61,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 927,
-          "forks": 114
+          "totalStars": 994,
+          "forks": 123
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/235843849?v=4"
@@ -72,7 +53,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Forsy-AI/agent-apprenticeship",
         "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
         "language": {
@@ -81,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 867,
+          "totalStars": 912,
           "forks": 46
         },
         "contributors": [
@@ -92,7 +73,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "aidenybai/cnfast",
         "description": "Fast drop in replacement for `cn`",
         "language": {
@@ -101,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 799,
+          "totalStars": 883,
           "forks": 8
         },
         "contributors": [
@@ -112,7 +93,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "kanavtwtgg/birds.cafe",
         "description": "暂无描述",
         "language": {
@@ -121,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 727,
+          "totalStars": 767,
           "forks": 1
         },
         "contributors": [
@@ -132,169 +113,27 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "sums001/Windows-Copilot-API",
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 672,
+          "forks": 239
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/44167398?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 7,
-        "name": "bozhouDev/codex-orange-book",
-        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 644,
-          "forks": 68
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/259759010?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "sums001/Windows-Copilot-API",
-        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 552,
-          "forks": 207
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/44167398?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "cloudflare/security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 506,
-          "forks": 44
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/314135?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "yo-WASSUP/Good-Badminton",
-        "description": "🏸  AI Badminton Hawk-Eye System",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 428,
-          "forks": 140
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52742733?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "baidu/Unlimited-OCR",
-        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 4100,
-          "forks": 283
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/13245940?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "lyra81604/zhengxi-views",
-        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 927,
-          "forks": 114
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/235843849?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "sums001/Windows-Copilot-API",
-        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 552,
-          "forks": 207
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/44167398?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "yo-WASSUP/Good-Badminton",
-        "description": "🏸  AI Badminton Hawk-Eye System",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 428,
-          "forks": 140
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52742733?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "raiyanyahya/recall",
         "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
         "language": {
@@ -303,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 418,
-          "forks": 14
+          "totalStars": 482,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/23720340?v=4"
@@ -314,60 +153,20 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "ksimback/looper",
-        "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 232,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16635828?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-        "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 154,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/117545515?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 8,
-        "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
-        "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+        "name": "yo-WASSUP/Good-Badminton",
+        "description": "🏸  AI Badminton Hawk-Eye System",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
-          "forks": 0
+          "totalStars": 479,
+          "forks": 151
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/117545515?v=4"
+          "https://avatars.githubusercontent.com/u/52742733?v=4"
         ],
         "tags": [
           "#Python"
@@ -375,19 +174,221 @@
       },
       {
         "rank": 9,
-        "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-        "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+        "name": "overflowy/make-look-scanned",
+        "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 404,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/98480250?v=4"
+        ],
+        "tags": [
+          "#Go"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "HKUDS/AgentSpace",
+        "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 356,
+          "forks": 37
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118165258?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "lyra81604/zhengxi-views",
+        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
-          "forks": 0
+          "totalStars": 994,
+          "forks": 123
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/229883344?v=4"
+          "https://avatars.githubusercontent.com/u/235843849?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "sums001/Windows-Copilot-API",
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 672,
+          "forks": 239
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/44167398?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "raiyanyahya/recall",
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 482,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/23720340?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "yo-WASSUP/Good-Badminton",
+        "description": "🏸  AI Badminton Hawk-Eye System",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 479,
+          "forks": 151
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/52742733?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 321,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/141221163?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+        "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 205,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/115337195?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "krea-ai/krea-2",
+        "description": "Official inference code for Krea 2",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 186,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/108735617?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "QuantML-Research/wq-alpha-research",
+        "description": "A self-evolving WorldQuant BRAIN alpha research skill.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 166,
+          "forks": 58
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/215441209?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Accio-Lab/Dressage",
+        "description": "Scalable RL framework for Any Agent and Sandbox.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 157,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/258773607?v=4"
         ],
         "tags": [
           "#Python"
@@ -395,7 +396,7 @@
       },
       {
         "rank": 10,
-        "name": "huang-sir1/radiology-skills",
+        "name": "dama-cyber/Casting-Workflow",
         "description": "暂无描述",
         "language": {
           "name": "Python",
@@ -403,11 +404,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
-          "forks": 5
+          "totalStars": 156,
+          "forks": 42
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/46629692?v=4"
+          "https://avatars.githubusercontent.com/u/197873270?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +418,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "zhongerxin/Cowart",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2422,
-          "forks": 187
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8215057?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "kanavtwtgg/birds.cafe",
         "description": "暂无描述",
         "language": {
@@ -445,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 727,
+          "totalStars": 767,
           "forks": 1
         },
         "contributors": [
@@ -456,27 +437,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "cloudflare/security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 506,
-          "forks": 44
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/314135?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "eooce/transfer-api",
         "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
         "language": {
@@ -485,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
-          "forks": 1527
+          "totalStars": 351,
+          "forks": 1653
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142894633?v=4"
@@ -496,7 +457,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "goehou/tabbit-toy",
         "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
         "language": {
@@ -505,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
-          "forks": 554
+          "totalStars": 276,
+          "forks": 660
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126329294?v=4"
@@ -516,37 +477,57 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "flatkey-ai/awesome-images",
-        "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+        "rank": 4,
+        "name": "Yu9191/wloc",
+        "description": "Apple WLOC Location Spoofer",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 139,
-          "forks": 0
+          "totalStars": 203,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/294825184?v=4"
+          "https://avatars.githubusercontent.com/u/132221547?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
-        "name": "Johell1NS/browser-search",
-        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited.",
+        "rank": 5,
+        "name": "FFF686868/proxypin-wloc-spoofer",
+        "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 139,
-          "forks": 15
+          "totalStars": 172,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/294673181?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Johell1NS/browser-search",
+        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 162,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/78345296?v=4"
@@ -556,7 +537,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "igoruehara/spec-driven",
         "description": "暂无描述",
         "language": {
@@ -565,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
-          "forks": 42
+          "totalStars": 138,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15908469?v=4"
@@ -576,20 +557,40 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "FFF686868/proxypin-wloc-spoofer",
-        "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+        "rank": 8,
+        "name": "byJoey/cfnew-deployer",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96,
-          "forks": 14
+          "totalStars": 132,
+          "forks": 112
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/294673181?v=4"
+          "https://avatars.githubusercontent.com/u/36790372?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Env-Kit/envkit-releases",
+        "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 109,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/295394056?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -605,8 +606,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 90,
-          "forks": 13
+          "totalStars": 93,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129048583?v=4"
@@ -627,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
-          "forks": 35
+          "totalStars": 256,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25146849?v=4"
@@ -639,46 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "Valorant-AI/valorant-ai-aimbot-undetected",
-        "description": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 107,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/296269635?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "arickxuan/sms_forwarding",
-        "description": "可远程管理eSIM的短信转发工具",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 63,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5804510?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "cote-tony/walletgen",
         "description": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator.",
         "language": {
@@ -687,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 62,
+          "totalStars": 153,
           "forks": 9
         },
         "contributors": [
@@ -698,7 +659,27 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "name": "carbonengine/trinity",
+        "description": "Rendering engine for the Carbon Game Engine",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 82,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167449167?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "MemNixFS/MemNixFS",
         "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem",
         "language": {
@@ -707,11 +688,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
-          "forks": 2
+          "totalStars": 77,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285480899?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "kernelstub/NTForge",
+        "description": "Toolkit for Windows internals, vulnerability analysis, and reproducible security research workflows.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 51,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/246671938?v=4"
         ],
         "tags": [
           "#C++"
@@ -727,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 47,
+          "totalStars": 48,
           "forks": 2
         },
         "contributors": [
@@ -739,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "natedemoss/cf-recommend",
-        "description": "Codeforces CLI tool",
+        "name": "4jayyy/tomodachi-pc",
+        "description": "tomodachi pc port tomodachi life simulation game ryujinx emulator switch emulation mii sharing qr codes island life living the dream github download open source save editor hd texture pack 60fps mod custom resolution desktop utility ",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
-          "forks": 1
+          "totalStars": 44,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/198101284?v=4"
+          "https://avatars.githubusercontent.com/u/74713118?v=4"
         ],
         "tags": [
           "#C++"
@@ -759,26 +760,6 @@
       },
       {
         "rank": 8,
-        "name": "carbonengine/trinity",
-        "description": "Rendering engine for the Carbon Game Engine",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 41,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167449167?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "DreamFekk/YoloTouchHelp",
         "description": "Android FPS 游戏 AI 瞄准辅助工具，基于 YOLOv8n 实时目标检测，支持骁龙 Hexagon QNN HTP 加速。",
         "language": {
@@ -787,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 39,
+          "totalStars": 41,
           "forks": 16
         },
         "contributors": [
@@ -798,20 +779,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "kernelstub/NTForge",
-        "description": "Toolkit for Windows internals, vulnerability analysis, and reproducible security research workflows.",
+        "rank": 9,
+        "name": "akustikrausch/airplay2-sender-cpp",
+        "description": "A verified C++ AirPlay 2 realtime-audio SENDER: streams lossless ALAC to a modern Apple TV / HomePod / macOS. The encrypted RAOP/RTSP recipe nobody else published. Proven in FXChainPlayer.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
-          "forks": 6
+          "totalStars": 39,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/246671938?v=4"
+          "https://avatars.githubusercontent.com/u/95188773?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "skizzophrenic/Cardputer-CSI-Human-Detector",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 38,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16942638?v=4"
         ],
         "tags": [
           "#C++"
