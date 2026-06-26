@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/26 03:26:00",
+  "lastUpdate": "2026/06/26 04:08:41",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -24,7 +24,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1988,
+          "totalStars": 2001,
           "forks": 199
         },
         "contributors": [
@@ -44,7 +44,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1042,
+          "totalStars": 1043,
           "forks": 124
         },
         "contributors": [
@@ -96,6 +96,26 @@
       },
       {
         "rank": 5,
+        "name": "QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 505,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/141221163?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "BohemiaInteractive/CWR",
         "description": "Arma: Cold War Assault Remastered Source Code Repository.",
         "language": {
@@ -115,26 +135,6 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "QwenLM/Qwen-AgentWorld",
-        "description": "Qwen-AgentWorld: Language World Models for General Agents",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 498,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/141221163?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 7,
         "name": "HKUDS/AgentSpace",
         "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
+          "totalStars": 427,
           "forks": 42
         },
         "contributors": [
@@ -204,8 +204,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
-          "forks": 49
+          "totalStars": 328,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1042,
+          "totalStars": 1043,
           "forks": 124
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 498,
+          "totalStars": 505,
           "forks": 47
         },
         "contributors": [
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 269,
+          "totalStars": 271,
           "forks": 20
         },
         "contributors": [
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
+          "totalStars": 243,
           "forks": 35
         },
         "contributors": [
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 233,
-          "forks": 43
+          "totalStars": 234,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30512160?v=4"
@@ -366,7 +366,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
+          "totalStars": 182,
           "forks": 47
         },
         "contributors": [
@@ -378,26 +378,6 @@
       },
       {
         "rank": 9,
-        "name": "ccrpRepo/robot_retargeter",
-        "description": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 156,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/163711111?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "haowang02/codex-candy-eval",
         "description": "Codex 降智测试",
         "language": {
@@ -406,11 +386,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 156,
+          "totalStars": 158,
           "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/50271051?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ccrpRepo/robot_retargeter",
+        "description": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 157,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/163711111?v=4"
         ],
         "tags": [
           "#Python"
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
-          "forks": 49
+          "totalStars": 328,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -469,7 +469,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 305,
-          "forks": 709
+          "forks": 710
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126329294?v=4"
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 169,
           "forks": 129
         },
         "contributors": [
@@ -650,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
+          "totalStars": 110,
           "forks": 6
         },
         "contributors": [
@@ -710,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 53,
+          "totalStars": 54,
           "forks": 11
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
+          "totalStars": 47,
           "forks": 3
         },
         "contributors": [
