@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2026/06/26 04:08:41",
+  "lastUpdate": "2026/06/27 02:50:43",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
-      "Python": 3,
       "JavaScript": 2,
       "C++": 1,
-      "TypeScript": 1,
-      "Go": 1,
-      "Swift": 1
+      "Python": 1,
+      "TypeScript": 2,
+      "Swift": 1,
+      "Rust": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2001,
-          "forks": 199
+          "totalStars": 2150,
+          "forks": 219
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259759010?v=4"
@@ -36,26 +36,6 @@
       },
       {
         "rank": 2,
-        "name": "lyra81604/zhengxi-views",
-        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1043,
-          "forks": 124
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/235843849?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "kanavtwtgg/birds.cafe",
         "description": "暂无描述",
         "language": {
@@ -64,7 +44,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 788,
+          "totalStars": 736,
           "forks": 2
         },
         "contributors": [
@@ -75,47 +55,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "yo-WASSUP/Good-Badminton",
-        "description": "🏸  AI Badminton Hawk-Eye System",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 523,
-          "forks": 161
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52742733?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "QwenLM/Qwen-AgentWorld",
-        "description": "Qwen-AgentWorld: Language World Models for General Agents",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 505,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/141221163?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 3,
         "name": "BohemiaInteractive/CWR",
         "description": "Arma: Cold War Assault Remastered Source Code Repository.",
         "language": {
@@ -124,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 499,
-          "forks": 58
+          "totalStars": 627,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25146849?v=4"
@@ -135,7 +75,87 @@
         ]
       },
       {
+        "rank": 4,
+        "name": "QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 568,
+          "forks": 51
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/141221163?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Yu9191/wloc",
+        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 470,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/132221547?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "benchflow-ai/awesome-evals",
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 470,
+          "forks": 33
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/190338344?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "winsznx/theeleven",
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 462,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/68760559?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "HKUDS/AgentSpace",
         "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
         "language": {
@@ -144,34 +164,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 427,
-          "forks": 42
+          "totalStars": 456,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118165258?v=4"
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "overflowy/make-look-scanned",
-        "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
-        "language": {
-          "name": "Go",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 416,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/98480250?v=4"
-        ],
-        "tags": [
-          "#Go"
         ]
       },
       {
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 328,
-          "forks": 20
+          "totalStars": 360,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108453477?v=4"
@@ -196,68 +196,28 @@
       },
       {
         "rank": 10,
-        "name": "Yu9191/wloc",
-        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "name": "Th0rgal/open_oura",
+        "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Rust",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 328,
-          "forks": 51
+          "totalStars": 342,
+          "forks": 50
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/132221547?v=4"
+          "https://avatars.githubusercontent.com/u/41830259?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Rust"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "lyra81604/zhengxi-views",
-        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1043,
-          "forks": 124
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/235843849?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "yo-WASSUP/Good-Badminton",
-        "description": "🏸  AI Badminton Hawk-Eye System",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 523,
-          "forks": 161
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52742733?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "QwenLM/Qwen-AgentWorld",
         "description": "Qwen-AgentWorld: Language World Models for General Agents",
         "language": {
@@ -266,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
-          "forks": 47
+          "totalStars": 568,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/141221163?v=4"
@@ -277,7 +237,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 2,
         "name": "krea-ai/krea-2",
         "description": "Official inference code for Krea 2",
         "language": {
@@ -286,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 271,
-          "forks": 20
+          "totalStars": 305,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108735617?v=4"
@@ -297,17 +257,17 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-        "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+        "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 243,
-          "forks": 35
+          "totalStars": 266,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/115337195?v=4"
@@ -317,7 +277,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "trotsky1997/OpenFugu",
         "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
         "language": {
@@ -326,8 +286,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
-          "forks": 44
+          "totalStars": 251,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30512160?v=4"
@@ -337,27 +297,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "aleishawei1983/Seed-Generator",
-        "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths.",
+        "rank": 5,
+        "name": "Pluviobyte/video-production-skills",
+        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
-          "forks": 34
+          "totalStars": 221,
+          "forks": 24
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/244613483?v=4"
+          "https://avatars.githubusercontent.com/u/94058511?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "name": "dama-cyber/Casting-Workflow",
         "description": "暂无描述",
         "language": {
@@ -366,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
-          "forks": 47
+          "totalStars": 217,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/197873270?v=4"
@@ -377,7 +337,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "haowang02/codex-candy-eval",
         "description": "Codex 降智测试",
         "language": {
@@ -386,8 +346,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 158,
-          "forks": 12
+          "totalStars": 186,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/50271051?v=4"
@@ -397,7 +357,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "bikini/exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 180,
+          "forks": 36
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63224111?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "ccrpRepo/robot_retargeter",
         "description": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots.",
         "language": {
@@ -406,11 +386,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 157,
-          "forks": 14
+          "totalStars": 167,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/163711111?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
+        "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 155,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/287038291?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,7 +428,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 788,
+          "totalStars": 736,
           "forks": 2
         },
         "contributors": [
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 328,
-          "forks": 51
+          "totalStars": 470,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
-          "forks": 710
+          "totalStars": 324,
+          "forks": 727
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126329294?v=4"
@@ -480,19 +480,19 @@
       },
       {
         "rank": 4,
-        "name": "FFF686868/proxypin-wloc-spoofer",
-        "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests",
+        "name": "byJoey/cfnew-deployer",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
-          "forks": 27
+          "totalStars": 221,
+          "forks": 149
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/294673181?v=4"
+          "https://avatars.githubusercontent.com/u/36790372?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 178,
           "forks": 19
         },
         "contributors": [
@@ -520,19 +520,19 @@
       },
       {
         "rank": 6,
-        "name": "byJoey/cfnew-deployer",
-        "description": "暂无描述",
+        "name": "abundantbeing/hermes-browser-extension",
+        "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
-          "forks": 129
+          "totalStars": 174,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/36790372?v=4"
+          "https://avatars.githubusercontent.com/u/222723615?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -540,6 +540,26 @@
       },
       {
         "rank": 7,
+        "name": "NotASithLord/peerd",
+        "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 145,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/48842926?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "benlamiro/ShipGenAI",
         "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
         "language": {
@@ -548,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 127,
           "forks": 0
         },
         "contributors": [
@@ -559,40 +579,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "NotASithLord/peerd",
-        "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 111,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48842926?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "PieroSierra/SecondBrain",
-        "description": "A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code slash commands or a local web dashboard.",
+        "name": "FossPrime/Steam-Controller-Auto-Charge",
+        "description": "Slam the controller into the magnetic puck until it charges",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
-          "forks": 5
+          "totalStars": 126,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/119746457?v=4"
+          "https://avatars.githubusercontent.com/u/876076?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -608,8 +608,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
-          "forks": 14
+          "totalStars": 98,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12683618?v=4"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 499,
-          "forks": 58
+          "totalStars": 627,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25146849?v=4"
@@ -642,6 +642,26 @@
       },
       {
         "rank": 2,
+        "name": "0xShug0/audio.cpp",
+        "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 162,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/231717474?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "MemNixFS/MemNixFS",
         "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem",
         "language": {
@@ -650,8 +670,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 6
+          "totalStars": 122,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285480899?v=4"
@@ -661,7 +681,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "carbonengine/trinity",
         "description": "Rendering engine for the Carbon Game Engine",
         "language": {
@@ -670,8 +690,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 90,
-          "forks": 13
+          "totalStars": 97,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167449167?v=4"
@@ -681,7 +701,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "4jayyy/tomodachi-pc",
         "description": "tomodachi pc port tomodachi life simulation game ryujinx emulator switch emulation mii sharing qr codes island life living the dream github download open source save editor hd texture pack 60fps mod custom resolution desktop utility ",
         "language": {
@@ -690,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 65,
+          "totalStars": 86,
           "forks": 0
         },
         "contributors": [
@@ -701,7 +721,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "kernelstub/NTForge",
         "description": "Toolkit for Windows internals, vulnerability analysis, and reproducible security research workflows.",
         "language": {
@@ -710,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
+          "totalStars": 59,
           "forks": 11
         },
         "contributors": [
@@ -721,7 +741,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "name": "localai-org/ced.cpp",
+        "description": "ggml port of CED SOTA-tier audio-tagging model that classifies everyday sounds",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 57,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/260893928?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "madeye/ds-input",
         "description": "DS Input — an LLM whole-sentence pinyin input method (macOS + Windows): toneless pinyin → Chinese inline, no candidate window. Rust core (C ABI) + thin native frontends.",
         "language": {
@@ -741,27 +781,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "0xShug0/audio.cpp",
-        "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 47,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/231717474?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "name": "heheboobes/nebula-engine",
         "description": "Nebula Engine - 2D game engine built on C++ and SFML",
         "language": {
@@ -770,7 +790,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
+          "totalStars": 34,
           "forks": 0
         },
         "contributors": [
@@ -781,40 +801,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "skizzophrenic/Cardputer-CSI-Human-Detector",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 39,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16942638?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "acentrist/MecchaCamouflage",
-        "description": "Auto Camouflage Mod for Meccha Chameleon.",
+        "name": "zziying/stackchan-openapi",
+        "description": "Turn StackChan into a WiFi-controlled robot with HTTP API. Face detection + tracking runs on host computer.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
-          "forks": 8
+          "totalStars": 29,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/93387572?v=4"
+          "https://avatars.githubusercontent.com/u/46980098?v=4"
         ],
         "tags": [
           "#C++"
