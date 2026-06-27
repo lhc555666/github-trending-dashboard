@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/27 02:50:43",
+  "lastUpdate": "2026/06/27 03:54:47",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -24,7 +24,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2150,
+          "totalStars": 2155,
           "forks": 219
         },
         "contributors": [
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 627,
+          "totalStars": 628,
           "forks": 72
         },
         "contributors": [
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 568,
+          "totalStars": 569,
           "forks": 51
         },
         "contributors": [
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
+          "totalStars": 481,
           "forks": 72
         },
         "contributors": [
@@ -124,7 +124,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
+          "totalStars": 473,
           "forks": 33
         },
         "contributors": [
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 462,
+          "totalStars": 471,
           "forks": 0
         },
         "contributors": [
@@ -184,7 +184,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 360,
+          "totalStars": 361,
           "forks": 24
         },
         "contributors": [
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 568,
+          "totalStars": 569,
           "forks": 51
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 266,
+          "totalStars": 269,
           "forks": 36
         },
         "contributors": [
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
-          "forks": 24
+          "totalStars": 232,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94058511?v=4"
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 217,
+          "totalStars": 220,
           "forks": 56
         },
         "contributors": [
@@ -338,6 +338,26 @@
       },
       {
         "rank": 7,
+        "name": "bikini/exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 216,
+          "forks": 43
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63224111?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "haowang02/codex-candy-eval",
         "description": "Codex 降智测试",
         "language": {
@@ -351,26 +371,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/50271051?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "bikini/exploitarium",
-        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 180,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63224111?v=4"
         ],
         "tags": [
           "#Python"
@@ -398,19 +398,19 @@
       },
       {
         "rank": 10,
-        "name": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
-        "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+        "name": "tutusagi/ai-fishing-game",
+        "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
-          "forks": 19
+          "totalStars": 156,
+          "forks": 22
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/287038291?v=4"
+          "https://avatars.githubusercontent.com/u/251465992?v=4"
         ],
         "tags": [
           "#Python"
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
+          "totalStars": 481,
           "forks": 72
         },
         "contributors": [
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
-          "forks": 727
+          "totalStars": 330,
+          "forks": 732
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126329294?v=4"
@@ -488,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
+          "totalStars": 224,
           "forks": 149
         },
         "contributors": [
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 174,
+          "totalStars": 175,
           "forks": 15
         },
         "contributors": [
@@ -548,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
-          "forks": 7
+          "totalStars": 149,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48842926?v=4"
@@ -560,6 +560,26 @@
       },
       {
         "rank": 8,
+        "name": "FossPrime/Steam-Controller-Auto-Charge",
+        "description": "Slam the controller into the magnetic puck until it charges",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 130,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/876076?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "benlamiro/ShipGenAI",
         "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
         "language": {
@@ -579,28 +599,8 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "FossPrime/Steam-Controller-Auto-Charge",
-        "description": "Slam the controller into the magnetic puck until it charges",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 126,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/876076?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "killernay/HearYourVOICE",
+        "name": "ziwang-Physics/AgentChat",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -608,11 +608,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
-          "forks": 18
+          "totalStars": 107,
+          "forks": 19
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/12683618?v=4"
+          "https://avatars.githubusercontent.com/u/295353722?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 627,
+          "totalStars": 628,
           "forks": 72
         },
         "contributors": [
@@ -650,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
+          "totalStars": 165,
           "forks": 10
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 57,
+          "totalStars": 59,
           "forks": 2
         },
         "contributors": [
