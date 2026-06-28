@@ -1,14 +1,12 @@
 {
-  "lastUpdate": "2026/06/27 03:54:47",
+  "lastUpdate": "2026/06/28 03:32:39",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
+      "Python": 3,
       "JavaScript": 2,
       "C++": 1,
-      "Python": 1,
-      "TypeScript": 2,
-      "Swift": 1,
-      "Rust": 1
+      "TypeScript": 2
     },
     "starGrowth": {}
   },
@@ -24,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2155,
-          "forks": 219
+          "totalStars": 2215,
+          "forks": 221
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259759010?v=4"
@@ -36,221 +34,19 @@
       },
       {
         "rank": 2,
-        "name": "kanavtwtgg/birds.cafe",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 736,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/271289593?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "BohemiaInteractive/CWR",
-        "description": "Arma: Cold War Assault Remastered Source Code Repository.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 628,
-          "forks": 72
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25146849?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "QwenLM/Qwen-AgentWorld",
-        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 569,
-          "forks": 51
+          "totalStars": 1422,
+          "forks": 117
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/141221163?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Yu9191/wloc",
-        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 481,
-          "forks": 72
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/132221547?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "benchflow-ai/awesome-evals",
-        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 473,
-          "forks": 33
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/190338344?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "winsznx/theeleven",
-        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 471,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/68760559?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "HKUDS/AgentSpace",
-        "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 456,
-          "forks": 48
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/118165258?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "m1ckc3s/claude-status-bar",
-        "description": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 361,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108453477?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Th0rgal/open_oura",
-        "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 342,
-          "forks": 50
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41830259?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "QwenLM/Qwen-AgentWorld",
-        "description": "Qwen-AgentWorld: Language World Models for General Agents",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 569,
-          "forks": 51
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/141221163?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "krea-ai/krea-2",
-        "description": "Official inference code for Krea 2",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 305,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108735617?v=4"
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
         ],
         "tags": [
           "#Python"
@@ -258,96 +54,16 @@
       },
       {
         "rank": 3,
-        "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-        "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 269,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/115337195?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "trotsky1997/OpenFugu",
-        "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 251,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30512160?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Pluviobyte/video-production-skills",
-        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 232,
-          "forks": 25
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/94058511?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "dama-cyber/Casting-Workflow",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 220,
-          "forks": 56
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/197873270?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "bikini/exploitarium",
-        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
-          "forks": 43
+          "totalStars": 1276,
+          "forks": 264
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63224111?v=4"
@@ -357,89 +73,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "haowang02/codex-candy-eval",
-        "description": "Codex 降智测试",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 186,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/50271051?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "ccrpRepo/robot_retargeter",
-        "description": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 167,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/163711111?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "tutusagi/ai-fishing-game",
-        "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 156,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/251465992?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      }
-    ],
-    "JavaScript": [
-      {
-        "rank": 1,
-        "name": "kanavtwtgg/birds.cafe",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 736,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/271289593?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
+        "rank": 4,
         "name": "Yu9191/wloc",
         "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
         "language": {
@@ -448,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 481,
-          "forks": 72
+          "totalStars": 664,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -459,7 +93,107 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "name": "BohemiaInteractive/CWR",
+        "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 664,
+          "forks": 78
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25146849?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "winsznx/theeleven",
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 644,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/68760559?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 599,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/141221163?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "benchflow-ai/awesome-evals",
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 537,
+          "forks": 39
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/190338344?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "HKUDS/AgentSpace",
+        "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 483,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118165258?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "goehou/tabbit-toy",
         "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
         "language": {
@@ -468,11 +202,275 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 330,
-          "forks": 732
+          "totalStars": 367,
+          "forks": 751
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126329294?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1422,
+          "forks": 117
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "bikini/exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1276,
+          "forks": 264
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63224111?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 599,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/141221163?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Pluviobyte/video-production-skills",
+        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 338,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/94058511?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "krea-ai/krea-2",
+        "description": "Official inference code for Krea 2",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 331,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/108735617?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "nova452/ComfyUI-Conditioning-Rebalance",
+        "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 278,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/115337195?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "trotsky1997/OpenFugu",
+        "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 267,
+          "forks": 48
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/30512160?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "dama-cyber/Casting-Workflow",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 250,
+          "forks": 57
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/197873270?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "tutusagi/ai-fishing-game",
+        "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 224,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/251465992?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "cclank/lanshu-animated-architecture-diagram",
+        "description": "Premium hand-drawn animated architecture diagram Codex skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 215,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/29557585?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      }
+    ],
+    "JavaScript": [
+      {
+        "rank": 1,
+        "name": "Yu9191/wloc",
+        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 664,
+          "forks": 95
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/132221547?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "goehou/tabbit-toy",
+        "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 367,
+          "forks": 751
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/126329294?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "playPlumtown/Plumtown",
+        "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 355,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6333631?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -488,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 224,
-          "forks": 149
+          "totalStars": 251,
+          "forks": 162
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36790372?v=4"
@@ -500,26 +498,6 @@
       },
       {
         "rank": 5,
-        "name": "Johell1NS/browser-search",
-        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 178,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/78345296?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "abundantbeing/hermes-browser-extension",
         "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
         "language": {
@@ -528,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
-          "forks": 15
+          "totalStars": 250,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723615?v=4"
@@ -539,7 +517,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "NotASithLord/peerd",
         "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
         "language": {
@@ -548,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
-          "forks": 9
+          "totalStars": 195,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48842926?v=4"
@@ -559,27 +537,27 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "FossPrime/Steam-Controller-Auto-Charge",
-        "description": "Slam the controller into the magnetic puck until it charges",
+        "rank": 7,
+        "name": "Johell1NS/browser-search",
+        "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
-          "forks": 4
+          "totalStars": 182,
+          "forks": 20
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/876076?v=4"
+          "https://avatars.githubusercontent.com/u/78345296?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "benlamiro/ShipGenAI",
         "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
         "language": {
@@ -588,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 129,
           "forks": 0
         },
         "contributors": [
@@ -599,8 +577,28 @@
         ]
       },
       {
+        "rank": 9,
+        "name": "simonmakzon/GitDeepSearch",
+        "description": "GitDeepSearch - Deep search repository",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 114,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/297425453?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 10,
-        "name": "ziwang-Physics/AgentChat",
+        "name": "killernay/HearYourVOICE",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -608,11 +606,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 107,
-          "forks": 19
+          "totalStars": 99,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295353722?v=4"
+          "https://avatars.githubusercontent.com/u/12683618?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 628,
-          "forks": 72
+          "totalStars": 664,
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25146849?v=4"
@@ -650,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 165,
-          "forks": 10
+          "totalStars": 205,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/231717474?v=4"
@@ -670,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
-          "forks": 8
+          "totalStars": 128,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285480899?v=4"
@@ -690,8 +688,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 97,
-          "forks": 14
+          "totalStars": 101,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167449167?v=4"
@@ -730,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 59,
+          "totalStars": 63,
           "forks": 11
         },
         "contributors": [
@@ -742,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "localai-org/ced.cpp",
-        "description": "ggml port of CED SOTA-tier audio-tagging model that classifies everyday sounds",
+        "name": "geekyraghav/Earners_Cpp_1",
+        "description": "All source codes for DSA in CPP Earners Batch 1",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 59,
-          "forks": 2
+          "totalStars": 55,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/260893928?v=4"
+          "https://avatars.githubusercontent.com/u/49072935?v=4"
         ],
         "tags": [
           "#C++"
@@ -762,19 +760,19 @@
       },
       {
         "rank": 8,
-        "name": "madeye/ds-input",
-        "description": "DS Input — an LLM whole-sentence pinyin input method (macOS + Windows): toneless pinyin → Chinese inline, no candidate window. Rust core (C ABI) + thin native frontends.",
+        "name": "2dom/keypad",
+        "description": "Open Source minimalist Keypad for Zigbee / Thread / Matter",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 49,
-          "forks": 2
+          "totalStars": 37,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/627917?v=4"
+          "https://avatars.githubusercontent.com/u/4075404?v=4"
         ],
         "tags": [
           "#C++"
@@ -810,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 29,
+          "totalStars": 30,
           "forks": 1
         },
         "contributors": [
