@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/29 03:37:15",
+  "lastUpdate": "2026/06/29 04:23:40",
   "charts": {
     "languageDistribution": {
       "Python": 3,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2406,
-          "forks": 223
+          "totalStars": 2455,
+          "forks": 226
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -33,26 +33,6 @@
       },
       {
         "rank": 2,
-        "name": "bozhouDev/codex-orange-book",
-        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2294,
-          "forks": 229
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/259759010?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "bikini/exploitarium",
         "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
         "language": {
@@ -61,14 +41,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2268,
-          "forks": 538
+          "totalStars": 2346,
+          "forks": 573
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63224111?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "bozhouDev/codex-orange-book",
+        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2297,
+          "forks": 229
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/259759010?v=4"
+        ],
+        "tags": [
+          "#HTML"
         ]
       },
       {
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1152,
-          "forks": 153
+          "totalStars": 1170,
+          "forks": 155
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 700,
+          "totalStars": 702,
           "forks": 2
         },
         "contributors": [
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 565,
+          "totalStars": 566,
           "forks": 42
         },
         "contributors": [
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 495,
-          "forks": 53
+          "totalStars": 497,
+          "forks": 54
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41209538?v=4"
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
+          "totalStars": 382,
           "forks": 759
         },
         "contributors": [
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 366,
+          "totalStars": 369,
           "forks": 39
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2406,
-          "forks": 223
+          "totalStars": 2455,
+          "forks": 226
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2268,
-          "forks": 538
+          "totalStars": 2346,
+          "forks": 573
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63224111?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 366,
+          "totalStars": 369,
           "forks": 39
         },
         "contributors": [
@@ -304,7 +304,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 293,
-          "forks": 39
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 283,
+          "totalStars": 285,
           "forks": 62
         },
         "contributors": [
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 273,
+          "totalStars": 274,
           "forks": 35
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 261,
+          "totalStars": 262,
           "forks": 49
         },
         "contributors": [
@@ -375,26 +375,6 @@
       },
       {
         "rank": 9,
-        "name": "zanetanasta/Seed-Generator",
-        "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 217,
-          "forks": 46
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/244634365?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
         "description": "Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly.",
         "language": {
@@ -412,6 +392,26 @@
         "tags": [
           "#Python"
         ]
+      },
+      {
+        "rank": 10,
+        "name": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Prime",
+        "description": "Maximize your efficiency in Pet Simulator 99 with the Prime auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 213,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22973209?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
       }
     ],
     "JavaScript": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1152,
-          "forks": 153
+          "totalStars": 1170,
+          "forks": 155
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
+          "totalStars": 382,
           "forks": 759
         },
         "contributors": [
@@ -485,7 +485,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 319,
+          "totalStars": 332,
           "forks": 0
         },
         "contributors": [
@@ -505,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
+          "totalStars": 291,
           "forks": 23
         },
         "contributors": [
@@ -585,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 90,
+          "totalStars": 91,
           "forks": 17
         },
         "contributors": [
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133,
+          "totalStars": 134,
           "forks": 0
         },
         "contributors": [
@@ -767,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 30,
+          "totalStars": 31,
           "forks": 1
         },
         "contributors": [
@@ -787,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26,
+          "totalStars": 27,
           "forks": 0
         },
         "contributors": [
