@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/06/30 03:24:19",
+  "lastUpdate": "2026/06/30 04:03:39",
   "charts": {
     "languageDistribution": {
       "Python": 3,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4020,
-          "forks": 337
+          "totalStars": 4078,
+          "forks": 339
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1541,
-          "forks": 200
+          "totalStars": 1551,
+          "forks": 201
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -60,7 +60,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 976,
+          "totalStars": 981,
           "forks": 71
         },
         "contributors": [
@@ -72,6 +72,26 @@
       },
       {
         "rank": 4,
+        "name": "baairon/torlink",
+        "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 730,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/97924486?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "winsznx/theeleven",
         "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
         "language": {
@@ -91,26 +111,6 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "baairon/torlink",
-        "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 712,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97924486?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
         "rank": 6,
         "name": "benchflow-ai/awesome-evals",
         "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
@@ -120,7 +120,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 590,
+          "totalStars": 591,
           "forks": 42
         },
         "contributors": [
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 570,
-          "forks": 66
+          "totalStars": 572,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41209538?v=4"
@@ -160,8 +160,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
-          "forks": 180
+          "totalStars": 554,
+          "forks": 182
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -180,7 +180,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 454,
+          "totalStars": 456,
           "forks": 56
         },
         "contributors": [
@@ -200,8 +200,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 410,
-          "forks": 46
+          "totalStars": 413,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131273140?v=4"
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4020,
-          "forks": 337
+          "totalStars": 4078,
+          "forks": 339
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
-          "forks": 180
+          "totalStars": 554,
+          "forks": 182
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -262,7 +262,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 454,
+          "totalStars": 456,
           "forks": 56
         },
         "contributors": [
@@ -282,7 +282,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 350,
+          "totalStars": 352,
           "forks": 45
         },
         "contributors": [
@@ -323,7 +323,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 305,
-          "forks": 151
+          "forks": 152
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252279235?v=4"
@@ -362,7 +362,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 217,
+          "totalStars": 223,
           "forks": 46
         },
         "contributors": [
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1541,
-          "forks": 200
+          "totalStars": 1551,
+          "forks": 201
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/132221547?v=4"
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
+          "totalStars": 317,
           "forks": 26
         },
         "contributors": [
@@ -544,8 +544,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
-          "forks": 20
+          "totalStars": 123,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/297559850?v=4"
@@ -584,8 +584,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 32
+          "totalStars": 112,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/170342099?v=4"
@@ -678,6 +678,26 @@
       },
       {
         "rank": 4,
+        "name": "XboxNahida/ghostty-blackhole-main",
+        "description": "适用于Windows环境的黑洞屏保",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 39,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276274598?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "xiaofan4122/Elevator-LIO",
         "description": "Elevator-LIO  Official implementation",
         "language": {
@@ -697,7 +717,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "clouds-steam/cloudredirect-steam",
         "description": "steam cloudredirect selectively11 steam cloud redirection magic github download open source repository steamtools fix stfixer luatools opensteamtool dlc cloud save syncing google drive onedrive integration local folder native steam client rpc handlers vtable interception c++ dll",
         "language": {
@@ -717,7 +737,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "DBDTool/DMAByDaylight",
         "description": "dmabydaylight dma dead by daylight esp tool pcileech memprocfs dmalibrary github download open source repository custom overlay survivor esp killer esp coordinates world to screen w2s resolution easy anti cheat bypass eac bypass hardware cheat dma hardware custom firmware secure radar 2pc setup companion",
         "language": {
@@ -731,26 +751,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199324531?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "XboxNahida/ghostty-blackhole-main",
-        "description": "适用于Windows环境的黑洞屏保",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 35,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276274598?v=4"
         ],
         "tags": [
           "#C++"
