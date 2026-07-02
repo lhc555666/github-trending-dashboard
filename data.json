@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/02 02:57:36",
+  "lastUpdate": "2026/07/02 03:59:21",
   "charts": {
     "languageDistribution": {
       "Python": 5,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5763,
-          "forks": 464
+          "totalStars": 5776,
+          "forks": 465
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -41,7 +41,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1334,
+          "totalStars": 1343,
           "forks": 108
         },
         "contributors": [
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1025,
-          "forks": 317
+          "totalStars": 1032,
+          "forks": 319
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -73,26 +73,6 @@
       },
       {
         "rank": 4,
-        "name": "Kulaxyz/self-learning-skills",
-        "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 754,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/47082676?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "mekos2772/ios-location-spoofer",
         "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
         "language": {
@@ -101,14 +81,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
-          "forks": 102
+          "totalStars": 782,
+          "forks": 109
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Kulaxyz/self-learning-skills",
+        "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 764,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/47082676?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       },
       {
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 721,
+          "totalStars": 723,
           "forks": 69
         },
         "contributors": [
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
+          "totalStars": 494,
           "forks": 54
         },
         "contributors": [
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 441,
+          "totalStars": 445,
           "forks": 10
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5763,
-          "forks": 464
+          "totalStars": 5776,
+          "forks": 465
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1025,
-          "forks": 317
+          "totalStars": 1032,
+          "forks": 319
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 721,
+          "totalStars": 723,
           "forks": 69
         },
         "contributors": [
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 420,
+          "totalStars": 423,
           "forks": 52
         },
         "contributors": [
@@ -383,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 329,
+          "totalStars": 331,
           "forks": 203
         },
         "contributors": [
@@ -395,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "rjsdl56/All_Star_Tower_Defense_-_Auto-Place___Auto-Farm",
-        "description": "Auto-place and auto-farm for All Star Tower Defense, the anime tower defense game with 7.8 billion visits[reference:26]. Automatically place and upgrade towers, farm gems, and beat every wave.",
+        "name": "Narankhuu1/Audio_Normalizer",
+        "description": "Normalize audio volume across multiple files to the same level. Reduce loudness variation for albums or playlists.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 255,
+          "totalStars": 262,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/69948718?v=4"
+          "https://avatars.githubusercontent.com/u/187022604?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
-          "forks": 102
+          "totalStars": 782,
+          "forks": 109
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
-          "forks": 123
+          "totalStars": 269,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/170342099?v=4"
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
-          "forks": 11
+          "totalStars": 143,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11827533?v=4"
@@ -619,6 +619,26 @@
     "C++": [
       {
         "rank": 1,
+        "name": "XboxNahida/ghostty-blackhole-main",
+        "description": "适用于Windows环境的黑洞屏保",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 187,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276274598?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "tony-devb/seed-phrase-generator",
         "description": "Seed phrase generator and checker for BTC and ETH wallets. Recovery your lost Bitcoin & Ethereum wallet via brute force and brain wallet checker.",
         "language": {
@@ -632,26 +652,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/282347286?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "XboxNahida/ghostty-blackhole-main",
-        "description": "适用于Windows环境的黑洞屏保",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 184,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276274598?v=4"
         ],
         "tags": [
           "#C++"
@@ -767,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
+          "totalStars": 42,
           "forks": 2
         },
         "contributors": [
