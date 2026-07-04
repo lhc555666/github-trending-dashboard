@@ -1,10 +1,11 @@
 {
-  "lastUpdate": "2026/07/04 02:37:43",
+  "lastUpdate": "2026/07/04 03:35:57",
   "charts": {
     "languageDistribution": {
-      "Python": 5,
+      "Python": 4,
       "JavaScript": 1,
-      "Swift": 1
+      "Swift": 1,
+      "CSS": 1
     },
     "starGrowth": {}
   },
@@ -20,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1510,
+          "totalStars": 1514,
           "forks": 127
         },
         "contributors": [
@@ -40,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1296,
-          "forks": 376
+          "totalStars": 1303,
+          "forks": 378
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -60,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1255,
-          "forks": 183
+          "totalStars": 1264,
+          "forks": 185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
@@ -80,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 803,
+          "totalStars": 804,
           "forks": 23
         },
         "contributors": [
@@ -100,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 535,
+          "totalStars": 549,
           "forks": 21
         },
         "contributors": [
@@ -140,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 486,
-          "forks": 25
+          "totalStars": 493,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34959353?v=4"
@@ -160,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 449,
-          "forks": 49
+          "totalStars": 452,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179570281?v=4"
@@ -192,22 +193,22 @@
       },
       {
         "rank": 10,
-        "name": "asz798838958/FrciblyK12",
-        "description": "多线程全自动注册free 强上K12空间",
+        "name": "spiritov/ds.css",
+        "description": "A css framework recreating the DS / DS Lite's UI",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "CSS",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 380,
-          "forks": 154
+          "totalStars": 383,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/30143908?v=4"
+          "https://avatars.githubusercontent.com/u/132454615?v=4"
         ],
         "tags": [
-          "#Python"
+          "#CSS"
         ]
       }
     ],
@@ -222,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1296,
-          "forks": 376
+          "totalStars": 1303,
+          "forks": 378
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -242,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 535,
+          "totalStars": 549,
           "forks": 21
         },
         "contributors": [
@@ -302,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 380,
-          "forks": 154
+          "totalStars": 382,
+          "forks": 155
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -322,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 332,
+          "totalStars": 341,
           "forks": 12
         },
         "contributors": [
@@ -342,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
-          "forks": 178
+          "totalStars": 318,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/273277104?v=4"
@@ -424,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1255,
-          "forks": 183
+          "totalStars": 1264,
+          "forks": 185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
@@ -444,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
+          "totalStars": 182,
           "forks": 17
         },
         "contributors": [
@@ -516,6 +517,26 @@
       },
       {
         "rank": 6,
+        "name": "defryarhinsa/Add-Mass-Account-AntiGravity-to-9Router",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 84,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/181809269?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "rotejin/PuruPuruPNGTuber",
         "description": "表情差分PNGに前髪・後ろ髪を加えてリッチなPNGTuberを作るローカルWebアプリ",
         "language": {
@@ -529,26 +550,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128216944?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "defryarhinsa/Add-Mass-Account-AntiGravity-to-9Router",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 80,
-          "forks": 40
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/181809269?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -626,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
+          "totalStars": 147,
           "forks": 12
         },
         "contributors": [
@@ -666,8 +667,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
-          "forks": 1080
+          "totalStars": 93,
+          "forks": 1184
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29534277?v=4"
