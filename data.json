@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/07/03 03:42:47",
+  "lastUpdate": "2026/07/04 02:37:43",
   "charts": {
     "languageDistribution": {
-      "JavaScript": 2,
-      "Python": 4,
-      "QML": 1
+      "Python": 5,
+      "JavaScript": 1,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1441,
-          "forks": 118
+          "totalStars": 1510,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/175389609?v=4"
@@ -32,26 +32,6 @@
       },
       {
         "rank": 2,
-        "name": "mekos2772/ios-location-spoofer",
-        "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1140,
-          "forks": 159
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/119464194?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
         "description": "暂无描述",
         "language": {
@@ -60,14 +40,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1120,
-          "forks": 341
+          "totalStars": 1296,
+          "forks": 376
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "mekos2772/ios-location-spoofer",
+        "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1255,
+          "forks": 183
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/119464194?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -80,8 +80,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 900,
-          "forks": 15
+          "totalStars": 803,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/47082676?v=4"
@@ -92,6 +92,26 @@
       },
       {
         "rank": 5,
+        "name": "HUANGCHIHHUNGLeo/claude-real-video",
+        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 535,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207666334?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "TianhangZhuzth/Fundamental-Ava",
         "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
         "language": {
@@ -100,8 +120,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 755,
-          "forks": 78
+          "totalStars": 520,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/219875975?v=4"
@@ -111,63 +131,43 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "aquace/CVE-2026-41940-PoC",
-        "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 572,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/32766565?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 7,
-        "name": "diinki/linux-antiquity",
-        "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
-        "language": {
-          "name": "QML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 504,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/56029514?v=4"
-        ],
-        "tags": [
-          "#QML"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "wlzh/dji-4g-vohive-mac",
-        "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
+        "name": "xuchonglang/investing-for-beginners",
+        "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
         "language": {
           "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 406,
-          "forks": 87
+          "totalStars": 486,
+          "forks": 25
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/16777756?v=4"
+          "https://avatars.githubusercontent.com/u/34959353?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "uzairansaruzi/hermex",
+        "description": "Native iPhone app for your Hermes agent",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 449,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/179570281?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -180,8 +180,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 401,
-          "forks": 69
+          "totalStars": 411,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271507930?v=4"
@@ -192,22 +192,22 @@
       },
       {
         "rank": 10,
-        "name": "downclash/clash",
-        "description": "暂无描述",
+        "name": "asz798838958/FrciblyK12",
+        "description": "多线程全自动注册free 强上K12空间",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
-          "forks": 0
+          "totalStars": 380,
+          "forks": 154
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/164441173?v=4"
+          "https://avatars.githubusercontent.com/u/30143908?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Python"
         ]
       }
     ],
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1120,
-          "forks": 341
+          "totalStars": 1296,
+          "forks": 376
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139136586?v=4"
@@ -234,6 +234,26 @@
       },
       {
         "rank": 2,
+        "name": "HUANGCHIHHUNGLeo/claude-real-video",
+        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 535,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207666334?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "TianhangZhuzth/Fundamental-Ava",
         "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
         "language": {
@@ -242,31 +262,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 755,
-          "forks": 78
+          "totalStars": 520,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/219875975?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "aquace/CVE-2026-41940-PoC",
-        "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 572,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/32766565?v=4"
         ],
         "tags": [
           "#Python"
@@ -282,8 +282,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 401,
-          "forks": 69
+          "totalStars": 411,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271507930?v=4"
@@ -294,26 +294,6 @@
       },
       {
         "rank": 5,
-        "name": "offchainthoughts/Amber",
-        "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 333,
-          "forks": 203
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/252279235?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "asz798838958/FrciblyK12",
         "description": "多线程全自动注册free 强上K12空间",
         "language": {
@@ -322,8 +302,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
-          "forks": 145
+          "totalStars": 380,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -333,7 +313,47 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "jmerelnyc/Talos",
+        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 332,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/164396066?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "lingbol088-spec/reverse-flow-skill",
+        "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 316,
+          "forks": 178
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273277104?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
         "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
         "language": {
@@ -342,7 +362,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
+          "totalStars": 294,
           "forks": 24
         },
         "contributors": [
@@ -353,40 +373,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "lingbol088-spec/reverse-flow-skill",
-        "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 281,
-          "forks": 160
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273277104?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "vidhitam/Data_Recovery",
-        "description": "Recover accidentally deleted files from HDD, SSD, USB, and memory cards. Quick and deep scan modes.",
+        "name": "Ssupercoder/Salary-Negotiation-Skill",
+        "description": "谈薪skill--自动化谈薪的开拓者与领跑者",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
-          "forks": 0
+          "totalStars": 233,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/222933539?v=4"
+          "https://avatars.githubusercontent.com/u/161269757?v=4"
         ],
         "tags": [
           "#Python"
@@ -394,19 +394,19 @@
       },
       {
         "rank": 10,
-        "name": "smileyprathu/Color_Picker",
-        "description": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers.",
+        "name": "prathoshap/vagdhenu",
+        "description": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 0
+          "totalStars": 218,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/114893376?v=4"
+          "https://avatars.githubusercontent.com/u/26880576?v=4"
         ],
         "tags": [
           "#Python"
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1140,
-          "forks": 159
+          "totalStars": 1255,
+          "forks": 183
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
@@ -436,46 +436,6 @@
       },
       {
         "rank": 2,
-        "name": "downclash/clash",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 344,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/164441173?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "kui123456789/cdk-redeem-only-extension",
-        "description": "UPI redeem only extension",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 341,
-          "forks": 166
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/170342099?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "xt4d/GameBlocks",
         "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
         "language": {
@@ -484,8 +444,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
-          "forks": 16
+          "totalStars": 181,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131865012?v=4"
@@ -495,7 +455,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "frankchiu-dev/claude-codex-usage-dashboard",
         "description": "A local Windows dashboard for Claude Code and Codex usage limits.",
         "language": {
@@ -504,7 +464,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
+          "totalStars": 159,
           "forks": 30
         },
         "contributors": [
@@ -515,87 +475,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
-        "description": "Windows external trainer for MECCHA CHAMELEON on Steam — auto camo, unlimited paint, god mode hider, seeker vision, pose lock, no-clip, and overlay controls for 2–10 player hide-and-seek lobbies.",
+        "rank": 4,
+        "name": "dzhng/skills",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
-          "forks": 0
+          "totalStars": 115,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/233270864?v=4"
+          "https://avatars.githubusercontent.com/u/1329503?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
-        "name": "simonmakzon/GitDeepSearch",
-        "description": "GitDeepSearch - Deep search repository",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 137,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/297425453?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "XBuilderLAB/cheat-on-skill",
-        "description": "帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 110,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/280592915?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "linxidnju/OpenTag",
-        "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 98,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/264921177?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 5,
         "name": "medoxisto/ad-blocker-chrome-extension",
         "description": "Free open-source Chrome ad blocker (MV3) - blocks ads, pop-ups, trackers and YouTube ads. No account, no data collected.",
         "language": {
@@ -604,11 +504,111 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 98,
           "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/172071364?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "rotejin/PuruPuruPNGTuber",
+        "description": "表情差分PNGに前髪・後ろ髪を加えてリッチなPNGTuberを作るローカルWebアプリ",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 80,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/128216944?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "defryarhinsa/Add-Mass-Account-AntiGravity-to-9Router",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 80,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/181809269?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "lincwang123-bot/listen-pick",
+        "description": "Source-available non-commercial children's English listening game prototype.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 77,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/289043598?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "zarazhangrui/reading-block",
+        "description": "Save articles with one click; every 5 saves books a reading block on your Google Calendar. A Chrome extension.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 69,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/153693696?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "beefiker/superloopy",
+        "description": "Lightweight Codex/Claude loop harness with strict evidence gates.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 68,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/55247450?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -618,19 +618,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "XboxNahida/ghostty-blackhole-main",
-        "description": "适用于Windows环境的黑洞屏保",
+        "name": "BenMakesEverything/Pocket-Lab-Power-Supply",
+        "description": "A lab bench power supply, but pocket-sized and battery powered.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 250,
-          "forks": 25
+          "totalStars": 145,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/276274598?v=4"
+          "https://avatars.githubusercontent.com/u/133932153?v=4"
         ],
         "tags": [
           "#C++"
@@ -646,7 +646,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 135,
           "forks": 0
         },
         "contributors": [
@@ -658,19 +658,19 @@
       },
       {
         "rank": 3,
-        "name": "BenMakesEverything/Pocket-Lab-Power-Supply",
-        "description": "A lab bench power supply, but pocket-sized and battery powered.",
+        "name": "frecodecasti/gem5-branchpred",
+        "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
-          "forks": 6
+          "totalStars": 88,
+          "forks": 1080
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/133932153?v=4"
+          "https://avatars.githubusercontent.com/u/29534277?v=4"
         ],
         "tags": [
           "#C++"
@@ -678,19 +678,19 @@
       },
       {
         "rank": 4,
-        "name": "clouds-steam/cloudredirect-steam",
-        "description": "steam cloudredirect selectively11 steam cloud redirection magic github download open source repository steamtools fix stfixer luatools opensteamtool dlc cloud save syncing google drive onedrive integration local folder native steam client rpc handlers vtable interception c++ dll",
+        "name": "OpenCPIL/prima.cpp",
+        "description": "[Official] prima.cpp: Fast 30-70B LLM inference on heterogeneous and everyday home devices",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
-          "forks": 0
+          "totalStars": 50,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/142419927?v=4"
+          "https://avatars.githubusercontent.com/u/7756589?v=4"
         ],
         "tags": [
           "#C++"
@@ -698,19 +698,19 @@
       },
       {
         "rank": 5,
-        "name": "DBDTool/DMAByDaylight",
-        "description": "dmabydaylight dma dead by daylight esp tool pcileech memprocfs dmalibrary github download open source repository custom overlay survivor esp killer esp coordinates world to screen w2s resolution easy anti cheat bypass eac bypass hardware cheat dma hardware custom firmware secure radar 2pc setup companion",
+        "name": "shakazilkree-3263/DrFone-Unlock-Toolkit-Pro-2026",
+        "description": "Comprehensive mobile device management and data recovery suite featuring real-time system repair, multi-platform data transfer, and automated backup pipelines.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
+          "totalStars": 49,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/199324531?v=4"
+          "https://avatars.githubusercontent.com/u/295217936?v=4"
         ],
         "tags": [
           "#C++"
@@ -718,19 +718,19 @@
       },
       {
         "rank": 6,
-        "name": "barsikkintus8335/discord-server-booster-pro-2026",
-        "description": "Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
+        "name": "yuzu-nintendo/yuzu-emulator",
+        "description": "yuzu emu yuzu emulator nintendo switch emulation pc gaming suyu sudachi fork open source archived build download link backup installer local deployment configuration guide graphics performance optimization vulcan api opengl rendering shaders cache",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 70,
-          "forks": 0
+          "totalStars": 30,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295217133?v=4"
+          "https://avatars.githubusercontent.com/u/51432321?v=4"
         ],
         "tags": [
           "#C++"
@@ -738,19 +738,19 @@
       },
       {
         "rank": 7,
-        "name": "fastjackkreelan884/IDM-Patch-LT-Pro-2026",
-        "description": "High-speed internet download manager featuring multi-threaded segment fetching, dynamic file segmentation algorithms, and seamless browser integration.",
+        "name": "fedsfarm/gloview",
+        "description": "A better macOS Mission Control-style overview plugin for Hyprland",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
-          "forks": 0
+          "totalStars": 29,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295218088?v=4"
+          "https://avatars.githubusercontent.com/u/240945236?v=4"
         ],
         "tags": [
           "#C++"
@@ -758,19 +758,19 @@
       },
       {
         "rank": 8,
-        "name": "loforeenabenladen/Sketch-Version-Pro-2026",
-        "description": "Professional 3D modeling and architectural design software featuring an intuitive coordinate engine, real-time geometry extrusion, and seamless CAD plugin integration.",
+        "name": "NicholasSlattery/sony-head-tracker",
+        "description": "Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
+          "totalStars": 27,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295219034?v=4"
+          "https://avatars.githubusercontent.com/u/143557939?v=4"
         ],
         "tags": [
           "#C++"
@@ -778,19 +778,19 @@
       },
       {
         "rank": 9,
-        "name": "rednightmareley53/Rust-Internal-Version-2026",
-        "description": "High-performance external utility for Rust. Features include advanced ESP, projectile aim correction, and no-recoil scripts.",
+        "name": "mbbrutman/mTCP",
+        "description": "The mTCP TCP/IP network library and programs for DOS.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
-          "forks": 0
+          "totalStars": 25,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295219002?v=4"
+          "https://avatars.githubusercontent.com/u/11453454?v=4"
         ],
         "tags": [
           "#C++"
@@ -798,19 +798,19 @@
       },
       {
         "rank": 10,
-        "name": "federico55mrgenry/AI-Voice-Mod-Pro-Version-2026",
-        "description": "Real-time AI voice changer and soundboard software featuring advanced low-latency signal modulation, dynamic effects processing, and seamless virtual audio routing.",
+        "name": "redteamfortress/DefenderKiller",
+        "description": "Kernel process termination using Microsoft's own signed driver.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
-          "forks": 0
+          "totalStars": 23,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295219825?v=4"
+          "https://avatars.githubusercontent.com/u/285915761?v=4"
         ],
         "tags": [
           "#C++"
