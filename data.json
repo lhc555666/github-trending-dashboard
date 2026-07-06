@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/06 02:54:38",
+  "lastUpdate": "2026/07/06 04:01:10",
   "charts": {
     "languageDistribution": {
       "TypeScript": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1763,
-          "forks": 437
+          "totalStars": 1798,
+          "forks": 446
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133052465?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1330,
-          "forks": 199
+          "totalStars": 1341,
+          "forks": 200
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 996,
-          "forks": 56
+          "totalStars": 1019,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207666334?v=4"
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 927,
+          "totalStars": 929,
           "forks": 52
         },
         "contributors": [
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 823,
+          "totalStars": 837,
           "forks": 57
         },
         "contributors": [
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 712,
+          "totalStars": 716,
           "forks": 38
         },
         "contributors": [
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 622,
+          "totalStars": 623,
           "forks": 65
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 588,
+          "totalStars": 589,
           "forks": 1
         },
         "contributors": [
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 996,
-          "forks": 56
+          "totalStars": 1019,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207666334?v=4"
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 452,
-          "forks": 159
+          "totalStars": 453,
+          "forks": 161
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30143908?v=4"
@@ -297,26 +297,6 @@
       },
       {
         "rank": 5,
-        "name": "lingbol088-spec/reverse-flow-skill",
-        "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 393,
-          "forks": 205
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273277104?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "HKUDS/OpenOPC",
         "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
         "language": {
@@ -325,11 +305,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 391,
-          "forks": 46
+          "totalStars": 399,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118165258?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "lingbol088-spec/reverse-flow-skill",
+        "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 398,
+          "forks": 205
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273277104?v=4"
         ],
         "tags": [
           "#Python"
@@ -345,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
-          "forks": 93
+          "totalStars": 215,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79531840?v=4"
@@ -365,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
+          "totalStars": 207,
           "forks": 7
         },
         "contributors": [
@@ -385,7 +385,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
+          "totalStars": 190,
           "forks": 11
         },
         "contributors": [
@@ -397,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "rolekkona/bghira-bark",
-        "description": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model",
+        "name": "neteroster/CodexCont",
+        "description": "Continue-thinking middleware for Codex / OpenAI Responses-compatible APIs.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
-          "forks": 2005
+          "totalStars": 179,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29476083?v=4"
+          "https://avatars.githubusercontent.com/u/10304206?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1330,
-          "forks": 199
+          "totalStars": 1341,
+          "forks": 200
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119464194?v=4"
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
-          "forks": 19
+          "totalStars": 337,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1329503?v=4"
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
-          "forks": 69
+          "totalStars": 322,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/224303273?v=4"
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
+          "totalStars": 134,
           "forks": 2
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 823,
+          "totalStars": 837,
           "forks": 57
         },
         "contributors": [
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 237,
+          "totalStars": 239,
           "forks": 19
         },
         "contributors": [
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 177,
+          "totalStars": 178,
           "forks": 2007
         },
         "contributors": [
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
+          "totalStars": 89,
           "forks": 2
         },
         "contributors": [
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
+          "totalStars": 57,
           "forks": 11
         },
         "contributors": [
