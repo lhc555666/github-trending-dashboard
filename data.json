@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/07 02:49:08",
+  "lastUpdate": "2026/07/07 03:52:14",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2691,
-          "forks": 635
+          "totalStars": 2708,
+          "forks": 638
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133052465?v=4"
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1162,
+          "totalStars": 1171,
           "forks": 84
         },
         "contributors": [
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1079,
+          "totalStars": 1082,
           "forks": 64
         },
         "contributors": [
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 812,
+          "totalStars": 829,
           "forks": 108
         },
         "contributors": [
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 740,
+          "totalStars": 741,
           "forks": 39
         },
         "contributors": [
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 658,
+          "totalStars": 659,
           "forks": 71
         },
         "contributors": [
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 604,
-          "forks": 62
+          "totalStars": 614,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/19836925?v=4"
@@ -195,19 +195,19 @@
       },
       {
         "rank": 10,
-        "name": "514-labs/dnsglobe",
-        "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+        "name": "MaximeRivest/riddle",
+        "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
         "language": {
           "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 548,
-          "forks": 13
+          "totalStars": 588,
+          "forks": 44
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/140028474?v=4"
+          "https://avatars.githubusercontent.com/u/10967951?v=4"
         ],
         "tags": [
           "#Rust"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 516,
+          "totalStars": 520,
           "forks": 69
         },
         "contributors": [
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
-          "forks": 44
+          "totalStars": 330,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97045551?v=4"
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 244,
-          "forks": 104
+          "totalStars": 248,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79531840?v=4"
@@ -345,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 215,
+          "totalStars": 216,
           "forks": 12
         },
         "contributors": [
@@ -365,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 200,
-          "forks": 5
+          "totalStars": 208,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/210980732?v=4"
@@ -386,7 +386,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 193,
-          "forks": 42
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87112922?v=4"
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
+          "totalStars": 179,
           "forks": 31
         },
         "contributors": [
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 466,
+          "totalStars": 472,
           "forks": 30
         },
         "contributors": [
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 323,
+          "totalStars": 324,
           "forks": 25
         },
         "contributors": [
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
+          "totalStars": 268,
           "forks": 37
         },
         "contributors": [
@@ -479,6 +479,26 @@
       },
       {
         "rank": 4,
+        "name": "zjp1997720/wechat-article-search",
+        "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 144,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/180519975?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "texel-org/windfoil",
         "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
         "language": {
@@ -492,26 +512,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/177334568?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "zjp1997720/wechat-article-search",
-        "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 135,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/180519975?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -547,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 106,
+          "totalStars": 107,
           "forks": 48
         },
         "contributors": [
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 83,
+          "totalStars": 85,
           "forks": 7
         },
         "contributors": [
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "Ravvioli/browsertabs-talking",
-        "description": "暂无描述",
+        "name": "generalizingai/OpenStudio",
+        "description": "OpenStudio - an open-source AI image, video, cinema, reels and lip sync studio powered by MuAPI",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
-          "forks": 7
+          "totalStars": 76,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/94033923?v=4"
+          "https://avatars.githubusercontent.com/u/270653450?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1162,
+          "totalStars": 1171,
           "forks": 84
         },
         "contributors": [
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 152,
           "forks": 4
         },
         "contributors": [
@@ -689,8 +689,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
-          "forks": 3
+          "totalStars": 130,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107551249?v=4"
@@ -789,7 +789,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
+          "totalStars": 41,
           "forks": 6
         },
         "contributors": [
