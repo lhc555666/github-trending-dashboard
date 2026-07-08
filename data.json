@@ -1,14 +1,13 @@
 {
-  "lastUpdate": "2026/07/08 02:26:32",
+  "lastUpdate": "2026/07/08 03:19:08",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
       "C++": 1,
       "Shell": 1,
-      "Rust": 1,
+      "Rust": 2,
       "JavaScript": 1,
-      "Python": 2,
-      "Swift": 1
+      "Python": 2
     },
     "starGrowth": {}
   },
@@ -24,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3331,
-          "forks": 760
+          "totalStars": 3351,
+          "forks": 762
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133052465?v=4"
@@ -44,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1399,
-          "forks": 197
+          "totalStars": 1420,
+          "forks": 198
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220546587?v=4"
@@ -64,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1293,
+          "totalStars": 1298,
           "forks": 104
         },
         "contributors": [
@@ -84,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1186,
+          "totalStars": 1192,
           "forks": 72
         },
         "contributors": [
@@ -104,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1064,
-          "forks": 74
+          "totalStars": 1070,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10967951?v=4"
@@ -124,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1026,
+          "totalStars": 1053,
           "forks": 28
         },
         "contributors": [
@@ -144,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 965,
-          "forks": 2187
+          "totalStars": 980,
+          "forks": 2211
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -164,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 774,
-          "forks": 39
+          "totalStars": 825,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34959353?v=4"
@@ -196,22 +195,22 @@
       },
       {
         "rank": 10,
-        "name": "uzairansaruzi/hermex",
-        "description": "Native iPhone app for your Hermes agent",
+        "name": "514-labs/dnsglobe",
+        "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
         "language": {
-          "name": "Swift",
+          "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 679,
-          "forks": 72
+          "totalStars": 682,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/179570281?v=4"
+          "https://avatars.githubusercontent.com/u/140028474?v=4"
         ],
         "tags": [
-          "#Swift"
+          "#Rust"
         ]
       }
     ],
@@ -226,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 965,
-          "forks": 2187
+          "totalStars": 980,
+          "forks": 2211
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -266,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 586,
-          "forks": 91
+          "totalStars": 603,
+          "forks": 93
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -306,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
+          "totalStars": 383,
           "forks": 49
         },
         "contributors": [
@@ -326,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 364,
-          "forks": 35
+          "totalStars": 366,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94058511?v=4"
@@ -346,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 345,
-          "forks": 10
+          "totalStars": 363,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -366,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
+          "totalStars": 302,
           "forks": 21
         },
         "contributors": [
@@ -406,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
+          "totalStars": 253,
           "forks": 108
         },
         "contributors": [
@@ -428,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1026,
+          "totalStars": 1053,
           "forks": 28
         },
         "contributors": [
@@ -448,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 531,
+          "totalStars": 533,
           "forks": 39
         },
         "contributors": [
@@ -469,7 +468,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 324,
-          "forks": 49
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13189110?v=4"
@@ -488,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
+          "totalStars": 208,
           "forks": 17
         },
         "contributors": [
@@ -508,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
+          "totalStars": 187,
           "forks": 20
         },
         "contributors": [
@@ -630,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1293,
+          "totalStars": 1298,
           "forks": 104
         },
         "contributors": [
@@ -650,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
+          "totalStars": 222,
           "forks": 7
         },
         "contributors": [
@@ -670,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 175,
           "forks": 7
         },
         "contributors": [
@@ -690,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 68,
+          "totalStars": 69,
           "forks": 7
         },
         "contributors": [
@@ -750,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 48,
+          "totalStars": 49,
           "forks": 7
         },
         "contributors": [
