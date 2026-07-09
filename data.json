@@ -1,13 +1,14 @@
 {
-  "lastUpdate": "2026/07/08 03:19:08",
+  "lastUpdate": "2026/07/09 02:41:15",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 2,
+      "Python": 1,
+      "TypeScript": 1,
+      "JavaScript": 1,
       "C++": 1,
       "Shell": 1,
-      "Rust": 2,
-      "JavaScript": 1,
-      "Python": 2
+      "Rust": 3,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -15,22 +16,22 @@
     "All": [
       {
         "rank": 1,
-        "name": "elder-plinius/T3MP3ST",
-        "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+        "name": "x4gKing/X4G",
+        "description": "暂无描述",
         "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3351,
-          "forks": 762
+          "totalStars": 2485,
+          "forks": 4827
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/133052465?v=4"
+          "https://avatars.githubusercontent.com/u/298382259?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Python"
         ]
       },
       {
@@ -43,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1420,
-          "forks": 198
+          "totalStars": 1775,
+          "forks": 252
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220546587?v=4"
@@ -55,66 +56,6 @@
       },
       {
         "rank": 3,
-        "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-        "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1298,
-          "forks": 104
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/159876365?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "jamesob/local-llm",
-        "description": "Everything I know about running LLMs locally",
-        "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1192,
-          "forks": 72
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/73197?v=4"
-        ],
-        "tags": [
-          "#Shell"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "MaximeRivest/riddle",
-        "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1070,
-          "forks": 75
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/10967951?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Shpigford/knockoff",
         "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
         "language": {
@@ -123,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1053,
-          "forks": 28
+          "totalStars": 1416,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35243?v=4"
@@ -134,27 +75,47 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "x4gKing/X4G",
-        "description": "暂无描述",
+        "rank": 4,
+        "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+        "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "C++",
+          "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 980,
-          "forks": 2211
+          "totalStars": 1364,
+          "forks": 111
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298382259?v=4"
+          "https://avatars.githubusercontent.com/u/159876365?v=4"
         ],
         "tags": [
-          "#Python"
+          "#C++"
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
+        "name": "jamesob/local-llm",
+        "description": "Everything I know about running LLMs locally",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1277,
+          "forks": 79
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/73197?v=4"
+        ],
+        "tags": [
+          "#Shell"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "xuchonglang/investing-for-beginners",
         "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
         "language": {
@@ -163,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 825,
-          "forks": 40
+          "totalStars": 1226,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34959353?v=4"
@@ -174,27 +135,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "jmerelnyc/Talos",
-        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "rank": 7,
+        "name": "MaximeRivest/riddle",
+        "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Rust",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 724,
-          "forks": 13
+          "totalStars": 1206,
+          "forks": 90
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/164396066?v=4"
+          "https://avatars.githubusercontent.com/u/10967951?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Rust"
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "514-labs/dnsglobe",
         "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
         "language": {
@@ -203,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 682,
+          "totalStars": 738,
           "forks": 18
         },
         "contributors": [
@@ -211,6 +172,46 @@
         ],
         "tags": [
           "#Rust"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "yynxxxxx/Codex-X",
+        "description": "Codex Switch & Instruct desktop manager",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 598,
+          "forks": 95
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/139136586?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "wouterdebie/davit",
+        "description": "A native macOS UI for Apple's platform",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 573,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/172038?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       }
     ],
@@ -225,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 980,
-          "forks": 2211
+          "totalStars": 2485,
+          "forks": 4827
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -237,19 +238,19 @@
       },
       {
         "rank": 2,
-        "name": "jmerelnyc/Talos",
-        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "name": "Robbyant/lingbot-vision",
+        "description": "Self-supervised learning for spatial perception",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 724,
-          "forks": 13
+          "totalStars": 493,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/164396066?v=4"
+          "https://avatars.githubusercontent.com/u/212647524?v=4"
         ],
         "tags": [
           "#Python"
@@ -257,46 +258,6 @@
       },
       {
         "rank": 3,
-        "name": "anthropics/jacobian-lens",
-        "description": " Companion code for the global workspace interpretability paper",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 603,
-          "forks": 93
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76263028?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "asz798838958/FrciblyK12",
-        "description": "多线程全自动注册free 强上K12空间",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 497,
-          "forks": 167
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30143908?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "nagisanzenin/engram",
         "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
         "language": {
@@ -305,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 383,
-          "forks": 49
+          "totalStars": 434,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97045551?v=4"
@@ -316,7 +277,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "Pluviobyte/rnskill",
         "description": "雪踏乌云的 AI Agent Skills 集合",
         "language": {
@@ -325,8 +286,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 366,
-          "forks": 36
+          "totalStars": 382,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94058511?v=4"
@@ -336,17 +297,57 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Robbyant/lingbot-vision",
-        "description": "Self-supervised learning for spatial perception",
+        "rank": 5,
+        "name": "SmileLikeYe/agent-chief",
+        "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 363,
-          "forks": 13
+          "totalStars": 318,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8791392?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "mira-wm/mira",
+        "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 294,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/300056798?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Robbyant/lingbot-vla-v2",
+        "description": "From Foundation to Application",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 285,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -357,26 +358,6 @@
       },
       {
         "rank": 8,
-        "name": "Tencent-Hunyuan/Hy3",
-        "description": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 302,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/210980732?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "eli-labz/Cognitive-Core-Skills",
         "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
         "language": {
@@ -385,8 +366,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
-          "forks": 78
+          "totalStars": 273,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/272680511?v=4"
@@ -396,20 +377,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "akihitohyh/chatgpt-register-sub2api",
-        "description": "暂无描述",
+        "rank": 9,
+        "name": "WeZZard/jlens-qwen36",
+        "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
-          "forks": 108
+          "totalStars": 246,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/79531840?v=4"
+          "https://avatars.githubusercontent.com/u/960509?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "CWS6206/EasyLastSkill",
+        "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 228,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/102139131?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1053,
-          "forks": 28
+          "totalStars": 1416,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35243?v=4"
@@ -439,7 +440,7 @@
       },
       {
         "rank": 2,
-        "name": "dzhng/skills",
+        "name": "withmarbleapp/os-taxonomy",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -447,11 +448,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 533,
-          "forks": 39
+          "totalStars": 396,
+          "forks": 77
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1329503?v=4"
+          "https://avatars.githubusercontent.com/u/233045934?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -467,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
-          "forks": 50
+          "totalStars": 344,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13189110?v=4"
@@ -487,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
-          "forks": 17
+          "totalStars": 304,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -507,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
+          "totalStars": 193,
           "forks": 20
         },
         "contributors": [
@@ -519,26 +520,6 @@
       },
       {
         "rank": 6,
-        "name": "texel-org/windfoil",
-        "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 144,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/177334568?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "shlokkhemani/rabbithole",
         "description": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
         "language": {
@@ -547,8 +528,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 135,
-          "forks": 16
+          "totalStars": 178,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/19996714?v=4"
@@ -558,20 +539,40 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "atagon-GmbH/kogiqa-mcp",
-        "description": "This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)",
+        "rank": 7,
+        "name": "fendouai/humanize-text-skill",
+        "description": "Free AI Humanizer: Humanize AI Text Online",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
-          "forks": 10
+          "totalStars": 164,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/214830967?v=4"
+          "https://avatars.githubusercontent.com/u/6284532?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "oso95/scroll-world",
+        "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 133,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/86410452?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -587,8 +588,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
-          "forks": 21
+          "totalStars": 128,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270653450?v=4"
@@ -599,8 +600,8 @@
       },
       {
         "rank": 10,
-        "name": "aleclindz/seo-skill-bench",
-        "description": "Open benchmark for Claude Code SEO skills — real headless execution against fixture sites with planted-defect answer keys. Deterministic scoring, pre-registered rubric.",
+        "name": "Haleclipse/cscience",
+        "description": "Claude Science Rebuild",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
@@ -608,10 +609,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 111,
-          "forks": 0
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/8355957?v=4"
+          "https://avatars.githubusercontent.com/u/15519695?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1298,
-          "forks": 104
+          "totalStars": 1364,
+          "forks": 111
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/159876365?v=4"
@@ -641,26 +642,6 @@
       },
       {
         "rank": 2,
-        "name": "NicholasSlattery/sony-head-tracker",
-        "description": "Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 222,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/143557939?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "karola3vax/CS2FOW",
         "description": "暂无描述",
         "language": {
@@ -669,8 +650,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
-          "forks": 7
+          "totalStars": 203,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107551249?v=4"
@@ -680,27 +661,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "bearlikelion/godot-box3d",
-        "description": "Godot Extension to add Box3D physics",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 69,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3298808?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "ethz-asl/BIEVR-LIO",
         "description": "[RSS 2026] 🦫 BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps",
         "language": {
@@ -709,8 +670,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51,
-          "forks": 8
+          "totalStars": 74,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/475362?v=4"
@@ -720,27 +681,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "akustikrausch/yamaha-smaf-player",
-        "description": "A dependency-free C++ PLAYER for Yamaha SMAF (.mmf) ringtones: the polyphonic-ringtone format of the 2000s MA-3 / MA-5 phone chips, rebuilt with its own ROM-free FM engine. The open player nobody finished. Proven in FXChainPlayer.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 51,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/95188773?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "CodeXTF2/OpenUDC2",
         "description": "open source implementation of the UDC2 spec used in Cobalt Strike",
         "language": {
@@ -749,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 49,
+          "totalStars": 53,
           "forks": 7
         },
         "contributors": [
@@ -760,7 +701,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
+        "name": "dk8827/ra-port",
+        "description": "Unofficial working port of Command & Conquer: Red Alert running natively on macOS and Android. SDL2 video/audio/input. No game data included.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 53,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121302433?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "atc1441/OBI_Energy_Tracker_Local_Cloud",
         "description": "暂无描述",
         "language": {
@@ -769,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 29,
+          "totalStars": 35,
           "forks": 4
         },
         "contributors": [
@@ -780,7 +741,27 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "name": "thecodedose/kdashboard",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 30,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/127669937?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "milangdev101-code/SketchUp-Pro-Download-2026",
         "description": "Professional 3D modeling and architectural design software featuring an intuitive coordinate engine, real-time geometry extrusion, and seamless CAD plugin integration.",
         "language": {
@@ -800,20 +781,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "geojose911/Bus-Reservation",
-        "description": "暂无描述",
+        "rank": 9,
+        "name": "ryujinx-emu/Ryujinx-Emu",
+        "description": "ryujinx emulator nintendo switch emulation pc gaming open source github repository download link fork ryubing vulkan api opengl renderer shader cache graphics mods ldn multiplayer local wireless save manager firmware setup configuration guide controller mapping steam deck linux windows 11 desktop applicatio",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 19,
+          "totalStars": 26,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/218204296?v=4"
+          "https://avatars.githubusercontent.com/u/230632328?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Yuzu-NES/Yuzu-Emu",
+        "description": " yuzu emulator nintendo switch emulation open source community fork backup archive github repository download link suyu torzu pineappleea vulkan api shader cache graphics mods production keys firmware windows 11 linux steam deck android configuration setup guide troubleshooting performance optimization gaming utility tutorial",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 24,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/173103003?v=4"
         ],
         "tags": [
           "#C++"
