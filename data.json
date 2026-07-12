@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/07/12 02:28:56",
+  "lastUpdate": "2026/07/12 03:25:22",
   "charts": {
     "languageDistribution": {
       "JavaScript": 3,
-      "HTML": 1,
       "Python": 3,
+      "HTML": 1,
       "C": 1,
       "TypeScript": 1
     },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2423,
-          "forks": 452
+          "totalStars": 2443,
+          "forks": 457
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/233045934?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1774,
+          "totalStars": 1776,
           "forks": 58
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 897,
-          "forks": 94
+          "totalStars": 907,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86410452?v=4"
@@ -74,26 +74,6 @@
       },
       {
         "rank": 4,
-        "name": "x4gKing/3x-ui-Upgrade",
-        "description": "暂无描述",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 800,
-          "forks": 1637
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/298382259?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "Robbyant/lingbot-world-v2",
         "description": "Infinite Worlds with Versatile Interactions",
         "language": {
@@ -102,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
+          "totalStars": 802,
           "forks": 31
         },
         "contributors": [
@@ -110,6 +90,26 @@
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "x4gKing/3x-ui-Upgrade",
+        "description": "暂无描述",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 801,
+          "forks": 1642
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/298382259?v=4"
+        ],
+        "tags": [
+          "#HTML"
         ]
       },
       {
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 680,
+          "totalStars": 683,
           "forks": 24
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 636,
+          "totalStars": 638,
           "forks": 20
         },
         "contributors": [
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 561,
+          "totalStars": 563,
           "forks": 59
         },
         "contributors": [
@@ -202,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 452,
-          "forks": 107
+          "totalStars": 453,
+          "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25025807?v=4"
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
+          "totalStars": 802,
           "forks": 31
         },
         "contributors": [
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 680,
+          "totalStars": 683,
           "forks": 24
         },
         "contributors": [
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 636,
+          "totalStars": 638,
           "forks": 20
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 451,
+          "totalStars": 452,
           "forks": 23
         },
         "contributors": [
@@ -305,7 +305,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 352,
-          "forks": 31
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1247180?v=4"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2423,
-          "forks": 452
+          "totalStars": 2443,
+          "forks": 457
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/233045934?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1774,
+          "totalStars": 1776,
           "forks": 58
         },
         "contributors": [
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 897,
-          "forks": 94
+          "totalStars": 907,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86410452?v=4"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
-          "forks": 34
+          "totalStars": 395,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263625318?v=4"
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 158,
+          "totalStars": 159,
           "forks": 22
         },
         "contributors": [
@@ -720,6 +720,26 @@
       },
       {
         "rank": 6,
+        "name": "LazoVelko/neverclick",
+        "description": "Never use a mouse again.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 82,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22990491?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "thecodedose/kdashboard",
         "description": "暂无描述",
         "language": {
@@ -729,30 +749,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 81,
-          "forks": 8
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127669937?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "LazoVelko/neverclick",
-        "description": "Never use a mouse again.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 81,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/22990491?v=4"
         ],
         "tags": [
           "#C++"
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
+          "totalStars": 55,
           "forks": 5
         },
         "contributors": [
