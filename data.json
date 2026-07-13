@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/13 02:30:31",
+  "lastUpdate": "2026/07/13 03:28:23",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2729,
-          "forks": 494
+          "totalStars": 2739,
+          "forks": 499
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/233045934?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 48
+          "totalStars": 944,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -63,7 +63,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 890,
-          "forks": 1852
+          "forks": 1854
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 714,
+          "totalStars": 717,
           "forks": 26
         },
         "contributors": [
@@ -94,6 +94,26 @@
       },
       {
         "rank": 5,
+        "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+        "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 655,
+          "forks": 82
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38987783?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "mereyabdenbekuly-ctrl/clodex-ide",
         "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
         "language": {
@@ -103,33 +123,13 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 641,
-          "forks": 136
+          "forks": 137
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/234955825?v=4"
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-        "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 632,
-          "forks": 81
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/38987783?v=4"
-        ],
-        "tags": [
-          "#Python"
         ]
       },
       {
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 592,
-          "forks": 63
+          "totalStars": 597,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 488,
+          "totalStars": 490,
           "forks": 111
         },
         "contributors": [
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 477,
-          "forks": 27
+          "totalStars": 479,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 422,
+          "totalStars": 423,
           "forks": 15
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 48
+          "totalStars": 944,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 714,
+          "totalStars": 717,
           "forks": 26
         },
         "contributors": [
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 632,
-          "forks": 81
+          "totalStars": 655,
+          "forks": 82
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38987783?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 477,
-          "forks": 27
+          "totalStars": 479,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
+          "totalStars": 392,
           "forks": 11
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 368,
+          "totalStars": 371,
           "forks": 36
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 281,
+          "totalStars": 283,
           "forks": 24
         },
         "contributors": [
@@ -405,7 +405,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 267,
-          "forks": 832
+          "forks": 870
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300760940?v=4"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2729,
-          "forks": 494
+          "totalStars": 2739,
+          "forks": 499
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/233045934?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
+          "totalStars": 206,
           "forks": 26
         },
         "contributors": [
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
+          "totalStars": 138,
           "forks": 0
         },
         "contributors": [
@@ -567,7 +567,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 85,
-          "forks": 10
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6442937?v=4"
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 95,
+          "totalStars": 96,
           "forks": 4
         },
         "contributors": [
@@ -708,8 +708,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 85,
-          "forks": 10
+          "totalStars": 86,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127669937?v=4"
@@ -768,8 +768,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
-          "forks": 9
+          "totalStars": 45,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/130829775?v=4"
