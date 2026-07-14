@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/14 02:09:59",
+  "lastUpdate": "2026/07/14 02:50:31",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2929,
+          "totalStars": 2937,
           "forks": 522
         },
         "contributors": [
@@ -41,7 +41,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1036,
+          "totalStars": 1039,
           "forks": 60
         },
         "contributors": [
@@ -61,7 +61,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 959,
+          "totalStars": 961,
           "forks": 1970
         },
         "contributors": [
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 864,
+          "totalStars": 868,
           "forks": 102
         },
         "contributors": [
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 758,
-          "forks": 29
+          "totalStars": 763,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -113,26 +113,6 @@
       },
       {
         "rank": 6,
-        "name": "littledivy/mimic",
-        "description": "Intercept any app, then call it from Python like a library",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 705,
-          "forks": 23
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/34997667?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "MDX-Tom/gpt-5.6-instruct",
         "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
         "language": {
@@ -141,11 +121,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 699,
-          "forks": 162
+          "totalStars": 722,
+          "forks": 167
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6468993?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "littledivy/mimic",
+        "description": "Intercept any app, then call it from Python like a library",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 718,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34997667?v=4"
         ],
         "tags": [
           "#Python"
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 553,
-          "forks": 72
+          "totalStars": 557,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/66623266?v=4"
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
-          "forks": 69
+          "totalStars": 522,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/299104179?v=4"
@@ -223,7 +223,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1036,
+          "totalStars": 1039,
           "forks": 60
         },
         "contributors": [
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 864,
+          "totalStars": 868,
           "forks": 102
         },
         "contributors": [
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 758,
-          "forks": 29
+          "totalStars": 763,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212647524?v=4"
@@ -275,26 +275,6 @@
       },
       {
         "rank": 4,
-        "name": "littledivy/mimic",
-        "description": "Intercept any app, then call it from Python like a library",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 705,
-          "forks": 23
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/34997667?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "MDX-Tom/gpt-5.6-instruct",
         "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
         "language": {
@@ -303,11 +283,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 699,
-          "forks": 162
+          "totalStars": 722,
+          "forks": 167
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6468993?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "littledivy/mimic",
+        "description": "Intercept any app, then call it from Python like a library",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 718,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34997667?v=4"
         ],
         "tags": [
           "#Python"
@@ -323,8 +323,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 553,
-          "forks": 72
+          "totalStars": 557,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/66623266?v=4"
@@ -343,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
-          "forks": 69
+          "totalStars": 522,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/299104179?v=4"
@@ -383,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 386,
+          "totalStars": 387,
           "forks": 37
         },
         "contributors": [
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 314,
+          "totalStars": 318,
           "forks": 29
         },
         "contributors": [
@@ -425,7 +425,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2929,
+          "totalStars": 2937,
           "forks": 522
         },
         "contributors": [
@@ -565,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
-          "forks": 14
+          "totalStars": 99,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128239567?v=4"
@@ -585,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96,
+          "totalStars": 97,
           "forks": 12
         },
         "contributors": [
@@ -605,7 +605,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 78,
+          "totalStars": 79,
           "forks": 2
         },
         "contributors": [
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
+          "totalStars": 92,
           "forks": 28
         },
         "contributors": [
