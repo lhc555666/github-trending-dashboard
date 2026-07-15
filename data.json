@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/07/14 02:50:31",
+  "lastUpdate": "2026/07/15 02:07:52",
   "charts": {
     "languageDistribution": {
-      "JavaScript": 1,
-      "Python": 7,
-      "HTML": 1,
-      "TypeScript": 1
+      "Python": 6,
+      "TypeScript": 1,
+      "Dockerfile": 2,
+      "Go": 1
     },
     "starGrowth": {}
   },
@@ -13,106 +13,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "withmarbleapp/os-taxonomy",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2937,
-          "forks": 522
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/233045934?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "Robbyant/lingbot-world-v2",
-        "description": "Infinite Worlds with Versatile Interactions",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1039,
-          "forks": 60
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/212647524?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "x4gKing/3x-ui-Upgrade",
-        "description": "暂无描述",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 961,
-          "forks": 1970
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/298382259?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-        "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 868,
-          "forks": 102
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/38987783?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Robbyant/lingbot-video",
-        "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 763,
-          "forks": 30
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/212647524?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "MDX-Tom/gpt-5.6-instruct",
         "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
         "language": {
@@ -121,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 722,
-          "forks": 167
+          "totalStars": 1019,
+          "forks": 205
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6468993?v=4"
@@ -132,7 +32,27 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 2,
+        "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+        "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 966,
+          "forks": 113
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38987783?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "littledivy/mimic",
         "description": "Intercept any app, then call it from Python like a library",
         "language": {
@@ -141,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 718,
-          "forks": 24
+          "totalStars": 909,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34997667?v=4"
@@ -152,7 +72,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 4,
         "name": "mereyabdenbekuly-ctrl/clodex-ide",
         "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
         "language": {
@@ -161,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 696,
+          "totalStars": 801,
           "forks": 148
         },
         "contributors": [
@@ -172,17 +92,57 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "William-Lu-stack/LuxyAI",
-        "description": "AgenticOps for Kubernetes and cloud infrastructure.",
+        "rank": 5,
+        "name": "AlephAITech/WorkBuddyGuide",
+        "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 557,
-          "forks": 74
+          "totalStars": 702,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/299104179?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "x4gKing/Marzban-Panel",
+        "description": "暂无描述",
+        "language": {
+          "name": "Dockerfile",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 668,
+          "forks": 1169
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/298382259?v=4"
+        ],
+        "tags": [
+          "#Dockerfile"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "William-Lu-stack/Flawless",
+        "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 616,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/66623266?v=4"
@@ -192,42 +152,82 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "AlephAITech/WorkBuddyGuide",
-        "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+        "rank": 8,
+        "name": "Kappaemme-git/codex-first-customer-finder-skill",
+        "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 522,
-          "forks": 70
+          "totalStars": 604,
+          "forks": 55
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/299104179?v=4"
+          "https://avatars.githubusercontent.com/u/203409268?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "cosmtrek/mindwalk",
+        "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 580,
+          "forks": 33
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8832222?v=4"
+        ],
+        "tags": [
+          "#Go"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "x4gKing/Marzban-Node",
+        "description": "暂无描述",
+        "language": {
+          "name": "Dockerfile",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 566,
+          "forks": 1053
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/298382259?v=4"
+        ],
+        "tags": [
+          "#Dockerfile"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "Robbyant/lingbot-world-v2",
-        "description": "Infinite Worlds with Versatile Interactions",
+        "name": "MDX-Tom/gpt-5.6-instruct",
+        "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1039,
-          "forks": 60
+          "totalStars": 1019,
+          "forks": 205
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/212647524?v=4"
+          "https://avatars.githubusercontent.com/u/6468993?v=4"
         ],
         "tags": [
           "#Python"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 868,
-          "forks": 102
+          "totalStars": 966,
+          "forks": 113
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38987783?v=4"
@@ -255,46 +255,6 @@
       },
       {
         "rank": 3,
-        "name": "Robbyant/lingbot-video",
-        "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 763,
-          "forks": 30
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/212647524?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "MDX-Tom/gpt-5.6-instruct",
-        "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 722,
-          "forks": 167
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6468993?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "littledivy/mimic",
         "description": "Intercept any app, then call it from Python like a library",
         "language": {
@@ -303,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 718,
-          "forks": 24
+          "totalStars": 909,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34997667?v=4"
@@ -314,27 +274,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "William-Lu-stack/LuxyAI",
-        "description": "AgenticOps for Kubernetes and cloud infrastructure.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 557,
-          "forks": 74
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/66623266?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "AlephAITech/WorkBuddyGuide",
         "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
         "language": {
@@ -343,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 522,
-          "forks": 70
+          "totalStars": 702,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/299104179?v=4"
@@ -354,47 +294,27 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "Nanako0129/pilotfish",
-        "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+        "rank": 5,
+        "name": "William-Lu-stack/Flawless",
+        "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 429,
-          "forks": 31
+          "totalStars": 616,
+          "forks": 95
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/44753291?v=4"
+          "https://avatars.githubusercontent.com/u/66623266?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 9,
-        "name": "Doriandarko/texts-to-transformer",
-        "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 387,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1247180?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 6,
         "name": "Kappaemme-git/codex-first-customer-finder-skill",
         "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
         "language": {
@@ -403,11 +323,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 318,
-          "forks": 29
+          "totalStars": 604,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203409268?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "pengchujin/jzsub",
+        "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 553,
+          "forks": 66
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16513318?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Git-creat7/grokRegister-cpa",
+        "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 267,
+          "forks": 101
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/202784495?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Intuition-Lab/personal-model",
+        "description": "Build your HUMAN.md.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 239,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/286212378?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "WAYLON/ashare-quant-strategies",
+        "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 236,
+          "forks": 159
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/43636332?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +417,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "withmarbleapp/os-taxonomy",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2937,
-          "forks": 522
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/233045934?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Jane-xiaoer/paper-collage-ad-codex",
         "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
         "language": {
@@ -445,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 226,
-          "forks": 30
+          "totalStars": 252,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/175961422?v=4"
@@ -456,27 +436,27 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "angieruiz17/claude-fintech-skills",
-        "description": "claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
+        "rank": 2,
+        "name": "vybenetwork/solana-defi-positions-api",
+        "description": "Solana DeFi Positions API",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
-          "forks": 1054
+          "totalStars": 175,
+          "forks": 79
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/108318194?v=4"
+          "https://avatars.githubusercontent.com/u/98365936?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Matchameleon/moneyclaw",
         "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
         "language": {
@@ -485,8 +465,28 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
-          "forks": 527
+          "totalStars": 134,
+          "forks": 915
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/90712212?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Matchameleon/gpt-codex-plugin",
+        "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 133,
+          "forks": 214
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/90712212?v=4"
@@ -497,46 +497,6 @@
       },
       {
         "rank": 5,
-        "name": "Matchameleon/gpt-codex-plugin",
-        "description": "gpt codex plugin that prompts from codex to chatgpt through chrome session",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/90712212?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "angieruiz17/codex-gpt-plugin",
-        "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 1048
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108318194?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Weebapp003/tradingview-mcp",
         "description": "tradingview mcp which connect claude code via chrome devtools protocol",
         "language": {
@@ -545,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
-          "forks": 526
+          "totalStars": 132,
+          "forks": 915
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120244099?v=4"
@@ -556,7 +516,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "name": "ucsandman/marketing-studio",
         "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
         "language": {
@@ -565,8 +525,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 99,
-          "forks": 15
+          "totalStars": 118,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128239567?v=4"
@@ -576,7 +536,27 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "name": "yeet-src/sigwire",
+        "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 109,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/125224316?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "MarvinSchwaibold/mri-grid-viewer",
         "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper",
         "language": {
@@ -585,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 97,
+          "totalStars": 106,
           "forks": 12
         },
         "contributors": [
@@ -596,20 +576,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "yeet-src/sigwire",
-        "description": "tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how long its handler ran, whether it tore a blocked syscall out with EINTR.",
+        "rank": 9,
+        "name": "blitzdotdev/blitzos",
+        "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 79,
-          "forks": 2
+          "totalStars": 68,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/125224316?v=4"
+          "https://avatars.githubusercontent.com/u/259449558?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ray4rt/yt-clip",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 67,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/86026143?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,46 +619,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "extreme-inject/Extreme-Injector",
-        "description": "dll injection tool memory injector manual map thread hijacking loadlibrary process selector game modding trainer windows 11 windows 10",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 141,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/269904992?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "LazoVelko/neverclick",
-        "description": "Never use a mouse again.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 99,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/22990491?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "geode-gd/Geode-Geometry-Dash",
         "description": "geode geometry dash geode download mod loader geometry dash modding gd geode framework mods index custom textures installer download link windows 11 macos android desktop utility setup guide installation tutorial troubleshooting crash fix performance optimization steam integration",
         "language": {
@@ -667,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
+          "totalStars": 127,
           "forks": 0
         },
         "contributors": [
@@ -678,27 +638,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "thecodedose/kdashboard",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 95,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127669937?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "name": "ImageLine-Project/fl-25.2.5",
         "description": "fl 25.2.5 image line daw digital audio workstation music production beat making vst plugins audio editing mixing mastering piano roll step sequencer audio interface asio4all producer edition desktop utility installation setup guide beginner tutorial workflow optimization",
         "language": {
@@ -707,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 95,
+          "totalStars": 124,
           "forks": 0
         },
         "contributors": [
@@ -718,7 +658,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 3,
         "name": "kigner/audio.cpp-webui",
         "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency.",
         "language": {
@@ -727,11 +667,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
-          "forks": 28
+          "totalStars": 122,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/130829775?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "arcships/light-ocr",
+        "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 79,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/272712626?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "MSNightmare/LegacyHive",
+        "description": "N/A",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 69,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/291905677?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "mohaedkw1/Eden-Emulator",
+        "description": "eden emulator nintendo switch emulator yuzu fork open source prod keys firmware setup guide installation tutorial apk download link android windows pc performance optimization troubleshooting crash fix",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 64,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/221330754?v=4"
         ],
         "tags": [
           "#C++"
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 50,
+          "totalStars": 64,
           "forks": 5
         },
         "contributors": [
@@ -767,8 +767,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
-          "forks": 1
+          "totalStars": 59,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/159089?v=4"
@@ -779,19 +779,19 @@
       },
       {
         "rank": 9,
-        "name": "marchildmann/BevelDesk",
-        "description": "暂无描述",
+        "name": "techjarves/Local-Hermes-Portable",
+        "description": "Premium, zero-configuration local AI inference & agentic workspace running completely offline on Windows, macOS, and Linux.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 40,
-          "forks": 2
+          "totalStars": 42,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/120392?v=4"
+          "https://avatars.githubusercontent.com/u/54399984?v=4"
         ],
         "tags": [
           "#C++"
@@ -807,7 +807,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 39,
+          "totalStars": 40,
           "forks": 5
         },
         "contributors": [
