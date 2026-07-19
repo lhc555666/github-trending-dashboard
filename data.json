@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/07/18 02:50:39",
+  "lastUpdate": "2026/07/19 02:26:16",
   "charts": {
     "languageDistribution": {
       "Rust": 2,
-      "JavaScript": 2,
+      "JavaScript": 3,
       "TypeScript": 2,
       "Python": 2,
-      "Dockerfile": 2
+      "Go": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 16686,
-          "forks": 3069
+          "totalStars": 18939,
+          "forks": 3420
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/130314967?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8780,
-          "forks": 932
+          "totalStars": 9776,
+          "forks": 1019
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100042407?v=4"
@@ -54,46 +54,6 @@
       },
       {
         "rank": 3,
-        "name": "pixel-point/aval",
-        "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1165,
-          "forks": 63
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/29034027?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "littledivy/mimic",
-        "description": "Intercept any app, then call it from Python like a library",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1149,
-          "forks": 67
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/34997667?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "CluvexStudio/Aether",
         "description": "暂无描述",
         "language": {
@@ -102,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1145,
-          "forks": 65
+          "totalStars": 1256,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/125141320?v=4"
@@ -113,27 +73,47 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "x4gKing/Marzban-Panel",
-        "description": "暂无描述",
+        "rank": 4,
+        "name": "pixel-point/aval",
+        "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
         "language": {
-          "name": "Dockerfile",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 914,
-          "forks": 1708
+          "totalStars": 1214,
+          "forks": 65
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298382259?v=4"
+          "https://avatars.githubusercontent.com/u/29034027?v=4"
         ],
         "tags": [
-          "#Dockerfile"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "name": "littledivy/mimic",
+        "description": "Intercept any app, then call it from Python like a library",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1176,
+          "forks": 73
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34997667?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "tandpfun/wardrobe",
         "description": "Your clothes, extracted and organized with gpt-image.",
         "language": {
@@ -142,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 906,
-          "forks": 130
+          "totalStars": 1056,
+          "forks": 158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28990589?v=4"
@@ -153,63 +133,83 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "mereyabdenbekuly-ctrl/clodex-ide",
-        "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 833,
-          "forks": 149
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/234955825?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Kappaemme-git/codex-first-customer-finder-skill",
-        "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+        "rank": 7,
+        "name": "oil-oil/beautify-github-readme",
+        "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 790,
-          "forks": 81
+          "totalStars": 819,
+          "forks": 47
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/203409268?v=4"
+          "https://avatars.githubusercontent.com/u/57465570?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
-        "name": "x4gKing/Marzban-Node",
-        "description": "暂无描述",
+        "rank": 8,
+        "name": "nethical6/conversation-steganography",
+        "description": "Use LLMs to hide messages inside normal looking conversations",
         "language": {
-          "name": "Dockerfile",
+          "name": "Go",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 777,
-          "forks": 1561
+          "totalStars": 703,
+          "forks": 39
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298382259?v=4"
+          "https://avatars.githubusercontent.com/u/79095297?v=4"
         ],
         "tags": [
-          "#Dockerfile"
+          "#Go"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "KubeezMedia/kubeez-scroll-world-video",
+        "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 653,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/268049402?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "MatinSenPai/Aether-GUI",
+        "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 597,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/99926753?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1149,
-          "forks": 67
+          "totalStars": 1176,
+          "forks": 73
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34997667?v=4"
@@ -236,26 +236,6 @@
       },
       {
         "rank": 2,
-        "name": "Kappaemme-git/codex-first-customer-finder-skill",
-        "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 790,
-          "forks": 81
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203409268?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "oil-oil/beautify-github-readme",
         "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
         "language": {
@@ -264,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 760,
-          "forks": 44
+          "totalStars": 819,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57465570?v=4"
@@ -275,7 +255,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "PengZhang64/circuit-framework",
         "description": "Circuit Framework — multi-agent LLM trading research system",
         "language": {
@@ -284,11 +264,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
+          "totalStars": 481,
           "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/156494645?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "pyang5166/gbro-collage-broll",
+        "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 362,
+          "forks": 39
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/176493563?v=4"
         ],
         "tags": [
           "#Python"
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
-          "forks": 44
+          "totalStars": 327,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/305254032?v=4"
@@ -316,26 +316,6 @@
       },
       {
         "rank": 6,
-        "name": "Shadow-Weave/HMS",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 322,
-          "forks": 32
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/304036409?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Wan-Video/Wan-Dancer",
         "description": "暂无描述",
         "language": {
@@ -344,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 300,
-          "forks": 24
+          "totalStars": 310,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/200620180?v=4"
@@ -355,7 +335,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "WAYLON/ashare-quant-strategies",
         "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
         "language": {
@@ -364,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
-          "forks": 192
+          "totalStars": 302,
+          "forks": 193
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43636332?v=4"
@@ -375,27 +355,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "pyang5166/gbro-collage-broll",
-        "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+        "rank": 8,
+        "name": "yuwen-cool/yuwen-publish-precheck",
+        "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
-          "forks": 28
+          "totalStars": 247,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/176493563?v=4"
+          "https://avatars.githubusercontent.com/u/166962336?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "nihe0909/xiaohongshu-ai-workbench",
         "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
         "language": {
@@ -404,11 +384,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
-          "forks": 16
+          "totalStars": 240,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/225317269?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Icex0/wp2shell-poc",
+        "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 231,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/99045665?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8780,
-          "forks": 932
+          "totalStars": 9776,
+          "forks": 1019
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100042407?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 906,
-          "forks": 130
+          "totalStars": 1056,
+          "forks": 158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28990589?v=4"
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 647,
-          "forks": 3
+          "totalStars": 653,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/268049402?v=4"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 482,
-          "forks": 98
+          "totalStars": 552,
+          "forks": 116
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/114044325?v=4"
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 40
+          "totalStars": 250,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/221471965?v=4"
@@ -526,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 146,
-          "forks": 19
+          "totalStars": 213,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1572768?v=4"
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 140,
+          "totalStars": 141,
           "forks": 4
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 128,
           "forks": 14
         },
         "contributors": [
@@ -578,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "MarvinSchwaibold/mri-grid-viewer",
-        "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper",
+        "name": "Dgeloe4-yb/market-pilot",
+        "description": "Evidence-grounded market research prototype with traceable AI workflows.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 106,
-          "forks": 12
+          "totalStars": 101,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/64643796?v=4"
+          "https://avatars.githubusercontent.com/u/275292420?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -598,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "Finderchangchang/codex-autoskin",
-        "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+        "name": "timethrough/xiaohei-Chrome",
+        "description": "谷歌多开",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
-          "forks": 15
+          "totalStars": 93,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/7477876?v=4"
+          "https://avatars.githubusercontent.com/u/108432148?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 227,
-          "forks": 63
+          "totalStars": 239,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -640,26 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "kigner/audio.cpp-webui",
-        "description": "audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, voice conversion, speaker diarization, music generation. No Python dependency.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 166,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/130829775?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "arcships/light-ocr",
         "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter",
         "language": {
@@ -668,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 157,
+          "totalStars": 163,
           "forks": 9
         },
         "contributors": [
@@ -679,27 +659,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "GOROman/famicom-rf-hackrf-decoder",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 141,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/159089?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "vmx7/rust_pdb",
         "description": "self-contained il2cpp to windows pdb generator (rust, x64, metadata v39)",
         "language": {
@@ -719,47 +679,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "Astharot15/COMLoaderAstharot",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 50,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/145103263?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "matoslav/MicroGroove",
-        "description": "A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 & 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT)",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 32,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7863777?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "name": "tonydev15/walletgen",
         "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
         "language": {
@@ -779,29 +699,49 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "laolanya123/rmcn-physx",
-        "description": "失控进化 PhysX：Unity 2022.3 / PhysX 4.1.2 场景遍历、可见性检测与准心碰撞模型绘制",
+        "rank": 5,
+        "name": "t-head/hggc-samples",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 22,
-          "forks": 5
+          "totalStars": 21,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/274816736?v=4"
+          "https://avatars.githubusercontent.com/u/56627637?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 10,
-        "name": "menachem-dadon/SparkMoE",
-        "description": "暂无描述",
+        "rank": 6,
+        "name": "DavidCarliez/CVE-2026-58635-PoC",
+        "description": "PoC for CVE-2026-58635: Windows Narrator Braille Local Privilege Escalation",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 18,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/271374756?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "polygoncontrolkey/EFT-avoid-campers",
+        "description": "✨ Escape from Tarkov Hack 2026 — undetected cheat with ESP wallhack, aimbot, loot radar, exfil ESP, no recoil, triggerbot, and radar hack. Dominate raids, find high-tier loot, avoid campers. Free download for Windows 10/11.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -812,7 +752,67 @@
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/174075160?v=4"
+          "https://avatars.githubusercontent.com/u/290345299?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "TeamShadowReckon/Rocket-League-rank-up-fast",
+        "description": "🛡️ Rocket League Hack 2026 — undetected cheat with ball aimbot, ESP wallhack, boost hack, speed hack, auto aerials, perfect accuracy, and all cosmetics unlocked. Dominate every match, rank up fast.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 17,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290345548?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Pointclucharge/Sea-of-Thieves-Dominate",
+        "description": "🏴‍☠️ Sea of Thieves Hack 2026 — undetected cheat with ESP wallhack, aimbot, cannon aimbot, ship radar, loot ESP, auto farm, and all cosmetics unlocked. Dominate the seas, find treasure instantly, sink every ship.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 17,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290345377?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "SphereCabin75/7-Days-to-Die-Survive-the-apocalypse",
+        "description": "✨ 7 Days to Die Hack 2026 - undetected cheat with aimbot, ESP wallhack, god mode, infinite resources, speed hack, fly hack, no recoil, and auto farm. Survive the apocalypse, build massive bases, dominate the horde. ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 17,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290346034?v=4"
         ],
         "tags": [
           "#C++"
