@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/21 02:24:54",
+  "lastUpdate": "2026/07/21 03:16:09",
   "charts": {
     "languageDistribution": {
       "JavaScript": 3,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 11115,
-          "forks": 1140
+          "totalStars": 11146,
+          "forks": 1141
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100042407?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1220,
-          "forks": 174
+          "totalStars": 1221,
+          "forks": 175
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28990589?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1049,
-          "forks": 89
+          "totalStars": 1082,
+          "forks": 90
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/47898976?v=4"
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 872,
+          "totalStars": 875,
           "forks": 94
         },
         "contributors": [
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 807,
-          "forks": 38
+          "totalStars": 841,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/860434?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 662,
-          "forks": 143
+          "totalStars": 663,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/114044325?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 622,
+          "totalStars": 623,
           "forks": 1
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 504,
+          "totalStars": 510,
           "forks": 83
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1049,
-          "forks": 89
+          "totalStars": 1082,
+          "forks": 90
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/47898976?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 807,
-          "forks": 38
+          "totalStars": 841,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/860434?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 504,
+          "totalStars": 510,
           "forks": 83
         },
         "contributors": [
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 480,
-          "forks": 50
+          "totalStars": 483,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/176493563?v=4"
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 353,
+          "totalStars": 356,
           "forks": 33
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 214,
+          "totalStars": 215,
           "forks": 53
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
+          "totalStars": 161,
           "forks": 11
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 11115,
-          "forks": 1140
+          "totalStars": 11146,
+          "forks": 1141
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100042407?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1220,
-          "forks": 174
+          "totalStars": 1221,
+          "forks": 175
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28990589?v=4"
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 662,
-          "forks": 143
+          "totalStars": 663,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/114044325?v=4"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 174,
           "forks": 27
         },
         "contributors": [
@@ -526,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 170,
-          "forks": 39
+          "totalStars": 174,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/53092331?v=4"
@@ -538,6 +538,26 @@
       },
       {
         "rank": 7,
+        "name": "duolahypercho/codex-router",
+        "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 119,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/108492647?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "timethrough/xiaohei-Chrome",
         "description": "谷歌多开",
         "language": {
@@ -557,7 +577,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "JasonSTong/codex-theme-studio",
         "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS.",
         "language": {
@@ -571,26 +591,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12725601?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "duolahypercho/codex-router",
-        "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 112,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108492647?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 30,
+          "totalStars": 31,
           "forks": 15
         },
         "contributors": [
