@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/23 02:28:42",
+  "lastUpdate": "2026/07/23 03:20:42",
   "charts": {
     "languageDistribution": {
       "Python": 3,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2197,
+          "totalStars": 2200,
           "forks": 221
         },
         "contributors": [
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 989,
-          "forks": 65
+          "totalStars": 998,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79095297?v=4"
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 921,
+          "totalStars": 920,
           "forks": 650
         },
         "contributors": [
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 763,
+          "totalStars": 766,
           "forks": 40
         },
         "contributors": [
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 638,
+          "totalStars": 645,
           "forks": 41
         },
         "contributors": [
@@ -134,6 +134,26 @@
       },
       {
         "rank": 7,
+        "name": "powerycy/goutoujunshi",
+        "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 540,
+          "forks": 68
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/36032407?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "smixs/pohuy",
         "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
         "language": {
@@ -153,26 +173,6 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "powerycy/goutoujunshi",
-        "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 534,
-          "forks": 68
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/36032407?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
         "name": "Vincentwei1021/video-shotcraft",
         "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 529,
-          "forks": 37
+          "totalStars": 537,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18239147?v=4"
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2197,
+          "totalStars": 2200,
           "forks": 221
         },
         "contributors": [
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 534,
+          "totalStars": 540,
           "forks": 68
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
+          "totalStars": 305,
           "forks": 0
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
+          "totalStars": 302,
           "forks": 0
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
+          "totalStars": 253,
           "forks": 11
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
+          "totalStars": 219,
           "forks": 15
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 403,
-          "forks": 50
+          "totalStars": 411,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16514704?v=4"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 245,
-          "forks": 52
+          "totalStars": 247,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/53092331?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 224,
+          "totalStars": 225,
           "forks": 20
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 123,
+          "totalStars": 124,
           "forks": 31
         },
         "contributors": [
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
+          "totalStars": 111,
           "forks": 6
         },
         "contributors": [
@@ -607,7 +607,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 106,
-          "forks": 10
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286578290?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
+          "totalStars": 112,
           "forks": 11
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 59,
+          "totalStars": 60,
           "forks": 4
         },
         "contributors": [
