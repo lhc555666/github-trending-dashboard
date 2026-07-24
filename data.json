@@ -1,12 +1,11 @@
 {
-  "lastUpdate": "2026/07/23 03:20:42",
+  "lastUpdate": "2026/07/24 02:26:03",
   "charts": {
     "languageDistribution": {
-      "Python": 3,
-      "Go": 1,
-      "Solidity": 1,
+      "Python": 4,
+      "TypeScript": 4,
       "Swift": 1,
-      "TypeScript": 3
+      "JavaScript": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2200,
-          "forks": 221
+          "totalStars": 2277,
+          "forks": 229
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/860434?v=4"
@@ -34,66 +33,46 @@
       },
       {
         "rank": 2,
-        "name": "nethical6/conversation-steganography",
-        "description": "Use LLMs to hide messages inside normal looking conversations",
+        "name": "andrewyng/openworker",
+        "description": "暂无描述",
         "language": {
-          "name": "Go",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 998,
-          "forks": 67
+          "totalStars": 1410,
+          "forks": 212
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/79095297?v=4"
+          "https://avatars.githubusercontent.com/u/3710007?v=4"
         ],
         "tags": [
-          "#Go"
+          "#Python"
         ]
       },
       {
         "rank": 3,
-        "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-        "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+        "name": "Vincentwei1021/video-shotcraft",
+        "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
         "language": {
-          "name": "Solidity",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 920,
-          "forks": 650
+          "totalStars": 962,
+          "forks": 73
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/296786145?v=4"
+          "https://avatars.githubusercontent.com/u/18239147?v=4"
         ],
         "tags": [
-          "#Solidity"
+          "#TypeScript"
         ]
       },
       {
         "rank": 4,
-        "name": "Blaizzy/nativ",
-        "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 766,
-          "forks": 40
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/23445657?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "Jakubantalik/thinking-orbs",
         "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
         "language": {
@@ -102,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 645,
-          "forks": 41
+          "totalStars": 833,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14873517?v=4"
@@ -113,27 +92,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "xiejunjie524/handdraw-story-video",
-        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+        "rank": 5,
+        "name": "Blaizzy/nativ",
+        "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Swift",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 621,
-          "forks": 95
+          "totalStars": 818,
+          "forks": 43
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/128920834?v=4"
+          "https://avatars.githubusercontent.com/u/23445657?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Swift"
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "powerycy/goutoujunshi",
         "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
         "language": {
@@ -142,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 540,
-          "forks": 68
+          "totalStars": 668,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36032407?v=4"
@@ -153,43 +132,63 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "smixs/pohuy",
-        "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 538,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/32239508?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Vincentwei1021/video-shotcraft",
-        "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+        "rank": 7,
+        "name": "pireel/pireel",
+        "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 537,
-          "forks": 39
+          "totalStars": 661,
+          "forks": 52
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/18239147?v=4"
+          "https://avatars.githubusercontent.com/u/304991498?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "xiejunjie524/handdraw-story-video",
+        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 634,
+          "forks": 97
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/128920834?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "gnipbao/story-to-handdrawn-video",
+        "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 565,
+          "forks": 66
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16514704?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -202,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 503,
-          "forks": 0
+          "totalStars": 504,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/307622098?v=4"
@@ -224,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2200,
-          "forks": 221
+          "totalStars": 2277,
+          "forks": 229
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/860434?v=4"
@@ -236,19 +235,19 @@
       },
       {
         "rank": 2,
-        "name": "xiejunjie524/handdraw-story-video",
-        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+        "name": "andrewyng/openworker",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 621,
-          "forks": 95
+          "totalStars": 1410,
+          "forks": 212
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/128920834?v=4"
+          "https://avatars.githubusercontent.com/u/3710007?v=4"
         ],
         "tags": [
           "#Python"
@@ -264,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 540,
-          "forks": 68
+          "totalStars": 668,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36032407?v=4"
@@ -276,19 +275,19 @@
       },
       {
         "rank": 4,
-        "name": "Icex0/wp2shell-poc",
-        "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+        "name": "xiejunjie524/handdraw-story-video",
+        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 488,
-          "forks": 113
+          "totalStars": 634,
+          "forks": 97
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/99045665?v=4"
+          "https://avatars.githubusercontent.com/u/128920834?v=4"
         ],
         "tags": [
           "#Python"
@@ -304,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
+          "totalStars": 344,
           "forks": 0
         },
         "contributors": [
@@ -324,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
+          "totalStars": 340,
           "forks": 0
         },
         "contributors": [
@@ -336,19 +335,19 @@
       },
       {
         "rank": 7,
-        "name": "Gheat1/tuistore",
-        "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
+        "name": "berabuddies/redis-poc",
+        "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 265,
-          "forks": 10
+          "totalStars": 312,
+          "forks": 89
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/64615952?v=4"
+          "https://avatars.githubusercontent.com/u/272903805?v=4"
         ],
         "tags": [
           "#Python"
@@ -364,8 +363,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
-          "forks": 11
+          "totalStars": 301,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/191077179?v=4"
@@ -376,19 +375,19 @@
       },
       {
         "rank": 9,
-        "name": "eli-labz/Agent-Execution-Partnership",
-        "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+        "name": "Gheat1/tuistore",
+        "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
-          "forks": 74
+          "totalStars": 286,
+          "forks": 10
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/272680511?v=4"
+          "https://avatars.githubusercontent.com/u/64615952?v=4"
         ],
         "tags": [
           "#Python"
@@ -404,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
+          "totalStars": 234,
           "forks": 15
         },
         "contributors": [
@@ -426,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 411,
-          "forks": 51
+          "totalStars": 565,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16514704?v=4"
@@ -438,6 +437,26 @@
       },
       {
         "rank": 2,
+        "name": "CatsJuice/sticker-forge",
+        "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 391,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/39363750?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "Kritt-ai/open-kritt",
         "description": "Orchestrate AI agents to find real vulnerabilities in code.",
         "language": {
@@ -446,31 +465,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 323,
-          "forks": 71
+          "totalStars": 359,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294822847?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "livetennisapi/livetennisapi-mcp",
-        "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 271,
-          "forks": 125
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/306618864?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -486,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
-          "forks": 53
+          "totalStars": 292,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/53092331?v=4"
@@ -506,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 236,
-          "forks": 30
+          "totalStars": 256,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
@@ -518,19 +517,19 @@
       },
       {
         "rank": 6,
-        "name": "CatsJuice/sticker-forge",
-        "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+        "name": "nicechunk/game",
+        "description": "NiceChunk game client",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
-          "forks": 20
+          "totalStars": 214,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/39363750?v=4"
+          "https://avatars.githubusercontent.com/u/293527782?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -538,6 +537,26 @@
       },
       {
         "rank": 7,
+        "name": "livetennisapi/livetennisapi-mcp",
+        "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 205,
+          "forks": 83
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/306618864?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "duolahypercho/codex-router",
         "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
         "language": {
@@ -546,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 190,
-          "forks": 19
+          "totalStars": 197,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108492647?v=4"
@@ -557,7 +576,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "name": "finna/Finn-loop",
+        "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 163,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1421181?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "timethrough/xiaohei-Chrome",
         "description": "谷歌多开",
         "language": {
@@ -566,51 +605,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
-          "forks": 31
+          "totalStars": 132,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/108432148?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "zhulin025/Codex-QQ-Skin",
-        "description": "一款内置复古 QQ 风格外观的 Codex 皮肤生成器。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 111,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/714896?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "lov-team/dagoujiao",
-        "description": "最近特别火的视频大狗叫",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 106,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/286578290?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
-          "forks": 11
+          "totalStars": 147,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/122239080?v=4"
@@ -648,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 68,
+          "totalStars": 74,
           "forks": 1
         },
         "contributors": [
@@ -668,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
+          "totalStars": 68,
           "forks": 3
         },
         "contributors": [
@@ -688,8 +687,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 60,
-          "forks": 4
+          "totalStars": 65,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208038094?v=4"
@@ -708,8 +707,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 5
+          "totalStars": 55,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60394124?v=4"
@@ -720,6 +719,26 @@
       },
       {
         "rank": 6,
+        "name": "Zerie55699/transitink-os",
+        "description": "Open-source ESP32-S3 e-paper transit dashboard firmware and browser installer.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 41,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/263606082?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "chshersh/cppnew",
         "description": "C++ project to create C++ projects",
         "language": {
@@ -739,26 +758,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "adagfawDSas/wu-wa-core",
-        "description": "Wuthering Waves Core refers to third‑party tools that interact with Wuthering Waves' memory via external reading/writing or injection.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/301863846?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 8,
         "name": "sn0x-sharma/NEMESIS",
         "description": "Differential fuzzer for WebAssembly-GC / JavaScript-JIT compilers finds miscompilations across V8 tiers, then minimizes and reports them. For authorized research & responsible disclosure.",
@@ -768,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 33,
+          "totalStars": 36,
           "forks": 0
         },
         "contributors": [
@@ -780,19 +779,19 @@
       },
       {
         "rank": 9,
-        "name": "tarikbc/hotspot-arcade",
-        "description": "Offline multiplayer party games (trivia + Connect Four) hosted from a Flipper Zero + ESP32-S2 WiFi board. Join the hotspot, play in your browser, no internet.",
+        "name": "manhpham90vn/Deskhub",
+        "description": "Stream + điều khiển ứng dụng từ xa. ",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26,
-          "forks": 3
+          "totalStars": 33,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/6200673?v=4"
+          "https://avatars.githubusercontent.com/u/40340023?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +799,19 @@
       },
       {
         "rank": 10,
-        "name": "solst-ice/gba-hashcat",
-        "description": "Password cracker for the GAME BOY Advance, supporting SHA256",
+        "name": "rmrf404/green-nx",
+        "description": "Xbox Cloud Gaming (xCloud) client for the Nintendo Switch — standalone homebrew with native WebRTC streaming, hardware H.264 decoding and zero-copy GPU rendering",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 24,
-          "forks": 3
+          "totalStars": 29,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/188945768?v=4"
+          "https://avatars.githubusercontent.com/u/270658185?v=4"
         ],
         "tags": [
           "#C++"
