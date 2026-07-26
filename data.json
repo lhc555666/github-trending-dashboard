@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/26 02:30:31",
+  "lastUpdate": "2026/07/26 03:26:42",
   "charts": {
     "languageDistribution": {
       "Python": 4,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5071,
-          "forks": 672
+          "totalStars": 5147,
+          "forks": 683
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3710007?v=4"
@@ -41,7 +41,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1014,
+          "totalStars": 1019,
           "forks": 76
         },
         "contributors": [
@@ -81,7 +81,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 880,
+          "totalStars": 882,
           "forks": 97
         },
         "contributors": [
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 833,
-          "forks": 94
+          "totalStars": 857,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 753,
+          "totalStars": 755,
           "forks": 61
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 626,
+          "totalStars": 627,
           "forks": 70
         },
         "contributors": [
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 593,
+          "totalStars": 605,
           "forks": 7
         },
         "contributors": [
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 574,
+          "totalStars": 576,
           "forks": 51
         },
         "contributors": [
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 537,
+          "totalStars": 539,
           "forks": 30
         },
         "contributors": [
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5071,
-          "forks": 672
+          "totalStars": 5147,
+          "forks": 683
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3710007?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 880,
+          "totalStars": 882,
           "forks": 97
         },
         "contributors": [
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 833,
-          "forks": 94
+          "totalStars": 857,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -283,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 593,
+          "totalStars": 605,
           "forks": 7
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
+          "totalStars": 328,
           "forks": 2
         },
         "contributors": [
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
+          "totalStars": 213,
           "forks": 22
         },
         "contributors": [
@@ -425,7 +425,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 626,
+          "totalStars": 627,
           "forks": 70
         },
         "contributors": [
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 574,
+          "totalStars": 576,
           "forks": 51
         },
         "contributors": [
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 537,
+          "totalStars": 539,
           "forks": 30
         },
         "contributors": [
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
+          "totalStars": 254,
           "forks": 26
         },
         "contributors": [
@@ -565,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
+          "totalStars": 205,
           "forks": 33
         },
         "contributors": [
@@ -577,6 +577,26 @@
       },
       {
         "rank": 9,
+        "name": "mshumer/Claude-of-Duty",
+        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 169,
+          "forks": 41
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/41550495?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "dunefalcon1qrj/Telegram-Bot",
         "description": "Polymarket whale trades in real time",
         "language": {
@@ -590,26 +610,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308148292?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "mshumer/Claude-of-Duty",
-        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 142,
-          "forks": 35
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41550495?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -799,19 +799,19 @@
       },
       {
         "rank": 10,
-        "name": "sn0x-sharma/NEMESIS",
-        "description": "Differential fuzzer for WebAssembly-GC / JavaScript-JIT compilers finds miscompilations across V8 tiers, then minimizes and reports them. For authorized research & responsible disclosure.",
+        "name": "sailay1996/HiveOracle",
+        "description": "Raw NTFS volume oracle: locked-file read and offline SAM hashes without LSASS",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
-          "forks": 0
+          "totalStars": 36,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/64743570?v=4"
+          "https://avatars.githubusercontent.com/u/16739401?v=4"
         ],
         "tags": [
           "#C++"
