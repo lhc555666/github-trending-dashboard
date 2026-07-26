@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/07/25 03:13:03",
+  "lastUpdate": "2026/07/26 02:30:31",
   "charts": {
     "languageDistribution": {
-      "Python": 3,
-      "TypeScript": 4,
+      "Python": 4,
+      "TypeScript": 2,
       "Swift": 1,
-      "JavaScript": 2
+      "JavaScript": 3
     },
     "starGrowth": {}
   },
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3507,
-          "forks": 468
+          "totalStars": 5071,
+          "forks": 672
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3710007?v=4"
@@ -33,26 +33,6 @@
       },
       {
         "rank": 2,
-        "name": "Vincentwei1021/video-shotcraft",
-        "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1482,
-          "forks": 121
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18239147?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Jakubantalik/thinking-orbs",
         "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
         "language": {
@@ -61,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 936,
-          "forks": 69
+          "totalStars": 1014,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14873517?v=4"
@@ -72,7 +52,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Blaizzy/nativ",
         "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
         "language": {
@@ -81,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 863,
-          "forks": 45
+          "totalStars": 885,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/23445657?v=4"
@@ -92,7 +72,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "powerycy/goutoujunshi",
         "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
         "language": {
@@ -101,11 +81,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 811,
-          "forks": 93
+          "totalStars": 880,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36032407?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "slvDev/esp32-ai",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 833,
+          "forks": 94
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15254847?v=4"
         ],
         "tags": [
           "#Python"
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 714,
-          "forks": 56
+          "totalStars": 753,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/304991498?v=4"
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 609,
-          "forks": 69
+          "totalStars": 626,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16514704?v=4"
@@ -153,6 +153,26 @@
       },
       {
         "rank": 8,
+        "name": "mikiarlo3/ai-copywriter",
+        "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 593,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1715109?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "CatsJuice/sticker-forge",
         "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
         "language": {
@@ -161,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 528,
-          "forks": 46
+          "totalStars": 574,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39363750?v=4"
@@ -172,43 +192,23 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "0xhype/hyperliquid-tracker",
-        "description": "Get notified when big trades happen on Hyperliquid.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 509,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/307622098?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "slvDev/esp32-ai",
-        "description": "暂无描述",
+        "name": "zeus-panel/ZEUS-PANEL",
+        "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "JavaScript",
+          "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 444,
-          "forks": 58
+          "totalStars": 537,
+          "forks": 30
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/15254847?v=4"
+          "https://avatars.githubusercontent.com/u/307096617?v=4"
         ],
         "tags": [
-          "#Python"
+          "#JavaScript"
         ]
       }
     ],
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3507,
-          "forks": 468
+          "totalStars": 5071,
+          "forks": 672
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3710007?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 811,
-          "forks": 93
+          "totalStars": 880,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36032407?v=4"
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 444,
-          "forks": 58
+          "totalStars": 833,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -275,19 +275,19 @@
       },
       {
         "rank": 4,
-        "name": "AdelanSupport/adelan-support",
-        "description": "暂无描述",
+        "name": "mikiarlo3/ai-copywriter",
+        "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 394,
-          "forks": 0
+          "totalStars": 593,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/307448642?v=4"
+          "https://avatars.githubusercontent.com/u/1715109?v=4"
         ],
         "tags": [
           "#Python"
@@ -295,6 +295,26 @@
       },
       {
         "rank": 5,
+        "name": "berabuddies/redis-poc",
+        "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 418,
+          "forks": 107
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/272903805?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "AdelanSoulX/PM-Sniper",
         "description": "暂无描述",
         "language": {
@@ -303,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
+          "totalStars": 410,
           "forks": 0
         },
         "contributors": [
@@ -314,27 +334,47 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "berabuddies/redis-poc",
-        "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+        "rank": 7,
+        "name": "AdelanSupport/adelan-support",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 390,
-          "forks": 101
+          "totalStars": 408,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/272903805?v=4"
+          "https://avatars.githubusercontent.com/u/307448642?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "name": "mikehasa/agentacct",
+        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 322,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/91774998?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "TryCaspian/caspian-sdk",
         "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
         "language": {
@@ -343,8 +383,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
-          "forks": 76
+          "totalStars": 236,
+          "forks": 107
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/256783915?v=4"
@@ -354,60 +394,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "yokel1121/muyang-flat-animation",
-        "description": "将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 194,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/81351415?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "eli-labz/Agent-Execution-Partnership",
-        "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 187,
-          "forks": 49
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/272680511?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "Role1776/netmon",
-        "description": "Self-hosted network monitor — hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram.",
+        "name": "NVIDIA-NeMo/labs-OO-Agents",
+        "description": "labs-OO-agents",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
+          "totalStars": 211,
           "forks": 22
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/184975966?v=4"
+          "https://avatars.githubusercontent.com/u/213689629?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 609,
-          "forks": 69
+          "totalStars": 626,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16514704?v=4"
@@ -445,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 528,
-          "forks": 46
+          "totalStars": 574,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39363750?v=4"
@@ -457,6 +457,26 @@
       },
       {
         "rank": 3,
+        "name": "zeus-panel/ZEUS-PANEL",
+        "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 537,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/307096617?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "Kritt-ai/open-kritt",
         "description": "Orchestrate AI agents to find real vulnerabilities in code.",
         "language": {
@@ -465,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 374,
-          "forks": 78
+          "totalStars": 391,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294822847?v=4"
@@ -476,7 +496,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "melloworchid8rr6g/TG-Polymarket-bot",
         "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
         "language": {
@@ -485,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
-          "forks": 197
+          "totalStars": 390,
+          "forks": 238
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308083624?v=4"
@@ -496,40 +516,20 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "lyu0805/OpenBrowser",
-        "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 308,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/53092331?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 6,
-        "name": "zeus-panel/ZEUS-PANEL",
-        "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+        "name": "danilo-znamerovszkij/draw-your-font",
+        "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 19
+          "totalStars": 251,
+          "forks": 26
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/307096617?v=4"
+          "https://avatars.githubusercontent.com/u/31888918?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -557,26 +557,6 @@
       },
       {
         "rank": 8,
-        "name": "duolahypercho/codex-router",
-        "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 205,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/108492647?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "finna/Finn-loop",
         "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
         "language": {
@@ -585,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 183,
-          "forks": 28
+          "totalStars": 202,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1421181?v=4"
@@ -596,20 +576,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "danilo-znamerovszkij/draw-your-font",
-        "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+        "rank": 9,
+        "name": "dunefalcon1qrj/Telegram-Bot",
+        "description": "Polymarket whale trades in real time",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 143,
-          "forks": 19
+          "totalStars": 153,
+          "forks": 59
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/31888918?v=4"
+          "https://avatars.githubusercontent.com/u/308148292?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "mshumer/Claude-of-Duty",
+        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 142,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/41550495?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
-          "forks": 19
+          "totalStars": 175,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/122239080?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 74,
+          "totalStars": 77,
           "forks": 1
         },
         "contributors": [
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 70,
+          "totalStars": 73,
           "forks": 7
         },
         "contributors": [
@@ -679,8 +679,8 @@
       },
       {
         "rank": 4,
-        "name": "lspr98/conformer-stt-s3",
-        "description": "Automatic speech recognition (ASR) running on the ESP32-S3 based on a 13.1M parameters convolution transformer.",
+        "name": "rmrf404/green-nx",
+        "description": "Xbox Cloud Gaming (xCloud) client for the Nintendo Switch — standalone homebrew with native WebRTC streaming, hardware H.264 decoding and zero-copy GPU rendering",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -688,10 +688,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 55,
-          "forks": 7
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/60394124?v=4"
+          "https://avatars.githubusercontent.com/u/270658185?v=4"
         ],
         "tags": [
           "#C++"
@@ -707,8 +707,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51,
-          "forks": 3
+          "totalStars": 52,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/263606082?v=4"
@@ -719,19 +719,19 @@
       },
       {
         "rank": 6,
-        "name": "rmrf404/green-nx",
-        "description": "Xbox Cloud Gaming (xCloud) client for the Nintendo Switch — standalone homebrew with native WebRTC streaming, hardware H.264 decoding and zero-copy GPU rendering",
+        "name": "forzahorizon6trainer/FH6-Trainer-AllInOne",
+        "description": "FH6 Trainer AllInOne is a comprehensive cheat trainer for Forza Horizon 6 with infinite credits, unlimited XP, car unlocker, freeze AI, teleport, grip hack, speed hack, and nitro hack. Features hot-reloadable signatures and anti-cheat bypass. Compatible with Steam, Xbox app, and Xbox Game Pass on Windows 10/11.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 45,
-          "forks": 3
+          "totalStars": 48,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/270658185?v=4"
+          "https://avatars.githubusercontent.com/u/238254190?v=4"
         ],
         "tags": [
           "#C++"
@@ -739,19 +739,19 @@
       },
       {
         "rank": 7,
-        "name": "chshersh/cppnew",
-        "description": "C++ project to create C++ projects",
+        "name": "glossmodmanager/Gloss-Mod-Manager",
+        "description": "Gloss Mod Manager is a lightweight universal mod manager for PC games that installs, organizes, and toggles mods across Unreal Engine and REEngine titles. Supports Nier Automata, Resident Evil 4, Monster Hunter, Dragon's Dogma 2, Hogwarts Legacy, and Devil May Cry 5. Alternative to Fluffy Quack and Vortex.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
-          "forks": 2
+          "totalStars": 48,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/4276606?v=4"
+          "https://avatars.githubusercontent.com/u/231619968?v=4"
         ],
         "tags": [
           "#C++"
@@ -759,6 +759,46 @@
       },
       {
         "rank": 8,
+        "name": "notepad-pp/notepadplusplus",
+        "description": "Notepad++ is a free, open-source code editor and Notepad replacement for Windows with syntax highlighting for 80+ languages, plugin support, multi-document tabs, and a powerful macro system. Compare with VS Code, Sublime Text, and Vim for the best lightweight Windows text editor.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 48,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/68490964?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "tonydev18/walletgen",
+        "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 42,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/284737048?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "sn0x-sharma/NEMESIS",
         "description": "Differential fuzzer for WebAssembly-GC / JavaScript-JIT compilers finds miscompilations across V8 tiers, then minimizes and reports them. For authorized research & responsible disclosure.",
         "language": {
@@ -772,46 +812,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64743570?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "sailay1996/HiveOracle",
-        "description": "Raw NTFS volume oracle: locked-file read and offline SAM hashes without LSASS",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16739401?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "manhpham90vn/Deskhub",
-        "description": "Stream + điều khiển ứng dụng từ xa. ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/40340023?v=4"
         ],
         "tags": [
           "#C++"
