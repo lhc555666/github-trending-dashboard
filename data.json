@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026/07/27 02:38:13",
+  "lastUpdate": "2026/07/27 03:35:23",
   "charts": {
     "languageDistribution": {
-      "Python": 4,
-      "TypeScript": 4,
+      "Python": 3,
+      "TypeScript": 5,
       "JavaScript": 2
     },
     "starGrowth": {}
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1388,
-          "forks": 140
+          "totalStars": 1416,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -40,7 +40,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1103,
+          "totalStars": 1104,
           "forks": 82
         },
         "contributors": [
@@ -60,7 +60,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 857,
+          "totalStars": 860,
           "forks": 13
         },
         "contributors": [
@@ -80,8 +80,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 682,
-          "forks": 135
+          "totalStars": 699,
+          "forks": 141
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -100,7 +100,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 653,
+          "totalStars": 654,
           "forks": 73
         },
         "contributors": [
@@ -120,8 +120,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 513,
-          "forks": 57
+          "totalStars": 569,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/306974279?v=4"
@@ -160,8 +160,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
-          "forks": 27
+          "totalStars": 485,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/55630163?v=4"
@@ -172,6 +172,26 @@
       },
       {
         "rank": 9,
+        "name": "vercel-labs/scriptc",
+        "description": "TypeScript-to-Native Compiler",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 458,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/108547162?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "berabuddies/redis-poc",
         "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
         "language": {
@@ -180,31 +200,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 441,
+          "totalStars": 444,
           "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/272903805?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "AdelanSupport/adelan-support",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 409,
-          "forks": 413
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/307448642?v=4"
         ],
         "tags": [
           "#Python"
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1388,
-          "forks": 140
+          "totalStars": 1416,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -242,7 +242,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 857,
+          "totalStars": 860,
           "forks": 13
         },
         "contributors": [
@@ -262,7 +262,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 441,
+          "totalStars": 444,
           "forks": 108
         },
         "contributors": [
@@ -282,7 +282,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 409,
+          "totalStars": 410,
           "forks": 413
         },
         "contributors": [
@@ -302,7 +302,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 375,
+          "totalStars": 393,
           "forks": 2
         },
         "contributors": [
@@ -322,8 +322,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
-          "forks": 19
+          "totalStars": 370,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13090166?v=4"
@@ -362,8 +362,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
-          "forks": 43
+          "totalStars": 216,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39443758?v=4"
@@ -382,7 +382,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
+          "totalStars": 212,
           "forks": 27
         },
         "contributors": [
@@ -394,19 +394,19 @@
       },
       {
         "rank": 10,
-        "name": "yokel1121/muyang-flat-animation",
-        "description": "将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材",
+        "name": "sunny-glow/Auto-BenchMax",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
-          "forks": 33
+          "totalStars": 209,
+          "forks": 28
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/81351415?v=4"
+          "https://avatars.githubusercontent.com/u/308224278?v=4"
         ],
         "tags": [
           "#Python"
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 682,
-          "forks": 135
+          "totalStars": 699,
+          "forks": 141
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -444,7 +444,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 653,
+          "totalStars": 654,
           "forks": 73
         },
         "contributors": [
@@ -464,7 +464,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
+          "totalStars": 312,
           "forks": 32
         },
         "contributors": [
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
+          "totalStars": 220,
           "forks": 34
         },
         "contributors": [
@@ -584,7 +584,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 107,
+          "totalStars": 106,
           "forks": 37
         },
         "contributors": [
@@ -604,7 +604,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 81,
+          "totalStars": 87,
           "forks": 8
         },
         "contributors": [
