@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/07/28 02:12:44",
+  "lastUpdate": "2026/07/28 02:51:29",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1777,
+          "totalStars": 1800,
           "forks": 29
         },
         "contributors": [
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1754,
-          "forks": 184
+          "totalStars": 1769,
+          "forks": 186
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1550,
-          "forks": 120
+          "totalStars": 1736,
+          "forks": 129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1037,
-          "forks": 206
+          "totalStars": 1043,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 860,
-          "forks": 106
+          "totalStars": 873,
+          "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/306974279?v=4"
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 720,
-          "forks": 66
+          "totalStars": 793,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/170996193?v=4"
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 651,
+          "totalStars": 655,
           "forks": 35
         },
         "contributors": [
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 516,
-          "forks": 77
+          "totalStars": 552,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -193,19 +193,19 @@
       },
       {
         "rank": 10,
-        "name": "mikehasa/agentacct",
-        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "name": "MoonshotAI/MoonEP",
+        "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 476,
-          "forks": 27
+          "totalStars": 491,
+          "forks": 52
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/91774998?v=4"
+          "https://avatars.githubusercontent.com/u/129152888?v=4"
         ],
         "tags": [
           "#Python"
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1754,
-          "forks": 184
+          "totalStars": 1769,
+          "forks": 186
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 651,
+          "totalStars": 655,
           "forks": 35
         },
         "contributors": [
@@ -275,26 +275,6 @@
       },
       {
         "rank": 4,
-        "name": "mikehasa/agentacct",
-        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 476,
-          "forks": 27
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/91774998?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "MoonshotAI/MoonEP",
         "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
         "language": {
@@ -303,11 +283,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 460,
-          "forks": 50
+          "totalStars": 491,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "mikehasa/agentacct",
+        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 484,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/91774998?v=4"
         ],
         "tags": [
           "#Python"
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 311,
+          "totalStars": 312,
           "forks": 19
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
+          "totalStars": 284,
           "forks": 40
         },
         "contributors": [
@@ -383,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 262,
+          "totalStars": 263,
           "forks": 28
         },
         "contributors": [
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 261,
+          "totalStars": 262,
           "forks": 57
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1037,
-          "forks": 206
+          "totalStars": 1043,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 404,
+          "totalStars": 406,
           "forks": 36
         },
         "contributors": [
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 116,
+          "totalStars": 118,
           "forks": 8
         },
         "contributors": [
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
+          "totalStars": 92,
           "forks": 6
         },
         "contributors": [
@@ -565,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 84,
+          "totalStars": 85,
           "forks": 10
         },
         "contributors": [
@@ -586,7 +586,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 67,
-          "forks": 29
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24885285?v=4"
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 64,
+          "totalStars": 65,
           "forks": 10
         },
         "contributors": [
@@ -707,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 44,
+          "totalStars": 47,
           "forks": 0
         },
         "contributors": [
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 40,
+          "totalStars": 41,
           "forks": 3
         },
         "contributors": [
