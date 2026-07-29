@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/07/29 02:22:54",
+  "lastUpdate": "2026/07/29 03:11:23",
   "charts": {
     "languageDistribution": {
       "Python": 5,
       "JavaScript": 1,
       "Rust": 1,
-      "TypeScript": 1,
-      "Swift": 1
+      "Swift": 1,
+      "TypeScript": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3483,
-          "forks": 285
+          "totalStars": 3538,
+          "forks": 287
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2072,
-          "forks": 225
+          "totalStars": 2090,
+          "forks": 227
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1767,
-          "forks": 267
+          "totalStars": 1796,
+          "forks": 269
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1454,
-          "forks": 127
+          "totalStars": 1476,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/170996193?v=4"
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 991,
+          "totalStars": 993,
           "forks": 19
         },
         "contributors": [
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 807,
+          "totalStars": 812,
           "forks": 48
         },
         "contributors": [
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 79
+          "totalStars": 803,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 684,
-          "forks": 114
+          "totalStars": 704,
+          "forks": 116
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6284270?v=4"
@@ -174,6 +174,26 @@
       },
       {
         "rank": 9,
+        "name": "digimata/quill",
+        "description": "Ultraminimalist macOS recording + transcription.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 600,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/247467537?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "0xwilliamortiz/openclaude-improved",
         "description": "runs anywhere. uses anything",
         "language": {
@@ -191,26 +211,6 @@
         "tags": [
           "#TypeScript"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "digimata/quill",
-        "description": "Ultraminimalist macOS recording + transcription.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 582,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/247467537?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
       }
     ],
     "Python": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2072,
-          "forks": 225
+          "totalStars": 2090,
+          "forks": 227
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15254847?v=4"
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 991,
+          "totalStars": 993,
           "forks": 19
         },
         "contributors": [
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 807,
+          "totalStars": 812,
           "forks": 48
         },
         "contributors": [
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 79
+          "totalStars": 803,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 684,
-          "forks": 114
+          "totalStars": 704,
+          "forks": 116
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6284270?v=4"
@@ -345,7 +345,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 445,
-          "forks": 20
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308220153?v=4"
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 362,
+          "totalStars": 368,
           "forks": 55
         },
         "contributors": [
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
+          "totalStars": 329,
           "forks": 54
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
+          "totalStars": 318,
           "forks": 27
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1767,
-          "forks": 267
+          "totalStars": 1796,
+          "forks": 269
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 472,
+          "totalStars": 473,
           "forks": 68
         },
         "contributors": [
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
-          "forks": 28
+          "totalStars": 199,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -578,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "yaoleifly/ai-stock-pool",
-        "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 78,
-          "forks": 34
+          "totalStars": 87,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/24885285?v=4"
+          "https://avatars.githubusercontent.com/u/215908419?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -606,8 +606,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 77,
-          "forks": 15
+          "totalStars": 79,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11875955?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
+          "totalStars": 132,
           "forks": 19
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
+          "totalStars": 105,
           "forks": 2
         },
         "contributors": [
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 76,
+          "totalStars": 77,
           "forks": 10
         },
         "contributors": [
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 23,
+          "totalStars": 24,
           "forks": 0
         },
         "contributors": [
@@ -780,6 +780,26 @@
       },
       {
         "rank": 9,
+        "name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
+        "description": "SCAN-Planner-Pure-ROS2 是 SCAN-Planner 轨迹优化器的精简版本，便于快速集成并适配不同系统的软件框架。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 23,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/66151484?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "lwhssd/BMS-CAN-Supervisory-Host-Computer",
         "description": "暂无描述",
         "language": {
@@ -793,26 +813,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/150637002?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
-        "description": "SCAN-Planner-Pure-ROS2 是 SCAN-Planner 轨迹优化器的精简版本，便于快速集成并适配不同系统的软件框架。",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 21,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/66151484?v=4"
         ],
         "tags": [
           "#C++"
