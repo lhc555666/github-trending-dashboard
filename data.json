@@ -1,11 +1,10 @@
 {
-  "lastUpdate": "2026/07/29 03:11:23",
+  "lastUpdate": "2026/07/30 02:05:02",
   "charts": {
     "languageDistribution": {
-      "Python": 5,
-      "JavaScript": 1,
-      "Rust": 1,
+      "JavaScript": 2,
       "Swift": 1,
+      "Python": 5,
       "TypeScript": 1
     },
     "starGrowth": {}
@@ -22,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3538,
-          "forks": 287
+          "totalStars": 5920,
+          "forks": 420
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -34,26 +33,6 @@
       },
       {
         "rank": 2,
-        "name": "slvDev/esp32-ai",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2090,
-          "forks": 227
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/15254847?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "mshumer/Claude-of-Duty",
         "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
         "language": {
@@ -62,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1796,
-          "forks": 269
+          "totalStars": 2253,
+          "forks": 326
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -73,27 +52,27 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "kvcache-ai/AgentENV",
-        "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+        "rank": 3,
+        "name": "digimata/quill",
+        "description": "Ultra-minimalist macOS recording + transcription.",
         "language": {
-          "name": "Rust",
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1476,
-          "forks": 128
+          "totalStars": 1541,
+          "forks": 98
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/170996193?v=4"
+          "https://avatars.githubusercontent.com/u/247467537?v=4"
         ],
         "tags": [
-          "#Rust"
+          "#Swift"
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "mikiarlo3/ai-copywriter",
         "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
         "language": {
@@ -102,11 +81,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 993,
-          "forks": 19
+          "totalStars": 1046,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1715109?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "fuadmefleh/Shared-Claude-Chats",
+        "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 933,
+          "forks": 152
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6284270?v=4"
         ],
         "tags": [
           "#Python"
@@ -122,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 812,
-          "forks": 48
+          "totalStars": 877,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13090166?v=4"
@@ -142,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 803,
-          "forks": 80
+          "totalStars": 862,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -154,46 +153,6 @@
       },
       {
         "rank": 8,
-        "name": "fuadmefleh/Shared-Claude-Chats",
-        "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 704,
-          "forks": 116
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6284270?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "digimata/quill",
-        "description": "Ultraminimalist macOS recording + transcription.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 600,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/247467537?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "0xwilliamortiz/openclaude-improved",
         "description": "runs anywhere. uses anything",
         "language": {
@@ -202,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 583,
-          "forks": 86
+          "totalStars": 554,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -211,31 +170,51 @@
         "tags": [
           "#TypeScript"
         ]
-      }
-    ],
-    "Python": [
+      },
       {
-        "rank": 1,
-        "name": "slvDev/esp32-ai",
-        "description": "暂无描述",
+        "rank": 9,
+        "name": "0xwilliamortiz/ponytail-improved",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 545,
+          "forks": 121
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/155918204?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "mikehasa/agentacct",
+        "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2090,
-          "forks": 227
+          "totalStars": 529,
+          "forks": 66
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/15254847?v=4"
+          "https://avatars.githubusercontent.com/u/91774998?v=4"
         ],
         "tags": [
           "#Python"
         ]
-      },
+      }
+    ],
+    "Python": [
       {
-        "rank": 2,
+        "rank": 1,
         "name": "mikiarlo3/ai-copywriter",
         "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
         "language": {
@@ -244,11 +223,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 993,
-          "forks": 19
+          "totalStars": 1046,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1715109?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "fuadmefleh/Shared-Claude-Chats",
+        "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 933,
+          "forks": 152
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6284270?v=4"
         ],
         "tags": [
           "#Python"
@@ -264,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 812,
-          "forks": 48
+          "totalStars": 877,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13090166?v=4"
@@ -284,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 803,
-          "forks": 80
+          "totalStars": 862,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -296,36 +295,16 @@
       },
       {
         "rank": 5,
-        "name": "fuadmefleh/Shared-Claude-Chats",
-        "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 704,
-          "forks": 116
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6284270?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "mikehasa/agentacct",
-        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 519,
-          "forks": 30
+          "totalStars": 529,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/91774998?v=4"
@@ -335,20 +314,40 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "XYZ-AI-Lab/axrl",
-        "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+        "rank": 6,
+        "name": "gavamedia/deltafin",
+        "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 445,
-          "forks": 21
+          "totalStars": 336,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/308220153?v=4"
+          "https://avatars.githubusercontent.com/u/1783489?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+        "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 273,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273277104?v=4"
         ],
         "tags": [
           "#Python"
@@ -356,19 +355,19 @@
       },
       {
         "rank": 8,
-        "name": "XYZ-AI-Lab/AxisAgentic",
-        "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+        "name": "PipeNetwork/kimi-k3-mlx",
+        "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 368,
-          "forks": 55
+          "totalStars": 259,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/308220153?v=4"
+          "https://avatars.githubusercontent.com/u/177175125?v=4"
         ],
         "tags": [
           "#Python"
@@ -376,19 +375,19 @@
       },
       {
         "rank": 9,
-        "name": "daimon3332/OutlookRegister",
-        "description": "Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具，支持自动获取 OAuth2 refresh_token",
+        "name": "LYiHub/pub-local-jarvis",
+        "description": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 329,
-          "forks": 54
+          "totalStars": 205,
+          "forks": 46
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/153618858?v=4"
+          "https://avatars.githubusercontent.com/u/169660933?v=4"
         ],
         "tags": [
           "#Python"
@@ -396,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "sunny-glow/Auto-BenchMax",
-        "description": "暂无描述",
+        "name": "sii-research/tau-0-vla",
+        "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 318,
-          "forks": 27
+          "totalStars": 203,
+          "forks": 10
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/308224278?v=4"
+          "https://avatars.githubusercontent.com/u/214633573?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1796,
-          "forks": 269
+          "totalStars": 2253,
+          "forks": 326
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -446,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 473,
-          "forks": 68
+          "totalStars": 545,
+          "forks": 121
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -458,6 +457,26 @@
       },
       {
         "rank": 3,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 508,
+          "forks": 46
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/215908419?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "achimala/TheLongSilence",
         "description": "A space exploration game built by Claude Opus 5",
         "language": {
@@ -466,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
-          "forks": 29
+          "totalStars": 324,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -477,7 +496,87 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "name": "QwenAudio/qwen-audio-agent",
+        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 209,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167062371?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Noniv/snowflow_demo",
+        "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 198,
+          "forks": 54
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/80125277?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "twalichiewicz/HNewhere",
+        "description": "A lightweight userscript that adds Hacker News discussions to any previously submitted article.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 175,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/17400377?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "icebird1998/scientific-illustrator",
+        "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 171,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/183808012?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "dunefalcon1qrj/Telegram-Bot",
         "description": "Polymarket whale trades in real time",
         "language": {
@@ -497,27 +596,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "icebird1998/scientific-illustrator",
-        "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 146,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/183808012?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 10,
         "name": "mufengyuan666/Hearth",
         "description": "暂无描述",
         "language": {
@@ -535,86 +614,6 @@
         "tags": [
           "#JavaScript"
         ]
-      },
-      {
-        "rank": 7,
-        "name": "chokcoco/teach-yourself-skill",
-        "description": "快速创建一门自学课程",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 102,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8554143?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "ringhyacinth/Meow-Generator",
-        "description": "A playful procedural 3D kitten generator built with Three.js.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 88,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63448697?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "xikhar/persona",
-        "description": "Bringing real-time voice to life.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 87,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/215908419?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Sdraugel/albert",
-        "description": "Autonomous multi-agent harness for Claude Code (A.L.B.E.R.T. orchestrator) plus a zero-dependency live HUD console.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 79,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11875955?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
       }
     ],
     "C++": [
@@ -628,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 132,
-          "forks": 19
+          "totalStars": 163,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107551249?v=4"
@@ -641,15 +640,15 @@
       {
         "rank": 2,
         "name": "chrisberg-code1992s6/Meccha-Auto-Painter",
-        "description": "Auto Paint Tool for Meccha Chameleon.",
+        "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 105,
-          "forks": 2
+          "totalStars": 147,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278873134?v=4"
@@ -668,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 77,
+          "totalStars": 82,
           "forks": 10
         },
         "contributors": [
@@ -680,6 +679,26 @@
       },
       {
         "rank": 4,
+        "name": "timj-code/bc7215_ac_matter",
+        "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 60,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25955554?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "thomas-nasakioto/ixcoin",
         "description": "暂无描述",
         "language": {
@@ -699,26 +718,6 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "Madxbio97/SF-pc-port",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 36,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46499279?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 6,
         "name": "DR-89/fear-vr",
         "description": "Open-source OpenXR VR mod for F.E.A.R. 1.08 - native stereo world rendering, headtracking and motion controls",
@@ -728,8 +727,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 31,
-          "forks": 2
+          "totalStars": 32,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48952888?v=4"
@@ -740,19 +739,19 @@
       },
       {
         "rank": 7,
-        "name": "bardalebq/SoT-ESP-Xray-AimBot-Undetected",
-        "description": "暂无描述",
+        "name": "Baldywaldy09/PrismTextureStreamer",
+        "description": "ETS2/ATS Plugin to stream a windows application onto a Prism3D UI screen texture",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 31,
-          "forks": 0
+          "totalStars": 22,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/308261596?v=4"
+          "https://avatars.githubusercontent.com/u/110105335?v=4"
         ],
         "tags": [
           "#C++"
@@ -760,48 +759,8 @@
       },
       {
         "rank": 8,
-        "name": "rahul-iyer/duckdb-gql",
-        "description": "An extension to run graph queries and algorithms using ISO GQL",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 24,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6436620?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
-        "description": "SCAN-Planner-Pure-ROS2 是 SCAN-Planner 轨迹优化器的精简版本，便于快速集成并适配不同系统的软件框架。",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 23,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/66151484?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "lwhssd/BMS-CAN-Supervisory-Host-Computer",
-        "description": "暂无描述",
+        "name": "ItsBlurf/BFplayer",
+        "description": "A PS5 media and video player that also functions as a complete media library, with support for subtitles, multiple audio tracks, aspect-ratio adjustment, cropping, and many other playback settings.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -812,7 +771,47 @@
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/150637002?v=4"
+          "https://avatars.githubusercontent.com/u/192821704?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "taovietducofficial/DSA-Student",
+        "description": "Data Structures and Algorithms practice repository for students, containing implementations and exercises in C++ and Python.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 21,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/95725645?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "XiaoMiku01/TetherKit",
+        "description": "Kext-free HoRNDIS alternative: Android USB tethering on macOS. A user-space RNDIS driver for Apple Silicon & Intel — no kernel extension, no SIP changes. GUI + CLI.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 19,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/54094119?v=4"
         ],
         "tags": [
           "#C++"
