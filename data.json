@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/07/31 02:32:02",
+  "lastUpdate": "2026/07/31 03:26:07",
   "charts": {
     "languageDistribution": {
       "JavaScript": 4,
       "Python": 2,
-      "TypeScript": 3
+      "TypeScript": 2
     },
     "starGrowth": {}
   },
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7551,
-          "forks": 508
+          "totalStars": 7558,
+          "forks": 510
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2410,
-          "forks": 355
+          "totalStars": 2413,
+          "forks": 357
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -80,7 +80,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 676,
+          "totalStars": 678,
           "forks": 56
         },
         "contributors": [
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 490,
-          "forks": 37
+          "totalStars": 491,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/309602203?v=4"
@@ -160,8 +160,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 483,
-          "forks": 50
+          "totalStars": 487,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1783489?v=4"
@@ -172,22 +172,22 @@
       },
       {
         "rank": 9,
-        "name": "NikolayS/PGSimCity",
-        "description": "An explorable 3D city that shows how Postgres actually works",
+        "name": "WilonityXYZ/Wilonity",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread",
         "language": {
-          "name": "TypeScript",
+          "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 440,
-          "forks": 33
+          "totalStars": 482,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1345402?v=4"
+          "https://avatars.githubusercontent.com/u/278946191?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Trending"
         ]
       },
       {
@@ -200,8 +200,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 421,
-          "forks": 33
+          "totalStars": 448,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167062371?v=4"
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 483,
-          "forks": 50
+          "totalStars": 487,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1783489?v=4"
@@ -262,8 +262,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
-          "forks": 74
+          "totalStars": 299,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/273277104?v=4"
@@ -283,7 +283,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 294,
-          "forks": 31
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/177175125?v=4"
@@ -302,8 +302,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 268,
-          "forks": 93
+          "totalStars": 270,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265844445?v=4"
@@ -322,7 +322,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
+          "totalStars": 220,
           "forks": 11
         },
         "contributors": [
@@ -362,7 +362,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 196,
+          "totalStars": 198,
           "forks": 47
         },
         "contributors": [
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2410,
-          "forks": 355
+          "totalStars": 2413,
+          "forks": 357
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41550495?v=4"
@@ -444,7 +444,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 676,
+          "totalStars": 678,
           "forks": 56
         },
         "contributors": [
@@ -484,8 +484,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 421,
-          "forks": 33
+          "totalStars": 448,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167062371?v=4"
@@ -504,7 +504,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 359,
           "forks": 48
         },
         "contributors": [
@@ -524,8 +524,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
-          "forks": 93
+          "totalStars": 346,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80125277?v=4"
@@ -584,8 +584,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
-          "forks": 28
+          "totalStars": 145,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310775475?v=4"
@@ -726,7 +726,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 27,
+          "totalStars": 29,
           "forks": 1
         },
         "contributors": [
@@ -738,6 +738,26 @@
       },
       {
         "rank": 7,
+        "name": "wangyao1052/Yi3D",
+        "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 27,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11855157?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "AnomalyNTE/Anomaly",
         "description": "NTE plugin framework and API. 异环插件框架",
         "language": {
@@ -757,7 +777,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Baldywaldy09/PrismTextureStreamer",
         "description": "ETS2/ATS Plugin to stream a windows application onto a Prism3D UI screen texture",
         "language": {
@@ -771,26 +791,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/110105335?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "wangyao1052/Yi3D",
-        "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 23,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11855157?v=4"
         ],
         "tags": [
           "#C++"
