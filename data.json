@@ -1,10 +1,11 @@
 {
-  "lastUpdate": "2026/07/31 03:26:07",
+  "lastUpdate": "2026/08/01 02:31:14",
   "charts": {
     "languageDistribution": {
-      "JavaScript": 4,
-      "Python": 2,
-      "TypeScript": 2
+      "TypeScript": 3,
+      "JavaScript": 3,
+      "Python": 1,
+      "Lua": 1
     },
     "starGrowth": {}
   },
@@ -20,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7558,
-          "forks": 510
+          "totalStars": 7726,
+          "forks": 536
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -32,42 +33,42 @@
       },
       {
         "rank": 2,
-        "name": "mshumer/Claude-of-Duty",
-        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "name": "yc-software/qm",
+        "description": "Multiplayer agent harness for work",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2413,
-          "forks": 357
+          "totalStars": 2115,
+          "forks": 195
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/41550495?v=4"
+          "https://avatars.githubusercontent.com/u/153323858?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#TypeScript"
         ]
       },
       {
         "rank": 3,
-        "name": "VictorTaelin/OptMem",
-        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "name": "bashalarmistalt/decimen-optical-transfer",
+        "description": "暂无描述",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 54
+          "totalStars": 2079,
+          "forks": 243
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/13090166?v=4"
+          "https://avatars.githubusercontent.com/u/311128416?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       },
       {
@@ -80,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 678,
-          "forks": 56
+          "totalStars": 716,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -92,6 +93,46 @@
       },
       {
         "rank": 5,
+        "name": "QwenAudio/qwen-audio-agent",
+        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 617,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167062371?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 578,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1618833?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "0xwilliamortiz/ponytail-improved",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": {
@@ -100,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 564,
-          "forks": 126
+          "totalStars": 570,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -111,7 +152,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 8,
         "name": "0xwilliamortiz/openclaude-improved",
         "description": "runs anywhere. uses anything",
         "language": {
@@ -120,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 562,
+          "totalStars": 563,
           "forks": 80
         },
         "contributors": [
@@ -131,27 +172,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "talivia-group/talivia",
-        "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 491,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/309602203?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "name": "gavamedia/deltafin",
         "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
         "language": {
@@ -160,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 487,
-          "forks": 51
+          "totalStars": 563,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1783489?v=4"
@@ -171,62 +192,42 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "WilonityXYZ/Wilonity",
-        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread",
+        "rank": 10,
+        "name": "DramaticShape/DramaticShapeVoxelMod",
+        "description": "暂无描述",
         "language": {
-          "name": "Unknown",
+          "name": "Lua",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 482,
-          "forks": 0
+          "totalStars": 542,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278946191?v=4"
+          "https://avatars.githubusercontent.com/u/308877963?v=4"
         ],
         "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "QwenAudio/qwen-audio-agent",
-        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 448,
-          "forks": 35
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167062371?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
+          "#Lua"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "VictorTaelin/OptMem",
-        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "name": "gavamedia/deltafin",
+        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 54
+          "totalStars": 563,
+          "forks": 64
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/13090166?v=4"
+          "https://avatars.githubusercontent.com/u/1783489?v=4"
         ],
         "tags": [
           "#Python"
@@ -234,46 +235,6 @@
       },
       {
         "rank": 2,
-        "name": "gavamedia/deltafin",
-        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 487,
-          "forks": 51
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1783489?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-        "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 299,
-          "forks": 75
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273277104?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "PipeNetwork/kimi-k3-mlx",
         "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
         "language": {
@@ -282,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 294,
-          "forks": 32
+          "totalStars": 308,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/177175125?v=4"
@@ -293,7 +254,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "lij768423-svg/grok-register-panel",
         "description": "Grok register engine (Camoufox) + live web monitor panel",
         "language": {
@@ -302,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 270,
-          "forks": 91
+          "totalStars": 307,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265844445?v=4"
@@ -313,7 +274,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "sii-research/tau-0-vla",
         "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
         "language": {
@@ -322,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 220,
+          "totalStars": 241,
           "forks": 11
         },
         "contributors": [
@@ -333,7 +294,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "dotneet/image-to-3d",
         "description": "暂无描述",
         "language": {
@@ -342,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
-          "forks": 17
+          "totalStars": 206,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/370602?v=4"
@@ -353,7 +314,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "Audio8-AI/Audio8_TTS",
+        "description": "SOTA-Class TTS at Compact Scale",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 202,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/310437271?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "bytec-ai/book-video-factory",
         "description": "通用、可移植的多账号图书短视频生产 Skill",
         "language": {
@@ -362,11 +343,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 198,
-          "forks": 47
+          "totalStars": 201,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35858352?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "AmazingAng/old-coder",
+        "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 196,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/14728591?v=4"
         ],
         "tags": [
           "#Python"
@@ -382,7 +383,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 171,
           "forks": 8
         },
         "contributors": [
@@ -394,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "AmazingAng/old-coder",
-        "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+        "name": "H-EmbodVis/TurboVLA",
+        "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
-          "forks": 9
+          "totalStars": 170,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14728591?v=4"
+          "https://avatars.githubusercontent.com/u/217294675?v=4"
         ],
         "tags": [
           "#Python"
@@ -416,26 +417,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "mshumer/Claude-of-Duty",
-        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2413,
-          "forks": 357
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41550495?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "xikhar/persona",
         "description": "Bringing real-time voice to life.",
         "language": {
@@ -444,11 +425,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 678,
-          "forks": 56
+          "totalStars": 716,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "QwenAudio/qwen-audio-agent",
+        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 617,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167062371?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -464,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 564,
-          "forks": 126
+          "totalStars": 570,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -476,46 +477,6 @@
       },
       {
         "rank": 4,
-        "name": "QwenAudio/qwen-audio-agent",
-        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 448,
-          "forks": 35
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167062371?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "achimala/TheLongSilence",
-        "description": "A space exploration game built by Claude Opus 5",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 359,
-          "forks": 48
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1448366?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Noniv/snowflow_demo",
         "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
         "language": {
@@ -524,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 346,
-          "forks": 94
+          "totalStars": 413,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80125277?v=4"
@@ -535,7 +496,67 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "0xwilliamortiz/ratchet",
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 379,
+          "forks": 39
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/155918204?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "achimala/TheLongSilence",
+        "description": "A space exploration game built by Claude Opus 5",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 373,
+          "forks": 51
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1448366?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "Kenton-GMI/sakura-crossing",
+        "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 230,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/310775475?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "twalichiewicz/HNewhere",
         "description": "A lightweight userscript that adds Hacker News discussions to any previously submitted article.",
         "language": {
@@ -544,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 197,
+          "totalStars": 203,
           "forks": 7
         },
         "contributors": [
@@ -555,40 +576,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "dunefalcon1qrj/Telegram-Bot",
-        "description": "Polymarket whale trades in real time",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 156,
-          "forks": 59
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308148292?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "Kenton-GMI/sakura-crossing",
-        "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+        "name": "ZihangDong/toolknit-desktop",
+        "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
-          "forks": 29
+          "totalStars": 151,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/310775475?v=4"
+          "https://avatars.githubusercontent.com/u/274734333?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -596,7 +597,7 @@
       },
       {
         "rank": 10,
-        "name": "mufengyuan666/Hearth",
+        "name": "lixooo00-lab/mingruis-miya",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -604,11 +605,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 3
+          "totalStars": 115,
+          "forks": 357
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298775986?v=4"
+          "https://avatars.githubusercontent.com/u/273941196?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -618,19 +619,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "karola3vax/CS2AC",
-        "description": "Server-side anti-cheat for Counter-Strike 2 community servers, built for Metamod:Source.",
+        "name": "Adel-Ayoub/rabbet",
+        "description": "A from scratch C++ game engine ",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
-          "forks": 23
+          "totalStars": 134,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/107551249?v=4"
+          "https://avatars.githubusercontent.com/u/169463921?v=4"
         ],
         "tags": [
           "#C++"
@@ -638,6 +639,26 @@
       },
       {
         "rank": 2,
+        "name": "timj-code/bc7215_ac_matter",
+        "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 109,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25955554?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "chrisberg-code1992s6/Meccha-Auto-Painter",
         "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting.",
         "language": {
@@ -657,26 +678,6 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "timj-code/bc7215_ac_matter",
-        "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 93,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25955554?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 4,
         "name": "xec412/NocturneLdr",
         "description": "A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function table manipulation, code cave injection, and inverted function table collapse.",
@@ -686,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 84,
+          "totalStars": 85,
           "forks": 10
         },
         "contributors": [
@@ -698,26 +699,6 @@
       },
       {
         "rank": 5,
-        "name": "DR-89/fear-vr",
-        "description": "Open-source OpenXR VR mod for F.E.A.R. 1.08 - native stereo world rendering, headtracking and motion controls",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48952888?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "morishuz/delaunay32",
         "description": "Exact, parallel 2D Delaunay triangulation for int32 coordinates.",
         "language": {
@@ -726,11 +707,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 29,
-          "forks": 1
+          "totalStars": 64,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4125023?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "wubly/velocity",
+        "description": "Full source of velocity.cat, source code hvh/legit cheat",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 40,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118126157?v=4"
         ],
         "tags": [
           "#C++"
@@ -746,8 +747,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 27,
-          "forks": 6
+          "totalStars": 35,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11855157?v=4"
@@ -758,6 +759,26 @@
       },
       {
         "rank": 8,
+        "name": "margelo/face-recognition-demo",
+        "description": "A real-time face recognition app built in React Native",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 29,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/91980534?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "AnomalyNTE/Anomaly",
         "description": "NTE plugin framework and API. 异环插件框架",
         "language": {
@@ -766,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 23,
+          "totalStars": 26,
           "forks": 7
         },
         "contributors": [
@@ -777,40 +798,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Baldywaldy09/PrismTextureStreamer",
-        "description": "ETS2/ATS Plugin to stream a windows application onto a Prism3D UI screen texture",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 23,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/110105335?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "taovietducofficial/DSA-Student",
-        "description": "Data Structures and Algorithms practice repository for students, containing implementations and exercises in C++ and Python.",
+        "name": "EthanZer0/FaceLogin",
+        "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 21,
-          "forks": 1
+          "totalStars": 24,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/95725645?v=4"
+          "https://avatars.githubusercontent.com/u/88578567?v=4"
         ],
         "tags": [
           "#C++"
