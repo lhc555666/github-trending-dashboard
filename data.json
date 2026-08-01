@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/01 02:31:14",
+  "lastUpdate": "2026/08/01 03:24:51",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7726,
+          "totalStars": 7730,
           "forks": 536
         },
         "contributors": [
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2115,
-          "forks": 195
+          "totalStars": 2271,
+          "forks": 205
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153323858?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2079,
-          "forks": 243
+          "totalStars": 2133,
+          "forks": 249
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311128416?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 716,
-          "forks": 60
+          "totalStars": 718,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 617,
+          "totalStars": 618,
           "forks": 44
         },
         "contributors": [
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 578,
-          "forks": 69
+          "totalStars": 585,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1618833?v=4"
@@ -153,6 +153,26 @@
       },
       {
         "rank": 8,
+        "name": "gavamedia/deltafin",
+        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 565,
+          "forks": 64
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1783489?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "0xwilliamortiz/openclaude-improved",
         "description": "runs anywhere. uses anything",
         "language": {
@@ -172,26 +192,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "gavamedia/deltafin",
-        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 563,
-          "forks": 64
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1783489?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
         "name": "DramaticShape/DramaticShapeVoxelMod",
         "description": "暂无描述",
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
+          "totalStars": 544,
           "forks": 29
         },
         "contributors": [
@@ -223,7 +223,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 563,
+          "totalStars": 565,
           "forks": 64
         },
         "contributors": [
@@ -235,6 +235,26 @@
       },
       {
         "rank": 2,
+        "name": "lij768423-svg/grok-register-panel",
+        "description": "Grok register engine (Camoufox) + live web monitor panel",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 308,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265844445?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "PipeNetwork/kimi-k3-mlx",
         "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
         "language": {
@@ -248,26 +268,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/177175125?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "lij768423-svg/grok-register-panel",
-        "description": "Grok register engine (Camoufox) + live web monitor panel",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 307,
-          "forks": 96
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265844445?v=4"
         ],
         "tags": [
           "#Python"
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
+          "totalStars": 204,
           "forks": 21
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 196,
+          "totalStars": 197,
           "forks": 11
         },
         "contributors": [
@@ -375,6 +375,26 @@
       },
       {
         "rank": 9,
+        "name": "H-EmbodVis/TurboVLA",
+        "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 172,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/217294675?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "dboudreau00/NocTORnal",
         "description": "NocTORnal is a full-stack, Cybercrime specific investigative toolset from case to conviction. Including case-notes and communications evidence gathering, malware sample analysis and full stack RBAC for local host. Enabling law enforcement and vigilantes since 2022.",
         "language": {
@@ -392,26 +412,6 @@
         "tags": [
           "#Python"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "H-EmbodVis/TurboVLA",
-        "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 170,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/217294675?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
       }
     ],
     "JavaScript": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 716,
-          "forks": 60
+          "totalStars": 718,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 617,
+          "totalStars": 618,
           "forks": 44
         },
         "contributors": [
@@ -486,7 +486,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 413,
-          "forks": 104
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80125277?v=4"
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 379,
-          "forks": 39
+          "totalStars": 402,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 230,
+          "totalStars": 231,
           "forks": 44
         },
         "contributors": [
@@ -585,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 153,
           "forks": 18
         },
         "contributors": [
@@ -639,6 +639,26 @@
       },
       {
         "rank": 2,
+        "name": "chrisberg-code1992s6/Meccha-Auto-Painter",
+        "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 109,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/278873134?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "timj-code/bc7215_ac_matter",
         "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant.",
         "language": {
@@ -652,26 +672,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25955554?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "chrisberg-code1992s6/Meccha-Auto-Painter",
-        "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 108,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/278873134?v=4"
         ],
         "tags": [
           "#C++"
@@ -727,7 +727,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 40,
+          "totalStars": 41,
           "forks": 16
         },
         "contributors": [
@@ -759,6 +759,26 @@
       },
       {
         "rank": 8,
+        "name": "EthanZer0/FaceLogin",
+        "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 33,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/88578567?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "margelo/face-recognition-demo",
         "description": "A real-time face recognition app built in React Native",
         "language": {
@@ -778,7 +798,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "AnomalyNTE/Anomaly",
         "description": "NTE plugin framework and API. 异环插件框架",
         "language": {
@@ -792,26 +812,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/305874775?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "EthanZer0/FaceLogin",
-        "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 24,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/88578567?v=4"
         ],
         "tags": [
           "#C++"
