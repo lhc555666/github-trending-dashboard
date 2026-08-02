@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/08/01 03:24:51",
+  "lastUpdate": "2026/08/02 02:29:43",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 3,
-      "JavaScript": 3,
-      "Python": 1,
-      "Lua": 1
+      "TypeScript": 4,
+      "JavaScript": 2,
+      "C": 1,
+      "Python": 1
     },
     "starGrowth": {}
   },
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7730,
-          "forks": 536
+          "totalStars": 7829,
+          "forks": 562
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129152888?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2271,
-          "forks": 205
+          "totalStars": 5082,
+          "forks": 512
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153323858?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2133,
-          "forks": 249
+          "totalStars": 3101,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311128416?v=4"
@@ -73,26 +73,6 @@
       },
       {
         "rank": 4,
-        "name": "xikhar/persona",
-        "description": "Bringing real-time voice to life.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 718,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/215908419?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "QwenAudio/qwen-audio-agent",
         "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
         "language": {
@@ -101,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 618,
-          "forks": 44
+          "totalStars": 1326,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167062371?v=4"
@@ -112,7 +92,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
         "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
         "language": {
@@ -121,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 585,
-          "forks": 70
+          "totalStars": 1054,
+          "forks": 138
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1618833?v=4"
@@ -132,27 +112,67 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "0xwilliamortiz/ponytail-improved",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "rank": 6,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 570,
-          "forks": 127
+          "totalStars": 765,
+          "forks": 68
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/155918204?v=4"
+          "https://avatars.githubusercontent.com/u/215908419?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
+        "rank": 7,
+        "name": "trycompai/crm",
+        "description": "暂无描述",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 708,
+          "forks": 88
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/195194844?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
         "rank": 8,
+        "name": "sqliteai/waste",
+        "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 693,
+          "forks": 66
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/206516623?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "gavamedia/deltafin",
         "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
         "language": {
@@ -161,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 565,
-          "forks": 64
+          "totalStars": 595,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1783489?v=4"
@@ -172,43 +192,23 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "0xwilliamortiz/openclaude-improved",
-        "description": "runs anywhere. uses anything",
+        "rank": 10,
+        "name": "talivia-group/talivia",
+        "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 563,
-          "forks": 80
+          "totalStars": 592,
+          "forks": 46
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/155918204?v=4"
+          "https://avatars.githubusercontent.com/u/309602203?v=4"
         ],
         "tags": [
           "#TypeScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "DramaticShape/DramaticShapeVoxelMod",
-        "description": "暂无描述",
-        "language": {
-          "name": "Lua",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 544,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308877963?v=4"
-        ],
-        "tags": [
-          "#Lua"
         ]
       }
     ],
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 565,
-          "forks": 64
+          "totalStars": 595,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1783489?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 308,
-          "forks": 96
+          "totalStars": 349,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265844445?v=4"
@@ -263,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 308,
-          "forks": 33
+          "totalStars": 316,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/177175125?v=4"
@@ -275,46 +275,6 @@
       },
       {
         "rank": 4,
-        "name": "sii-research/tau-0-vla",
-        "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 241,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/214633573?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "dotneet/image-to-3d",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 206,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/370602?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Audio8-AI/Audio8_TTS",
         "description": "SOTA-Class TTS at Compact Scale",
         "language": {
@@ -323,11 +283,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
-          "forks": 21
+          "totalStars": 247,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "AmazingAng/old-coder",
+        "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 218,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/14728591?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "H-EmbodVis/TurboVLA",
+        "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 208,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/217294675?v=4"
         ],
         "tags": [
           "#Python"
@@ -343,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
-          "forks": 49
+          "totalStars": 206,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35858352?v=4"
@@ -355,19 +355,19 @@
       },
       {
         "rank": 8,
-        "name": "AmazingAng/old-coder",
-        "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+        "name": "uczltw6/trace-file-lineage",
+        "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 197,
-          "forks": 11
+          "totalStars": 170,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14728591?v=4"
+          "https://avatars.githubusercontent.com/u/62146150?v=4"
         ],
         "tags": [
           "#Python"
@@ -375,19 +375,19 @@
       },
       {
         "rank": 9,
-        "name": "H-EmbodVis/TurboVLA",
-        "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+        "name": "aigclink/geolook",
+        "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
-          "forks": 16
+          "totalStars": 168,
+          "forks": 37
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/217294675?v=4"
+          "https://avatars.githubusercontent.com/u/80378102?v=4"
         ],
         "tags": [
           "#Python"
@@ -395,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "dboudreau00/NocTORnal",
-        "description": "NocTORnal is a full-stack, Cybercrime specific investigative toolset from case to conviction. Including case-notes and communications evidence gathering, malware sample analysis and full stack RBAC for local host. Enabling law enforcement and vigilantes since 2022.",
+        "name": "0rangec3t/Black-cat",
+        "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
-          "forks": 8
+          "totalStars": 166,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3201245?v=4"
+          "https://avatars.githubusercontent.com/u/121176091?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +417,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "xikhar/persona",
-        "description": "Bringing real-time voice to life.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 718,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/215908419?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "QwenAudio/qwen-audio-agent",
         "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
         "language": {
@@ -445,11 +425,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 618,
-          "forks": 44
+          "totalStars": 1326,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167062371?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 765,
+          "forks": 68
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/215908419?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 570,
+          "totalStars": 577,
           "forks": 127
         },
         "contributors": [
@@ -485,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 413,
-          "forks": 105
+          "totalStars": 440,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80125277?v=4"
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
-          "forks": 43
+          "totalStars": 408,
+          "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -525,8 +525,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 373,
-          "forks": 51
+          "totalStars": 405,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -545,8 +545,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 231,
-          "forks": 44
+          "totalStars": 262,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310775475?v=4"
@@ -557,6 +557,26 @@
       },
       {
         "rank": 8,
+        "name": "x4gKing/3x-ui-multi",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 218,
+          "forks": 347
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/298382259?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "twalichiewicz/HNewhere",
         "description": "A lightweight userscript that adds Hacker News discussions to any previously submitted article.",
         "language": {
@@ -565,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 203,
+          "totalStars": 212,
           "forks": 7
         },
         "contributors": [
@@ -576,7 +596,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "ZihangDong/toolknit-desktop",
         "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
         "language": {
@@ -585,31 +605,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
-          "forks": 18
+          "totalStars": 175,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/274734333?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "lixooo00-lab/mingruis-miya",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 115,
-          "forks": 357
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273941196?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 134,
+          "totalStars": 135,
           "forks": 1
         },
         "contributors": [
@@ -639,135 +639,15 @@
       },
       {
         "rank": 2,
-        "name": "chrisberg-code1992s6/Meccha-Auto-Painter",
-        "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 109,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/278873134?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "timj-code/bc7215_ac_matter",
-        "description": "Matter protocol universal AC controller on an ESP32, works with all the brands, no App install, no account creating, works directly with Apple Home, Google Home, and Home Assistant.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 109,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25955554?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "xec412/NocturneLdr",
-        "description": "A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function table manipulation, code cave injection, and inverted function table collapse.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 85,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/222678731?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "morishuz/delaunay32",
-        "description": "Exact, parallel 2D Delaunay triangulation for int32 coordinates.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 64,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4125023?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "wubly/velocity",
-        "description": "Full source of velocity.cat, source code hvh/legit cheat",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 41,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/118126157?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "wangyao1052/Yi3D",
-        "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 35,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11855157?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "EthanZer0/FaceLogin",
-        "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
+        "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 33,
+          "totalStars": 62,
           "forks": 0
         },
         "contributors": [
@@ -778,7 +658,47 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 3,
+        "name": "wubly/velocity",
+        "description": "Full source of velocity.cat, source code hvh/legit cheat",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 46,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118126157?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "wangyao1052/Yi3D",
+        "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 36,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11855157?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "margelo/face-recognition-demo",
         "description": "A real-time face recognition app built in React Native",
         "language": {
@@ -787,7 +707,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 29,
+          "totalStars": 34,
           "forks": 4
         },
         "contributors": [
@@ -798,7 +718,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 6,
+        "name": "arabasso/gamedev",
+        "description": "A comprehensive collection of open source C++ samples for Direct3D 11, Direct3D 12, OpenGL 4, Vulkan 1, Metal 3 and OpenAL 1.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 32,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/10086377?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "AnomalyNTE/Anomaly",
         "description": "NTE plugin framework and API. 异环插件框架",
         "language": {
@@ -807,11 +747,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 26,
+          "totalStars": 29,
           "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/305874775?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Nafis1e18/march-to-ganabhaban",
+        "description": "A belt-scroll arcade brawler about the July 2024 uprising. C++/raylib, plays in any phone browser.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 26,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/170141302?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "d2checkpoint-com/D2SteamFix",
+        "description": "D2SteamFix is a launch wrapper for Destiny 2 intended to help alleviate frame pacing and stuttering issues for Steam users.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 23,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/116621846?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "MaxLegend/TesmioLoader",
+        "description": "Custom bootloader for W&R: Soviet Republic",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 23,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/21181318?v=4"
         ],
         "tags": [
           "#C++"
