@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/02 02:29:43",
+  "lastUpdate": "2026/08/02 03:24:35",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7829,
+          "totalStars": 7830,
           "forks": 562
         },
         "contributors": [
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5082,
-          "forks": 512
+          "totalStars": 5147,
+          "forks": 520
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153323858?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3101,
-          "forks": 365
+          "totalStars": 3115,
+          "forks": 366
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311128416?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1326,
-          "forks": 88
+          "totalStars": 1356,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167062371?v=4"
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1054,
-          "forks": 138
+          "totalStars": 1099,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1618833?v=4"
@@ -113,26 +113,6 @@
       },
       {
         "rank": 6,
-        "name": "xikhar/persona",
-        "description": "Bringing real-time voice to life.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 765,
-          "forks": 68
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/215908419?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "trycompai/crm",
         "description": "暂无描述",
         "language": {
@@ -141,14 +121,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 708,
-          "forks": 88
+          "totalStars": 770,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195194844?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 768,
+          "forks": 68
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/215908419?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 693,
+          "totalStars": 700,
           "forks": 66
         },
         "contributors": [
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 592,
-          "forks": 46
+          "totalStars": 593,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/309602203?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 349,
+          "totalStars": 352,
           "forks": 110
         },
         "contributors": [
@@ -283,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 247,
+          "totalStars": 248,
           "forks": 24
         },
         "contributors": [
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
+          "totalStars": 220,
           "forks": 14
         },
         "contributors": [
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 170,
+          "totalStars": 172,
           "forks": 3
         },
         "contributors": [
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1326,
-          "forks": 88
+          "totalStars": 1356,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167062371?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 765,
+          "totalStars": 768,
           "forks": 68
         },
         "contributors": [
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 262,
+          "totalStars": 263,
           "forks": 52
         },
         "contributors": [
@@ -565,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
-          "forks": 347
+          "totalStars": 222,
+          "forks": 351
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -605,7 +605,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
+          "totalStars": 177,
           "forks": 25
         },
         "contributors": [
@@ -708,7 +708,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 34,
-          "forks": 4
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/91980534?v=4"
