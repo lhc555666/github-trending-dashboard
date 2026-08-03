@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/08/02 03:24:35",
+  "lastUpdate": "2026/08/03 02:32:07",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 4,
-      "JavaScript": 2,
+      "TypeScript": 5,
       "C": 1,
-      "Python": 1
+      "JavaScript": 1,
+      "Shell": 1
     },
     "starGrowth": {}
   },
@@ -13,26 +13,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "MoonshotAI/Kimi-K3",
-        "description": "Open Frontier Intelligence",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 7830,
-          "forks": 562
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/129152888?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work",
         "language": {
@@ -41,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5147,
-          "forks": 520
+          "totalStars": 7410,
+          "forks": 771
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153323858?v=4"
@@ -52,7 +32,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "bashalarmistalt/decimen-optical-transfer",
         "description": "暂无描述",
         "language": {
@@ -61,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3115,
-          "forks": 366
+          "totalStars": 3718,
+          "forks": 431
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311128416?v=4"
@@ -72,57 +52,17 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "QwenAudio/qwen-audio-agent",
-        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1356,
-          "forks": 89
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167062371?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1099,
-          "forks": 144
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1618833?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 3,
         "name": "trycompai/crm",
-        "description": "暂无描述",
+        "description": "An open-source, agentic-first CRM.",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 770,
-          "forks": 97
+          "totalStars": 1872,
+          "forks": 226
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195194844?v=4"
@@ -132,27 +72,47 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "xikhar/persona",
-        "description": "Bringing real-time voice to life.",
+        "rank": 4,
+        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Unknown",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 768,
-          "forks": 68
+          "totalStars": 1614,
+          "forks": 214
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/215908419?v=4"
+          "https://avatars.githubusercontent.com/u/1618833?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Trending"
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
+        "name": "WilonityDev/WilonityLoader",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1215,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/311323366?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "sqliteai/waste",
         "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
         "language": {
@@ -161,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 700,
-          "forks": 66
+          "totalStars": 1104,
+          "forks": 93
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/206516623?v=4"
@@ -172,23 +132,63 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "gavamedia/deltafin",
-        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+        "rank": 7,
+        "name": "microsoft/skill-recorder",
+        "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 595,
-          "forks": 67
+          "totalStars": 844,
+          "forks": 93
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1783489?v=4"
+          "https://avatars.githubusercontent.com/u/6154722?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 794,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/215908419?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "DannyMac180/sol-advisor",
+        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 697,
+          "forks": 45
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/24324638?v=4"
+        ],
+        "tags": [
+          "#Shell"
         ]
       },
       {
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 593,
-          "forks": 47
+          "totalStars": 652,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/309602203?v=4"
@@ -215,26 +215,6 @@
     "Python": [
       {
         "rank": 1,
-        "name": "gavamedia/deltafin",
-        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 595,
-          "forks": 67
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1783489?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "lij768423-svg/grok-register-panel",
         "description": "Grok register engine (Camoufox) + live web monitor panel",
         "language": {
@@ -243,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 352,
-          "forks": 110
+          "totalStars": 380,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265844445?v=4"
@@ -254,27 +234,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "PipeNetwork/kimi-k3-mlx",
-        "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 316,
-          "forks": 34
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/177175125?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "Audio8-AI/Audio8_TTS",
         "description": "SOTA-Class TTS at Compact Scale",
         "language": {
@@ -283,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 248,
-          "forks": 24
+          "totalStars": 274,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -294,27 +254,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "AmazingAng/old-coder",
-        "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 220,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/14728591?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 3,
         "name": "H-EmbodVis/TurboVLA",
         "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
         "language": {
@@ -323,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
-          "forks": 17
+          "totalStars": 247,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/217294675?v=4"
@@ -334,27 +274,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "bytec-ai/book-video-factory",
-        "description": "通用、可移植的多账号图书短视频生产 Skill",
+        "rank": 4,
+        "name": "Anionex/codex-vision-proxy",
+        "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 206,
-          "forks": 50
+          "totalStars": 207,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/35858352?v=4"
+          "https://avatars.githubusercontent.com/u/123177548?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
         "name": "uczltw6/trace-file-lineage",
         "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
         "language": {
@@ -363,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 202,
           "forks": 3
         },
         "contributors": [
@@ -374,7 +314,27 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 6,
+        "name": "0rangec3t/Black-cat",
+        "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121176091?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "aigclink/geolook",
         "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
         "language": {
@@ -383,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 37
+          "totalStars": 185,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80378102?v=4"
@@ -394,20 +354,60 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "0rangec3t/Black-cat",
-        "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+        "rank": 8,
+        "name": "aws/context-ontology-accelerator",
+        "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
-          "forks": 23
+          "totalStars": 163,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121176091?v=4"
+          "https://avatars.githubusercontent.com/u/2232217?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "alexiglad/XM",
+        "description": "PyTorch Code for Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 139,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/77361055?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "yuanshuacpu/robot_futuring_rl",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 139,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/80555002?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +417,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "QwenAudio/qwen-audio-agent",
-        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1356,
-          "forks": 89
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167062371?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "xikhar/persona",
         "description": "Bringing real-time voice to life.",
         "language": {
@@ -445,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 768,
-          "forks": 68
+          "totalStars": 794,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -456,7 +436,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "0xwilliamortiz/ponytail-improved",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": {
@@ -465,8 +445,28 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 577,
-          "forks": 127
+          "totalStars": 580,
+          "forks": 129
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/155918204?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "0xwilliamortiz/humanizer-cli",
+        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 542,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -485,7 +485,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 440,
+          "totalStars": 459,
           "forks": 114
         },
         "contributors": [
@@ -505,8 +505,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 408,
-          "forks": 83
+          "totalStars": 411,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -517,19 +517,19 @@
       },
       {
         "rank": 6,
-        "name": "achimala/TheLongSilence",
-        "description": "A space exploration game built by Claude Opus 5",
+        "name": "x4gKing/3x-ui-multi",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 405,
-          "forks": 58
+          "totalStars": 407,
+          "forks": 687
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1448366?v=4"
+          "https://avatars.githubusercontent.com/u/298382259?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
+          "totalStars": 277,
           "forks": 52
         },
         "contributors": [
@@ -557,26 +557,6 @@
       },
       {
         "rank": 8,
-        "name": "x4gKing/3x-ui-multi",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 222,
-          "forks": 351
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/298382259?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "twalichiewicz/HNewhere",
         "description": "A lightweight userscript that adds Hacker News discussions to any previously submitted article.",
         "language": {
@@ -585,11 +565,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
-          "forks": 7
+          "totalStars": 215,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17400377?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "brookfacehe2421/flashloan-scalper-bot",
+        "description": "Quick profit scalper using flashloan mechanics",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 213,
+          "forks": 153
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/308380480?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -605,8 +605,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 177,
-          "forks": 25
+          "totalStars": 205,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/274734333?v=4"
@@ -619,26 +619,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "Adel-Ayoub/rabbet",
-        "description": "A from scratch C++ game engine ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 135,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/169463921?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "EthanZer0/FaceLogin",
         "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
         "language": {
@@ -647,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 62,
+          "totalStars": 74,
           "forks": 0
         },
         "contributors": [
@@ -658,7 +638,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "wubly/velocity",
         "description": "Full source of velocity.cat, source code hvh/legit cheat",
         "language": {
@@ -667,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 46,
-          "forks": 19
+          "totalStars": 50,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118126157?v=4"
@@ -678,47 +658,27 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "bootmgfw/Fortnite-External-Cheat-Base",
+        "description": "UPDATED Fortnite external cheat with undetected driver  |  Fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, valorant driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 50,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/212798839?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 4,
-        "name": "wangyao1052/Yi3D",
-        "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 36,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11855157?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "margelo/face-recognition-demo",
-        "description": "A real-time face recognition app built in React Native",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/91980534?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "arabasso/gamedev",
         "description": "A comprehensive collection of open source C++ samples for Direct3D 11, Direct3D 12, OpenGL 4, Vulkan 1, Metal 3 and OpenAL 1.",
         "language": {
@@ -727,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 32,
+          "totalStars": 38,
           "forks": 3
         },
         "contributors": [
@@ -738,7 +698,87 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "wangyao1052/Yi3D",
+        "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 37,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11855157?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "margelo/face-recognition-demo",
+        "description": "A real-time face recognition app built in React Native",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 36,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/91980534?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "TriangleSector/Simple_Checker_2026_new",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 31,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/307256453?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "fh6trainer/FH6-Trainer-AllInOne",
+        "description": "FH6 Trainer All-in-One for Forza Horizon 6 - wheelspins, all cars unlock, money and XP hacks. FH6 trainer reddit, FH6 trainer AIO, forza horizon 6 trainer nexus, forza horizon 6 trainer all cars. Ban risk: use offline only. Free download, no Wemod needed. Best FH6 trainer 2026 for Xbox Game Pass PC.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 30,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/278747704?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "AnomalyNTE/Anomaly",
         "description": "NTE plugin framework and API. 异环插件框架",
         "language": {
@@ -758,27 +798,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "Nafis1e18/march-to-ganabhaban",
-        "description": "A belt-scroll arcade brawler about the July 2024 uprising. C++/raylib, plays in any phone browser.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 26,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/170141302?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "name": "d2checkpoint-com/D2SteamFix",
         "description": "D2SteamFix is a launch wrapper for Destiny 2 intended to help alleviate frame pacing and stuttering issues for Steam users.",
         "language": {
@@ -787,31 +807,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 23,
-          "forks": 1
+          "totalStars": 27,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/116621846?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "MaxLegend/TesmioLoader",
-        "description": "Custom bootloader for W&R: Soviet Republic",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 23,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/21181318?v=4"
         ],
         "tags": [
           "#C++"
