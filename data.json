@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/04 02:11:25",
+  "lastUpdate": "2026/08/04 02:55:17",
   "charts": {
     "languageDistribution": {
       "TypeScript": 5,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9830,
-          "forks": 1035
+          "totalStars": 9914,
+          "forks": 1050
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153323858?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4265,
-          "forks": 507
+          "totalStars": 4278,
+          "forks": 509
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311128416?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3336,
-          "forks": 368
+          "totalStars": 3389,
+          "forks": 372
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195194844?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2109,
-          "forks": 269
+          "totalStars": 2137,
+          "forks": 271
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1618833?v=4"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1440,
+          "totalStars": 1458,
           "forks": 150
         },
         "contributors": [
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1270,
-          "forks": 196
+          "totalStars": 1289,
+          "forks": 202
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63067900?v=4"
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1016,
-          "forks": 73
+          "totalStars": 1033,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24324638?v=4"
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 845,
-          "forks": 102
+          "totalStars": 883,
+          "forks": 109
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14907300?v=4"
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 783,
-          "forks": 220
+          "totalStars": 797,
+          "forks": 225
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -223,7 +223,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
+          "totalStars": 398,
           "forks": 124
         },
         "contributors": [
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 311,
+          "totalStars": 312,
           "forks": 30
         },
         "contributors": [
@@ -255,26 +255,6 @@
       },
       {
         "rank": 3,
-        "name": "1mm-module/PNGAL",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 275,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/128996680?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "aigclink/geolook",
         "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
         "language": {
@@ -283,11 +263,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
-          "forks": 63
+          "totalStars": 282,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80378102?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "1mm-module/PNGAL",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 279,
+          "forks": 33
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/128996680?v=4"
         ],
         "tags": [
           "#Python"
@@ -343,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 29
+          "totalStars": 228,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121176091?v=4"
@@ -363,8 +363,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
-          "forks": 33
+          "totalStars": 207,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7570811?v=4"
@@ -375,6 +375,26 @@
       },
       {
         "rank": 9,
+        "name": "joeseesun/qiaomu-seo",
+        "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 171,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "FrontisAI/OpenRSI",
         "description": "Executable, measurable, and reproducible AI4AI toward recursive self-improvement. Home of OpenMLE and Frontis-MA1.",
         "language": {
@@ -383,31 +403,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 161,
-          "forks": 9
+          "totalStars": 165,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294522503?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "yuanshuacpu/robot_futuring_rl",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 159,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/80555002?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 558,
-          "forks": 1258
+          "totalStars": 561,
+          "forks": 1262
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 558,
+          "totalStars": 560,
           "forks": 71
         },
         "contributors": [
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
+          "totalStars": 425,
           "forks": 85
         },
         "contributors": [
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
+          "totalStars": 226,
           "forks": 34
         },
         "contributors": [
@@ -585,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
+          "totalStars": 129,
           "forks": 21
         },
         "contributors": [
@@ -647,7 +647,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 80,
+          "totalStars": 79,
           "forks": 0
         },
         "contributors": [
@@ -747,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 45,
+          "totalStars": 47,
           "forks": 6
         },
         "contributors": [
