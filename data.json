@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/08/04 02:55:17",
+  "lastUpdate": "2026/08/05 02:10:27",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 5,
+      "TypeScript": 4,
       "C": 1,
-      "Shell": 1,
-      "HTML": 1
+      "HTML": 1,
+      "Rust": 1,
+      "Shell": 1
     },
     "starGrowth": {}
   },
@@ -13,19 +14,19 @@
     "All": [
       {
         "rank": 1,
-        "name": "yc-software/qm",
-        "description": "Multiplayer agent harness for work",
+        "name": "trycompai/crm",
+        "description": "An open-source, agentic-first CRM.",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9914,
-          "forks": 1050
+          "totalStars": 4759,
+          "forks": 497
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/153323858?v=4"
+          "https://avatars.githubusercontent.com/u/195194844?v=4"
         ],
         "tags": [
           "#TypeScript"
@@ -41,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4278,
-          "forks": 509
+          "totalStars": 4555,
+          "forks": 552
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311128416?v=4"
@@ -53,26 +54,6 @@
       },
       {
         "rank": 3,
-        "name": "trycompai/crm",
-        "description": "An open-source, agentic-first CRM.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3389,
-          "forks": 372
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/195194844?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
         "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
         "language": {
@@ -81,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2137,
-          "forks": 271
+          "totalStars": 2966,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1618833?v=4"
@@ -92,27 +73,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "microsoft/skill-recorder",
-        "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1458,
-          "forks": 150
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6154722?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "name": "FareedKhan-dev/kimi-k3-in-c",
         "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
         "language": {
@@ -121,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1289,
-          "forks": 202
+          "totalStars": 2054,
+          "forks": 334
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63067900?v=4"
@@ -132,47 +93,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "DannyMac180/sol-advisor",
-        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-        "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1033,
-          "forks": 74
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/24324638?v=4"
-        ],
-        "tags": [
-          "#Shell"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "WilonityDev/WilonityLoader",
-        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 898,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/311323366?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "name": "imsai-sh/zhuzhiliao",
         "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
         "language": {
@@ -181,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 883,
-          "forks": 109
+          "totalStars": 1686,
+          "forks": 224
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14907300?v=4"
@@ -192,7 +113,67 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 6,
+        "name": "firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1634,
+          "forks": 71
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/135057108?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "genspark-ai/genoffice",
+        "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1359,
+          "forks": 208
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/242390443?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "DannyMac180/sol-advisor",
+        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1323,
+          "forks": 94
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/24324638?v=4"
+        ],
+        "tags": [
+          "#Shell"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "thebuggeddev/anatomy",
         "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
         "language": {
@@ -201,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 225
+          "totalStars": 1234,
+          "forks": 338
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -210,151 +191,31 @@
         "tags": [
           "#TypeScript"
         ]
+      },
+      {
+        "rank": 10,
+        "name": "WilonityDev/WilonityLoader",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 900,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/311323366?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "lij768423-svg/grok-register-panel",
-        "description": "Grok register engine (Camoufox) + live web monitor panel",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 398,
-          "forks": 124
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265844445?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "Audio8-AI/Audio8_TTS",
-        "description": "SOTA-Class TTS at Compact Scale",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 312,
-          "forks": 30
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/310437271?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "aigclink/geolook",
-        "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 282,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/80378102?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "1mm-module/PNGAL",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 279,
-          "forks": 33
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/128996680?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Anionex/codex-vision-proxy",
-        "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 260,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/123177548?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "uczltw6/trace-file-lineage",
-        "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 237,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/62146150?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "0rangec3t/Black-cat",
-        "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 228,
-          "forks": 30
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/121176091?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "disler/super-simple-software-factory",
         "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
         "language": {
@@ -363,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 207,
-          "forks": 34
+          "totalStars": 357,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7570811?v=4"
@@ -374,7 +235,27 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 2,
+        "name": "Anionex/codex-vision-proxy",
+        "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 274,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/123177548?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "joeseesun/qiaomu-seo",
         "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
         "language": {
@@ -383,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
-          "forks": 15
+          "totalStars": 268,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
@@ -394,7 +275,87 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 4,
+        "name": "0rangec3t/Black-cat",
+        "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 252,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121176091?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "alexan0618/zkky",
+        "description": "直卡开源",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 225,
+          "forks": 155
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/301847489?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "KKKKhazix/human-writing",
+        "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 196,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/239590580?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "AMAP-ML/LongHorizon-Harness",
+        "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 195,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/202896035?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "FrontisAI/OpenRSI",
         "description": "Executable, measurable, and reproducible AI4AI toward recursive self-improvement. Home of OpenMLE and Frontis-MA1.",
         "language": {
@@ -403,11 +364,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 165,
-          "forks": 10
+          "totalStars": 191,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294522503?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "alikon-art/DeterminFlow",
+        "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/41196703?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "FZ2000/da-cli",
+        "description": "Sync DeviantArt galleries to local folders — zero-dependency Python CLI with OAuth 2.1 PKCE, a SQLite index, and scheduled macOS syncs.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 174,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/40145076?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 561,
-          "forks": 1262
+          "totalStars": 703,
+          "forks": 1833
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -445,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 560,
-          "forks": 71
+          "totalStars": 569,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -457,6 +458,26 @@
       },
       {
         "rank": 3,
+        "name": "brookfacehe2421/flashloan-scalper-bot",
+        "description": "Quick profit scalper using flashloan mechanics",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 553,
+          "forks": 399
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/308380480?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "0xwilliamortiz/ratchet",
         "description": "Your agent reads the rules. This checks whether it followed them.",
         "language": {
@@ -465,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 425,
+          "totalStars": 430,
           "forks": 85
         },
         "contributors": [
@@ -476,40 +497,20 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "brookfacehe2421/flashloan-scalper-bot",
-        "description": "Quick profit scalper using flashloan mechanics",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 314,
-          "forks": 227
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308380480?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 5,
-        "name": "Kenton-GMI/sakura-crossing",
-        "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+        "name": "sophiamyang/finger-frame-effect-ai",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 294,
-          "forks": 55
+          "totalStars": 412,
+          "forks": 45
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/310775475?v=4"
+          "https://avatars.githubusercontent.com/u/39501859?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -517,6 +518,26 @@
       },
       {
         "rank": 6,
+        "name": "1mm-module/PNGAL",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 302,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/128996680?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "ZihangDong/toolknit-desktop",
         "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
         "language": {
@@ -525,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 226,
-          "forks": 34
+          "totalStars": 248,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/274734333?v=4"
@@ -536,7 +557,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "juxhinr/bindwidth",
         "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
         "language": {
@@ -545,31 +566,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
+          "totalStars": 142,
           "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12458649?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "lixooo00-lab/mingruis-miya",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 134,
-          "forks": 453
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273941196?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -585,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
-          "forks": 21
+          "totalStars": 138,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/92244026?v=4"
@@ -597,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "awplanets/awplanet",
-        "description": "AI 原生 3D 导演工作台与场景创作工具 / AI-native 3D direction and scene creation studio",
+        "name": "bennjordan/Wavest",
+        "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption. ",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
-          "forks": 14
+          "totalStars": 115,
+          "forks": 17
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/131151351?v=4"
+          "https://avatars.githubusercontent.com/u/32186071?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -647,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 79,
+          "totalStars": 83,
           "forks": 0
         },
         "contributors": [
@@ -659,26 +660,6 @@
       },
       {
         "rank": 3,
-        "name": "fh6trainer/FH6-Trainer-AllInOne",
-        "description": "FH6 Trainer All-in-One for Forza Horizon 6 - wheelspins, all cars unlock, money and XP hacks. FH6 trainer reddit, FH6 trainer AIO, forza horizon 6 trainer nexus, forza horizon 6 trainer all cars. Ban risk: use offline only. Free download, no Wemod needed. Best FH6 trainer 2026 for Xbox Game Pass PC.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 60,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/278747704?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "winterknife/PLATINUMPICK",
         "description": "Windows Kernel-Mode Shellcode Development Framework (WKMSDF)",
         "language": {
@@ -687,11 +668,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
+          "totalStars": 65,
           "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107318481?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Blueforcer/awtrix-ng",
+        "description": "AWTRIX NG - Next generation firmware for compatible ESP32 Matrix clocks",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 57,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/31169771?v=4"
         ],
         "tags": [
           "#C++"
@@ -719,19 +720,19 @@
       },
       {
         "rank": 6,
-        "name": "ExtremeInjector-Cpp/ExtremeInjector",
-        "description": "Extreme  DLL injector for Windows 10/11. Supports Manual Map, LoadLibrary, stealth injection with thread hijacking and PE header wiping. x86 and x64 support. The most trusted dll injector windows tool on UnknownCheats. Extreme Injector v3 download free, portable, no install required.",
+        "name": "arabasso/gamedev",
+        "description": "A comprehensive collection of open source C++ samples for Direct3D 11, Direct3D 12, OpenGL 4, Vulkan 1, Metal 3 and OpenAL 1.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 53,
-          "forks": 0
+          "totalStars": 44,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295463891?v=4"
+          "https://avatars.githubusercontent.com/u/10086377?v=4"
         ],
         "tags": [
           "#C++"
@@ -739,46 +740,6 @@
       },
       {
         "rank": 7,
-        "name": "margelo/face-recognition-demo",
-        "description": "A real-time face recognition app built in React Native",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 47,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/91980534?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "bongocatmirror/Bongo-Cat-Overlay",
-        "description": "Bongo Cat free download - desktop keyboard tracker and OBS streaming overlay for Windows, Mac and Linux. What is it? An animated cat widget that reacts to your keystrokes in real time. Popular with osu! players and Twitch streamers. Available on Steam, GitHub and as OBS plugin. Works with custom skins, takes 2 minutes to set up.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 41,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/220272069?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "wangyao1052/Yi3D",
         "description": "Official source code of Yi3D, a free and opensource multiplatform 3D modeler.",
         "language": {
@@ -787,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
+          "totalStars": 43,
           "forks": 12
         },
         "contributors": [
@@ -798,20 +759,60 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "torbrowsermirror/Tor-Browser-Releases",
-        "description": "Tor Browser free download for Windows, Linux, macOS, Android and iOS - anonymous browsing with onion routing. Tor browser download github mirror, tor browser download for windows 11 and mac. Tor browser official build with bridges support, .onion access and no-log VPN-free privacy. Download tor browser free.",
+        "rank": 8,
+        "name": "fh6trainer/FH6-Trainer-AllInOne",
+        "description": "FH6 Trainer All-in-One for Forza Horizon 6 - wheelspins, all cars unlock, money and XP hacks. FH6 trainer reddit, FH6 trainer AIO, forza horizon 6 trainer nexus, forza horizon 6 trainer all cars. Ban risk: use offline only. Free download, no Wemod needed. Best FH6 trainer 2026 for Xbox Game Pass PC.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 40,
+          "totalStars": 37,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/241486494?v=4"
+          "https://avatars.githubusercontent.com/u/278747704?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "d2checkpoint-com/D2SteamFix",
+        "description": "D2SteamFix is a launch wrapper for Destiny 2 intended to help alleviate frame pacing and stuttering issues for Steam users.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 34,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/116621846?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "wenshui330/Captex",
+        "description": "适用于Windows端剪映专业版的快捷导出工具。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 31,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/254287048?v=4"
         ],
         "tags": [
           "#C++"
