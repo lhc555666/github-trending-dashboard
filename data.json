@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/08/05 02:10:27",
+  "lastUpdate": "2026/08/05 02:51:35",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
       "C": 1,
-      "HTML": 1,
       "Rust": 1,
+      "HTML": 1,
       "Shell": 1
     },
     "starGrowth": {}
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4759,
-          "forks": 497
+          "totalStars": 4820,
+          "forks": 503
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195194844?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4555,
+          "totalStars": 4561,
           "forks": 552
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2966,
-          "forks": 365
+          "totalStars": 2990,
+          "forks": 368
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1618833?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2054,
-          "forks": 334
+          "totalStars": 2072,
+          "forks": 336
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63067900?v=4"
@@ -94,26 +94,6 @@
       },
       {
         "rank": 5,
-        "name": "imsai-sh/zhuzhiliao",
-        "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1686,
-          "forks": 224
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/14907300?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "language": {
@@ -122,14 +102,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1634,
-          "forks": 71
+          "totalStars": 1723,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135057108?v=4"
         ],
         "tags": [
           "#Rust"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "imsai-sh/zhuzhiliao",
+        "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1702,
+          "forks": 226
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/14907300?v=4"
+        ],
+        "tags": [
+          "#HTML"
         ]
       },
       {
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1359,
-          "forks": 208
+          "totalStars": 1381,
+          "forks": 210
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242390443?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1323,
+          "totalStars": 1328,
           "forks": 94
         },
         "contributors": [
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1234,
-          "forks": 338
+          "totalStars": 1243,
+          "forks": 342
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -225,7 +225,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 357,
-          "forks": 77
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7570811?v=4"
@@ -236,6 +236,26 @@
       },
       {
         "rank": 2,
+        "name": "KKKKhazix/human-writing",
+        "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 308,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/239590580?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "Anionex/codex-vision-proxy",
         "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
         "language": {
@@ -244,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
+          "totalStars": 275,
           "forks": 12
         },
         "contributors": [
@@ -255,7 +275,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "joeseesun/qiaomu-seo",
         "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
         "language": {
@@ -264,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 268,
-          "forks": 30
+          "totalStars": 272,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
@@ -275,7 +295,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "0rangec3t/Black-cat",
         "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
         "language": {
@@ -295,7 +315,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "alexan0618/zkky",
         "description": "直卡开源",
         "language": {
@@ -304,31 +324,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
-          "forks": 155
+          "totalStars": 228,
+          "forks": 157
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/301847489?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "KKKKhazix/human-writing",
-        "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 196,
-          "forks": 20
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/239590580?v=4"
         ],
         "tags": [
           "#Python"
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 195,
-          "forks": 17
+          "totalStars": 202,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/202896035?v=4"
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
+          "totalStars": 192,
           "forks": 13
         },
         "contributors": [
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 190,
           "forks": 26
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 703,
-          "forks": 1833
+          "totalStars": 706,
+          "forks": 1836
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 569,
+          "totalStars": 570,
           "forks": 72
         },
         "contributors": [
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
-          "forks": 45
+          "totalStars": 424,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39501859?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
+          "totalStars": 304,
           "forks": 38
         },
         "contributors": [
@@ -547,7 +547,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 248,
-          "forks": 37
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/274734333?v=4"
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
+          "totalStars": 139,
           "forks": 22
         },
         "contributors": [
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 43,
+          "totalStars": 44,
           "forks": 12
         },
         "contributors": [
