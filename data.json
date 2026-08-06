@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/06 02:16:09",
+  "lastUpdate": "2026/08/06 02:55:03",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6340,
-          "forks": 648
+          "totalStars": 6384,
+          "forks": 654
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195194844?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5240,
-          "forks": 225
+          "totalStars": 5323,
+          "forks": 231
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135057108?v=4"
@@ -64,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2594,
-          "forks": 430
+          "totalStars": 2601,
+          "forks": 431
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63067900?v=4"
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2052,
-          "forks": 265
+          "totalStars": 2070,
+          "forks": 267
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14907300?v=4"
@@ -104,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1793,
-          "forks": 288
+          "totalStars": 1806,
+          "forks": 290
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/242390443?v=4"
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1621,
-          "forks": 451
+          "totalStars": 1630,
+          "forks": 452
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -144,8 +144,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1476,
-          "forks": 107
+          "totalStars": 1480,
+          "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24324638?v=4"
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1129,
-          "forks": 102
+          "totalStars": 1170,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1129,
-          "forks": 102
+          "totalStars": 1170,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 692,
-          "forks": 200
+          "totalStars": 728,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 421,
+          "totalStars": 422,
           "forks": 97
         },
         "contributors": [
@@ -298,6 +298,26 @@
       },
       {
         "rank": 5,
+        "name": "SandAI-org/MAGI-2-preview",
+        "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 315,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/208222005?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "joeseesun/qiaomu-seo",
         "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
         "language": {
@@ -307,30 +327,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 312,
-          "forks": 38
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "SandAI-org/MAGI-2-preview",
-        "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 306,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/208222005?v=4"
         ],
         "tags": [
           "#Python"
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 304,
+          "totalStars": 305,
           "forks": 14
         },
         "contributors": [
@@ -366,7 +366,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 283,
+          "totalStars": 287,
           "forks": 31
         },
         "contributors": [
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
+          "totalStars": 258,
           "forks": 10
         },
         "contributors": [
@@ -468,7 +468,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 556,
+          "totalStars": 557,
           "forks": 62
         },
         "contributors": [
@@ -568,8 +568,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 140,
-          "forks": 38
+          "totalStars": 144,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39501859?v=4"
@@ -631,7 +631,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 89,
-          "forks": 1
+          "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88578567?v=4"
@@ -782,6 +782,26 @@
       },
       {
         "rank": 9,
+        "name": "Goldwaterfung/Strata-Studio",
+        "description": "Strata Studio is a collaborative human-agent Digital Audio Workstation (DAW) designed to elevate music production. It pairs creative artists with intelligent AI agents, allowing producers, sound designers, and engineers to co-create, mix, edit, and automate music through seamless human-AI partnership alongside classic DAW tools.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 34,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/107940096?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "NorthWorks-Lab/NorthWorks-Wireless-Radar",
         "description": "暂无描述",
         "language": {
@@ -795,26 +815,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7195377?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Goldwaterfung/Strata-Studio",
-        "description": "Strata Studio is a collaborative human-agent Digital Audio Workstation (DAW) designed to elevate music production. It pairs creative artists with intelligent AI agents, allowing producers, sound designers, and engineers to co-create, mix, edit, and automate music through seamless human-AI partnership alongside classic DAW tools.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 33,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/107940096?v=4"
         ],
         "tags": [
           "#C++"
