@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/07 02:30:38",
+  "lastUpdate": "2026/08/07 02:51:41",
   "charts": {
     "languageDistribution": {
       "Rust": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8641,
-          "forks": 411
+          "totalStars": 8696,
+          "forks": 413
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135057108?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2851,
-          "forks": 476
+          "totalStars": 2865,
+          "forks": 478
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63067900?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2305,
+          "totalStars": 2307,
           "forks": 292
         },
         "contributors": [
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1872,
-          "forks": 535
+          "totalStars": 1875,
+          "forks": 536
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -104,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1709,
-          "forks": 122
+          "totalStars": 1711,
+          "forks": 123
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24324638?v=4"
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1625,
-          "forks": 143
+          "totalStars": 1635,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -144,8 +144,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1407,
-          "forks": 364
+          "totalStars": 1419,
+          "forks": 367
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -156,6 +156,26 @@
       },
       {
         "rank": 8,
+        "name": "ZzzLc0405/photo-abstract-editorial",
+        "description": "暂无描述",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1045,
+          "forks": 56
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207724921?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "Accio-org/RealReplicaBench",
         "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
         "language": {
@@ -172,26 +192,6 @@
         ],
         "tags": [
           "#HTML"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "ZzzLc0405/photo-abstract-editorial",
-        "description": "暂无描述",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1032,
-          "forks": 55
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/207724921?v=4"
-        ],
-        "tags": [
-          "#Trending"
         ]
       },
       {
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1625,
-          "forks": 143
+          "totalStars": 1635,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1407,
-          "forks": 364
+          "totalStars": 1419,
+          "forks": 367
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -266,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
-          "forks": 112
+          "totalStars": 468,
+          "forks": 113
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7570811?v=4"
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 333,
+          "totalStars": 334,
           "forks": 14
         },
         "contributors": [
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
+          "totalStars": 279,
           "forks": 195
         },
         "contributors": [
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 431,
+          "totalStars": 434,
           "forks": 49
         },
         "contributors": [
@@ -568,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 196,
+          "totalStars": 199,
           "forks": 29
         },
         "contributors": [
