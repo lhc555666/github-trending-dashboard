@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026/08/06 02:55:03",
+  "lastUpdate": "2026/08/07 02:30:38",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 3,
       "Rust": 1,
       "C": 1,
       "HTML": 2,
+      "TypeScript": 1,
       "Shell": 1,
-      "Python": 1,
+      "Python": 2,
       "JavaScript": 1
     },
     "starGrowth": {}
@@ -16,26 +16,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "trycompai/crm",
-        "description": "An open-source, agentic-first CRM.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6384,
-          "forks": 654
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/195194844?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "language": {
@@ -44,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5323,
-          "forks": 231
+          "totalStars": 8641,
+          "forks": 411
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135057108?v=4"
@@ -55,7 +35,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "FareedKhan-dev/kimi-k3-in-c",
         "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
         "language": {
@@ -64,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2601,
-          "forks": 431
+          "totalStars": 2851,
+          "forks": 476
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63067900?v=4"
@@ -75,7 +55,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "imsai-sh/zhuzhiliao",
         "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
         "language": {
@@ -84,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2070,
-          "forks": 267
+          "totalStars": 2305,
+          "forks": 292
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14907300?v=4"
@@ -95,27 +75,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "genspark-ai/genoffice",
-        "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1806,
-          "forks": 290
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/242390443?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "name": "thebuggeddev/anatomy",
         "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
         "language": {
@@ -124,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1630,
-          "forks": 452
+          "totalStars": 1872,
+          "forks": 535
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -135,7 +95,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "DannyMac180/sol-advisor",
         "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
         "language": {
@@ -144,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1480,
-          "forks": 108
+          "totalStars": 1709,
+          "forks": 122
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24324638?v=4"
@@ -155,7 +115,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "name": "KKKKhazix/human-writing",
         "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
         "language": {
@@ -164,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1170,
-          "forks": 105
+          "totalStars": 1625,
+          "forks": 143
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -175,8 +135,28 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Accio-Lab/RealReplicaBench",
+        "rank": 7,
+        "name": "Binaryify/open-kimi-ppt-skill",
+        "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1407,
+          "forks": 364
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12221718?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Accio-org/RealReplicaBench",
         "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
         "language": {
           "name": "HTML",
@@ -184,14 +164,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1019,
-          "forks": 69
+          "totalStars": 1036,
+          "forks": 74
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/258773607?v=4"
+          "https://avatars.githubusercontent.com/u/308673369?v=4"
         ],
         "tags": [
           "#HTML"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "ZzzLc0405/photo-abstract-editorial",
+        "description": "暂无描述",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1032,
+          "forks": 55
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207724921?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       },
       {
@@ -204,8 +204,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 813,
-          "forks": 2174
+          "totalStars": 877,
+          "forks": 2404
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1170,
-          "forks": 105
+          "totalStars": 1625,
+          "forks": 143
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 728,
-          "forks": 209
+          "totalStars": 1407,
+          "forks": 364
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -266,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 422,
-          "forks": 97
+          "totalStars": 467,
+          "forks": 112
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7570811?v=4"
@@ -278,26 +278,6 @@
       },
       {
         "rank": 4,
-        "name": "0xwilliamortiz/claude-red",
-        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 330,
-          "forks": 32
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/155918204?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "SandAI-org/MAGI-2-preview",
         "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
         "language": {
@@ -306,8 +286,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
-          "forks": 4
+          "totalStars": 388,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208222005?v=4"
@@ -317,36 +297,36 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "joeseesun/qiaomu-seo",
-        "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+        "rank": 5,
+        "name": "AMAP-ML/LongHorizon-Harness",
+        "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
+          "totalStars": 344,
           "forks": 39
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
+          "https://avatars.githubusercontent.com/u/202896035?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Anionex/agent-vision-toolkit",
-        "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+        "description": "为纯文本模型设计的视觉工具箱和技能——多图理解、图片问答、长图识别、前端 UI 还原、GUI 自动化，并可选无缝接入 Codex、Claude Code、Pi、Oh My Pi、OpenCode ｜ A vision toolkit and skill designed for text-only models — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
+          "totalStars": 333,
           "forks": 14
         },
         "contributors": [
@@ -357,20 +337,40 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "AMAP-ML/LongHorizon-Harness",
-        "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+        "rank": 7,
+        "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+        "description": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 287,
-          "forks": 31
+          "totalStars": 321,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/202896035?v=4"
+          "https://avatars.githubusercontent.com/u/54859656?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "joeseesun/qiaomu-seo",
+        "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 316,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
         ],
         "tags": [
           "#Python"
@@ -386,8 +386,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 265,
-          "forks": 188
+          "totalStars": 278,
+          "forks": 195
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/301847489?v=4"
@@ -398,19 +398,19 @@
       },
       {
         "rank": 10,
-        "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
-        "description": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks.",
+        "name": "inspatio/querysplat",
+        "description": "repo for QuerySplat",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
-          "forks": 10
+          "totalStars": 238,
+          "forks": 20
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/54859656?v=4"
+          "https://avatars.githubusercontent.com/u/260828406?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 813,
-          "forks": 2174
+          "totalStars": 877,
+          "forks": 2404
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298382259?v=4"
@@ -440,26 +440,6 @@
       },
       {
         "rank": 2,
-        "name": "0xwilliamortiz/humanizer-cli",
-        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 578,
-          "forks": 72
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/155918204?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "sophiamyang/finger-frame-effect-ai",
         "description": "暂无描述",
         "language": {
@@ -468,11 +448,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 557,
-          "forks": 62
+          "totalStars": 590,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39501859?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "0xwilliamortiz/humanizer-cli",
+        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 582,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/155918204?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -488,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 555,
-          "forks": 400
+          "totalStars": 556,
+          "forks": 401
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308380480?v=4"
@@ -500,16 +500,16 @@
       },
       {
         "rank": 5,
-        "name": "0xwilliamortiz/ratchet",
-        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "name": "0xwilliamortiz/claude-red",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 432,
-          "forks": 85
+          "totalStars": 431,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 311,
+          "totalStars": 315,
           "forks": 40
         },
         "contributors": [
@@ -540,6 +540,46 @@
       },
       {
         "rank": 7,
+        "name": "tamesenseiangular/blooketauto-soft",
+        "description": "BEST MENU FOR BLOOKET IN 2026 | WORKING | UNDETECTED",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 220,
+          "forks": 86
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273874855?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "google-gemma/gemma-translator",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 196,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/271369873?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "StarKnightt/jungle-trail",
         "description": "A fully procedural first-person jungle in Three.js. Zero external art assets - every texture, mesh and sound generated in code.",
         "language": {
@@ -548,8 +588,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
-          "forks": 23
+          "totalStars": 188,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/92244026?v=4"
@@ -559,7 +599,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "sophiamyang/finger-frame-effect-lucy",
         "description": "暂无描述",
         "language": {
@@ -568,51 +608,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 144,
-          "forks": 40
+          "totalStars": 180,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39501859?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "juxhinr/bindwidth",
-        "description": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 128,
-          "forks": 80
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/12458649?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "bennjordan/Wavest",
-        "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption. ",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 124,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/32186071?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -622,26 +622,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "EthanZer0/FaceLogin",
-        "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 89,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/88578567?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Blueforcer/awtrix-ng",
         "description": "AWTRIX NG - Next generation firmware for compatible ESP32 Matrix clocks",
         "language": {
@@ -650,11 +630,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
+          "totalStars": 79,
           "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/31169771?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "fh6trainer/FH6-Trainer-AllInOne",
+        "description": "FH6 Trainer All-in-One for Forza Horizon 6 - wheelspins, all cars unlock, money and XP hacks. FH6 trainer reddit, FH6 trainer AIO, forza horizon 6 trainer nexus, forza horizon 6 trainer all cars. Ban risk: use offline only. Free download, no Wemod needed. Best FH6 trainer 2026 for Xbox Game Pass PC.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/278747704?v=4"
         ],
         "tags": [
           "#C++"
@@ -670,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 69,
+          "totalStars": 72,
           "forks": 12
         },
         "contributors": [
@@ -682,46 +682,6 @@
       },
       {
         "rank": 4,
-        "name": "TriangleSector/Simple_Checker_2026_new",
-        "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services. ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 63,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/307256453?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "fh6trainer/FH6-Trainer-AllInOne",
-        "description": "FH6 Trainer All-in-One for Forza Horizon 6 - wheelspins, all cars unlock, money and XP hacks. FH6 trainer reddit, FH6 trainer AIO, forza horizon 6 trainer nexus, forza horizon 6 trainer all cars. Ban risk: use offline only. Free download, no Wemod needed. Best FH6 trainer 2026 for Xbox Game Pass PC.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 59,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/278747704?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "ExtremeInjector-Cpp/ExtremeInjector",
         "description": "Extreme  DLL injector for Windows 10/11. Supports Manual Map, LoadLibrary, stealth injection with thread hijacking and PE header wiping. x86 and x64 support. The most trusted dll injector windows tool on UnknownCheats. Extreme Injector v3 download free, portable, no install required.",
         "language": {
@@ -730,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
+          "totalStars": 68,
           "forks": 0
         },
         "contributors": [
@@ -741,7 +701,107 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "TriangleSector/Simple_Checker_2026_new",
+        "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services. ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 61,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/307256453?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "torbrowsermirror/Tor-Browser-Releases",
+        "description": "Tor Browser free download for Windows, Linux, macOS, Android and iOS - anonymous browsing with onion routing. Tor browser download github mirror, tor browser download for windows 11 and mac. Tor browser official build with bridges support, .onion access and no-log VPN-free privacy. Download tor browser free.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 52,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/241486494?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "ARMSX2/ARMSX3",
+        "description": "Proof of concept port of RPCS3 for Android ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 45,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/225954912?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "NorthWorks-Lab/NorthWorks-Wireless-Radar",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 42,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7195377?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "ok5tvr/esp32-radar-adsb-weather",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 42,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/71095015?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "tony-cpp/walletgen",
         "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
         "language": {
@@ -755,66 +815,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/282381153?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "torbrowsermirror/Tor-Browser-Releases",
-        "description": "Tor Browser free download for Windows, Linux, macOS, Android and iOS - anonymous browsing with onion routing. Tor browser download github mirror, tor browser download for windows 11 and mac. Tor browser official build with bridges support, .onion access and no-log VPN-free privacy. Download tor browser free.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 38,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/241486494?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Goldwaterfung/Strata-Studio",
-        "description": "Strata Studio is a collaborative human-agent Digital Audio Workstation (DAW) designed to elevate music production. It pairs creative artists with intelligent AI agents, allowing producers, sound designers, and engineers to co-create, mix, edit, and automate music through seamless human-AI partnership alongside classic DAW tools.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/107940096?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "NorthWorks-Lab/NorthWorks-Wireless-Radar",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 33,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7195377?v=4"
         ],
         "tags": [
           "#C++"
