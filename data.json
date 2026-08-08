@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/08 01:19:09",
+  "lastUpdate": "2026/08/08 01:55:29",
   "charts": {
     "languageDistribution": {
       "Rust": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 11049,
-          "forks": 513
+          "totalStars": 11077,
+          "forks": 515
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135057108?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1984,
-          "forks": 568
+          "totalStars": 1986,
+          "forks": 569
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/228721029?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1877,
+          "totalStars": 1882,
           "forks": 165
         },
         "contributors": [
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1588,
-          "forks": 976
+          "totalStars": 1587,
+          "forks": 986
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1494,
+          "totalStars": 1496,
           "forks": 77
         },
         "contributors": [
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 611,
+          "totalStars": 629,
           "forks": 16
         },
         "contributors": [
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1877,
+          "totalStars": 1882,
           "forks": 165
         },
         "contributors": [
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 414,
+          "totalStars": 416,
           "forks": 17
         },
         "contributors": [
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
-          "forks": 40
+          "totalStars": 389,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/202896035?v=4"
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 358,
           "forks": 18
         },
         "contributors": [
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
+          "totalStars": 329,
           "forks": 13
         },
         "contributors": [
@@ -468,7 +468,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 417,
+          "totalStars": 419,
           "forks": 57
         },
         "contributors": [
@@ -488,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
-          "forks": 21
+          "totalStars": 189,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5795147?v=4"
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
+          "totalStars": 172,
           "forks": 19
         },
         "contributors": [
@@ -548,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 165,
-          "forks": 11
+          "totalStars": 166,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/149470765?v=4"
@@ -600,19 +600,19 @@
       },
       {
         "rank": 10,
-        "name": "lincwang123-bot/moonlit-stories",
-        "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
+        "name": "cloudflare/cloudflare-os-starter",
+        "description": "A guide for customizing your Cloudflare OS deployment",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
-          "forks": 26
+          "totalStars": 147,
+          "forks": 38
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/289043598?v=4"
+          "https://avatars.githubusercontent.com/u/314135?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -670,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 69,
+          "totalStars": 76,
           "forks": 0
         },
         "contributors": [
@@ -702,6 +702,26 @@
       },
       {
         "rank": 5,
+        "name": "SKLauncherMC/SKLauncher-Minecraft",
+        "description": "SkLauncher Minecraft launcher for Windows, macOS and Linux. Play Minecraft Java Edition , SkLauncher skin, SkLauncher mods, SkLauncher not opening fix, SkLauncher OptiFine support, SkLauncher vs TLauncher vs ATLauncher, SkLauncher servers. Supports Forge, Fabric and NeoForge. Download SkLauncher Minecraft 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 56,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252640456?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "0xaled/Vipere",
         "description": "BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppDomainManager hijacking, with native ETW evasion. For Cobalt Strike & Adaptix.",
         "language": {
@@ -715,26 +735,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203428592?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "SKLauncherMC/SKLauncher-Minecraft",
-        "description": "SkLauncher Minecraft launcher for Windows, macOS and Linux. Play Minecraft Java Edition , SkLauncher skin, SkLauncher mods, SkLauncher not opening fix, SkLauncher OptiFine support, SkLauncher vs TLauncher vs ATLauncher, SkLauncher servers. Supports Forge, Fabric and NeoForge. Download SkLauncher Minecraft 2026.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 49,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/252640456?v=4"
         ],
         "tags": [
           "#C++"
@@ -762,6 +762,26 @@
       },
       {
         "rank": 8,
+        "name": "bongocatoverlay/bongo-cat",
+        "description": "Bongo Cat is a free keyboard and mouse overlay app that shows a cat hitting bongos as you type. Works with OBS Studio, Streamlabs and Twitch  Youtube Tiktok streaming. Download free for PC and Mac from GitHub. Custom skins supported, no installation needed.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 47,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/226902696?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "ok5tvr/esp32-radar-adsb-weather",
         "description": "暂无描述",
         "language": {
@@ -781,26 +801,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "bongocatoverlay/bongo-cat",
-        "description": "Bongo Cat is a free keyboard and mouse overlay app that shows a cat hitting bongos as you type. Works with OBS Studio, Streamlabs and Twitch  Youtube Tiktok streaming. Download free for PC and Mac from GitHub. Custom skins supported, no installation needed.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 41,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/226902696?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 10,
         "name": "fl25freedaw/FL-25.2.5",
         "description": "FL 25.2.5 free download full DAW for Windows 10 and 11. Piano roll, Edison, Maximus, VST and VST3 support for beat making, mixing and mastering. FL 25 free all plugins edition, FL 25 vs 24, FL  themes,  fix, latest version download. Best music production software 2026. Download FL 25.2.5 setup free.",
@@ -810,7 +810,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 38,
+          "totalStars": 44,
           "forks": 0
         },
         "contributors": [
