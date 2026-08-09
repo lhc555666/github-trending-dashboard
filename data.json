@@ -1,14 +1,13 @@
 {
-  "lastUpdate": "2026/08/08 01:55:29",
+  "lastUpdate": "2026/08/09 01:24:10",
   "charts": {
     "languageDistribution": {
       "Rust": 1,
-      "TypeScript": 1,
       "Python": 1,
-      "HTML": 1,
       "Shell": 1,
-      "Go": 1,
-      "JavaScript": 2
+      "JavaScript": 2,
+      "TypeScript": 1,
+      "C": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 11077,
-          "forks": 515
+          "totalStars": 12135,
+          "forks": 581
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135057108?v=4"
@@ -36,26 +35,6 @@
       },
       {
         "rank": 2,
-        "name": "thebuggeddev/anatomy",
-        "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1986,
-          "forks": 569
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/228721029?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "KKKKhazix/human-writing",
         "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
         "language": {
@@ -64,14 +43,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1882,
-          "forks": 165
+          "totalStars": 1989,
+          "forks": 174
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "ZzzLc0405/photo-abstract-editorial",
+        "description": "暂无描述",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1728,
+          "forks": 87
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207724921?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       },
       {
@@ -84,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1587,
-          "forks": 986
+          "totalStars": 1588,
+          "forks": 1114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -96,46 +95,6 @@
       },
       {
         "rank": 5,
-        "name": "ZzzLc0405/photo-abstract-editorial",
-        "description": "暂无描述",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1496,
-          "forks": 77
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/207724921?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "Accio-org/RealReplicaBench",
-        "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1040,
-          "forks": 79
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308673369?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "mikiarlo3/awesome-growth-hacking-skills",
         "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
         "language": {
@@ -144,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 726,
-          "forks": 5
+          "totalStars": 764,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1715109?v=4"
@@ -155,47 +114,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "magicrew/doc7",
-        "description": "Turn documents into AI-ready Markdown with visual understanding",
-        "language": {
-          "name": "Go",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 629,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/266043650?v=4"
-        ],
-        "tags": [
-          "#Go"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "sophiamyang/finger-frame-effect-ai",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 604,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/39501859?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 6,
         "name": "0xwilliamortiz/claude-red",
         "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
         "language": {
@@ -204,14 +123,94 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 559,
-          "forks": 69
+          "totalStars": 681,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "google-gemma/gemma-translator",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 579,
+          "forks": 77
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/271369873?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "wumingqi60/lingxi",
+        "description": "灵犀跨境-开源共建版",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 568,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63189147?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "MarcosSete/awesome-free-ai-course-notes",
+        "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 560,
+          "forks": 48
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/161395376?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "xoreaxeaxeax/asm-hall-of-shame",
+        "description": "Racing to the bottom of CPU performance",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 550,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12904366?v=4"
+        ],
+        "tags": [
+          "#C"
         ]
       }
     ],
@@ -226,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1882,
-          "forks": 165
+          "totalStars": 1989,
+          "forks": 174
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -238,46 +237,6 @@
       },
       {
         "rank": 2,
-        "name": "disler/super-simple-software-factory",
-        "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 496,
-          "forks": 120
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7570811?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "SandAI-org/MAGI-2-preview",
-        "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 418,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/208222005?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "jd-opensource/JoyAI-Video-Edit",
         "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
         "language": {
@@ -286,11 +245,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 416,
-          "forks": 17
+          "totalStars": 517,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75349771?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "T8mars/comfyui-minimax-h3-audio-T8",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 462,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96167788?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "SandAI-org/MAGI-2-preview",
+        "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 425,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/208222005?v=4"
         ],
         "tags": [
           "#Python"
@@ -306,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 389,
-          "forks": 41
+          "totalStars": 411,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/202896035?v=4"
@@ -326,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
-          "forks": 18
+          "totalStars": 387,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/54859656?v=4"
@@ -338,19 +337,19 @@
       },
       {
         "rank": 7,
-        "name": "T8mars/comfyui-minimax-h3-audio-T8",
-        "description": "暂无描述",
+        "name": "sowarma/wp2shell-PoC",
+        "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 329,
-          "forks": 13
+          "totalStars": 351,
+          "forks": 22
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/96167788?v=4"
+          "https://avatars.githubusercontent.com/u/47214744?v=4"
         ],
         "tags": [
           "#Python"
@@ -366,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 320,
+          "totalStars": 325,
           "forks": 42
         },
         "contributors": [
@@ -378,6 +377,26 @@
       },
       {
         "rank": 9,
+        "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 297,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15991834?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "alexan0618/zkky",
         "description": "直卡开源",
         "language": {
@@ -386,31 +405,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 285,
-          "forks": 196
+          "totalStars": 292,
+          "forks": 197
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/301847489?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "inspatio/querysplat",
-        "description": "repo for QuerySplat",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 262,
-          "forks": 20
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/260828406?v=4"
         ],
         "tags": [
           "#Python"
@@ -420,26 +419,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "sophiamyang/finger-frame-effect-ai",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 604,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/39501859?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "0xwilliamortiz/claude-red",
         "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
         "language": {
@@ -448,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 559,
-          "forks": 69
+          "totalStars": 681,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -459,7 +438,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "google-gemma/gemma-translator",
         "description": "暂无描述",
         "language": {
@@ -468,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 419,
-          "forks": 57
+          "totalStars": 579,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/271369873?v=4"
@@ -479,7 +458,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "eternityspring/shuohao-skills",
         "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
         "language": {
@@ -488,11 +467,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
-          "forks": 22
+          "totalStars": 284,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5795147?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+        "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/231846446?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -508,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 184,
+          "totalStars": 191,
           "forks": 49
         },
         "contributors": [
@@ -520,26 +519,6 @@
       },
       {
         "rank": 6,
-        "name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
-        "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 172,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/231846446?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "AIMixer/ComfyUI_MiniMaxH3_Director",
         "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3",
         "language": {
@@ -548,8 +527,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
-          "forks": 12
+          "totalStars": 186,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/149470765?v=4"
@@ -559,7 +538,47 @@
         ]
       },
       {
+        "rank": 7,
+        "name": "pingmike2/freebuff2api-wokers",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 171,
+          "forks": 97
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/166621491?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 8,
+        "name": "cloudflare/cloudflare-os-starter",
+        "description": "A guide for customizing your Cloudflare OS deployment",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 163,
+          "forks": 41
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/314135?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "seesee75-commits/ComfyUI-MiniMaxH3-Director",
         "description": "A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio references, joint audio, live sampling preview, retakes and shot chaining.",
         "language": {
@@ -568,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
+          "totalStars": 161,
           "forks": 16
         },
         "contributors": [
@@ -579,40 +598,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "harrietbrooke/TokenLink",
-        "description": "Intelligent Smart Contract Engine for Autonomous Transaction Management at Scale, Built on Distributed Ledger Network, Decentralized Broker",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 148,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/301762394?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "cloudflare/cloudflare-os-starter",
-        "description": "A guide for customizing your Cloudflare OS deployment",
+        "name": "aashaexo/soundshuman",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 147,
-          "forks": 38
+          "totalStars": 151,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314135?v=4"
+          "https://avatars.githubusercontent.com/u/206336059?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 123,
-          "forks": 2
+          "totalStars": 152,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/225954912?v=4"
@@ -642,6 +641,46 @@
       },
       {
         "rank": 2,
+        "name": "GOROman/vibewatch",
+        "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 105,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/159089?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "jmarshall23/Quake_4_Alpha",
+        "description": "Quake 4 alpha released for preservation purposes only. ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 94,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38022578?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "Blueforcer/awtrix-ng",
         "description": "AWTRIX NG - Next generation firmware for compatible ESP32 Matrix clocks",
         "language": {
@@ -650,51 +689,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
-          "forks": 2
+          "totalStars": 93,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/31169771?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "torbrowsermirror/Tor-Browser-Releases",
-        "description": "Tor Browser free download for Windows, Linux, macOS, Android and iOS - anonymous browsing with onion routing. Tor browser download github mirror, tor browser download for windows 11 and mac. Tor browser official build with bridges support, .onion access and no-log VPN-free privacy. Download tor browser free.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 76,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/241486494?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "TriangleSector/Simple_Checker_2026_new",
-        "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services. ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 60,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/307256453?v=4"
         ],
         "tags": [
           "#C++"
@@ -710,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 56,
+          "totalStars": 89,
           "forks": 0
         },
         "contributors": [
@@ -722,19 +721,19 @@
       },
       {
         "rank": 6,
-        "name": "0xaled/Vipere",
-        "description": "BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppDomainManager hijacking, with native ETW evasion. For Cobalt Strike & Adaptix.",
+        "name": "fl25freedaw/FL-25.2.5",
+        "description": "FL 25.2.5 free download full DAW for Windows 10 and 11. Piano roll, Edison, Maximus, VST and VST3 support for beat making, mixing and mastering. FL 25 free all plugins edition, FL 25 vs 24, FL  themes,  fix, latest version download. Best music production software 2026. Download FL 25.2.5 setup free.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 6
+          "totalStars": 75,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/203428592?v=4"
+          "https://avatars.githubusercontent.com/u/263810154?v=4"
         ],
         "tags": [
           "#C++"
@@ -750,8 +749,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 47,
-          "forks": 6
+          "totalStars": 55,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7195377?v=4"
@@ -762,19 +761,19 @@
       },
       {
         "rank": 8,
-        "name": "bongocatoverlay/bongo-cat",
-        "description": "Bongo Cat is a free keyboard and mouse overlay app that shows a cat hitting bongos as you type. Works with OBS Studio, Streamlabs and Twitch  Youtube Tiktok streaming. Download free for PC and Mac from GitHub. Custom skins supported, no installation needed.",
+        "name": "0xaled/Vipere",
+        "description": "BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppDomainManager hijacking, with native ETW evasion. For Cobalt Strike & Adaptix.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 47,
-          "forks": 0
+          "totalStars": 55,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/226902696?v=4"
+          "https://avatars.githubusercontent.com/u/203428592?v=4"
         ],
         "tags": [
           "#C++"
@@ -782,6 +781,26 @@
       },
       {
         "rank": 9,
+        "name": "jmarshall23/tech5",
+        "description": "Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 51,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38022578?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "ok5tvr/esp32-radar-adsb-weather",
         "description": "暂无描述",
         "language": {
@@ -790,31 +809,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 46,
+          "totalStars": 48,
           "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/71095015?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "fl25freedaw/FL-25.2.5",
-        "description": "FL 25.2.5 free download full DAW for Windows 10 and 11. Piano roll, Edison, Maximus, VST and VST3 support for beat making, mixing and mastering. FL 25 free all plugins edition, FL 25 vs 24, FL  themes,  fix, latest version download. Best music production software 2026. Download FL 25.2.5 setup free.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 44,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/263810154?v=4"
         ],
         "tags": [
           "#C++"
