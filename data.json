@@ -1,13 +1,12 @@
 {
-  "lastUpdate": "2026/08/09 02:02:58",
+  "lastUpdate": "2026/08/10 01:26:10",
   "charts": {
     "languageDistribution": {
-      "Rust": 1,
-      "Python": 1,
+      "Python": 4,
       "Shell": 1,
-      "JavaScript": 2,
-      "TypeScript": 1,
-      "C": 1
+      "JavaScript": 1,
+      "C": 1,
+      "HTML": 1
     },
     "starGrowth": {}
   },
@@ -15,26 +14,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "firecrawl/anydoc",
-        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 12152,
-          "forks": 581
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/135057108?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "KKKKhazix/human-writing",
         "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
         "language": {
@@ -43,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1989,
-          "forks": 174
+          "totalStars": 2101,
+          "forks": 186
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -54,7 +33,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "ZzzLc0405/photo-abstract-editorial",
         "description": "暂无描述",
         "language": {
@@ -63,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1737,
-          "forks": 87
+          "totalStars": 1961,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207724921?v=4"
@@ -74,7 +53,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Binaryify/open-kimi-ppt-skill",
         "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
         "language": {
@@ -83,14 +62,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1588,
-          "forks": 1115
+          "totalStars": 1609,
+          "forks": 1155
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "ShawnPana/phone-harness",
+        "description": "let your agent control your phone",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 867,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/129362299?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -103,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 765,
-          "forks": 11
+          "totalStars": 796,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1715109?v=4"
@@ -123,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 681,
-          "forks": 86
+          "totalStars": 706,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -135,66 +134,6 @@
       },
       {
         "rank": 7,
-        "name": "google-gemma/gemma-translator",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 583,
-          "forks": 77
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/271369873?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "wumingqi60/lingxi",
-        "description": "灵犀跨境-开源共建版",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 571,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/63189147?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "MarcosSete/awesome-free-ai-course-notes",
-        "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 560,
-          "forks": 48
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/161395376?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "xoreaxeaxeax/asm-hall-of-shame",
         "description": "Racing to the bottom of CPU performance",
         "language": {
@@ -203,14 +142,74 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 552,
-          "forks": 5
+          "totalStars": 661,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12904366?v=4"
         ],
         "tags": [
           "#C"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "jd-opensource/JoyAI-Video-Edit",
+        "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 609,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/75349771?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "MengTo/kage",
+        "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 592,
+          "forks": 104
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1065452?v=4"
+        ],
+        "tags": [
+          "#HTML"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "oil-oil/oil-motion",
+        "description": "Create smooth, responsive interactive web animations.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 590,
+          "forks": 58
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57465570?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       }
     ],
@@ -225,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1989,
-          "forks": 174
+          "totalStars": 2101,
+          "forks": 186
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -237,6 +236,26 @@
       },
       {
         "rank": 2,
+        "name": "ShawnPana/phone-harness",
+        "description": "let your agent control your phone",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 867,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/129362299?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "jd-opensource/JoyAI-Video-Edit",
         "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
         "language": {
@@ -245,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 519,
-          "forks": 22
+          "totalStars": 609,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75349771?v=4"
@@ -256,7 +275,27 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "name": "oil-oil/oil-motion",
+        "description": "Create smooth, responsive interactive web animations.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 590,
+          "forks": 58
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57465570?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "T8mars/comfyui-minimax-h3-audio-T8",
         "description": "暂无描述",
         "language": {
@@ -265,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
-          "forks": 23
+          "totalStars": 544,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96167788?v=4"
@@ -276,27 +315,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "SandAI-org/MAGI-2-preview",
-        "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 425,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/208222005?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "name": "AMAP-ML/LongHorizon-Harness",
         "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
         "language": {
@@ -305,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 411,
-          "forks": 46
+          "totalStars": 507,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/202896035?v=4"
@@ -316,27 +335,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
-        "description": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks.",
+        "rank": 7,
+        "name": "SandAI-org/MAGI-2-preview",
+        "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
-          "forks": 19
+          "totalStars": 430,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/54859656?v=4"
+          "https://avatars.githubusercontent.com/u/208222005?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "sowarma/wp2shell-PoC",
         "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
         "language": {
@@ -356,26 +375,6 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "joeseesun/qiaomu-seo",
-        "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 325,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
         "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
         "description": "暂无描述",
@@ -385,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
-          "forks": 20
+          "totalStars": 348,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15991834?v=4"
@@ -397,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "alexan0618/zkky",
-        "description": "直卡开源",
+        "name": "oil-oil/codex-deepseek-subagent",
+        "description": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 293,
-          "forks": 197
+          "totalStars": 290,
+          "forks": 19
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/301847489?v=4"
+          "https://avatars.githubusercontent.com/u/57465570?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 681,
-          "forks": 86
+          "totalStars": 706,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155918204?v=4"
@@ -439,26 +438,6 @@
       },
       {
         "rank": 2,
-        "name": "google-gemma/gemma-translator",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 583,
-          "forks": 77
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/271369873?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "eternityspring/shuohao-skills",
         "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
         "language": {
@@ -467,11 +446,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
-          "forks": 35
+          "totalStars": 507,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5795147?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "sv-number/mcp-server",
+        "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 249,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/299902966?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -487,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 208,
-          "forks": 23
+          "totalStars": 238,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/231846446?v=4"
@@ -499,7 +498,7 @@
       },
       {
         "rank": 5,
-        "name": "sophiamyang/finger-frame-effect-lucy",
+        "name": "ruudkoeyvoets/polymarket-trading-bot-twap",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -507,11 +506,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
-          "forks": 49
+          "totalStars": 224,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/39501859?v=4"
+          "https://avatars.githubusercontent.com/u/8394672?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -519,6 +518,26 @@
       },
       {
         "rank": 6,
+        "name": "pingmike2/freebuff2api-wokers",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 210,
+          "forks": 124
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/166621491?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "AIMixer/ComfyUI_MiniMaxH3_Director",
         "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3",
         "language": {
@@ -527,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
+          "totalStars": 208,
           "forks": 13
         },
         "contributors": [
@@ -538,8 +557,8 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "pingmike2/freebuff2api-wokers",
+        "rank": 8,
+        "name": "aashaexo/soundshuman",
         "description": "暂无描述",
         "language": {
           "name": "JavaScript",
@@ -547,31 +566,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
-          "forks": 98
+          "totalStars": 177,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/166621491?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "cloudflare/cloudflare-os-starter",
-        "description": "A guide for customizing your Cloudflare OS deployment",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 163,
-          "forks": 41
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/314135?v=4"
+          "https://avatars.githubusercontent.com/u/206336059?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -587,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 161,
-          "forks": 16
+          "totalStars": 167,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/240083343?v=4"
@@ -599,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "aashaexo/soundshuman",
-        "description": "暂无描述",
+        "name": "lincwang123-bot/moonlit-stories",
+        "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
-          "forks": 7
+          "totalStars": 153,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/206336059?v=4"
+          "https://avatars.githubusercontent.com/u/289043598?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
+          "totalStars": 177,
           "forks": 4
         },
         "contributors": [
@@ -641,26 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "GOROman/vibewatch",
-        "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 105,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/159089?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "jmarshall23/Quake_4_Alpha",
         "description": "Quake 4 alpha released for preservation purposes only. ",
         "language": {
@@ -669,8 +648,28 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
-          "forks": 17
+          "totalStars": 170,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38022578?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "jmarshall23/tech5",
+        "description": "Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 146,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38022578?v=4"
@@ -681,26 +680,6 @@
       },
       {
         "rank": 4,
-        "name": "Blueforcer/awtrix-ng",
-        "description": "AWTRIX NG - Next generation firmware for compatible ESP32 Matrix clocks",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 93,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/31169771?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "SKLauncherMC/SKLauncher-Minecraft",
         "description": "SkLauncher Minecraft launcher for Windows, macOS and Linux. Play Minecraft Java Edition , SkLauncher skin, SkLauncher mods, SkLauncher not opening fix, SkLauncher OptiFine support, SkLauncher vs TLauncher vs ATLauncher, SkLauncher servers. Supports Forge, Fabric and NeoForge. Download SkLauncher Minecraft 2026.",
         "language": {
@@ -709,11 +688,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
+          "totalStars": 128,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252640456?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "GOROman/vibewatch",
+        "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 113,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/159089?v=4"
         ],
         "tags": [
           "#C++"
@@ -729,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
+          "totalStars": 111,
           "forks": 0
         },
         "contributors": [
@@ -741,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "NorthWorks-Lab/NorthWorks-Wireless-Radar",
-        "description": "暂无描述",
+        "name": "REframeworkMirror/REframework-MH-Wilds-RE9",
+        "description": "REFramework Monster Hunter Wilds RE9 - Free RE Engine 9 modding framework for Monster Hunter Wilds and Resident Evil 9 Requiem. Lua scripting, freecam, FOV changer, debug tools, VR mode, Nexus mod support. Latest nightly v1.5.9.2 dinput8.dll. Fix MH Wilds black screen and TU4 crash. REframework mh wilds 2026. Praydog re engine mod framework.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
-          "forks": 8
+          "totalStars": 68,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/7195377?v=4"
+          "https://avatars.githubusercontent.com/u/245718653?v=4"
         ],
         "tags": [
           "#C++"
@@ -761,19 +760,19 @@
       },
       {
         "rank": 8,
-        "name": "0xaled/Vipere",
-        "description": "BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppDomainManager hijacking, with native ETW evasion. For Cobalt Strike & Adaptix.",
+        "name": "SteamWallpaperENGINE/Wallpaper-Engine-Steam",
+        "description": "Wallpaper Engine Free Download - Animated desktop wallpapers, live backgrounds, audio visualizers for Windows 10/11. Steam Workshop 2M+ wallpapers, 4K video, anime, nature. Wallpaper engine free alternative 2026, no Steam required. RGB sync Razer Chroma, Corsair iCUE, Philips Hue. Multi-monitor support. Latest v2.8.42 security update Live wallpaper",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
-          "forks": 6
+          "totalStars": 68,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/203428592?v=4"
+          "https://avatars.githubusercontent.com/u/55303308?v=4"
         ],
         "tags": [
           "#C++"
@@ -781,19 +780,19 @@
       },
       {
         "rank": 9,
-        "name": "jmarshall23/tech5",
-        "description": "Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO",
+        "name": "Ableton12LiveFree/Ableton-12-Free",
+        "description": "Ableton Live 12 free download with all instruments, Max for Live and Push 3 integration for Windows 10/11 and macOS. The industry-standard DAW for electronic music production, live performance and beat making. Build 12.4 includes new devices, workflow improvements and VST3 support, ableton live 12 free reddit download 2026",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
-          "forks": 5
+          "totalStars": 68,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/38022578?v=4"
+          "https://avatars.githubusercontent.com/u/290747912?v=4"
         ],
         "tags": [
           "#C++"
@@ -801,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "ok5tvr/esp32-radar-adsb-weather",
-        "description": "暂无描述",
+        "name": "JinShichang/MSFS-SimGPStoAndroid",
+        "description": "将微软模拟飞行的飞机位置信息实时模拟到安卓手机  Stream aircraft position data from Microsoft Flight Simulator to an Android phone in real time.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 48,
-          "forks": 10
+          "totalStars": 67,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/71095015?v=4"
+          "https://avatars.githubusercontent.com/u/11838132?v=4"
         ],
         "tags": [
           "#C++"
