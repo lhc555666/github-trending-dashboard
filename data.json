@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/08/11 01:23:57",
+  "lastUpdate": "2026/08/11 02:02:36",
   "charts": {
     "languageDistribution": {
       "Python": 4,
-      "HTML": 1,
       "TypeScript": 1,
+      "HTML": 1,
       "C": 1,
       "JavaScript": 2
     },
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2278,
+          "totalStars": 2286,
           "forks": 199
         },
         "contributors": [
@@ -43,7 +43,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 1606,
-          "forks": 1182
+          "forks": 1181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12221718?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1323,
-          "forks": 103
+          "totalStars": 1330,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129362299?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1205,
-          "forks": 102
+          "totalStars": 1212,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57465570?v=4"
@@ -94,26 +94,6 @@
       },
       {
         "rank": 5,
-        "name": "MengTo/kage",
-        "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 775,
-          "forks": 136
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1065452?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "SMNETSTUDIO/WeChat-AI",
         "description": "暂无描述",
         "language": {
@@ -122,14 +102,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 762,
-          "forks": 564
+          "totalStars": 828,
+          "forks": 608
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/162035225?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "MengTo/kage",
+        "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 776,
+          "forks": 138
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1065452?v=4"
+        ],
+        "tags": [
+          "#HTML"
         ]
       },
       {
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 648,
+          "totalStars": 649,
           "forks": 77
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 586,
+          "totalStars": 588,
           "forks": 30
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 549,
+          "totalStars": 551,
           "forks": 0
         },
         "contributors": [
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2278,
+          "totalStars": 2286,
           "forks": 199
         },
         "contributors": [
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1323,
-          "forks": 103
+          "totalStars": 1330,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129362299?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1205,
-          "forks": 102
+          "totalStars": 1212,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57465570?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 586,
+          "totalStars": 588,
           "forks": 30
         },
         "contributors": [
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 329,
-          "forks": 24
+          "totalStars": 332,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262659861?v=4"
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 207,
+          "totalStars": 208,
           "forks": 5
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
+          "totalStars": 194,
           "forks": 8
         },
         "contributors": [
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 648,
+          "totalStars": 649,
           "forks": 77
         },
         "contributors": [
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 549,
+          "totalStars": 551,
           "forks": 0
         },
         "contributors": [
@@ -458,26 +458,6 @@
       },
       {
         "rank": 3,
-        "name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
-        "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 261,
-          "forks": 30
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/231846446?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "ruudkoeyvoets/polymarket-trading-bot-twap",
         "description": "暂无描述",
         "language": {
@@ -486,11 +466,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 261,
+          "totalStars": 263,
           "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8394672?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+        "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 262,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/231846446?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -546,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
-          "forks": 22
+          "totalStars": 182,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46032561?v=4"
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
+          "totalStars": 133,
           "forks": 5
         },
         "contributors": [
@@ -606,8 +606,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
-          "forks": 82
+          "totalStars": 128,
+          "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22024444?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 329,
+          "totalStars": 332,
           "forks": 43
         },
         "contributors": [
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 168,
           "forks": 16
         },
         "contributors": [
