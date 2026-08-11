@@ -1,13 +1,823 @@
 {
-  "lastUpdate": "2026/08/10 02:07:34",
+  "lastUpdate": "2026/08/11 01:23:57",
   "charts": {
-    "languageDistribution": {},
+    "languageDistribution": {
+      "Python": 4,
+      "HTML": 1,
+      "TypeScript": 1,
+      "C": 1,
+      "JavaScript": 2
+    },
     "starGrowth": {}
   },
   "projects": {
-    "All": [],
-    "Python": [],
-    "JavaScript": [],
-    "C++": []
+    "All": [
+      {
+        "rank": 1,
+        "name": "KKKKhazix/human-writing",
+        "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2278,
+          "forks": 199
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/239590580?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Binaryify/open-kimi-ppt-skill",
+        "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1606,
+          "forks": 1182
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12221718?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "ShawnPana/phone-harness",
+        "description": "let your agent control your phone",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1323,
+          "forks": 103
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/129362299?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "oil-oil/oil-motion",
+        "description": "Create smooth, responsive interactive web animations.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1205,
+          "forks": 102
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57465570?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "MengTo/kage",
+        "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 775,
+          "forks": 136
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1065452?v=4"
+        ],
+        "tags": [
+          "#HTML"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "description": "暂无描述",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 762,
+          "forks": 564
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/162035225?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "xoreaxeaxeax/asm-hall-of-shame",
+        "description": "Racing to the bottom of CPU performance",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 730,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12904366?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "eternityspring/shuohao-skills",
+        "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 648,
+          "forks": 77
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5795147?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "T8mars/comfyui-minimax-h3-audio-T8",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 586,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96167788?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "sv-number/mcp-server",
+        "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 549,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/299902966?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "KKKKhazix/human-writing",
+        "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2278,
+          "forks": 199
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/239590580?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "ShawnPana/phone-harness",
+        "description": "let your agent control your phone",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1323,
+          "forks": 103
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/129362299?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "oil-oil/oil-motion",
+        "description": "Create smooth, responsive interactive web animations.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1205,
+          "forks": 102
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57465570?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "T8mars/comfyui-minimax-h3-audio-T8",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 586,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96167788?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 372,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15991834?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "sowarma/wp2shell-PoC",
+        "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 351,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/47214744?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+        "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 329,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/262659861?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "liujunxibaba/douyin-tiktok-story-skill-agent",
+        "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/165641187?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Samin100/codex-ios-assistant",
+        "description": "Control and inspect an iPhone from Codex through iMessage and Shortcuts",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13106423?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "JayJokerr/arknights-pixel-autofill",
+        "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 191,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/120120626?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      }
+    ],
+    "JavaScript": [
+      {
+        "rank": 1,
+        "name": "eternityspring/shuohao-skills",
+        "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 648,
+          "forks": 77
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5795147?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "sv-number/mcp-server",
+        "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 549,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/299902966?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+        "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 261,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/231846446?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "ruudkoeyvoets/polymarket-trading-bot-twap",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 261,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8394672?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "pingmike2/freebuff2api-wokers",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 226,
+          "forks": 138
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/166621491?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "aashaexo/soundshuman",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 203,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/206336059?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "achrefelouafi/LinearAbiltyCastingThreeJS",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 175,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46032561?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "BreezeSolicitorMap/NodeTopicss",
+        "description": "Nodejs boilerplate for vertical and horizontal scallability",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 136,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/270958146?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "LaoFeng-mouse/flyingmouse-format",
+        "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 129,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/273417284?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "432539/gpt",
+        "description": "GPT 账号注册机 / 管理  协议  无头 有头 多种模式 , 交流QQ群 19302577",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 127,
+          "forks": 82
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22024444?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      }
+    ],
+    "C++": [
+      {
+        "rank": 1,
+        "name": "jmarshall23/Quake_4_Alpha",
+        "description": "Quake 4 alpha released for preservation purposes only. ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 329,
+          "forks": 43
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38022578?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "ARMSX2/ARMSX3",
+        "description": "Proof of concept port of RPCS3 for Android ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 211,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/225954912?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "jmarshall23/tech5",
+        "description": "Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 167,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38022578?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "GOROman/vibewatch",
+        "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 117,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/159089?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "fl25freedaw/FL-25.2.5",
+        "description": "FL 25.2.5 free download full DAW for Windows 10 and 11. Piano roll, Edison, Maximus, VST and VST3 support for beat making, mixing and mastering. FL 25 free all plugins edition, FL 25 vs 24, FL  themes,  fix, latest version download. Best music production software 2026. Download FL 25.2.5 setup free.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 116,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/263810154?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "SteamWallpaperENGINE/Wallpaper-Engine-Steam",
+        "description": "Wallpaper Engine Free Download - Animated desktop wallpapers, live backgrounds, audio visualizers for Windows 10/11. Steam Workshop 2M+ wallpapers, 4K video, anime, nature. Wallpaper engine free alternative 2026, no Steam required. RGB sync Razer Chroma, Corsair iCUE, Philips Hue. Multi-monitor support. Latest v2.8.42 security update Live wallpaper",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/55303308?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Ableton12LiveFree/Ableton-12-Free",
+        "description": "Ableton Live 12 free download with all instruments, Max for Live and Push 3 integration for Windows 10/11 and macOS. The industry-standard DAW for electronic music production, live performance and beat making. Build 12.4 includes new devices, workflow improvements and VST3 support, ableton live 12 free reddit download 2026",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/290747912?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "JinShichang/MSFS-SimGPStoAndroid",
+        "description": "将微软模拟飞行的飞机位置信息实时模拟到安卓手机  Stream aircraft position data from Microsoft Flight Simulator to an Android phone in real time.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11838132?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "REframeworkMirror/REframework-MH-Wilds-RE9",
+        "description": "REFramework Monster Hunter Wilds RE9 - Free RE Engine 9 modding framework for Monster Hunter Wilds and Resident Evil 9 Requiem. Lua scripting, freecam, FOV changer, debug tools, VR mode, Nexus mod support. Latest nightly v1.5.9.2 dinput8.dll. Fix MH Wilds black screen and TU4 crash. REframework mh wilds 2026. Praydog re engine mod framework.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 70,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/245718653?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "0xaled/Vipere",
+        "description": "BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppDomainManager hijacking, with native ETW evasion. For Cobalt Strike & Adaptix.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 60,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/203428592?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      }
+    ]
   }
 }
