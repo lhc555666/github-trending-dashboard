@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/12 01:41:00",
+  "lastUpdate": "2026/08/12 02:19:18",
   "charts": {
     "languageDistribution": {
       "Python": 2,
@@ -23,7 +23,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1503,
+          "totalStars": 1509,
           "forks": 130
         },
         "contributors": [
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1484,
+          "totalStars": 1487,
           "forks": 117
         },
         "contributors": [
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1431,
-          "forks": 1058
+          "totalStars": 1441,
+          "forks": 1065
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/162035225?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1257,
-          "forks": 59
+          "totalStars": 1275,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 916,
+          "totalStars": 930,
           "forks": 109
         },
         "contributors": [
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 820,
-          "forks": 144
+          "totalStars": 822,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 769,
+          "totalStars": 771,
           "forks": 10
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 673,
+          "totalStars": 679,
           "forks": 52
         },
         "contributors": [
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 615,
+          "totalStars": 616,
           "forks": 0
         },
         "contributors": [
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1503,
+          "totalStars": 1509,
           "forks": 130
         },
         "contributors": [
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1484,
+          "totalStars": 1487,
           "forks": 117
         },
         "contributors": [
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 416,
+          "totalStars": 417,
           "forks": 39
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 255,
+          "totalStars": 256,
           "forks": 8
         },
         "contributors": [
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 916,
+          "totalStars": 930,
           "forks": 109
         },
         "contributors": [
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 615,
+          "totalStars": 616,
           "forks": 0
         },
         "contributors": [
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 335,
-          "forks": 60
+          "totalStars": 338,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46032561?v=4"
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "BOMWiki/partmode",
-        "description": "Local-first parametric browser CAD for people and typed agents",
+        "name": "50kg/image-to-slice",
+        "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 16
+          "totalStars": 120,
+          "forks": 24
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/299129194?v=4"
+          "https://avatars.githubusercontent.com/u/25328815?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 371,
+          "totalStars": 372,
           "forks": 47
         },
         "contributors": [
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
+          "totalStars": 236,
           "forks": 8
         },
         "contributors": [
@@ -709,8 +709,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
-          "forks": 28
+          "totalStars": 115,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 105,
+          "totalStars": 106,
           "forks": 10
         },
         "contributors": [
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 97,
+          "totalStars": 104,
           "forks": 0
         },
         "contributors": [
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
+          "totalStars": 99,
           "forks": 0
         },
         "contributors": [
