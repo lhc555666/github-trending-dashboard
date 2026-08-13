@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026/08/12 02:19:18",
+  "lastUpdate": "2026/08/13 01:43:48",
   "charts": {
     "languageDistribution": {
-      "Python": 2,
-      "TypeScript": 2,
-      "C": 2,
-      "JavaScript": 2,
+      "Python": 3,
+      "C": 1,
+      "TypeScript": 3,
+      "Rust": 1,
       "HTML": 1,
-      "Rust": 1
+      "Shell": 1
     },
     "starGrowth": {}
   },
@@ -15,6 +15,26 @@
     "All": [
       {
         "rank": 1,
+        "name": "guillaumemeyer/watermarks-remover",
+        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2457,
+          "forks": 240
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1385518?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "ShawnPana/phone-harness",
         "description": "let your agent control your phone",
         "language": {
@@ -23,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1509,
-          "forks": 130
+          "totalStars": 1642,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129362299?v=4"
@@ -34,7 +54,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "oil-oil/oil-motion",
         "description": "Create smooth, responsive interactive web animations.",
         "language": {
@@ -43,34 +63,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1487,
-          "forks": 117
+          "totalStars": 1614,
+          "forks": 126
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57465570?v=4"
         ],
         "tags": [
           "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "SMNETSTUDIO/WeChat-AI",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1441,
-          "forks": 1065
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/162035225?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
         ]
       },
       {
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1275,
-          "forks": 62
+          "totalStars": 1600,
+          "forks": 92
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -95,42 +95,42 @@
       },
       {
         "rank": 5,
-        "name": "eternityspring/shuohao-skills",
-        "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 930,
-          "forks": 109
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5795147?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "sohaibdevv/youtube-music",
-        "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "description": "暂无描述",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 835,
-          "forks": 0
+          "totalStars": 1526,
+          "forks": 1126
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/185227829?v=4"
+          "https://avatars.githubusercontent.com/u/162035225?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Flaminis/Dalaran",
+        "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 887,
+          "forks": 55
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20280711?v=4"
+        ],
+        "tags": [
+          "#Rust"
         ]
       },
       {
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 822,
-          "forks": 145
+          "totalStars": 860,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -155,68 +155,88 @@
       },
       {
         "rank": 8,
-        "name": "xoreaxeaxeax/asm-hall-of-shame",
-        "description": "Racing to the bottom of CPU performance",
+        "name": "sohaibdevv/youtube-music",
+        "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
         "language": {
-          "name": "C",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 771,
-          "forks": 10
+          "totalStars": 850,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/12904366?v=4"
+          "https://avatars.githubusercontent.com/u/185227829?v=4"
         ],
         "tags": [
-          "#C"
+          "#TypeScript"
         ]
       },
       {
         "rank": 9,
-        "name": "Flaminis/Dalaran",
-        "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+        "name": "SaladDay/pi-from-scratch",
+        "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
         "language": {
-          "name": "Rust",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 679,
-          "forks": 52
+          "totalStars": 770,
+          "forks": 50
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/20280711?v=4"
+          "https://avatars.githubusercontent.com/u/92240037?v=4"
         ],
         "tags": [
-          "#Rust"
+          "#TypeScript"
         ]
       },
       {
         "rank": 10,
-        "name": "sv-number/mcp-server",
-        "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+        "name": "gvzdv/claudish-to-english",
+        "description": "暂无描述",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Shell",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 616,
-          "forks": 0
+          "totalStars": 632,
+          "forks": 40
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/299902966?v=4"
+          "https://avatars.githubusercontent.com/u/44172510?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Shell"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
+        "name": "guillaumemeyer/watermarks-remover",
+        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2457,
+          "forks": 240
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1385518?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "ShawnPana/phone-harness",
         "description": "let your agent control your phone",
         "language": {
@@ -225,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1509,
-          "forks": 130
+          "totalStars": 1642,
+          "forks": 145
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129362299?v=4"
@@ -236,7 +256,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "oil-oil/oil-motion",
         "description": "Create smooth, responsive interactive web animations.",
         "language": {
@@ -245,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1487,
-          "forks": 117
+          "totalStars": 1614,
+          "forks": 126
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57465570?v=4"
@@ -256,7 +276,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
         "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
         "language": {
@@ -265,31 +285,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 417,
-          "forks": 39
+          "totalStars": 481,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262659861?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 392,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/15991834?v=4"
         ],
         "tags": [
           "#Python"
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
+          "totalStars": 281,
           "forks": 8
         },
         "contributors": [
@@ -325,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 215,
-          "forks": 29
+          "totalStars": 226,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13106423?v=4"
@@ -337,19 +337,19 @@
       },
       {
         "rank": 7,
-        "name": "oliverb-io1902e8/agent-skills-collection",
-        "description": "Curated collection of modular agent skills for LLM-based agents",
+        "name": "CheshireMew/VoxWeave",
+        "description": "Local-first high-quality offline RVC voice conversion workstation",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
-          "forks": 0
+          "totalStars": 192,
+          "forks": 39
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278994798?v=4"
+          "https://avatars.githubusercontent.com/u/156318350?v=4"
         ],
         "tags": [
           "#Python"
@@ -365,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
-          "forks": 3
+          "totalStars": 172,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/67167910?v=4"
@@ -377,26 +377,6 @@
       },
       {
         "rank": 9,
-        "name": "swping999/scene-card-studio",
-        "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 147,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/12689139?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "KiaBush/Persian-IPA-to-Speech-F5",
         "description": "Simple Python API for Persian IPA-to-speech with F5-TTS",
         "language": {
@@ -405,11 +385,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
+          "totalStars": 164,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/312119774?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "swping999/scene-card-studio",
+        "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 159,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12689139?v=4"
         ],
         "tags": [
           "#Python"
@@ -419,26 +419,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "eternityspring/shuohao-skills",
-        "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 930,
-          "forks": 109
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5795147?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "sv-number/mcp-server",
         "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
         "language": {
@@ -447,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 616,
-          "forks": 0
+          "totalStars": 595,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/299902966?v=4"
@@ -458,87 +438,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "achrefelouafi/LinearAbiltyCastingThreeJS",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 338,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46032561?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "ruudkoeyvoets/polymarket-trading-bot-twap",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 282,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8394672?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "pingmike2/freebuff2api-wokers",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 238,
-          "forks": 147
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/166621491?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "LaoFeng-mouse/flyingmouse-format",
-        "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 220,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273417284?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 2,
         "name": "aashaexo/soundshuman",
         "description": "暂无描述",
         "language": {
@@ -547,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
-          "forks": 10
+          "totalStars": 223,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/206336059?v=4"
@@ -558,47 +458,47 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "BreezeSolicitorMap/NodeTopicss",
-        "description": "Nodejs boilerplate for vertical and horizontal scallability",
+        "rank": 3,
+        "name": "panel-zeus/Z-E-U-S",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 0
+          "totalStars": 193,
+          "forks": 25
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/270958146?v=4"
+          "https://avatars.githubusercontent.com/u/314847891?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 9,
-        "name": "willwefind/mufy-batch-export",
-        "description": "把 mufy 的聊天记录批量导出成 Markdown + JSON 的油猴脚本",
+        "rank": 4,
+        "name": "RadishXN/run-abroad",
+        "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
-          "forks": 1
+          "totalStars": 180,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/294695778?v=4"
+          "https://avatars.githubusercontent.com/u/45912686?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 10,
+        "rank": 5,
         "name": "50kg/image-to-slice",
         "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
         "language": {
@@ -607,11 +507,111 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 24
+          "totalStars": 167,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25328815?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "lacvietanh/aki-mcp-sv",
+        "description": "Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 108,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/72616454?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Yixuan-Wu39/bandminton",
+        "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 103,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/287874934?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "kkx94/oss-init",
+        "description": "Zero-runtime-dependency CLI to scaffold, audit, and safely refresh bilingual Node.js and Python open-source repositories.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 100,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/62481407?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "iLearn-Agent/Janus",
+        "description": "Janus: Towards Evolving Agentic Laboratory",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 100,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/63047255?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "op7418/guizang-sports-skill",
+        "description": "🚴 Claude Code / Codex skill for FIT & KML sports analysis — cycling, running, hiking, sensor and grade insights, local 3D route reports, PNG & H.264 MP4 exports. 运动轨迹分析与 3D 路线故事",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 94,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13505770?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -621,19 +621,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "jmarshall23/Quake_4_Alpha",
-        "description": "Quake 4 alpha released for preservation purposes only. ",
+        "name": "MSNightmare/ShieldBreak",
+        "description": "Windows Defender 0day vulnerability",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
-          "forks": 47
+          "totalStars": 407,
+          "forks": 130
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/38022578?v=4"
+          "https://avatars.githubusercontent.com/u/291905677?v=4"
         ],
         "tags": [
           "#C++"
@@ -641,26 +641,6 @@
       },
       {
         "rank": 2,
-        "name": "ARMSX2/ARMSX3",
-        "description": "Android port of RPCS3 for ARM64 devices. From one of the founders of ARMSX2.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 236,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/225954912?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "jmarshall23/tech5",
         "description": "Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO",
         "language": {
@@ -669,11 +649,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
-          "forks": 17
+          "totalStars": 188,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38022578?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "tobi/omasnap",
+        "description": "Native Wayland screenshot and annotation editor for Omarchy and Hyprland",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 133,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/347?v=4"
         ],
         "tags": [
           "#C++"
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
+          "totalStars": 126,
           "forks": 5
         },
         "contributors": [
@@ -701,68 +701,8 @@
       },
       {
         "rank": 5,
-        "name": "MSNightmare/ShieldBreak",
-        "description": "Windows Defender 0day vulnerability",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 115,
-          "forks": 34
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/291905677?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "tobi/omasnap",
-        "description": "Native Wayland screenshot and annotation editor for Omarchy and Hyprland",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 106,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/347?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "SteamWallpaperENGINE/Wallpaper-Engine-Steam",
         "description": "Wallpaper Engine Free Download - Animated desktop wallpapers, live backgrounds, audio visualizers for Windows 10/11. Steam Workshop 2M+ wallpapers, 4K video, anime, nature. Wallpaper engine free alternative 2026, no Steam required. RGB sync Razer Chroma, Corsair iCUE, Philips Hue. Multi-monitor support. Latest v2.8.42 security update Live wallpaper",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 104,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/55303308?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "REframeworkMirror/REframework-MH-Wilds-RE9",
-        "description": "REFramework Monster Hunter Wilds RE9 - Free RE Engine 9 modding framework for Monster Hunter Wilds and Resident Evil 9 Requiem. Lua scripting, freecam, FOV changer, debug tools, VR mode, Nexus mod support. Latest nightly v1.5.9.2 dinput8.dll. Fix MH Wilds black screen and TU4 crash. REframework mh wilds 2026. Praydog re engine mod framework.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -773,6 +713,26 @@
           "forks": 0
         },
         "contributors": [
+          "https://avatars.githubusercontent.com/u/55303308?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "REframeworkMirror/REframework-MH-Wilds-RE9",
+        "description": "REFramework Monster Hunter Wilds RE9 - Free RE Engine 9 modding framework for Monster Hunter Wilds and Resident Evil 9 Requiem. Lua scripting, freecam, FOV changer, debug tools, VR mode, Nexus mod support. Latest nightly v1.5.9.2 dinput8.dll. Fix MH Wilds black screen and TU4 crash. REframework mh wilds 2026. Praydog re engine mod framework.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 90,
+          "forks": 0
+        },
+        "contributors": [
           "https://avatars.githubusercontent.com/u/245718653?v=4"
         ],
         "tags": [
@@ -780,27 +740,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "OnyxZygisk/OnyxZygisk",
-        "description": "Zygote injection via ptrace - Zygisk API for APatch/KernelSU/Magisk, with FN (Functional Node) modules and a webroot WebUI",
+        "rank": 7,
+        "name": "maaazhuang/colite",
+        "description": "Experimental C++17 structure-from-motion and multi-view stereo system with optional CUDA acceleration.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 61,
-          "forks": 2
+          "totalStars": 56,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314209492?v=4"
+          "https://avatars.githubusercontent.com/u/151714682?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "itopinion/zectrix-note4-epd-demo",
         "description": "Open-source ESP-IDF hardware and e-paper reference demo for ZECTRIX NOTE4 (ESP32-S3, 4.2-inch 400x300 EPD).",
         "language": {
@@ -809,11 +769,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
-          "forks": 1
+          "totalStars": 45,
+          "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32060632?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "tony-wgn/walletgen",
+        "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 42,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/282432481?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "QYCottage/BedrockTools",
+        "description": "open-source native mod for Minecraft Bedrock on Android",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 33,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/209315330?v=4"
         ],
         "tags": [
           "#C++"
