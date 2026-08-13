@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/13 01:43:48",
+  "lastUpdate": "2026/08/13 02:21:37",
   "charts": {
     "languageDistribution": {
       "Python": 3,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2457,
-          "forks": 240
+          "totalStars": 2539,
+          "forks": 247
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1642,
+          "totalStars": 1645,
           "forks": 145
         },
         "contributors": [
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1614,
+          "totalStars": 1618,
           "forks": 126
         },
         "contributors": [
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1600,
-          "forks": 92
+          "totalStars": 1609,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65632?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1526,
-          "forks": 1126
+          "totalStars": 1534,
+          "forks": 1130
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/162035225?v=4"
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 887,
+          "totalStars": 888,
           "forks": 55
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 770,
+          "totalStars": 780,
           "forks": 50
         },
         "contributors": [
@@ -203,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 632,
-          "forks": 40
+          "totalStars": 636,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44172510?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2457,
-          "forks": 240
+          "totalStars": 2539,
+          "forks": 247
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1642,
+          "totalStars": 1645,
           "forks": 145
         },
         "contributors": [
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1614,
+          "totalStars": 1618,
           "forks": 126
         },
         "contributors": [
@@ -285,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 481,
+          "totalStars": 482,
           "forks": 48
         },
         "contributors": [
@@ -345,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 192,
+          "totalStars": 193,
           "forks": 39
         },
         "contributors": [
@@ -406,7 +406,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 159,
-          "forks": 7
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12689139?v=4"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
+          "totalStars": 224,
           "forks": 12
         },
         "contributors": [
@@ -459,26 +459,6 @@
       },
       {
         "rank": 3,
-        "name": "panel-zeus/Z-E-U-S",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 193,
-          "forks": 25
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/314847891?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "RadishXN/run-abroad",
         "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
         "language": {
@@ -487,11 +467,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 180,
+          "totalStars": 198,
           "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/45912686?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "panel-zeus/Z-E-U-S",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 194,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/314847891?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 170,
           "forks": 34
         },
         "contributors": [
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 407,
-          "forks": 130
+          "totalStars": 414,
+          "forks": 132
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133,
+          "totalStars": 134,
           "forks": 11
         },
         "contributors": [
