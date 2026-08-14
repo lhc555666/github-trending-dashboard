@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/14 01:41:48",
+  "lastUpdate": "2026/08/14 02:19:40",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51817,
-          "forks": 4173
+          "totalStars": 57054,
+          "forks": 4672
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5471,
-          "forks": 566
+          "totalStars": 5525,
+          "forks": 576
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1779,
+          "totalStars": 1783,
           "forks": 114
         },
         "contributors": [
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1684,
-          "forks": 1217
+          "totalStars": 1686,
+          "forks": 1219
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/162035225?v=4"
@@ -94,26 +94,6 @@
       },
       {
         "rank": 5,
-        "name": "Leutenegger/book-to-skill",
-        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1027,
-          "forks": 131
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265765261?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "xoreaxeaxeax/skitter-creek-bath-salts",
         "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
         "language": {
@@ -122,14 +102,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1003,
-          "forks": 100
+          "totalStars": 1043,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12904366?v=4"
         ],
         "tags": [
           "#C"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Leutenegger/book-to-skill",
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1028,
+          "forks": 131
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265765261?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 925,
-          "forks": 57
+          "totalStars": 931,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44172510?v=4"
@@ -154,6 +154,26 @@
       },
       {
         "rank": 8,
+        "name": "SaladDay/pi-from-scratch",
+        "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 894,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/92240037?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "MengTo/kage",
         "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
         "language": {
@@ -170,26 +190,6 @@
         ],
         "tags": [
           "#HTML"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "SaladDay/pi-from-scratch",
-        "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 892,
-          "forks": 60
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/92240037?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
         ]
       },
       {
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5471,
-          "forks": 566
+          "totalStars": 5525,
+          "forks": 576
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1027,
+          "totalStars": 1028,
           "forks": 131
         },
         "contributors": [
@@ -305,7 +305,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 292,
-          "forks": 32
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220020?v=4"
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
+          "totalStars": 218,
           "forks": 44
         },
         "contributors": [
@@ -376,26 +376,6 @@
       },
       {
         "rank": 9,
-        "name": "xinxinshuhao-create/grok-register",
-        "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 181,
-          "forks": 51
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/294916584?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "0xsline/awesome-deepseek-harness",
         "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
         "language": {
@@ -404,11 +384,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 28
+          "totalStars": 190,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/151105947?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "xinxinshuhao-create/grok-register",
+        "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 189,
+          "forks": 52
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/294916584?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 317,
+          "totalStars": 322,
           "forks": 20
         },
         "contributors": [
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 126,
-          "forks": 19
+          "totalStars": 134,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134168893?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 501,
+          "totalStars": 502,
           "forks": 159
         },
         "contributors": [
@@ -648,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
-          "forks": 48
+          "totalStars": 203,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77831846?v=4"
