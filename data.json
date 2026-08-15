@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/15 01:02:26",
+  "lastUpdate": "2026/08/15 01:27:24",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 95953,
-          "forks": 8904
+          "totalStars": 96341,
+          "forks": 8956
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -41,7 +41,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8194,
+          "totalStars": 8222,
           "forks": 854
         },
         "contributors": [
@@ -53,26 +53,6 @@
       },
       {
         "rank": 3,
-        "name": "zhu1090093659/dsh-web-ui",
-        "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1951,
-          "forks": 97
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46916148?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "anywhere-labs/deepseek-harness-desktop",
         "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
         "language": {
@@ -81,11 +61,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1947,
-          "forks": 103
+          "totalStars": 2009,
+          "forks": 106
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286827603?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "zhu1090093659/dsh-web-ui",
+        "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1964,
+          "forks": 98
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46916148?v=4"
         ],
         "tags": [
           "#TypeScript"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1851,
+          "totalStars": 1852,
           "forks": 122
         },
         "contributors": [
@@ -141,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1572,
+          "totalStars": 1573,
           "forks": 127
         },
         "contributors": [
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1320,
-          "forks": 46
+          "totalStars": 1323,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/152786899?v=4"
@@ -181,8 +181,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1137,
-          "forks": 247
+          "totalStars": 1163,
+          "forks": 251
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -201,7 +201,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1099,
+          "totalStars": 1101,
           "forks": 72
         },
         "contributors": [
@@ -223,7 +223,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8194,
+          "totalStars": 8222,
           "forks": 854
         },
         "contributors": [
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1137,
-          "forks": 247
+          "totalStars": 1163,
+          "forks": 251
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1072,
+          "totalStars": 1073,
           "forks": 135
         },
         "contributors": [
@@ -283,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 400,
-          "forks": 120
+          "totalStars": 401,
+          "forks": 123
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/151105947?v=4"
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
+          "totalStars": 393,
           "forks": 103
         },
         "contributors": [
@@ -395,19 +395,19 @@
       },
       {
         "rank": 10,
-        "name": "luvrix/fluxmend",
-        "description": "Streaming FSM validation + layered repair for LLM outputs with embedded structured components",
+        "name": "Electricitysheep/dsh-handbook",
+        "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
+          "totalStars": 205,
           "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/302042682?v=4"
+          "https://avatars.githubusercontent.com/u/166776913?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 408,
-          "forks": 10
+          "totalStars": 442,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/104243166?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 387,
+          "totalStars": 391,
           "forks": 53
         },
         "contributors": [
@@ -485,7 +485,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
+          "totalStars": 308,
           "forks": 37
         },
         "contributors": [
@@ -506,7 +506,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 216,
-          "forks": 41
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25328815?v=4"
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 173,
+          "totalStars": 174,
           "forks": 7
         },
         "contributors": [
@@ -565,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 6
+          "totalStars": 137,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/312905287?v=4"
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 540,
+          "totalStars": 541,
           "forks": 169
         },
         "contributors": [
@@ -647,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 335,
-          "forks": 83
+          "totalStars": 336,
+          "forks": 84
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77831846?v=4"
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
+          "totalStars": 209,
           "forks": 16
         },
         "contributors": [
@@ -779,6 +779,26 @@
       },
       {
         "rank": 9,
+        "name": "FH6-TrainerAllInOne/FH6-Trainer-AllInOne",
+        "description": "FH6 Trainer All-in-One - free Forza Horizon 6 trainer and  tool for Windows. Forza horizon 6 trainer, fh6 trainer aio, forza horizon 6  engine alternative, forza horizon 6 money , fh6 trainer wheelspins, forza horizon 6 s money. Unlimited credits, 812 cars. Free 2026.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 27,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/43269513?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "goodko/xiaozhi-ios",
         "description": "一个基于 SwiftUI 的「小智」AI 助手 iOS 客户端，集成 Live2D 虚拟形象、实时语音对话、MCP 工具调用与多模态交互（视觉、地图、小红书、抖音、本地音乐等）。",
         "language": {
@@ -792,26 +812,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/49245552?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "botsofcog/LogiWheelHost",
-        "description": "Read a Logitech Driving Force racing wheel (G29/G923/G27/G920/G25/DFGT) on an ESP32-S3 over USB host — clean normalized steering, pedals, buttons, shifter. Handles the Logitech native-mode switch. MIT.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 24,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/126983589?v=4"
         ],
         "tags": [
           "#C++"
