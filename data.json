@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/16 01:05:59",
+  "lastUpdate": "2026/08/16 01:38:57",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 115592,
-          "forks": 11280
+          "totalStars": 115955,
+          "forks": 11328
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9753,
-          "forks": 1006
+          "totalStars": 9772,
+          "forks": 1009
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5928,
-          "forks": 253
+          "totalStars": 5990,
+          "forks": 254
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286827603?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3009,
-          "forks": 606
+          "totalStars": 3033,
+          "forks": 613
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2720,
-          "forks": 152
+          "totalStars": 2740,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46916148?v=4"
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2196,
+          "totalStars": 2210,
           "forks": 69
         },
         "contributors": [
@@ -134,26 +134,6 @@
       },
       {
         "rank": 7,
-        "name": "SMNETSTUDIO/WeChat-AI",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1738,
-          "forks": 1245
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/162035225?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "yjh051108/dsh-routing-suite",
         "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
         "language": {
@@ -162,14 +142,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1726,
-          "forks": 42
+          "totalStars": 1758,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195255374?v=4"
         ],
         "tags": [
           "#PowerShell"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "description": "暂无描述",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1742,
+          "forks": 1245
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/162035225?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1675,
+          "totalStars": 1677,
           "forks": 136
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1629,
+          "totalStars": 1633,
           "forks": 62
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9753,
-          "forks": 1006
+          "totalStars": 9772,
+          "forks": 1009
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3009,
-          "forks": 606
+          "totalStars": 3033,
+          "forks": 613
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 493,
-          "forks": 179
+          "totalStars": 496,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/151105947?v=4"
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 433,
-          "forks": 109
+          "totalStars": 434,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294916584?v=4"
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 215,
+          "totalStars": 216,
           "forks": 12
         },
         "contributors": [
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2196,
+          "totalStars": 2210,
           "forks": 69
         },
         "contributors": [
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 502,
-          "forks": 71
+          "totalStars": 503,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134168893?v=4"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
+          "totalStars": 272,
           "forks": 5
         },
         "contributors": [
@@ -518,6 +518,26 @@
       },
       {
         "rank": 6,
+        "name": "zouyuxuan122/Deepseek-Harness-EAC",
+        "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 265,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/245557608?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "50kg/image-to-slice",
         "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
         "language": {
@@ -531,26 +551,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25328815?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "zouyuxuan122/Deepseek-Harness-EAC",
-        "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 259,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/245557608?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -598,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "vlln/whale-girl",
-        "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+        "name": "vibeinging/deepseek-harness-desktop-app",
+        "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
-          "forks": 8
+          "totalStars": 173,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/43031803?v=4"
+          "https://avatars.githubusercontent.com/u/8122332?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
+          "totalStars": 403,
           "forks": 108
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 97,
+          "totalStars": 98,
           "forks": 7
         },
         "contributors": [
