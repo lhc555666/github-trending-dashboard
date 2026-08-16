@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/08/15 01:27:24",
+  "lastUpdate": "2026/08/16 01:05:59",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
       "Python": 2,
-      "C": 2,
-      "Shell": 1
+      "JavaScript": 1,
+      "PowerShell": 1,
+      "C": 1
     },
     "starGrowth": {}
   },
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96341,
-          "forks": 8956
+          "totalStars": 115592,
+          "forks": 11280
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -41,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8222,
-          "forks": 854
+          "totalStars": 9753,
+          "forks": 1006
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -61,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2009,
-          "forks": 106
+          "totalStars": 5928,
+          "forks": 253
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286827603?v=4"
@@ -73,106 +74,6 @@
       },
       {
         "rank": 4,
-        "name": "zhu1090093659/dsh-web-ui",
-        "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1964,
-          "forks": 98
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46916148?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "antirez/h3.c",
-        "description": "MiniMax H3 inference engine for Mac computers",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1852,
-          "forks": 122
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65632?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "SMNETSTUDIO/WeChat-AI",
-        "description": "暂无描述",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1710,
-          "forks": 1225
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/162035225?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "xoreaxeaxeax/skitter-creek-bath-salts",
-        "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1573,
-          "forks": 127
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/12904366?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "cordiverse/paper",
-        "description": "A Programming Paradigm for Spatiotemporal Composability",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1323,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/152786899?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "language": {
@@ -181,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1163,
-          "forks": 251
+          "totalStars": 3009,
+          "forks": 606
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -192,23 +93,123 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "gvzdv/claudish-to-english",
-        "description": "暂无描述",
+        "rank": 5,
+        "name": "zhu1090093659/dsh-web-ui",
+        "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
         "language": {
-          "name": "Shell",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1101,
-          "forks": 72
+          "totalStars": 2720,
+          "forks": 152
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/44172510?v=4"
+          "https://avatars.githubusercontent.com/u/46916148?v=4"
         ],
         "tags": [
-          "#Shell"
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "xiaobright/dsh-anchored-standard",
+        "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2196,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/104243166?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "description": "暂无描述",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1738,
+          "forks": 1245
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/162035225?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "yjh051108/dsh-routing-suite",
+        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+        "language": {
+          "name": "PowerShell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1726,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/195255374?v=4"
+        ],
+        "tags": [
+          "#PowerShell"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+        "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1675,
+          "forks": 136
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12904366?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "cordiverse/paper",
+        "description": "A Programming Paradigm for Spatiotemporal Composability",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1629,
+          "forks": 62
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/152786899?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       }
     ],
@@ -223,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8222,
-          "forks": 854
+          "totalStars": 9753,
+          "forks": 1006
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1385518?v=4"
@@ -243,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1163,
-          "forks": 251
+          "totalStars": 3009,
+          "forks": 606
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -263,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1073,
-          "forks": 135
+          "totalStars": 1126,
+          "forks": 141
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265765261?v=4"
@@ -283,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 401,
-          "forks": 123
+          "totalStars": 493,
+          "forks": 179
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/151105947?v=4"
@@ -303,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
-          "forks": 103
+          "totalStars": 433,
+          "forks": 109
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294916584?v=4"
@@ -323,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
-          "forks": 38
+          "totalStars": 351,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220020?v=4"
@@ -343,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 271,
+          "totalStars": 272,
           "forks": 12
         },
         "contributors": [
@@ -355,26 +356,6 @@
       },
       {
         "rank": 8,
-        "name": "CheshireMew/VoxWeave",
-        "description": "Local-first high-quality offline RVC voice conversion workstation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 220,
-          "forks": 46
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/156318350?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "wzchav/tokentab",
         "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
         "language": {
@@ -383,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
-          "forks": 12
+          "totalStars": 216,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133630262?v=4"
@@ -394,20 +375,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "Electricitysheep/dsh-handbook",
-        "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+        "rank": 9,
+        "name": "Carasibana/ComfyUI-H3-FaceRefine",
+        "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 205,
-          "forks": 5
+          "totalStars": 215,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/166776913?v=4"
+          "https://avatars.githubusercontent.com/u/247009443?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "MddIdd/mdd-sim-gateway",
+        "description": "Self-hosted SIM/eSIM gateway for VoWiFi calling, SMS, cellular data and isolated regional egress",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 176,
+          "forks": 109
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/311662126?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
-          "forks": 11
+          "totalStars": 2196,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/104243166?v=4"
@@ -445,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 391,
-          "forks": 53
+          "totalStars": 502,
+          "forks": 71
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134168893?v=4"
@@ -465,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 352,
-          "forks": 23
+          "totalStars": 378,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/45912686?v=4"
@@ -477,19 +478,19 @@
       },
       {
         "rank": 4,
-        "name": "panel-zeus/Z-E-U-S",
-        "description": "暂无描述",
+        "name": "myYangyunfan/dsh_desktop",
+        "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 308,
-          "forks": 37
+          "totalStars": 281,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314847891?v=4"
+          "https://avatars.githubusercontent.com/u/285261534?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -497,6 +498,26 @@
       },
       {
         "rank": 5,
+        "name": "SheberDavid/v4-flash-godmode-opencode-go",
+        "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 260,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/143268274?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "50kg/image-to-slice",
         "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
         "language": {
@@ -505,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
-          "forks": 42
+          "totalStars": 259,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25328815?v=4"
@@ -516,40 +537,20 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "turtle2209/Bigfish",
-        "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
+        "rank": 7,
+        "name": "zouyuxuan122/Deepseek-Harness-EAC",
+        "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 174,
+          "totalStars": 259,
           "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/264740861?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Awaker-OTE/readingspace-mn",
-        "description": "Reading Space MN — a reading workflow plugin for MarginNote 4.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 157,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/263262888?v=4"
+          "https://avatars.githubusercontent.com/u/245557608?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -565,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
-          "forks": 7
+          "totalStars": 221,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/312905287?v=4"
@@ -577,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "vlln/whale-girl",
-        "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 repository-plugin（.dsh-plugin 格式），config.yaml 安装：github:dsh-external/whale-girl#<ref>&path:/.dsh-plugin",
+        "name": "turtle2209/Bigfish",
+        "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
-          "forks": 5
+          "totalStars": 211,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/43031803?v=4"
+          "https://avatars.githubusercontent.com/u/264740861?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -597,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "dengzi008/DramaLens",
-        "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+        "name": "vlln/whale-girl",
+        "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
-          "forks": 14
+          "totalStars": 171,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/171480915?v=4"
+          "https://avatars.githubusercontent.com/u/43031803?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 541,
-          "forks": 169
+          "totalStars": 560,
+          "forks": 172
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -647,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 336,
-          "forks": 84
+          "totalStars": 402,
+          "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77831846?v=4"
@@ -667,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 209,
-          "forks": 16
+          "totalStars": 344,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/315507424?v=4"
@@ -687,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 154,
           "forks": 12
         },
         "contributors": [
@@ -707,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
+          "totalStars": 102,
           "forks": 1
         },
         "contributors": [
@@ -727,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 86,
+          "totalStars": 97,
           "forks": 7
         },
         "contributors": [
@@ -739,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "NixaXI/AnisPaper",
-        "description": "Experimental live wallpaper engine for KDE Plasma 6 / Wayland. Runs Wallpaper Engine Scene wallpapers in an isolated renderer and streams frames to Plasma via shared memory.",
+        "name": "goodko/xiaozhi-ios",
+        "description": "一个基于 SwiftUI 的「小智」AI 助手 iOS 客户端，集成 Live2D 虚拟形象、实时语音对话、MCP 工具调用与多模态交互（视觉、地图、小红书、抖音、本地音乐等）。",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 37,
+          "totalStars": 38,
           "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/71403619?v=4"
+          "https://avatars.githubusercontent.com/u/49245552?v=4"
         ],
         "tags": [
           "#C++"
@@ -759,7 +760,7 @@
       },
       {
         "rank": 8,
-        "name": "hellfurian1228/USBIP",
+        "name": "hellfurian1228/USBIP-WindowsClient",
         "description": "暂无描述",
         "language": {
           "name": "C++",
@@ -767,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 30,
+          "totalStars": 31,
           "forks": 0
         },
         "contributors": [
@@ -779,19 +780,19 @@
       },
       {
         "rank": 9,
-        "name": "FH6-TrainerAllInOne/FH6-Trainer-AllInOne",
-        "description": "FH6 Trainer All-in-One - free Forza Horizon 6 trainer and  tool for Windows. Forza horizon 6 trainer, fh6 trainer aio, forza horizon 6  engine alternative, forza horizon 6 money , fh6 trainer wheelspins, forza horizon 6 s money. Unlimited credits, 812 cars. Free 2026.",
+        "name": "hyulin472-dotcom/yolopoint11-vins-slam",
+        "description": "YOLOPointv11 and LightGlue based stereo visual-inertial SLAM for ROS 2",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 27,
+          "totalStars": 28,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/43269513?v=4"
+          "https://avatars.githubusercontent.com/u/301330858?v=4"
         ],
         "tags": [
           "#C++"
@@ -799,8 +800,8 @@
       },
       {
         "rank": 10,
-        "name": "goodko/xiaozhi-ios",
-        "description": "一个基于 SwiftUI 的「小智」AI 助手 iOS 客户端，集成 Live2D 虚拟形象、实时语音对话、MCP 工具调用与多模态交互（视觉、地图、小红书、抖音、本地音乐等）。",
+        "name": "botsofcog/LogiWheelHost",
+        "description": "Read a Logitech Driving Force racing wheel (G29/G923/G27/G920/G25/DFGT) on an ESP32-S3 over USB host — clean normalized steering, pedals, buttons, shifter. Handles the Logitech native-mode switch. MIT.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -811,7 +812,7 @@
           "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/49245552?v=4"
+          "https://avatars.githubusercontent.com/u/126983589?v=4"
         ],
         "tags": [
           "#C++"
