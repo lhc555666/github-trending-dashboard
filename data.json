@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/08/17 01:36:52",
+  "lastUpdate": "2026/08/18 01:02:04",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 4,
-      "Python": 2,
-      "JavaScript": 1,
+      "TypeScript": 5,
+      "Python": 1,
       "PowerShell": 1,
+      "JavaScript": 1,
       "C": 1
     },
     "starGrowth": {}
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133162,
-          "forks": 13373
+          "totalStars": 150213,
+          "forks": 15408
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -34,36 +34,16 @@
       },
       {
         "rank": 2,
-        "name": "guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 11624,
-          "forks": 1230
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1385518?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "anywhere-labs/deepseek-harness-desktop",
-        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9162,
-          "forks": 385
+          "totalStars": 11704,
+          "forks": 526
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/286827603?v=4"
@@ -73,7 +53,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "language": {
@@ -82,14 +62,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5329,
-          "forks": 884
+          "totalStars": 7598,
+          "forks": 1090
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "yjh051108/dsh-routing-suite",
+        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+        "language": {
+          "name": "PowerShell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 5377,
+          "forks": 90
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/195255374?v=4"
+        ],
+        "tags": [
+          "#PowerShell"
         ]
       },
       {
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3477,
-          "forks": 204
+          "totalStars": 4110,
+          "forks": 252
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46916148?v=4"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3066,
-          "forks": 97
+          "totalStars": 3425,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/104243166?v=4"
@@ -134,22 +134,22 @@
       },
       {
         "rank": 7,
-        "name": "yjh051108/dsh-routing-suite",
-        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+        "name": "dmmulroy/anti-slop",
+        "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
         "language": {
-          "name": "PowerShell",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2878,
-          "forks": 70
+          "totalStars": 2373,
+          "forks": 40
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/195255374?v=4"
+          "https://avatars.githubusercontent.com/u/2755722?v=4"
         ],
         "tags": [
-          "#PowerShell"
+          "#TypeScript"
         ]
       },
       {
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1891,
-          "forks": 75
+          "totalStars": 2116,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/152786899?v=4"
@@ -174,6 +174,26 @@
       },
       {
         "rank": 9,
+        "name": "ccch1mneyyy/dsh-TUI",
+        "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1816,
+          "forks": 79
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/268149062?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "xoreaxeaxeax/skitter-creek-bath-salts",
         "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
         "language": {
@@ -182,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1731,
-          "forks": 138
+          "totalStars": 1778,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12904366?v=4"
@@ -191,51 +211,11 @@
         "tags": [
           "#C"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "dmmulroy/anti-slop",
-        "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1677,
-          "forks": 26
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2755722?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 11624,
-          "forks": 1230
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1385518?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "language": {
@@ -244,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5329,
-          "forks": 884
+          "totalStars": 7598,
+          "forks": 1090
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316603077?v=4"
@@ -255,7 +235,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "Leutenegger/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": {
@@ -264,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1155,
+          "totalStars": 1176,
           "forks": 142
         },
         "contributors": [
@@ -275,27 +255,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "0xsline/awesome-deepseek-harness",
-        "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 609,
-          "forks": 224
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/151105947?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "xinxinshuhao-create/grok-register",
         "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
         "language": {
@@ -304,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 443,
-          "forks": 115
+          "totalStars": 449,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/294916584?v=4"
@@ -315,7 +275,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "gfodor/legal-skills",
         "description": "Replacing lawyers with markdown files",
         "language": {
@@ -324,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 360,
-          "forks": 41
+          "totalStars": 368,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220020?v=4"
@@ -335,7 +295,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "pemarine/cve-2026-41940-PoC",
         "description": "A cPanel and WHM authentication bypassing tool",
         "language": {
@@ -344,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 276,
-          "forks": 13
+          "totalStars": 281,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/152866198?v=4"
@@ -355,7 +315,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "Nervercc/gpt_nerver",
+        "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 249,
+          "forks": 45
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/298599018?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Carasibana/ComfyUI-H3-FaceRefine",
         "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
         "language": {
@@ -364,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
+          "totalStars": 237,
           "forks": 13
         },
         "contributors": [
@@ -375,7 +355,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "wzchav/tokentab",
         "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
         "language": {
@@ -384,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
+          "totalStars": 222,
           "forks": 14
         },
         "contributors": [
@@ -395,20 +375,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "fellowgeek/mcp-memory",
-        "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+        "rank": 9,
+        "name": "Rimagination/h3lite",
+        "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
-          "forks": 11
+          "totalStars": 211,
+          "forks": 26
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3333580?v=4"
+          "https://avatars.githubusercontent.com/u/57791834?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "opaxial/CVE-2026-9830",
+        "description": "CVE-2026-9830 Proof of Concept",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 206,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/316989449?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3066,
-          "forks": 97
+          "totalStars": 3425,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/104243166?v=4"
@@ -438,26 +438,6 @@
       },
       {
         "rank": 2,
-        "name": "NousResearch/Hermes-Bot-Mode",
-        "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 588,
-          "forks": 84
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/134168893?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "zouyuxuan122/Deepseek-Harness-EAC",
         "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
         "language": {
@@ -466,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 549,
-          "forks": 15
+          "totalStars": 745,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/245557608?v=4"
@@ -477,7 +457,47 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "ysr666/dsh-vision-router",
+        "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 637,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/77105194?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 4,
+        "name": "NousResearch/Hermes-Bot-Mode",
+        "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 604,
+          "forks": 89
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/134168893?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "SheberDavid/v4-flash-godmode-opencode-go",
         "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
         "language": {
@@ -486,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 499,
+          "totalStars": 509,
           "forks": 12
         },
         "contributors": [
@@ -497,47 +517,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "ysr666/dsh-vision-router",
-        "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 446,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/77105194?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 6,
-        "name": "RadishXN/run-abroad",
-        "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 393,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/45912686?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "myYangyunfan/dsh_desktop",
         "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
         "language": {
@@ -546,11 +526,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 385,
-          "forks": 18
+          "totalStars": 440,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285261534?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "RadishXN/run-abroad",
+        "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 414,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/45912686?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 270,
+          "totalStars": 330,
           "forks": 10
         },
         "contributors": [
@@ -578,6 +578,26 @@
       },
       {
         "rank": 9,
+        "name": "vibeinging/deepseek-harness-desktop-app",
+        "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 311,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8122332?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "yjh051108/dsh-router-standard",
         "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
         "language": {
@@ -586,31 +606,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 268,
-          "forks": 23
+          "totalStars": 300,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/195255374?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "turtle2209/Bigfish",
-        "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 238,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/264740861?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,26 +620,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "MSNightmare/ShieldBreak",
-        "description": "Windows Defender 0day vulnerability",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 575,
-          "forks": 176
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/291905677?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "stanuwu/Sunrise",
         "description": "Destiny 2 Offline Exploration Mod",
         "language": {
@@ -648,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 454,
-          "forks": 122
+          "totalStars": 508,
+          "forks": 142
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77831846?v=4"
@@ -659,7 +639,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "pg83/solo",
         "description": "Portable Linux binaries, solved",
         "language": {
@@ -668,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 157,
-          "forks": 0
+          "totalStars": 183,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1481268?v=4"
@@ -679,7 +659,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "jessicanataliagta/PSPRecomp",
         "description": "A static recompilation framework for PSP software",
         "language": {
@@ -688,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 108,
-          "forks": 8
+          "totalStars": 111,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/114711189?v=4"
@@ -699,7 +679,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "sebbbi/clean_gfx",
         "description": "Clean graphics API on top of Vulkan with latest extensions. As close as possibly to my blog post and SIGGRAPH talk.",
         "language": {
@@ -708,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
+          "totalStars": 58,
           "forks": 0
         },
         "contributors": [
@@ -719,27 +699,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "komaruworld/mocktail",
-        "description": "Experimental Roblox compatibility runtime for Linux and FreeBSD",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 30,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/160752117?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 5,
         "name": "OptiJuegos/reVC-Wii",
         "description": "暂无描述",
         "language": {
@@ -748,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 30,
+          "totalStars": 36,
           "forks": 2
         },
         "contributors": [
@@ -759,7 +719,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "N0zoM1z0/th08",
+        "description": "Source reconstruction of Touhou Eiyashou (TH08) 1.00d",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 29,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/161784452?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "hyulin472-dotcom/yolopoint11-vins-slam",
         "description": "YOLOPointv11 and LightGlue based stereo visual-inertial SLAM for ROS 2",
         "language": {
@@ -779,9 +759,9 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "botsofcog/LogiWheelHost",
-        "description": "Read a Logitech Driving Force racing wheel (G29/G923/G27/G920/G25/DFGT) on an ESP32-S3 over USB host — clean normalized steering, pedals, buttons, shifter. Handles the Logitech native-mode switch. MIT.",
+        "rank": 8,
+        "name": "N0zoM1z0/th07",
+        "description": "Source reconstruction of Touhou Youyoumu (TH07) 1.00b",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -789,10 +769,30 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 28,
-          "forks": 1
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/126983589?v=4"
+          "https://avatars.githubusercontent.com/u/161784452?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "sinanata/unreal-umg-design-system",
+        "description": "A drop-in design system for Unreal Engine UMG: design tokens, themed C++ widgets, 120 vector icons, and live dark/light theming — with zero content assets required.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 20,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2798897?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "N0zoM1z0/th08",
-        "description": "Source reconstruction of Touhou Eiyashou (TH08) 1.00d",
+        "name": "chagoguila/SonicStream",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 24,
+          "totalStars": 18,
           "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/161784452?v=4"
+          "https://avatars.githubusercontent.com/u/48518057?v=4"
         ],
         "tags": [
           "#C++"
