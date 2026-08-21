@@ -1,12 +1,11 @@
 {
-  "lastUpdate": "2026/08/20 01:27:21",
+  "lastUpdate": "2026/08/21 01:05:50",
   "charts": {
     "languageDistribution": {
-      "PowerShell": 1,
-      "JavaScript": 3,
       "TypeScript": 2,
-      "HTML": 1,
-      "Java": 1
+      "JavaScript": 2,
+      "Python": 3,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -14,66 +13,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "yjh051108/dsh-routing-suite",
-        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-        "language": {
-          "name": "PowerShell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6307,
-          "forks": 113
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/195255374?v=4"
-        ],
-        "tags": [
-          "#PowerShell"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "xiaobright/dsh-anchored-standard",
-        "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3639,
-          "forks": 109
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/104243166?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "yetone/cumora",
-        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2693,
-          "forks": 308
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1206493?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "s1dashu/ip-as-logo-skill",
         "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
         "language": {
@@ -82,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2113,
-          "forks": 97
+          "totalStars": 3104,
+          "forks": 150
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129982137?v=4"
@@ -93,27 +32,47 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "dsh-market/dsh-market",
-        "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+        "rank": 2,
+        "name": "yetone/cumora",
+        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1263,
-          "forks": 77
+          "totalStars": 2775,
+          "forks": 328
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/316826596?v=4"
+          "https://avatars.githubusercontent.com/u/1206493?v=4"
         ],
         "tags": [
           "#TypeScript"
         ]
       },
       {
-        "rank": 6,
+        "rank": 3,
+        "name": "CopilotKit/OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1638,
+          "forks": 169
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/131273140?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "cinderline/northcinder",
         "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
         "language": {
@@ -122,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1193,
-          "forks": 4
+          "totalStars": 1198,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/150383880?v=4"
@@ -133,47 +92,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "alchaincyf/deepseek-harness-orange-book",
-        "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1077,
-          "forks": 96
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127714341?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "ZSvirt/zsvirt",
-        "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-        "language": {
-          "name": "Java",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1070,
-          "forks": 151
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/312406847?v=4"
-        ],
-        "tags": [
-          "#Java"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
         "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
         "language": {
@@ -182,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1019,
-          "forks": 66
+          "totalStars": 1038,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/307182956?v=4"
@@ -193,23 +112,103 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "zouyuxuan122/Deepseek-Harness-EAC",
-        "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+        "rank": 6,
+        "name": "Leutenegger/watermarks-remover",
+        "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 924,
+          "forks": 95
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265765261?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "vvxw/deploy-vercel",
+        "description": "Install Command：npm install",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 959,
-          "forks": 29
+          "totalStars": 802,
+          "forks": 165
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/245557608?v=4"
+          "https://avatars.githubusercontent.com/u/142342666?v=4"
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Leutenegger/vanity-eth",
+        "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 801,
+          "forks": 90
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265765261?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "wang2122/sprix-sage-router",
+        "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 678,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/78741078?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "DenisSergeevitch/desktop-fly",
+        "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 633,
+          "forks": 37
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2140110?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       }
     ],
@@ -224,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 912,
-          "forks": 94
+          "totalStars": 924,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265765261?v=4"
@@ -236,6 +235,26 @@
       },
       {
         "rank": 2,
+        "name": "Leutenegger/vanity-eth",
+        "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 801,
+          "forks": 90
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265765261?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "wang2122/sprix-sage-router",
         "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
         "language": {
@@ -244,8 +263,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 607,
-          "forks": 10
+          "totalStars": 678,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/78741078?v=4"
@@ -255,7 +274,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "SigmanticAI/apex-inference-chip",
         "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
         "language": {
@@ -264,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 576,
+          "totalStars": 628,
           "forks": 1
         },
         "contributors": [
@@ -275,7 +294,27 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "name": "Leutenegger/coldcard-airgap",
+        "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 607,
+          "forks": 79
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265765261?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "browser-use/macos-harness",
         "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
         "language": {
@@ -284,8 +323,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 528,
-          "forks": 37
+          "totalStars": 570,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -295,27 +334,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "Nervercc/gpt_nerver",
-        "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 433,
-          "forks": 68
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/298599018?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "name": "bawadou/ai-data-extractor",
         "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
         "language": {
@@ -324,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 379,
+          "totalStars": 528,
           "forks": 97
         },
         "contributors": [
@@ -335,7 +354,27 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "name": "Nervercc/gpt_nerver",
+        "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 515,
+          "forks": 74
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/298599018?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "flaqai/backlink_skills",
         "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
         "language": {
@@ -344,8 +383,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 290,
-          "forks": 120
+          "totalStars": 469,
+          "forks": 171
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277500851?v=4"
@@ -355,7 +394,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "opaxial/CVE-2026-9830",
         "description": "CVE-2026-9830 Proof of Concept",
         "language": {
@@ -364,51 +403,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
-          "forks": 1
+          "totalStars": 285,
+          "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316989449?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "x4gpanell/X4G",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 236,
-          "forks": 577
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/317284177?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "MirroS-Lab/HarnessEval-W",
-        "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 205,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/314831110?v=4"
         ],
         "tags": [
           "#Python"
@@ -418,26 +417,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "xiaobright/dsh-anchored-standard",
-        "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3639,
-          "forks": 109
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/104243166?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "cinderline/northcinder",
         "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
         "language": {
@@ -446,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1193,
-          "forks": 4
+          "totalStars": 1198,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/150383880?v=4"
@@ -457,47 +436,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "zouyuxuan122/Deepseek-Harness-EAC",
-        "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 959,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/245557608?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "SheberDavid/v4-flash-godmode-opencode-go",
-        "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 497,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/143268274?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "name": "vvxw/deploy-vercel",
         "description": "Install Command：npm install",
         "language": {
@@ -506,8 +445,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 447,
-          "forks": 84
+          "totalStars": 802,
+          "forks": 165
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142342666?v=4"
@@ -517,67 +456,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "Yousuf-developer/Viscose-carousel",
-        "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+        "rank": 3,
+        "name": "SheberDavid/v4-flash-godmode-opencode-go",
+        "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 351,
-          "forks": 56
+          "totalStars": 494,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/181764715?v=4"
+          "https://avatars.githubusercontent.com/u/143268274?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
-        "name": "yjh051108/dsh-router-standard",
-        "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 349,
-          "forks": 33
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/195255374?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "WYH66666666/DSH-Transparent-UI-Plugin",
-        "description": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 330,
-          "forks": 15
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/120999742?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 4,
         "name": "Spielewoy/autoprompt-skill",
         "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
         "language": {
@@ -586,8 +485,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 310,
-          "forks": 25
+          "totalStars": 447,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77499101?v=4"
@@ -597,20 +496,120 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "turtle2209/Bigfish",
-        "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
+        "rank": 5,
+        "name": "Yousuf-developer/Viscose-carousel",
+        "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 277,
-          "forks": 12
+          "totalStars": 380,
+          "forks": 64
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/264740861?v=4"
+          "https://avatars.githubusercontent.com/u/181764715?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Ariescar/anyCreature",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 284,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/243285636?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "shaobeichen/dsh-pocket",
+        "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 275,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/18715564?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
+        "description": "All-in-one MiniMax H3 node for ComfyUI - T2V, T2I, I2V, R2V, audio drive, keyframes, extend & Motion Context chains in a single node.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 243,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167011311?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 218,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/247166461?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Devin-AXIS/deepseek-design",
+        "description": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 210,
+          "forks": 71
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/228423313?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,19 +619,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "pg83/solo",
-        "description": "Portable Linux binaries, solved",
+        "name": "eugeniosegala/MAKO",
+        "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 490,
-          "forks": 11
+          "totalStars": 136,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1481268?v=4"
+          "https://avatars.githubusercontent.com/u/29021217?v=4"
         ],
         "tags": [
           "#C++"
@@ -648,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
-          "forks": 4
+          "totalStars": 91,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30683038?v=4"
@@ -660,8 +659,8 @@
       },
       {
         "rank": 3,
-        "name": "eugeniosegala/MAKO",
-        "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux.",
+        "name": "hhht110/UpdateLock",
+        "description": "Win7/10/11 原生单文件 Windows 自动更新关闭与恢复工具",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -669,10 +668,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 86,
-          "forks": 0
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29021217?v=4"
+          "https://avatars.githubusercontent.com/u/58428235?v=4"
         ],
         "tags": [
           "#C++"
@@ -688,7 +687,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
+          "totalStars": 68,
           "forks": 0
         },
         "contributors": [
@@ -700,19 +699,19 @@
       },
       {
         "rank": 5,
-        "name": "OptiJuegos/reVC-Wii",
-        "description": "暂无描述",
+        "name": "stems-arraign-48/neurocursor-ai",
+        "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 40,
-          "forks": 3
+          "totalStars": 50,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/222511018?v=4"
+          "https://avatars.githubusercontent.com/u/308924262?v=4"
         ],
         "tags": [
           "#C++"
@@ -720,6 +719,26 @@
       },
       {
         "rank": 6,
+        "name": "hash-asterisk/tsundoku-psp",
+        "description": "manga reader for psp ",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 33,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/319115686?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "chagoguila/SonicStream",
         "description": "暂无描述",
         "language": {
@@ -728,7 +747,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 31,
+          "totalStars": 33,
           "forks": 2
         },
         "contributors": [
@@ -739,7 +758,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "dubrovskiy-yevhen-stakelogic/vice-city-vr-quest",
         "description": "暂无描述",
         "language": {
@@ -748,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 31,
+          "totalStars": 32,
           "forks": 7
         },
         "contributors": [
@@ -759,7 +778,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "0ct0sec/M5PANCETTA",
         "description": "Oh no. not again. RPG. Sniffing. Wardriving. Sniffing farts.",
         "language": {
@@ -768,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 25,
+          "totalStars": 30,
           "forks": 0
         },
         "contributors": [
@@ -779,40 +798,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "hhht110/UpdateLock",
-        "description": "Win7/10/11 原生单文件 Windows 自动更新关闭与恢复工具",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 25,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/58428235?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "iThorgrim/Unreal-Open-Azeroth",
-        "description": "Unreal Azeroth without server-side licence",
+        "name": "CoreCometIndustries/COMET-AIR-MOUSE",
+        "description": "COMET Air Mouse 🖱️🚀 — An open-source ESP32-C3 + MPU6050 wireless BLE motion-controlled mouse.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 19,
+          "totalStars": 16,
           "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/125808072?v=4"
+          "https://avatars.githubusercontent.com/u/161971888?v=4"
         ],
         "tags": [
           "#C++"
