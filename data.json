@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/08/23 01:40:40",
+  "lastUpdate": "2026/08/24 01:05:12",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 2,
       "HTML": 1,
-      "Python": 4,
-      "JavaScript": 2
+      "Python": 3,
+      "JavaScript": 2,
+      "Zig": 1,
+      "Swift": 2
     },
     "starGrowth": {}
   },
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3785,
-          "forks": 180
+          "totalStars": 3907,
+          "forks": 190
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129982137?v=4"
@@ -33,46 +34,6 @@
       },
       {
         "rank": 2,
-        "name": "yetone/cumora",
-        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2901,
-          "forks": 350
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1206493?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "CopilotKit/OpenBot",
-        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2335,
-          "forks": 268
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/131273140?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "MengTo/threeui",
         "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "language": {
@@ -81,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1917,
-          "forks": 196
+          "totalStars": 2906,
+          "forks": 291
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -92,7 +53,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "wang2122/sprix-sage-router",
         "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
         "language": {
@@ -101,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1243,
-          "forks": 12
+          "totalStars": 1412,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/78741078?v=4"
@@ -112,27 +73,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "cinderline/northcinder",
-        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1205,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/150383880?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "vvxw/deploy-vercel",
         "description": "Install Command：npm install",
         "language": {
@@ -141,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1123,
-          "forks": 234
+          "totalStars": 1214,
+          "forks": 257
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142342666?v=4"
@@ -152,40 +93,100 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "Leutenegger/watermarks-remover",
-        "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+        "rank": 5,
+        "name": "duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+        "language": {
+          "name": "Zig",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 877,
+          "forks": 88
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3162883?v=4"
+        ],
+        "tags": [
+          "#Zig"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 95
+          "totalStars": 760,
+          "forks": 72
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265765261?v=4"
+          "https://avatars.githubusercontent.com/u/311792326?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
+        "rank": 7,
+        "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 722,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/247166461?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "DenisSergeevitch/desktop-fly",
+        "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 704,
+          "forks": 43
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2140110?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
         "rank": 9,
-        "name": "Leutenegger/vanity-eth",
-        "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+        "name": "cclank/lanshu-create-ai-presenter-video",
+        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 803,
-          "forks": 91
+          "totalStars": 657,
+          "forks": 105
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265765261?v=4"
+          "https://avatars.githubusercontent.com/u/29557585?v=4"
         ],
         "tags": [
           "#Python"
@@ -193,22 +194,22 @@
       },
       {
         "rank": 10,
-        "name": "browser-use/macos-harness",
-        "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+        "name": "missuo/herdrm",
+        "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Swift",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 709,
-          "forks": 49
+          "totalStars": 611,
+          "forks": 37
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
+          "https://avatars.githubusercontent.com/u/55200481?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Swift"
         ]
       }
     ],
@@ -223,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1243,
-          "forks": 12
+          "totalStars": 1412,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/78741078?v=4"
@@ -235,19 +236,19 @@
       },
       {
         "rank": 2,
-        "name": "Leutenegger/watermarks-remover",
-        "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 934,
-          "forks": 95
+          "totalStars": 760,
+          "forks": 72
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265765261?v=4"
+          "https://avatars.githubusercontent.com/u/311792326?v=4"
         ],
         "tags": [
           "#Python"
@@ -255,19 +256,19 @@
       },
       {
         "rank": 3,
-        "name": "Leutenegger/vanity-eth",
-        "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+        "name": "cclank/lanshu-create-ai-presenter-video",
+        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 803,
-          "forks": 91
+          "totalStars": 657,
+          "forks": 105
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265765261?v=4"
+          "https://avatars.githubusercontent.com/u/29557585?v=4"
         ],
         "tags": [
           "#Python"
@@ -275,19 +276,19 @@
       },
       {
         "rank": 4,
-        "name": "browser-use/macos-harness",
-        "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+        "name": "amirh00sain/SpiderPanel",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 709,
-          "forks": 49
+          "totalStars": 610,
+          "forks": 1996
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
+          "https://avatars.githubusercontent.com/u/318304801?v=4"
         ],
         "tags": [
           "#Python"
@@ -295,46 +296,6 @@
       },
       {
         "rank": 5,
-        "name": "SigmanticAI/apex-inference-chip",
-        "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 680,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/219103514?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "Leutenegger/coldcard-airgap",
-        "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 608,
-          "forks": 78
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265765261?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "lanicer/cve-2026-41940-PoC",
         "description": "A cPanel and WHM authentication bypassing tool",
         "language": {
@@ -343,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 526,
+          "totalStars": 527,
           "forks": 96
         },
         "contributors": [
@@ -354,47 +315,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "flaqai/backlink_skills",
-        "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 523,
-          "forks": 187
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277500851?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "amirh00sain/SpiderPanel",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 509,
-          "forks": 1723
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/318304801?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 6,
         "name": "xdreizein666/getcontact-cli",
         "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
         "language": {
@@ -403,11 +324,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
-          "forks": 110
+          "totalStars": 479,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/74557195?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "air-embodied-brain/Zetta-Embodiment",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 311,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/249725137?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Zyrexnn/Cybermes",
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 263,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/177414770?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "LB623/no-negative-echo",
+        "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 258,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/248428362?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "bam-bam-2/solo-skills",
+        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 188,
+          "forks": 46
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/262489252?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +418,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "cinderline/northcinder",
-        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1205,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/150383880?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "vvxw/deploy-vercel",
         "description": "Install Command：npm install",
         "language": {
@@ -445,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1123,
-          "forks": 234
+          "totalStars": 1214,
+          "forks": 257
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142342666?v=4"
@@ -456,27 +437,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "Spielewoy/autoprompt-skill",
-        "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 708,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/77499101?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
         "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
         "language": {
@@ -485,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 558,
-          "forks": 22
+          "totalStars": 722,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/247166461?v=4"
@@ -496,27 +457,27 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "Ariescar/anyCreature",
-        "description": "暂无描述",
+        "rank": 3,
+        "name": "nateherkai/scroll-craft",
+        "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 301,
-          "forks": 31
+          "totalStars": 491,
+          "forks": 86
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/243285636?v=4"
+          "https://avatars.githubusercontent.com/u/253835467?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "sam70361/emotion-ball",
         "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
         "language": {
@@ -525,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 233,
-          "forks": 24
+          "totalStars": 244,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131173262?v=4"
@@ -536,47 +497,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "MrMoT9I/paper-aquarium",
-        "description": "Бумажная раскраска превращается в 3D-рыбу: ребёнок раскрашивает лист, фотографирует телефоном — и рыбка плывёт в аквариуме на большом экране. Node без зависимостей + three.js.",
+        "rank": 5,
+        "name": "only-cli/oc",
+        "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
-          "forks": 33
+          "totalStars": 223,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14801194?v=4"
+          "https://avatars.githubusercontent.com/u/318230108?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 8,
-        "name": "asen-goat-mine/boujoy-harness",
-        "description": "A knowledge-linked local AI harness with macOS support and a Windows Beta launcher.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 162,
-          "forks": 32
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/249943954?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "name": "babygoton/WorkDaddy",
         "description": "WorkBuddy 增强助手，多账号 · 自动领积分 · 会话迁移 · 主题 · 增强工具集",
         "language": {
@@ -585,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
-          "forks": 19
+          "totalStars": 194,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29622572?v=4"
@@ -596,20 +537,80 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "dcouple/terminal-minceraft",
-        "description": "Minecraft inside your terminal.",
+        "rank": 7,
+        "name": "asen-goat-mine/boujoy-harness",
+        "description": "A knowledge-linked local AI harness with macOS support and a Windows Beta launcher.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 123,
-          "forks": 7
+          "totalStars": 174,
+          "forks": 33
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/264294815?v=4"
+          "https://avatars.githubusercontent.com/u/249943954?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "kunchenguid/backpass",
+        "description": "You don't write AGENTS.md. You train it with gradient descent.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 160,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3233006?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "GamePhanes/GamePhanes",
+        "description": "An open-source game coding agent environment and benchmark for Godot.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 151,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/319268748?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "YuJunZhiXue/dsh-purge",
+        "description": "no more refusals, do everything.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 136,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/188421097?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,19 +620,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "eugeniosegala/MAKO",
-        "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux.",
+        "name": "localai-org/kimodo.cpp",
+        "description": "NVIDIA Kimodo ported to C++/GGML",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
-          "forks": 4
+          "totalStars": 280,
+          "forks": 21
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29021217?v=4"
+          "https://avatars.githubusercontent.com/u/260893928?v=4"
         ],
         "tags": [
           "#C++"
@@ -639,26 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "thisisgm/omarchy-pods",
-        "description": "AirPods in the Omarchy bar: per-pod and case battery, listening mode, adaptive noise level, conversation awareness, one-bud ANC and ear detection.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 98,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30683038?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "hash-asterisk/tsundoku-psp",
         "description": "manga reader for psp ",
         "language": {
@@ -667,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 60,
+          "totalStars": 62,
           "forks": 2
         },
         "contributors": [
@@ -678,7 +659,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "stems-arraign-48/neurocursor-ai",
         "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
         "language": {
@@ -687,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 50,
+          "totalStars": 42,
           "forks": 0
         },
         "contributors": [
@@ -698,69 +679,9 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "roman-devlab03n2/Project-Zomboid-Lag-Crash-Fix-2026",
-        "description": "Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 41,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279149917?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "chagoguila/SonicStream",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 33,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48518057?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "OrangeDamsel/How-To-Fish-Mod-Menu",
-        "description": "How to Fish mod menu for PC — infinite money and ammo, never lose a fish, birds stop stealing your catch, unlock every weapon and island, guaranteed rare variants. 45+ options across 5 sections. Host-only guard on by default, fishing-minigame skips tagged and disabled. Steam, 1-4 player co-op.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 31,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/295082931?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Zenithpereach/How-To-Fish-Trainer",
-        "description": "How to Fish mod menu for PC — infinite money and ammo, never lose a fish, birds stop stealing your catch, unlock every weapon and island, guaranteed rare variants. 45+ options across 5 sections. Host-only guard on by default, fishing-minigame skips tagged and disabled. Steam, 1-4 player co-op.",
+        "rank": 4,
+        "name": "CY-CHENYUE/easy-input-maker",
+        "description": "EasyInput V2.0 完整固件基线，面向 AI 修改与可验证共创",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -768,10 +689,90 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 30,
-          "forks": 3
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/295082894?v=4"
+          "https://avatars.githubusercontent.com/u/153368169?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "hfiref0x/ETWX",
+        "description": "ETW Explorer",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 28,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/10708977?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "cast-tech/GDB-Macro-Debugger",
+        "description": "GDB plugin for interactive debugging of C/C++ macros with function-like capabilities.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 23,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/138027617?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "LMauricius/kde-thumbnail-bloom",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 22,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/62662583?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Ashnar2602/XGD-tool-android",
+        "description": "Unofficial Android port of XGDTool — convert Xbox / Xbox 360 disc images (ISO, XISO) to ZAR, GOD, CCI, CSO directly on your phone.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 16,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/161518051?v=4"
         ],
         "tags": [
           "#C++"
@@ -779,19 +780,19 @@
       },
       {
         "rank": 9,
-        "name": "Leviidev/AetherPS4",
-        "description": "PS4 Emulator for iOS & iPadOS (core with standalone app)",
+        "name": "lxw112190/lw.Web2Android",
+        "description": "轻量级 Web → Android APK 打包工具，将本地 Web 项目或在线 URL 快速转换为可安装 APK，无需 Android Studio 或 Gradle。 Lightweight Web-to-Android APK packer that turns local web projects or URLs into installable APKs without Android Studio or Gradle.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 29,
-          "forks": 1
+          "totalStars": 13,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/281482210?v=4"
+          "https://avatars.githubusercontent.com/u/41043456?v=4"
         ],
         "tags": [
           "#C++"
@@ -799,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "scarcephysi/WARDOGS-Mod-Menu-2026",
-        "description": "🎯 WARDOGS Mod Menu for Windows — configurable ESP, aim assistance, Vehicle ESP, Loot ESP and gameplay customization tools.",
+        "name": "Mic92/nix-tarmac",
+        "description": "Content-addressed cache plugin for Nix: fast tarball fetching and a persistent eval store",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 27,
-          "forks": 0
+          "totalStars": 13,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/210308147?v=4"
+          "https://avatars.githubusercontent.com/u/96200?v=4"
         ],
         "tags": [
           "#C++"
