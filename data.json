@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/25 01:04:17",
+  "lastUpdate": "2026/08/25 01:34:01",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3480,
-          "forks": 337
+          "totalStars": 3502,
+          "forks": 340
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1745,
-          "forks": 1900
+          "totalStars": 1785,
+          "forks": 1988
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1225,
+          "totalStars": 1233,
           "forks": 124
         },
         "contributors": [
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1058,
+          "totalStars": 1066,
           "forks": 57
         },
         "contributors": [
@@ -124,7 +124,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 770,
+          "totalStars": 772,
           "forks": 73
         },
         "contributors": [
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 635,
+          "totalStars": 640,
           "forks": 116
         },
         "contributors": [
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 770,
+          "totalStars": 772,
           "forks": 73
         },
         "contributors": [
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 452,
-          "forks": 75
+          "totalStars": 455,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/177414770?v=4"
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
+          "totalStars": 346,
           "forks": 8
         },
         "contributors": [
@@ -346,8 +346,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 250,
-          "forks": 60
+          "totalStars": 254,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262489252?v=4"
@@ -366,7 +366,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 236,
+          "totalStars": 237,
           "forks": 50
         },
         "contributors": [
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 229,
+          "totalStars": 231,
           "forks": 26
         },
         "contributors": [
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
+          "totalStars": 225,
           "forks": 4
         },
         "contributors": [
@@ -428,7 +428,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 635,
+          "totalStars": 640,
           "forks": 116
         },
         "contributors": [
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 197,
+          "totalStars": 199,
           "forks": 9
         },
         "contributors": [
@@ -742,6 +742,26 @@
       },
       {
         "rank": 7,
+        "name": "Trentct/m5stack-stopwatch-avatar",
+        "description": "KK — a procedural 60fps avatar for the M5Stack StopWatch",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 32,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/126957212?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "hfiref0x/ETWX",
         "description": "ETW Explorer",
         "language": {
@@ -755,26 +775,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10708977?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Trentct/m5stack-stopwatch-avatar",
-        "description": "KK — a procedural 60fps avatar for the M5Stack StopWatch",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 30,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/126957212?v=4"
         ],
         "tags": [
           "#C++"
