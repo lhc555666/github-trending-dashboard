@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2026/08/25 01:34:01",
+  "lastUpdate": "2026/08/26 01:06:07",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
       "TypeScript": 2,
-      "Zig": 1,
       "Rust": 1,
+      "Zig": 1,
       "Python": 3,
       "JavaScript": 1,
-      "Swift": 1
+      "Astro": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3502,
-          "forks": 340
+          "totalStars": 3920,
+          "forks": 388
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1785,
-          "forks": 1988
+          "totalStars": 2551,
+          "forks": 2853
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -56,26 +56,6 @@
       },
       {
         "rank": 3,
-        "name": "duty1g/x64dbg-mcp-server",
-        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-        "language": {
-          "name": "Zig",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1233,
-          "forks": 124
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3162883?v=4"
-        ],
-        "tags": [
-          "#Zig"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "tobi/walgit",
         "description": "暂无描述",
         "language": {
@@ -84,14 +64,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1066,
-          "forks": 57
+          "totalStars": 1552,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/347?v=4"
         ],
         "tags": [
           "#Rust"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+        "language": {
+          "name": "Zig",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1381,
+          "forks": 135
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3162883?v=4"
+        ],
+        "tags": [
+          "#Zig"
         ]
       },
       {
@@ -104,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 837,
-          "forks": 146
+          "totalStars": 913,
+          "forks": 166
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -116,26 +116,6 @@
       },
       {
         "rank": 6,
-        "name": "ShadowAqueduct/watermark-remover",
-        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 772,
-          "forks": 73
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/311792326?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "nateherkai/scroll-craft",
         "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
         "language": {
@@ -144,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 640,
-          "forks": 116
+          "totalStars": 910,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253835467?v=4"
@@ -155,43 +135,63 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "missuo/herdrm",
-        "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 622,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/55200481?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "lanicer/cve-2026-41940-PoC",
-        "description": "A cPanel and WHM authentication bypassing tool",
+        "rank": 7,
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 528,
-          "forks": 96
+          "totalStars": 791,
+          "forks": 75
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/18703401?v=4"
+          "https://avatars.githubusercontent.com/u/311792326?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 578,
+          "forks": 57
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276468590?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "bryllim/workout-guide",
+        "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+        "language": {
+          "name": "Astro",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 523,
+          "forks": 94
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/37092544?v=4"
+        ],
+        "tags": [
+          "#Astro"
         ]
       },
       {
@@ -204,7 +204,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 513,
+          "totalStars": 514,
           "forks": 17
         },
         "contributors": [
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 837,
-          "forks": 146
+          "totalStars": 913,
+          "forks": 166
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 772,
-          "forks": 73
+          "totalStars": 791,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311792326?v=4"
@@ -258,19 +258,19 @@
       },
       {
         "rank": 3,
-        "name": "lanicer/cve-2026-41940-PoC",
-        "description": "A cPanel and WHM authentication bypassing tool",
+        "name": "ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 528,
-          "forks": 96
+          "totalStars": 578,
+          "forks": 57
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/18703401?v=4"
+          "https://avatars.githubusercontent.com/u/276468590?v=4"
         ],
         "tags": [
           "#Python"
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 484,
+          "totalStars": 487,
           "forks": 118
         },
         "contributors": [
@@ -298,19 +298,19 @@
       },
       {
         "rank": 5,
-        "name": "Zyrexnn/Cybermes",
-        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "name": "RobertGolds1/Gradient",
+        "description": "Gradient",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
-          "forks": 76
+          "totalStars": 395,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/177414770?v=4"
+          "https://avatars.githubusercontent.com/u/167649720?v=4"
         ],
         "tags": [
           "#Python"
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 346,
-          "forks": 8
+          "totalStars": 390,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/248428362?v=4"
@@ -338,6 +338,26 @@
       },
       {
         "rank": 7,
+        "name": "fzakaria/selfdb",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 336,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/605070?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "bam-bam-2/solo-skills",
         "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
         "language": {
@@ -346,8 +366,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 254,
-          "forks": 61
+          "totalStars": 298,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262489252?v=4"
@@ -357,7 +377,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "ChenShuo2004/cs-board",
         "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
         "language": {
@@ -366,8 +386,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 237,
-          "forks": 50
+          "totalStars": 297,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220584709?v=4"
@@ -377,7 +397,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
         "description": "DeepSeek v4 Flash EXL3 on one DGX Spark",
         "language": {
@@ -386,31 +406,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 231,
-          "forks": 26
+          "totalStars": 260,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83042094?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "fzakaria/selfdb",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 225,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/605070?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 640,
-          "forks": 116
+          "totalStars": 910,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253835467?v=4"
@@ -440,19 +440,19 @@
       },
       {
         "rank": 2,
-        "name": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-        "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+        "name": "kunchenguid/backpass",
+        "description": "You don't write AGENTS.md. You train it with gradient descent.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 345,
-          "forks": 1
+          "totalStars": 332,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/306161257?v=4"
+          "https://avatars.githubusercontent.com/u/3233006?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
-          "forks": 7
+          "totalStars": 254,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319268748?v=4"
@@ -480,26 +480,6 @@
       },
       {
         "rank": 4,
-        "name": "kunchenguid/backpass",
-        "description": "You don't write AGENTS.md. You train it with gradient descent.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 209,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3233006?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "thiagotigaz/ocr-it",
         "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
         "language": {
@@ -508,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
-          "forks": 9
+          "totalStars": 239,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4993320?v=4"
@@ -519,47 +499,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "YuJunZhiXue/dsh-purge",
-        "description": "no more refusals, do everything.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 149,
-          "forks": 33
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/188421097?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "dcouple/terminal-minceraft",
-        "description": "Minecraft inside your terminal.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 139,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/264294815?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "luke321/vault-graph",
         "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
         "language": {
@@ -568,8 +508,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
-          "forks": 7
+          "totalStars": 143,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3630619?v=4"
@@ -579,20 +519,80 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "huacnlee/omamail",
-        "description": "Omarchy mail plugin with Gmail, HEY and IMAP supports.",
+        "rank": 6,
+        "name": "yizhiyanhua-ai/fireworks-open-eli5",
+        "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
-          "forks": 17
+          "totalStars": 128,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/5518?v=4"
+          "https://avatars.githubusercontent.com/u/251871046?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "czm15053/linuxdo-idea-ui",
+        "description": "油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 119,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266233731?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Restdritower/iready-tool",
+        "description": "Skip i-Ready lessons skip minutes, auto-answer quizzes, and bypass diagnostics with iReady Tool the most powerful free Chrome extension and userscript for i-Ready. Open source, no paywall, works on all browsers.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 110,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/270956599?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "starwingcc/linuxdo-lark-ui",
+        "description": "将 linux.do 站点伪装成飞书云文档的油猴脚本",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 94,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/44251923?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -600,19 +600,19 @@
       },
       {
         "rank": 10,
-        "name": "unclecode/modelprint",
-        "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+        "name": "achrefelouafi/LinearAbilityExtThreeJS",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 85,
-          "forks": 9
+          "totalStars": 93,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/12494079?v=4"
+          "https://avatars.githubusercontent.com/u/46032561?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 427,
-          "forks": 36
+          "totalStars": 463,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260893928?v=4"
@@ -642,6 +642,26 @@
       },
       {
         "rank": 2,
+        "name": "poncippg-spec/Free-Solace-ImGui-Interface",
+        "description": "Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/234292356?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "hash-asterisk/tsundoku-psp",
         "description": "manga reader for psp ",
         "language": {
@@ -650,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 65,
+          "totalStars": 71,
           "forks": 2
         },
         "contributors": [
@@ -661,27 +681,67 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "poncippg-spec/Free-Solace-ImGui-Interface",
-        "description": "Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.",
+        "rank": 4,
+        "name": "N0zoM1z0/th08-web",
+        "description": "Source-faithful browser port of Touhou 08 from the authored C++ reconstruction",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 45,
-          "forks": 3
+          "totalStars": 55,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/234292356?v=4"
+          "https://avatars.githubusercontent.com/u/161784452?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "name": "Trentct/m5stack-stopwatch-avatar",
+        "description": "KK — a procedural 60fps avatar for the M5Stack StopWatch",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 54,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/126957212?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "facebookresearch/project_superdex",
+        "description": "SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable reinforcement learning interface in a unified simulation platform, with VR-based teleoperation and additional capabilities planned for future releases.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 41,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16943930?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "stems-arraign-48/neurocursor-ai",
         "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
         "language": {
@@ -690,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 42,
+          "totalStars": 41,
           "forks": 0
         },
         "contributors": [
@@ -701,27 +761,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "ivan-lopez-lab03n5/How-To-Fish-X",
-        "description": "HowToFishX is a lightweight trainer for How to Fish on Windows. It is designed for players who want to reduce repetitive grinding, experiment with game mechanics, and customize their single-player or private-session experience.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 38,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/279123431?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "name": "CY-CHENYUE/easy-input-maker",
         "description": "EasyInput V2.0 完整固件基线，面向 AI 修改与可验证共创",
         "language": {
@@ -731,7 +771,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 34,
-          "forks": 11
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153368169?v=4"
@@ -741,27 +781,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Trentct/m5stack-stopwatch-avatar",
-        "description": "KK — a procedural 60fps avatar for the M5Stack StopWatch",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 32,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/126957212?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "name": "hfiref0x/ETWX",
         "description": "ETW Explorer",
         "language": {
@@ -770,7 +790,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 32,
+          "totalStars": 34,
           "forks": 1
         },
         "contributors": [
@@ -781,7 +801,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "LMauricius/kde-thumbnail-bloom",
         "description": "暂无描述",
         "language": {
@@ -791,30 +811,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 24,
-          "forks": 0
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62662583?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "cast-tech/GDB-Macro-Debugger",
-        "description": "GDB plugin for interactive debugging of C/C++ macros with function-like capabilities.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 23,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/138027617?v=4"
         ],
         "tags": [
           "#C++"
