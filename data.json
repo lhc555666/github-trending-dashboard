@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/26 01:06:07",
+  "lastUpdate": "2026/08/26 01:38:22",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3920,
-          "forks": 388
+          "totalStars": 3929,
+          "forks": 389
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2551,
-          "forks": 2853
+          "totalStars": 2563,
+          "forks": 2860
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1552,
+          "totalStars": 1559,
           "forks": 85
         },
         "contributors": [
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1381,
+          "totalStars": 1383,
           "forks": 135
         },
         "contributors": [
@@ -104,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 913,
-          "forks": 166
+          "totalStars": 920,
+          "forks": 167
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 910,
-          "forks": 147
+          "totalStars": 912,
+          "forks": 148
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253835467?v=4"
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 578,
+          "totalStars": 590,
           "forks": 57
         },
         "contributors": [
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 523,
-          "forks": 94
+          "totalStars": 535,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/37092544?v=4"
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 913,
-          "forks": 166
+          "totalStars": 920,
+          "forks": 167
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 578,
+          "totalStars": 590,
           "forks": 57
         },
         "contributors": [
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 395,
+          "totalStars": 399,
           "forks": 14
         },
         "contributors": [
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 390,
+          "totalStars": 398,
           "forks": 11
         },
         "contributors": [
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 336,
+          "totalStars": 337,
           "forks": 7
         },
         "contributors": [
@@ -366,7 +366,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 298,
+          "totalStars": 299,
           "forks": 77
         },
         "contributors": [
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 297,
+          "totalStars": 298,
           "forks": 58
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 910,
-          "forks": 147
+          "totalStars": 912,
+          "forks": 148
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253835467?v=4"
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 332,
+          "totalStars": 336,
           "forks": 15
         },
         "contributors": [
@@ -488,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 239,
+          "totalStars": 240,
           "forks": 14
         },
         "contributors": [
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 143,
+          "totalStars": 144,
           "forks": 9
         },
         "contributors": [
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
+          "totalStars": 129,
           "forks": 8
         },
         "contributors": [
@@ -548,7 +548,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
+          "totalStars": 120,
           "forks": 6
         },
         "contributors": [
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 463,
+          "totalStars": 464,
           "forks": 39
         },
         "contributors": [
@@ -683,7 +683,7 @@
       {
         "rank": 4,
         "name": "N0zoM1z0/th08-web",
-        "description": "Source-faithful browser port of Touhou 08 from the authored C++ reconstruction",
+        "description": "One browser tab. Two legal DAT files. One endless night. Source-built C++ → WebAssembly port of Touhou 8.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -730,8 +730,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
-          "forks": 0
+          "totalStars": 42,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16943930?v=4"
