@@ -1,14 +1,15 @@
 {
-  "lastUpdate": "2026/08/26 01:38:22",
+  "lastUpdate": "2026/08/27 07:10:45",
   "charts": {
     "languageDistribution": {
       "HTML": 1,
       "TypeScript": 2,
       "Rust": 1,
       "Zig": 1,
-      "Python": 3,
+      "Python": 2,
       "JavaScript": 1,
-      "Astro": 1
+      "Astro": 1,
+      "Shell": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +25,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3929,
-          "forks": 389
+          "totalStars": 4241,
+          "forks": 422
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1065452?v=4"
@@ -44,8 +45,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2563,
-          "forks": 2860
+          "totalStars": 3187,
+          "forks": 3172
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -64,8 +65,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1559,
-          "forks": 85
+          "totalStars": 2124,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/347?v=4"
@@ -84,8 +85,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1383,
-          "forks": 135
+          "totalStars": 1482,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3162883?v=4"
@@ -96,19 +97,19 @@
       },
       {
         "rank": 5,
-        "name": "cclank/lanshu-create-ai-presenter-video",
-        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+        "name": "ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 920,
-          "forks": 167
+          "totalStars": 1035,
+          "forks": 86
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29557585?v=4"
+          "https://avatars.githubusercontent.com/u/276468590?v=4"
         ],
         "tags": [
           "#Python"
@@ -124,8 +125,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 912,
-          "forks": 148
+          "totalStars": 1034,
+          "forks": 166
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253835467?v=4"
@@ -136,46 +137,6 @@
       },
       {
         "rank": 7,
-        "name": "ShadowAqueduct/watermark-remover",
-        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 791,
-          "forks": 75
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/311792326?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "ApodexAI/FrontierAgent",
-        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 590,
-          "forks": 57
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276468590?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "bryllim/workout-guide",
         "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
         "language": {
@@ -184,8 +145,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 535,
-          "forks": 95
+          "totalStars": 872,
+          "forks": 136
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/37092544?v=4"
@@ -195,42 +156,82 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "Forsy-AI/biosecurity-agent",
-        "description": "AI agent that builds a live biosecurity world around any target.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 514,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/273874842?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "cclank/lanshu-create-ai-presenter-video",
-        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+        "rank": 8,
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 920,
-          "forks": 167
+          "totalStars": 810,
+          "forks": 76
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29557585?v=4"
+          "https://avatars.githubusercontent.com/u/311792326?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "wide-trace/open-higgsfield",
+        "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 642,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/321257738?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "themartiano/try-omarchy",
+        "description": "Try Omarchy on Apple Silicon without any setup.",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 589,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/32342284?v=4"
+        ],
+        "tags": [
+          "#Shell"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1035,
+          "forks": 86
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276468590?v=4"
         ],
         "tags": [
           "#Python"
@@ -246,8 +247,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 75
+          "totalStars": 810,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/311792326?v=4"
@@ -258,66 +259,6 @@
       },
       {
         "rank": 3,
-        "name": "ApodexAI/FrontierAgent",
-        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 590,
-          "forks": 57
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276468590?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "xdreizein666/getcontact-cli",
-        "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 487,
-          "forks": 118
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/74557195?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "RobertGolds1/Gradient",
-        "description": "Gradient",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 399,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167649720?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "LB623/no-negative-echo",
         "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
         "language": {
@@ -326,7 +267,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 398,
+          "totalStars": 514,
           "forks": 11
         },
         "contributors": [
@@ -337,7 +278,27 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 4,
+        "name": "GradientRL/Gradient",
+        "description": "Gradient",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 436,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167649720?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "fzakaria/selfdb",
         "description": "暂无描述",
         "language": {
@@ -346,11 +307,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 337,
-          "forks": 7
+          "totalStars": 425,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/605070?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ChenShuo2004/cs-board",
+        "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 338,
+          "forks": 65
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/220584709?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "lxf746/outlook-auto-register",
+        "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 331,
+          "forks": 175
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/216264444?v=4"
         ],
         "tags": [
           "#Python"
@@ -366,8 +367,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 299,
-          "forks": 77
+          "totalStars": 316,
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262489252?v=4"
@@ -378,19 +379,19 @@
       },
       {
         "rank": 9,
-        "name": "ChenShuo2004/cs-board",
-        "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+        "name": "Tencent/WeMM-Embedding",
+        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 298,
-          "forks": 58
+          "totalStars": 316,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/220584709?v=4"
+          "https://avatars.githubusercontent.com/u/18461506?v=4"
         ],
         "tags": [
           "#Python"
@@ -398,19 +399,19 @@
       },
       {
         "rank": 10,
-        "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
-        "description": "DeepSeek v4 Flash EXL3 on one DGX Spark",
+        "name": "alchaincyf/huashu-excel",
+        "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 29
+          "totalStars": 304,
+          "forks": 46
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/83042094?v=4"
+          "https://avatars.githubusercontent.com/u/127714341?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,8 +429,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 912,
-          "forks": 148
+          "totalStars": 1034,
+          "forks": 166
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253835467?v=4"
@@ -448,8 +449,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 336,
-          "forks": 15
+          "totalStars": 431,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3233006?v=4"
@@ -468,8 +469,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 254,
-          "forks": 6
+          "totalStars": 340,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319268748?v=4"
@@ -488,7 +489,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 240,
+          "totalStars": 259,
           "forks": 14
         },
         "contributors": [
@@ -500,46 +501,6 @@
       },
       {
         "rank": 5,
-        "name": "luke321/vault-graph",
-        "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 144,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3630619?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "yizhiyanhua-ai/fireworks-open-eli5",
-        "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 129,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/251871046?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "czm15053/linuxdo-idea-ui",
         "description": "油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
         "language": {
@@ -548,8 +509,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 6
+          "totalStars": 215,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266233731?v=4"
@@ -559,47 +520,47 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "luke321/vault-graph",
+        "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 207,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3630619?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "yizhiyanhua-ai/fireworks-open-eli5",
+        "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 161,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/251871046?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 8,
-        "name": "Restdritower/iready-tool",
-        "description": "Skip i-Ready lessons skip minutes, auto-answer quizzes, and bypass diagnostics with iReady Tool the most powerful free Chrome extension and userscript for i-Ready. Open source, no paywall, works on all browsers.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 110,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/270956599?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "starwingcc/linuxdo-lark-ui",
-        "description": "将 linux.do 站点伪装成飞书云文档的油猴脚本",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 94,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/44251923?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "achrefelouafi/LinearAbilityExtThreeJS",
         "description": "暂无描述",
         "language": {
@@ -608,11 +569,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
-          "forks": 15
+          "totalStars": 141,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46032561?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "techcomet122583/Polymarket-Telegram-Bot",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 125,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/314914153?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "zhuyifang/tonghuasun-agent",
+        "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、委托和成交数据。",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 105,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16346219?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +631,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 464,
-          "forks": 39
+          "totalStars": 496,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260893928?v=4"
@@ -650,7 +651,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 73,
+          "totalStars": 80,
           "forks": 5
         },
         "contributors": [
@@ -662,19 +663,19 @@
       },
       {
         "rank": 3,
-        "name": "hash-asterisk/tsundoku-psp",
-        "description": "manga reader for psp ",
+        "name": "arcanite24/pinyon-shift",
+        "description": "A playable preview of Forza Horizon static recompilation",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
-          "forks": 2
+          "totalStars": 77,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/319115686?v=4"
+          "https://avatars.githubusercontent.com/u/3642929?v=4"
         ],
         "tags": [
           "#C++"
@@ -690,7 +691,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
+          "totalStars": 57,
           "forks": 0
         },
         "contributors": [
@@ -710,8 +711,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
-          "forks": 7
+          "totalStars": 55,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126957212?v=4"
@@ -722,87 +723,7 @@
       },
       {
         "rank": 6,
-        "name": "facebookresearch/project_superdex",
-        "description": "SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable reinforcement learning interface in a unified simulation platform, with VR-based teleoperation and additional capabilities planned for future releases.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 42,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16943930?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "stems-arraign-48/neurocursor-ai",
-        "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 41,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308924262?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "CY-CHENYUE/easy-input-maker",
-        "description": "EasyInput V2.0 完整固件基线，面向 AI 修改与可验证共创",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/153368169?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "hfiref0x/ETWX",
-        "description": "ETW Explorer",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 34,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/10708977?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "LMauricius/kde-thumbnail-bloom",
+        "name": "dubrovskiy-yevhen-stakelogic/gta-sa-vr-quest",
         "description": "暂无描述",
         "language": {
           "name": "C++",
@@ -810,11 +731,91 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 24,
+          "totalStars": 38,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/19537599?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "JoeCorrell/Eden-DS",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 31,
           "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/62662583?v=4"
+          "https://avatars.githubusercontent.com/u/69652304?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "shinyflvre/OpenVR-SpaceSync",
+        "description": "Synchronizes Lighthouse devices with SLAM headsets using a Follow SLAM HMD mode that keeps the headset pose authoritative and continuously aligns Lighthouse tracking to it.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 28,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/204123279?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "hernan0078/MagnusPS5",
+        "description": "PS5 Emulator for Iphones & iPads",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 25,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/220083689?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Urban1chka/Ghost-client",
+        "description": "Ghost cleint for rust, esp, aim and other",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 21,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/320607975?v=4"
         ],
         "tags": [
           "#C++"
