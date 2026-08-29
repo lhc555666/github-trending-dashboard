@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026/08/29 05:32:07",
+  "lastUpdate": "2026/08/29 06:30:33",
   "charts": {
     "languageDistribution": {
       "TeX": 1,
-      "TypeScript": 2,
+      "TypeScript": 3,
       "Rust": 1,
       "Python": 3,
       "Astro": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3759,
-          "forks": 588
+          "totalStars": 3765,
+          "forks": 590
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/320896847?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3411,
-          "forks": 3317
+          "totalStars": 3413,
+          "forks": 3321
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62760393?v=4"
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2305,
+          "totalStars": 2306,
           "forks": 122
         },
         "contributors": [
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1885,
-          "forks": 246
+          "totalStars": 2047,
+          "forks": 247
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 984,
+          "totalStars": 990,
           "forks": 10
         },
         "contributors": [
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
-          "forks": 50
+          "totalStars": 852,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 828,
+          "totalStars": 829,
           "forks": 78
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 770,
+          "totalStars": 775,
           "forks": 35
         },
         "contributors": [
@@ -195,22 +195,22 @@
       },
       {
         "rank": 10,
-        "name": "yding-git/personal-edge-proxy",
-        "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+        "name": "amosblomqvist/learn",
+        "description": "My AI learning system.",
         "language": {
-          "name": "Unknown",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 666,
-          "forks": 77
+          "totalStars": 672,
+          "forks": 71
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/266737355?v=4"
+          "https://avatars.githubusercontent.com/u/255718537?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#TypeScript"
         ]
       }
     ],
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1885,
-          "forks": 246
+          "totalStars": 2047,
+          "forks": 247
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
-          "forks": 50
+          "totalStars": 852,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 828,
+          "totalStars": 829,
           "forks": 78
         },
         "contributors": [
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 456,
-          "forks": 245
+          "totalStars": 465,
+          "forks": 248
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/216264444?v=4"
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 364,
+          "totalStars": 367,
           "forks": 71
         },
         "contributors": [
@@ -337,6 +337,26 @@
       },
       {
         "rank": 7,
+        "name": "jprx/darwin-vm",
+        "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 340,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/36464332?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "alchaincyf/huashu-excel",
         "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
         "language": {
@@ -350,26 +370,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "jprx/darwin-vm",
-        "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 316,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/36464332?v=4"
         ],
         "tags": [
           "#Python"
@@ -397,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "mouredev/hello-sdd",
-        "description": "Curso de SDD (Spec-Driven Development) desde cero",
+        "name": "OnlyTerp/opengrok",
+        "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 296,
-          "forks": 43
+          "totalStars": 298,
+          "forks": 31
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/17043402?v=4"
+          "https://avatars.githubusercontent.com/u/121772140?v=4"
         ],
         "tags": [
           "#Python"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
+          "totalStars": 254,
           "forks": 24
         },
         "contributors": [
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
+          "totalStars": 113,
           "forks": 9
         },
         "contributors": [
