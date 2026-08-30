@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/30 03:30:18",
+  "lastUpdate": "2026/08/30 04:42:55",
   "charts": {
     "languageDistribution": {
       "TeX": 1,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3966,
-          "forks": 630
+          "totalStars": 3992,
+          "forks": 632
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/320896847?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3207,
+          "totalStars": 3211,
           "forks": 362
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1073,
+          "totalStars": 1075,
           "forks": 14
         },
         "contributors": [
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1006,
+          "totalStars": 1007,
           "forks": 160
         },
         "contributors": [
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 980,
-          "forks": 111
+          "totalStars": 994,
+          "forks": 113
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/113528266?v=4"
@@ -123,7 +123,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 912,
-          "forks": 59
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 784,
-          "forks": 79
+          "totalStars": 792,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/255718537?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 758,
+          "totalStars": 777,
           "forks": 91
         },
         "contributors": [
@@ -174,26 +174,6 @@
       },
       {
         "rank": 9,
-        "name": "yding-git/personal-edge-proxy",
-        "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 688,
-          "forks": 79
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/266737355?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "Nanako0129/sepia",
         "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
         "language": {
@@ -202,11 +182,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 681,
-          "forks": 37
+          "totalStars": 698,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "yding-git/personal-edge-proxy",
+        "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 691,
+          "forks": 79
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266737355?v=4"
         ],
         "tags": [
           "#Trending"
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3207,
+          "totalStars": 3211,
           "forks": 362
         },
         "contributors": [
@@ -245,7 +245,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 912,
-          "forks": 59
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 665,
-          "forks": 133
+          "totalStars": 675,
+          "forks": 134
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288998340?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 555,
+          "totalStars": 557,
           "forks": 43
         },
         "contributors": [
@@ -304,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 548,
-          "forks": 270
+          "totalStars": 552,
+          "forks": 271
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/216264444?v=4"
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 414,
+          "totalStars": 415,
           "forks": 78
         },
         "contributors": [
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 321,
+          "totalStars": 322,
           "forks": 54
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 306,
+          "totalStars": 307,
           "forks": 19
         },
         "contributors": [
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 272,
+          "totalStars": 275,
           "forks": 96
         },
         "contributors": [
@@ -404,8 +404,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
-          "forks": 11
+          "totalStars": 260,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/210980732?v=4"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 370,
+          "totalStars": 372,
           "forks": 43
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 73,
+          "totalStars": 75,
           "forks": 3
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 65,
+          "totalStars": 66,
           "forks": 6
         },
         "contributors": [
@@ -780,6 +780,26 @@
       },
       {
         "rank": 9,
+        "name": "jlrouzies-fr/DLSS5-Feeder",
+        "description": "DLSS 5 neural rendering in D3D11 games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + LaunchPad motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 54,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57990274?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "MUJI0807/RK3588-Dual-Camera-AI-Perception-System",
         "description": "Real-time YOLOv5s + UNet on RK3588 with OpenCL GPU-accelerated lens undistortion. Dual-camera AI perception system for autonomous driving assistance.",
         "language": {
@@ -793,26 +813,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/186377189?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "tony-make/walletgen",
-        "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 51,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/312252888?v=4"
         ],
         "tags": [
           "#C++"
