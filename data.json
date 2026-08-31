@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/08/31 03:28:44",
+  "lastUpdate": "2026/08/31 04:46:13",
   "charts": {
     "languageDistribution": {
       "Python": 3,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4535,
+          "totalStars": 4538,
           "forks": 365
         },
         "contributors": [
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4156,
+          "totalStars": 4159,
           "forks": 655
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1468,
-          "forks": 159
+          "totalStars": 1492,
+          "forks": 163
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/113528266?v=4"
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1227,
+          "totalStars": 1228,
           "forks": 91
         },
         "contributors": [
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1086,
+          "totalStars": 1091,
           "forks": 15
         },
         "contributors": [
@@ -114,26 +114,6 @@
       },
       {
         "rank": 6,
-        "name": "Tencent/WeMM-Embedding",
-        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 944,
-          "forks": 66
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18461506?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Nanako0129/sepia",
         "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
         "language": {
@@ -142,14 +122,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 942,
-          "forks": 57
+          "totalStars": 967,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Tencent/WeMM-Embedding",
+        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 946,
+          "forks": 66
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/18461506?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 806,
+          "totalStars": 808,
           "forks": 158
         },
         "contributors": [
@@ -182,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 733,
-          "forks": 55
+          "totalStars": 741,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57962439?v=4"
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 722,
+          "totalStars": 736,
           "forks": 107
         },
         "contributors": [
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4535,
+          "totalStars": 4538,
           "forks": 365
         },
         "contributors": [
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 944,
+          "totalStars": 946,
           "forks": 66
         },
         "contributors": [
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 806,
+          "totalStars": 808,
           "forks": 158
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 633,
+          "totalStars": 634,
           "forks": 51
         },
         "contributors": [
@@ -324,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
-          "forks": 59
+          "totalStars": 408,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15242181?v=4"
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
-          "forks": 147
+          "totalStars": 397,
+          "forks": 150
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153429021?v=4"
@@ -365,7 +365,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 345,
-          "forks": 67
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17043402?v=4"
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
+          "totalStars": 313,
           "forks": 22
         },
         "contributors": [
@@ -404,8 +404,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 306,
-          "forks": 11
+          "totalStars": 308,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52091468?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
-          "forks": 85
+          "totalStars": 192,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212681820?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
+          "totalStars": 294,
           "forks": 13
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 154,
+          "totalStars": 156,
           "forks": 12
         },
         "contributors": [
@@ -660,6 +660,26 @@
       },
       {
         "rank": 3,
+        "name": "NIGos/dlss5-dx11-bridge",
+        "description": "Lets D3D12-only DLSS 5 Neural Rendering add-ons run in DirectX 11 games",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 133,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/9080863?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "arcanite24/pinyon-shift",
         "description": "A playable preview of Forza Horizon static recompilation",
         "language": {
@@ -679,26 +699,6 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "NIGos/dlss5-dx11-bridge",
-        "description": "Lets D3D12-only DLSS 5 Neural Rendering add-ons run in DirectX 11 games",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 129,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9080863?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 5,
         "name": "MSNightmare/GreenSection",
         "description": "Nvidia GreenSection Memory Corruption 0day vulnerability",
@@ -708,8 +708,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
-          "forks": 21
+          "totalStars": 90,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -720,6 +720,26 @@
       },
       {
         "rank": 6,
+        "name": "dr3murr/steam2-winfsp",
+        "description": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 89,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46062054?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "ShizCalev/MGSPatriotFix",
         "description": "This is bugfix mod for the Metal Gear Solid Master Collection: Volume 2 versions of MGS4 & MGS Peace Walker.",
         "language": {
@@ -733,26 +753,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6209658?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "dr3murr/steam2-winfsp",
-        "description": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 87,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46062054?v=4"
         ],
         "tags": [
           "#C++"
