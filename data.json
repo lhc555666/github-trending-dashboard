@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/08/30 04:42:55",
+  "lastUpdate": "2026/08/31 03:28:44",
   "charts": {
     "languageDistribution": {
+      "Python": 3,
       "TeX": 1,
-      "Python": 2,
       "TypeScript": 3,
-      "Astro": 1,
-      "CSS": 1
+      "CSS": 1,
+      "Markdown": 1
     },
     "starGrowth": {}
   },
@@ -14,26 +14,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "HEJustinSun/my-girlfriend-jingtian-latex",
-        "description": "暂无描述",
-        "language": {
-          "name": "TeX",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3992,
-          "forks": 632
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/320896847?v=4"
-        ],
-        "tags": [
-          "#TeX"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
         "language": {
@@ -42,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3211,
-          "forks": 362
+          "totalStars": 4535,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -53,47 +33,27 @@
         ]
       },
       {
+        "rank": 2,
+        "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+        "description": "暂无描述",
+        "language": {
+          "name": "TeX",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 4156,
+          "forks": 655
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/320896847?v=4"
+        ],
+        "tags": [
+          "#TeX"
+        ]
+      },
+      {
         "rank": 3,
-        "name": "wide-trace/open-higgsfield",
-        "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1075,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/321257738?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "bryllim/workout-guide",
-        "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-        "language": {
-          "name": "Astro",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1007,
-          "forks": 160
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/37092544?v=4"
-        ],
-        "tags": [
-          "#Astro"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "XiaoDuoYa/codex-with-chatgpt",
         "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
         "language": {
@@ -102,11 +62,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 994,
-          "forks": 113
+          "totalStars": 1468,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/113528266?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "MetaMask-AI/metamask-desktop",
+        "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+        "language": {
+          "name": "CSS",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1227,
+          "forks": 91
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/306329710?v=4"
+        ],
+        "tags": [
+          "#CSS"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "wide-trace/open-higgsfield",
+        "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1086,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/321257738?v=4"
         ],
         "tags": [
           "#TypeScript"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 912,
-          "forks": 60
+          "totalStars": 944,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -134,46 +134,6 @@
       },
       {
         "rank": 7,
-        "name": "amosblomqvist/learn",
-        "description": "My AI learning system.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 792,
-          "forks": 81
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/255718537?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "MetaMask-AI/metamask-desktop",
-        "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-        "language": {
-          "name": "CSS",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 777,
-          "forks": 91
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/306329710?v=4"
-        ],
-        "tags": [
-          "#CSS"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "Nanako0129/sepia",
         "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
         "language": {
@@ -182,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 698,
-          "forks": 38
+          "totalStars": 942,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
@@ -193,23 +153,63 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "yding-git/personal-edge-proxy",
-        "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+        "rank": 8,
+        "name": "tradecatlabs/shulihuazixuecongshu",
+        "description": "暂无描述",
         "language": {
-          "name": "Unknown",
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 806,
+          "forks": 158
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/288998340?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "jub0t/WolfCut",
+        "description": "Free & Open-Source CapCut replacement.",
+        "language": {
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 691,
-          "forks": 79
+          "totalStars": 733,
+          "forks": 55
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/266737355?v=4"
+          "https://avatars.githubusercontent.com/u/57962439?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "cbrock84/headcount",
+        "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+        "language": {
+          "name": "Markdown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 722,
+          "forks": 107
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15268570?v=4"
+        ],
+        "tags": [
+          "#Markdown"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3211,
-          "forks": 362
+          "totalStars": 4535,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 912,
-          "forks": 60
+          "totalStars": 944,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18461506?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 675,
-          "forks": 134
+          "totalStars": 806,
+          "forks": 158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288998340?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 557,
-          "forks": 43
+          "totalStars": 633,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36464332?v=4"
@@ -296,26 +296,6 @@
       },
       {
         "rank": 5,
-        "name": "lxf746/outlook-auto-register",
-        "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 552,
-          "forks": 271
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/216264444?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "breslee1707/VI-Translate",
         "description": "暂无描述",
         "language": {
@@ -324,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 415,
-          "forks": 78
+          "totalStars": 438,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199243521?v=4"
@@ -335,47 +315,27 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "damejan80/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 388,
+          "forks": 59
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15242181?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 7,
-        "name": "mouredev/hello-sdd",
-        "description": "Curso de SDD (Spec-Driven Development) desde cero",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 322,
-          "forks": 54
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17043402?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "oboroge0/hayamimi",
-        "description": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 307,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/202881821?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "hkqr/my-free-code",
         "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
         "language": {
@@ -384,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 275,
-          "forks": 96
+          "totalStars": 381,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153429021?v=4"
@@ -395,20 +355,60 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "Tencent-Hunyuan/Hy4-preview",
-        "description": "暂无描述",
+        "rank": 8,
+        "name": "mouredev/hello-sdd",
+        "description": "Curso de SDD (Spec-Driven Development) desde cero",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 13
+          "totalStars": 345,
+          "forks": 67
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/210980732?v=4"
+          "https://avatars.githubusercontent.com/u/17043402?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "oboroge0/hayamimi",
+        "description": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 312,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/202881821?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "buaacyw/code-world-model",
+        "description": "Code World Model  Official Repo",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 306,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/52091468?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
-          "forks": 43
+          "totalStars": 384,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121772140?v=4"
@@ -438,19 +438,19 @@
       },
       {
         "rank": 2,
-        "name": "czm15053/linuxdo-idea-ui",
-        "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+        "name": "PAICNI/CFBox",
+        "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 16
+          "totalStars": 178,
+          "forks": 85
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/266233731?v=4"
+          "https://avatars.githubusercontent.com/u/212681820?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -458,26 +458,6 @@
       },
       {
         "rank": 3,
-        "name": "yizhiyanhua-ai/fireworks-open-eli5",
-        "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 168,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/251871046?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
         "description": "暂无描述",
         "language": {
@@ -497,47 +477,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "zhuyifang/tonghuasun-agent",
-        "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 152,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16346219?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "achrefelouafi/LinearAbilityExtThreeJS",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 152,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46032561?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "GENEXIS-AI/gpt-image-skill",
         "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
         "language": {
@@ -546,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
+          "totalStars": 153,
           "forks": 18
         },
         "contributors": [
@@ -557,7 +497,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
         "name": "hassenbrahim/ValidatorMempool",
         "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
         "language": {
@@ -577,7 +517,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 6,
         "name": "fuad403273/ValidatorVault",
         "description": "ValidatorVault is a cloud-based data validation engine that leverages capabilities for real-time data verification on a robust platform.",
         "language": {
@@ -597,7 +537,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
         "name": "lxl0825/ComputeMempool",
         "description": "ComputeMempool: A Distributed Compute Manager leveraging real-time processing and auto-scaling for adaptive workload optimization.",
         "language": {
@@ -615,11 +555,91 @@
         "tags": [
           "#JavaScript"
         ]
+      },
+      {
+        "rank": 8,
+        "name": "lxl0825/RagRank",
+        "description": "RagRank utilizes real-time data ingestion and high-performance processing to modeling and anomaly detection on a scalable engine platform.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 116,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/172486021?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "fuad403273/CryptoPool",
+        "description": "A simple CryptoPool Platform for Predictive Analytics.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 116,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/211134650?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Belucking/ZkCanvas",
+        "description": "ZkCanvas provides a distributed, high-performance platform for real-time data processing and rendering, scalable across multiple server clusters.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 116,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/277704607?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
       }
     ],
     "C++": [
       {
         "rank": 1,
+        "name": "jlrouzies-fr/DLSS5-Feeder",
+        "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 289,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57990274?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "kandowontu/starfox-enhanced",
         "description": "A native 60 FPS PC source port built from the UltraStarFox codebase.",
         "language": {
@@ -628,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 140,
-          "forks": 10
+          "totalStars": 154,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/95717282?v=4"
@@ -639,7 +659,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "arcanite24/pinyon-shift",
         "description": "A playable preview of Forza Horizon static recompilation",
         "language": {
@@ -648,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
+          "totalStars": 130,
           "forks": 7
         },
         "contributors": [
@@ -659,67 +679,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "poncippg-spec/Free-Solace-ImGui-Interface",
-        "description": "Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 93,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/234292356?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 4,
-        "name": "ShizCalev/MGSPatriotFix",
-        "description": "This is bugfix mod for the Metal Gear Solid Master Collection: Volume 2 versions of MGS4 & MGS Peace Walker.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 75,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/6209658?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "N0zoM1z0/th08-web",
-        "description": "One browser tab. Two legal DAT files. One endless night. Source-built C++ → WebAssembly port of Touhou 8.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 70,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/161784452?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "NIGos/dlss5-dx11-bridge",
         "description": "Lets D3D12-only DLSS 5 Neural Rendering add-ons run in DirectX 11 games",
         "language": {
@@ -728,8 +688,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
-          "forks": 6
+          "totalStars": 129,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9080863?v=4"
@@ -739,20 +699,60 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Trentct/m5stack-stopwatch-avatar",
-        "description": "KK — a procedural 60fps avatar for the M5Stack StopWatch",
+        "rank": 5,
+        "name": "MSNightmare/GreenSection",
+        "description": "Nvidia GreenSection Memory Corruption 0day vulnerability",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
-          "forks": 8
+          "totalStars": 89,
+          "forks": 21
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/126957212?v=4"
+          "https://avatars.githubusercontent.com/u/291905677?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ShizCalev/MGSPatriotFix",
+        "description": "This is bugfix mod for the Metal Gear Solid Master Collection: Volume 2 versions of MGS4 & MGS Peace Walker.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 88,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6209658?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "dr3murr/steam2-winfsp",
+        "description": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 87,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46062054?v=4"
         ],
         "tags": [
           "#C++"
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 55,
+          "totalStars": 57,
           "forks": 5
         },
         "contributors": [
@@ -780,26 +780,6 @@
       },
       {
         "rank": 9,
-        "name": "jlrouzies-fr/DLSS5-Feeder",
-        "description": "DLSS 5 neural rendering in D3D11 games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + LaunchPad motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 54,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/57990274?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "MUJI0807/RK3588-Dual-Camera-AI-Perception-System",
         "description": "Real-time YOLOv5s + UNet on RK3588 with OpenCL GPU-accelerated lens undistortion. Dual-camera AI perception system for autonomous driving assistance.",
         "language": {
@@ -808,11 +788,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
+          "totalStars": 53,
           "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/186377189?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "edenswitch/Eden-Switch-Emulator",
+        "description": "Eden Nintendo Switch emulator - eden switch emulator, eden emulator apk, eden firmware, nintendo switch emulator, best switch emulator, yuzu fork, eden emulator windows, eden emulator android, eden emulator mac, nightly, 3200+ games, Vulkan. Download:🡇",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 52,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/311701521?v=4"
         ],
         "tags": [
           "#C++"
