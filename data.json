@@ -1,12 +1,13 @@
 {
-  "lastUpdate": "2026/08/31 04:46:13",
+  "lastUpdate": "2026/09/01 03:27:59",
   "charts": {
     "languageDistribution": {
       "Python": 3,
       "TeX": 1,
-      "TypeScript": 3,
+      "TypeScript": 2,
       "CSS": 1,
-      "Markdown": 1
+      "Markdown": 1,
+      "Rust": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4538,
-          "forks": 365
+          "totalStars": 5460,
+          "forks": 475
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -42,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4159,
-          "forks": 655
+          "totalStars": 4196,
+          "forks": 659
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/320896847?v=4"
@@ -62,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1492,
-          "forks": 163
+          "totalStars": 1901,
+          "forks": 201
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/113528266?v=4"
@@ -74,6 +75,26 @@
       },
       {
         "rank": 4,
+        "name": "Nanako0129/sepia",
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1254,
+          "forks": 73
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/44753291?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "MetaMask-AI/metamask-desktop",
         "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
         "language": {
@@ -93,7 +114,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "wide-trace/open-higgsfield",
         "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
         "language": {
@@ -102,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1091,
-          "forks": 15
+          "totalStars": 1147,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/321257738?v=4"
@@ -113,43 +134,23 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "Nanako0129/sepia",
-        "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "rank": 7,
+        "name": "cbrock84/headcount",
+        "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
         "language": {
-          "name": "Unknown",
+          "name": "Markdown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 967,
-          "forks": 59
+          "totalStars": 860,
+          "forks": 132
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/44753291?v=4"
+          "https://avatars.githubusercontent.com/u/15268570?v=4"
         ],
         "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Tencent/WeMM-Embedding",
-        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 946,
-          "forks": 66
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18461506?v=4"
-        ],
-        "tags": [
-          "#Python"
+          "#Markdown"
         ]
       },
       {
@@ -162,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 808,
-          "forks": 158
+          "totalStars": 830,
+          "forks": 160
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288998340?v=4"
@@ -174,42 +175,42 @@
       },
       {
         "rank": 9,
-        "name": "jub0t/WolfCut",
-        "description": "Free & Open-Source CapCut replacement.",
+        "name": "crmne/fastpotify",
+        "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
         "language": {
-          "name": "TypeScript",
+          "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 741,
-          "forks": 56
+          "totalStars": 767,
+          "forks": 42
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/57962439?v=4"
+          "https://avatars.githubusercontent.com/u/106617?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Rust"
         ]
       },
       {
         "rank": 10,
-        "name": "cbrock84/headcount",
-        "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+        "name": "damejan80/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
         "language": {
-          "name": "Markdown",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 736,
-          "forks": 107
+          "totalStars": 713,
+          "forks": 146
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/15268570?v=4"
+          "https://avatars.githubusercontent.com/u/15242181?v=4"
         ],
         "tags": [
-          "#Markdown"
+          "#Python"
         ]
       }
     ],
@@ -224,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4538,
-          "forks": 365
+          "totalStars": 5460,
+          "forks": 475
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -236,26 +237,6 @@
       },
       {
         "rank": 2,
-        "name": "Tencent/WeMM-Embedding",
-        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 946,
-          "forks": 66
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18461506?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "tradecatlabs/shulihuazixuecongshu",
         "description": "暂无描述",
         "language": {
@@ -264,11 +245,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 808,
-          "forks": 158
+          "totalStars": 830,
+          "forks": 160
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288998340?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "damejan80/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 713,
+          "forks": 146
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15242181?v=4"
         ],
         "tags": [
           "#Python"
@@ -284,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 634,
-          "forks": 51
+          "totalStars": 706,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36464332?v=4"
@@ -296,19 +297,19 @@
       },
       {
         "rank": 5,
-        "name": "breslee1707/VI-Translate",
-        "description": "暂无描述",
+        "name": "GangTailorUpgrade/CoomeRtool",
+        "description": "Coomer Tool",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
-          "forks": 81
+          "totalStars": 650,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/199243521?v=4"
+          "https://avatars.githubusercontent.com/u/270958586?v=4"
         ],
         "tags": [
           "#Python"
@@ -316,26 +317,6 @@
       },
       {
         "rank": 6,
-        "name": "damejan80/tokentab",
-        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 408,
-          "forks": 63
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/15242181?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "hkqr/my-free-code",
         "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
         "language": {
@@ -344,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 150
+          "totalStars": 615,
+          "forks": 211
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153429021?v=4"
@@ -355,7 +336,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "mouredev/hello-sdd",
         "description": "Curso de SDD (Spec-Driven Development) desde cero",
         "language": {
@@ -364,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 345,
-          "forks": 68
+          "totalStars": 377,
+          "forks": 78
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17043402?v=4"
@@ -375,27 +356,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "oboroge0/hayamimi",
-        "description": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.",
+        "rank": 8,
+        "name": "MirroS-Lab/Code-as-World",
+        "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
-          "forks": 22
+          "totalStars": 340,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/202881821?v=4"
+          "https://avatars.githubusercontent.com/u/314831110?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "buaacyw/code-world-model",
         "description": "Code World Model  Official Repo",
         "language": {
@@ -404,11 +385,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 308,
-          "forks": 12
+          "totalStars": 332,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52091468?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "amap-cvlab/ABot-Recon",
+        "description": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 319,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207984189?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
-          "forks": 47
+          "totalStars": 397,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121772140?v=4"
@@ -446,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 192,
-          "forks": 96
+          "totalStars": 358,
+          "forks": 185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212681820?v=4"
@@ -458,6 +459,26 @@
       },
       {
         "rank": 3,
+        "name": "Sac-Y/MiniMax-H3-Cloud",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 171,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/270291518?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
         "description": "暂无描述",
         "language": {
@@ -466,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 168,
           "forks": 134
         },
         "contributors": [
@@ -477,7 +498,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "GENEXIS-AI/gpt-image-skill",
         "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
         "language": {
@@ -486,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 153,
-          "forks": 18
+          "totalStars": 156,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131945398?v=4"
@@ -497,7 +518,27 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "name": "subsy/skill-cabinet",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 153,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7700461?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "hassenbrahim/ValidatorMempool",
         "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
         "language": {
@@ -517,7 +558,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 8,
         "name": "fuad403273/ValidatorVault",
         "description": "ValidatorVault is a cloud-based data validation engine that leverages capabilities for real-time data verification on a robust platform.",
         "language": {
@@ -537,7 +578,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "lxl0825/ComputeMempool",
         "description": "ComputeMempool: A Distributed Compute Manager leveraging real-time processing and auto-scaling for adaptive workload optimization.",
         "language": {
@@ -557,7 +598,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "lxl0825/RagRank",
         "description": "RagRank utilizes real-time data ingestion and high-performance processing to modeling and anomaly detection on a scalable engine platform.",
         "language": {
@@ -575,46 +616,6 @@
         "tags": [
           "#JavaScript"
         ]
-      },
-      {
-        "rank": 9,
-        "name": "fuad403273/CryptoPool",
-        "description": "A simple CryptoPool Platform for Predictive Analytics.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 116,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/211134650?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Belucking/ZkCanvas",
-        "description": "ZkCanvas provides a distributed, high-performance platform for real-time data processing and rendering, scalable across multiple server clusters.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 116,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/277704607?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
       }
     ],
     "C++": [
@@ -628,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 294,
-          "forks": 13
+          "totalStars": 429,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57990274?v=4"
@@ -640,36 +641,16 @@
       },
       {
         "rank": 2,
-        "name": "kandowontu/starfox-enhanced",
-        "description": "A native 60 FPS PC source port built from the UltraStarFox codebase.",
+        "name": "NIGos/dlss5-bridge",
+        "description": "DLSS 5 Neural Rendering in DirectX 11 and Vulkan games - and in games with no DLSS at all, using the NVIDIA driver's optical flow. v1.3.0 is the last release.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 156,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/95717282?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "NIGos/dlss5-dx11-bridge",
-        "description": "Lets D3D12-only DLSS 5 Neural Rendering add-ons run in DirectX 11 games",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 133,
-          "forks": 10
+          "totalStars": 155,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9080863?v=4"
@@ -679,27 +660,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "arcanite24/pinyon-shift",
-        "description": "A playable preview of Forza Horizon static recompilation",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 130,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3642929?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "MSNightmare/GreenSection",
         "description": "Nvidia GreenSection Memory Corruption 0day vulnerability",
         "language": {
@@ -708,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 90,
-          "forks": 22
+          "totalStars": 109,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -719,7 +680,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "dr3murr/steam2-winfsp",
         "description": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
         "language": {
@@ -728,8 +689,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
-          "forks": 9
+          "totalStars": 107,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46062054?v=4"
@@ -739,7 +700,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "ShizCalev/MGSPatriotFix",
         "description": "This is bugfix mod for the Metal Gear Solid Master Collection: Volume 2 versions of MGS4 & MGS Peace Walker.",
         "language": {
@@ -748,8 +709,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 88,
-          "forks": 6
+          "totalStars": 97,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6209658?v=4"
@@ -759,8 +720,48 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "localai-org/skin-tokens.cpp",
+        "description": "C++/GGML conversion of VAST-AI SkinTokens; Auto rigs a mesh ready for animation",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 91,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/260893928?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
+        "description": "Game Optimizer (CPUs Threads Optimizer) - Windows tray app that pins games to the right CPU cache complex using the Windows CPU Sets API. No affinity masks, no SMT disable, no BIOS changes.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 82,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/110186184?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
         "rank": 8,
-        "name": "dubrovskiy-yevhen-stakelogic/gta-sa-vr-quest",
+        "name": "mattrajops2093d5/Meccha-CamoFlage",
         "description": "暂无描述",
         "language": {
           "name": "C++",
@@ -768,11 +769,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 57,
-          "forks": 5
+          "totalStars": 81,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/19537599?v=4"
+          "https://avatars.githubusercontent.com/u/278892903?v=4"
         ],
         "tags": [
           "#C++"
@@ -780,19 +781,19 @@
       },
       {
         "rank": 9,
-        "name": "MUJI0807/RK3588-Dual-Camera-AI-Perception-System",
-        "description": "Real-time YOLOv5s + UNet on RK3588 with OpenCL GPU-accelerated lens undistortion. Dual-camera AI perception system for autonomous driving assistance.",
+        "name": "chrissotraidis/kartpad",
+        "description": "Mario Kart Wii, native for iOS, iPadOS, and MacOS.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 53,
-          "forks": 2
+          "totalStars": 72,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/186377189?v=4"
+          "https://avatars.githubusercontent.com/u/56282582?v=4"
         ],
         "tags": [
           "#C++"
@@ -800,19 +801,19 @@
       },
       {
         "rank": 10,
-        "name": "edenswitch/Eden-Switch-Emulator",
-        "description": "Eden Nintendo Switch emulator - eden switch emulator, eden emulator apk, eden firmware, nintendo switch emulator, best switch emulator, yuzu fork, eden emulator windows, eden emulator android, eden emulator mac, nightly, 3200+ games, Vulkan. Download:🡇",
+        "name": "yellowkeycve2026/YellowKey-BitLocker-CVE-2026-45585",
+        "description": "YellowKey BitLocker recovery - bitlocker yellowkey, yellowkey bitlocker, CVE-2026-45585, yellowkey github, yellowkey vulnerability, yellowkey CVE, TPM, BitLocker recovery key backup, Windows 10/11, CLI GUI, portable audit tool. Download:🡇",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 1
+          "totalStars": 64,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/311701521?v=4"
+          "https://avatars.githubusercontent.com/u/253658607?v=4"
         ],
         "tags": [
           "#C++"
