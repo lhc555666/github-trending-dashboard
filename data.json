@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/02 02:45:55",
+  "lastUpdate": "2026/09/02 03:49:39",
   "charts": {
     "languageDistribution": {
       "Python": 6,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6234,
-          "forks": 521
+          "totalStars": 6261,
+          "forks": 523
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2151,
+          "totalStars": 2156,
           "forks": 218
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1561,
-          "forks": 64
+          "totalStars": 1576,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/106617?v=4"
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1362,
+          "totalStars": 1367,
           "forks": 82
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 961,
+          "totalStars": 964,
           "forks": 150
         },
         "contributors": [
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 887,
+          "totalStars": 891,
           "forks": 73
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
+          "totalStars": 848,
           "forks": 160
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 827,
+          "totalStars": 833,
           "forks": 1
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6234,
-          "forks": 521
+          "totalStars": 6261,
+          "forks": 523
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/188930505?v=4"
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1362,
+          "totalStars": 1367,
           "forks": 82
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 887,
+          "totalStars": 891,
           "forks": 73
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 847,
+          "totalStars": 848,
           "forks": 160
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 827,
+          "totalStars": 833,
           "forks": 1
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 549,
+          "totalStars": 559,
           "forks": 52
         },
         "contributors": [
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 398,
+          "totalStars": 399,
           "forks": 83
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
+          "totalStars": 375,
           "forks": 24
         },
         "contributors": [
@@ -479,14 +479,14 @@
       {
         "rank": 4,
         "name": "rakanki911/DLSS5-Swapper",
-        "description": "DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+        "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
+          "totalStars": 244,
           "forks": 16
         },
         "contributors": [
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
-          "forks": 17
+          "totalStars": 184,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270291518?v=4"
@@ -546,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
-          "forks": 35
+          "totalStars": 143,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/161403481?v=4"
@@ -566,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
-          "forks": 6
+          "totalStars": 125,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14249262?v=4"
@@ -606,8 +606,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 115,
-          "forks": 11
+          "totalStars": 116,
+          "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25977?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 520,
+          "totalStars": 523,
           "forks": 24
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
+          "totalStars": 174,
           "forks": 14
         },
         "contributors": [
@@ -668,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
-          "forks": 4
+          "totalStars": 163,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258147599?v=4"
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 102,
+          "totalStars": 103,
           "forks": 7
         },
         "contributors": [
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 47,
+          "totalStars": 50,
           "forks": 4
         },
         "contributors": [
