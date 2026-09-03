@@ -1,12 +1,14 @@
 {
-  "lastUpdate": "2026/09/02 03:49:39",
+  "lastUpdate": "2026/09/03 02:51:57",
   "charts": {
     "languageDistribution": {
-      "Python": 6,
-      "TypeScript": 1,
-      "Rust": 1,
+      "TypeScript": 2,
+      "Python": 3,
       "CSS": 1,
-      "Markdown": 1
+      "Markdown": 1,
+      "Go": 1,
+      "JavaScript": 1,
+      "C++": 1
     },
     "starGrowth": {}
   },
@@ -14,26 +16,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "sapientinc/PRAXIST",
-        "description": "Autonomous research system for measurable, computer-executable research.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6261,
-          "forks": 523
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/188930505?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "XiaoDuoYa/codex-with-chatgpt",
         "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
         "language": {
@@ -42,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2156,
-          "forks": 218
+          "totalStars": 2287,
+          "forks": 237
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/113528266?v=4"
@@ -53,27 +35,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "crmne/fastpotify",
-        "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1576,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/106617?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "Nanako0129/sepia",
         "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
         "language": {
@@ -82,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1367,
-          "forks": 82
+          "totalStars": 1618,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
@@ -93,7 +55,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "MetaMask-AI/metamask-desktop",
         "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
         "language": {
@@ -102,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1229,
+          "totalStars": 1230,
           "forks": 91
         },
         "contributors": [
@@ -113,27 +75,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "damejan80/tokentab",
-        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1139,
-          "forks": 210
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/15242181?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "cbrock84/headcount",
         "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
         "language": {
@@ -142,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 964,
-          "forks": 150
+          "totalStars": 1121,
+          "forks": 177
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15268570?v=4"
@@ -153,60 +95,120 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "jprx/darwin-vm",
-        "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+        "rank": 5,
+        "name": "GangTailorUpgrade/undress-service",
+        "description": "Dress AI Sponsor",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 891,
-          "forks": 73
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/36464332?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "tradecatlabs/shulihuazixuecongshu",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 848,
-          "forks": 160
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288998340?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "GangTailorUpgrade/CoomeRtool",
-        "description": "Coomer Tool",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 833,
+          "totalStars": 935,
           "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270958586?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "chrisgreg/boop",
+        "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 687,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5280429?v=4"
+        ],
+        "tags": [
+          "#Go"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "rakanki911/DLSS5-Swapper",
+        "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 660,
+          "forks": 37
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/199753947?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "shadcn-ui/cn",
+        "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 611,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/139895814?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "jlrouzies-fr/DLSS5-Feeder",
+        "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 603,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57990274?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "2akouwu/reverify",
+        "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 590,
+          "forks": 123
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/14812897?v=4"
         ],
         "tags": [
           "#Python"
@@ -216,26 +218,6 @@
     "Python": [
       {
         "rank": 1,
-        "name": "sapientinc/PRAXIST",
-        "description": "Autonomous research system for measurable, computer-executable research.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6261,
-          "forks": 523
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/188930505?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Nanako0129/sepia",
         "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
         "language": {
@@ -244,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1367,
-          "forks": 82
+          "totalStars": 1618,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
@@ -255,76 +237,16 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "damejan80/tokentab",
-        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "rank": 2,
+        "name": "GangTailorUpgrade/undress-service",
+        "description": "Dress AI Sponsor",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1139,
-          "forks": 210
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/15242181?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "jprx/darwin-vm",
-        "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 891,
-          "forks": 73
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/36464332?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "tradecatlabs/shulihuazixuecongshu",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 848,
-          "forks": 160
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/288998340?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "GangTailorUpgrade/CoomeRtool",
-        "description": "Coomer Tool",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 833,
+          "totalStars": 935,
           "forks": 1
         },
         "contributors": [
@@ -335,20 +257,100 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "hkqr/my-free-code",
-        "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+        "rank": 3,
+        "name": "2akouwu/reverify",
+        "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 618,
-          "forks": 211
+          "totalStars": 590,
+          "forks": 123
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/153429021?v=4"
+          "https://avatars.githubusercontent.com/u/14812897?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "anthropics/commerce-agents",
+        "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 494,
+          "forks": 79
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76263028?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "fanhao375/microduck-replica",
+        "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 363,
+          "forks": 65
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/217579079?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "lightorigins/LightNav-0",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 353,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/182771143?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "siknet/FreePEP",
+        "description": "人教社电子教材下载器",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 312,
+          "forks": 44
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/32444042?v=4"
         ],
         "tags": [
           "#Python"
@@ -356,19 +358,19 @@
       },
       {
         "rank": 8,
-        "name": "brayonpi/hexstellar",
-        "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+        "name": "Merserk/dlss5-visual-enhancer",
+        "description": "DLSS 5 Neural Video & Image Enhancer",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 559,
-          "forks": 52
+          "totalStars": 289,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/100501194?v=4"
+          "https://avatars.githubusercontent.com/u/119538451?v=4"
         ],
         "tags": [
           "#Python"
@@ -376,19 +378,19 @@
       },
       {
         "rank": 9,
-        "name": "mouredev/hello-sdd",
-        "description": "Curso de SDD (Spec-Driven Development) desde cero",
+        "name": "ZJU-REAL/Easel",
+        "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 399,
-          "forks": 83
+          "totalStars": 246,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/17043402?v=4"
+          "https://avatars.githubusercontent.com/u/203928864?v=4"
         ],
         "tags": [
           "#Python"
@@ -396,19 +398,19 @@
       },
       {
         "rank": 10,
-        "name": "amap-cvlab/ABot-Recon",
-        "description": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+        "name": "reactor-team/infinite-livestream",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 375,
-          "forks": 24
+          "totalStars": 203,
+          "forks": 32
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/207984189?v=4"
+          "https://avatars.githubusercontent.com/u/216609888?v=4"
         ],
         "tags": [
           "#Python"
@@ -418,19 +420,19 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "OnlyTerp/opengrok",
-        "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+        "name": "rakanki911/DLSS5-Swapper",
+        "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 409,
-          "forks": 51
+          "totalStars": 660,
+          "forks": 37
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121772140?v=4"
+          "https://avatars.githubusercontent.com/u/199753947?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -446,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
-          "forks": 2
+          "totalStars": 523,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/293915860?v=4"
@@ -466,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
-          "forks": 19
+          "totalStars": 364,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7700461?v=4"
@@ -478,19 +480,19 @@
       },
       {
         "rank": 4,
-        "name": "rakanki911/DLSS5-Swapper",
-        "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+        "name": "TetreesEX/TetreesAgent_EX",
+        "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 244,
-          "forks": 16
+          "totalStars": 245,
+          "forks": 244
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/199753947?v=4"
+          "https://avatars.githubusercontent.com/u/322403924?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -506,8 +508,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 184,
-          "forks": 18
+          "totalStars": 185,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270291518?v=4"
@@ -518,19 +520,19 @@
       },
       {
         "rank": 6,
-        "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
-        "description": "暂无描述",
+        "name": "joeseesun/qiaomu-book-reader",
+        "description": "中文优先的 Obsidian 电子书阅读器 | Chinese-first EPUB, FB2 and PDF reader for Obsidian.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 134
+          "totalStars": 136,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314929811?v=4"
+          "https://avatars.githubusercontent.com/u/3236682?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -538,26 +540,6 @@
       },
       {
         "rank": 7,
-        "name": "kenowong/math-mastery",
-        "description": "中小学数学方法融会贯通 · 纯前端零依赖 · 参数化随机出题引擎",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 143,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/161403481?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "fireinrain/JHS-enhance",
         "description": "JHS-enhance 脚本，优化你的老司机体验",
         "language": {
@@ -566,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 125,
-          "forks": 7
+          "totalStars": 132,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14249262?v=4"
@@ -577,27 +559,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "TetreesEX/TetreesAgent_EX",
-        "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+        "rank": 8,
+        "name": "suihe1/short-drama-production",
+        "description": "AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 116
+          "totalStars": 129,
+          "forks": 17
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/322403924?v=4"
+          "https://avatars.githubusercontent.com/u/24429032?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "camilleroux/genart-skill",
         "description": "Generative art skill for Claude Code — deterministic, hash-seeded, onchain-ready",
         "language": {
@@ -606,11 +588,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 116,
+          "totalStars": 122,
           "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25977?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "yczz/oc-english",
+        "description": "养成类游戏英语学习",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 119,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8897432?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 523,
-          "forks": 24
+          "totalStars": 603,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57990274?v=4"
@@ -641,15 +643,15 @@
       {
         "rank": 2,
         "name": "NIGos/dlss5-bridge",
-        "description": "DLSS 5 Neural Rendering in DirectX 11 and Vulkan games - and in games with no DLSS at all, using the NVIDIA driver's optical flow. v1.3.0 is the last release.",
+        "description": "DLSS 5 Neural Rendering in DirectX 11 and Vulkan games, and optionally in games with no DLSS via NVIDIA Optical Flow (lower quality). A ReShade add-on.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 174,
-          "forks": 14
+          "totalStars": 200,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9080863?v=4"
@@ -668,8 +670,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
-          "forks": 5
+          "totalStars": 197,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258147599?v=4"
@@ -688,8 +690,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 9
+          "totalStars": 152,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260893928?v=4"
@@ -708,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 116,
+          "totalStars": 121,
           "forks": 11
         },
         "contributors": [
@@ -728,8 +730,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 113,
-          "forks": 26
+          "totalStars": 114,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -740,19 +742,19 @@
       },
       {
         "rank": 7,
-        "name": "ShizCalev/MGSPatriotFix",
-        "description": "This is bugfix mod for the Metal Gear Solid Master Collection: Volume 2 versions of MGS4 & MGS Peace Walker.",
+        "name": "lisitskyaa/ComfyUI-DLSS5-NR",
+        "description": "Experimental support of DLSS 5 in ComfyUI",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
-          "forks": 7
+          "totalStars": 105,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/6209658?v=4"
+          "https://avatars.githubusercontent.com/u/203462701?v=4"
         ],
         "tags": [
           "#C++"
@@ -768,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 101,
+          "totalStars": 102,
           "forks": 8
         },
         "contributors": [
@@ -780,26 +782,6 @@
       },
       {
         "rank": 9,
-        "name": "lisitskyaa/ComfyUI-DLSS5-NR",
-        "description": "Experimental support of DLSS 5 in ComfyUI",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 56,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203462701?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "dashdogy/RTX40MFG-Unlock",
         "description": "Experimental DLSS Multi Frame Generation controls for Cyberpunk 2077 on RTX 40 series GPUs",
         "language": {
@@ -808,11 +790,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 50,
-          "forks": 4
+          "totalStars": 100,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/40410952?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "tearhacker/UE4Dump_imGui_AnalyseToolsForMCP",
+        "description": "泪心UE4Dump逆向分析MCP工具",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 64,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/182121889?v=4"
         ],
         "tags": [
           "#C++"
