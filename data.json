@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/03 02:51:57",
+  "lastUpdate": "2026/09/03 03:49:08",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2287,
-          "forks": 237
+          "totalStars": 2293,
+          "forks": 238
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/113528266?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1618,
-          "forks": 94
+          "totalStars": 1637,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1121,
-          "forks": 177
+          "totalStars": 1123,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/15268570?v=4"
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 935,
+          "totalStars": 942,
           "forks": 1
         },
         "contributors": [
@@ -144,8 +144,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 660,
-          "forks": 37
+          "totalStars": 679,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199753947?v=4"
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 611,
+          "totalStars": 629,
           "forks": 4
         },
         "contributors": [
@@ -184,7 +184,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
+          "totalStars": 607,
           "forks": 28
         },
         "contributors": [
@@ -204,7 +204,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 590,
+          "totalStars": 595,
           "forks": 123
         },
         "contributors": [
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1618,
-          "forks": 94
+          "totalStars": 1637,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44753291?v=4"
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 935,
+          "totalStars": 942,
           "forks": 1
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 590,
+          "totalStars": 595,
           "forks": 123
         },
         "contributors": [
@@ -286,8 +286,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 494,
-          "forks": 79
+          "totalStars": 557,
+          "forks": 89
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 363,
-          "forks": 65
+          "totalStars": 368,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/217579079?v=4"
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 353,
-          "forks": 23
+          "totalStars": 358,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/182771143?v=4"
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
+          "totalStars": 315,
           "forks": 44
         },
         "contributors": [
@@ -359,15 +359,15 @@
       {
         "rank": 8,
         "name": "Merserk/dlss5-visual-enhancer",
-        "description": "DLSS 5 Neural Video & Image Enhancer",
+        "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
-          "forks": 27
+          "totalStars": 292,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119538451?v=4"
@@ -386,8 +386,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 246,
-          "forks": 29
+          "totalStars": 256,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203928864?v=4"
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 660,
-          "forks": 37
+          "totalStars": 679,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199753947?v=4"
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 523,
-          "forks": 3
+          "totalStars": 546,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/293915860?v=4"
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 364,
-          "forks": 24
+          "totalStars": 367,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7700461?v=4"
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
+          "totalStars": 137,
           "forks": 16
         },
         "contributors": [
@@ -560,6 +560,26 @@
       },
       {
         "rank": 8,
+        "name": "yczz/oc-english",
+        "description": "养成类游戏英语学习",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 129,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8897432?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "suihe1/short-drama-production",
         "description": "AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。",
         "language": {
@@ -579,7 +599,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "camilleroux/genart-skill",
         "description": "Generative art skill for Claude Code — deterministic, hash-seeded, onchain-ready",
         "language": {
@@ -588,31 +608,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
-          "forks": 12
+          "totalStars": 125,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25977?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "yczz/oc-english",
-        "description": "养成类游戏英语学习",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 119,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8897432?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
+          "totalStars": 607,
           "forks": 28
         },
         "contributors": [
@@ -642,6 +642,26 @@
       },
       {
         "rank": 2,
+        "name": "tsouth89/omakade",
+        "description": "A beautiful, local-first game library built for Omarchy.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 200,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/258147599?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "NIGos/dlss5-bridge",
         "description": "DLSS 5 Neural Rendering in DirectX 11 and Vulkan games, and optionally in games with no DLSS via NVIDIA Optical Flow (lower quality). A ReShade add-on.",
         "language": {
@@ -661,26 +681,6 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "tsouth89/omakade",
-        "description": "A beautiful, local-first game library built for Omarchy.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 197,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/258147599?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 4,
         "name": "localai-org/skin-tokens.cpp",
         "description": "C++/GGML conversion of VAST-AI SkinTokens; Auto rigs a mesh ready for animation",
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
+          "totalStars": 154,
           "forks": 10
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 105,
+          "totalStars": 106,
           "forks": 15
         },
         "contributors": [
@@ -770,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 102,
+          "totalStars": 103,
           "forks": 8
         },
         "contributors": [
@@ -790,7 +790,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
+          "totalStars": 103,
           "forks": 9
         },
         "contributors": [
