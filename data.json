@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/04 02:49:14",
+  "lastUpdate": "2026/09/04 03:50:25",
   "charts": {
     "languageDistribution": {
       "Python": 4,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1603,
-          "forks": 257
+          "totalStars": 1635,
+          "forks": 262
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1112,
+          "totalStars": 1130,
           "forks": 49
         },
         "contributors": [
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1018,
+          "totalStars": 1019,
           "forks": 1
         },
         "contributors": [
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 976,
+          "totalStars": 985,
           "forks": 7
         },
         "contributors": [
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 167
+          "totalStars": 806,
+          "forks": 168
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14812897?v=4"
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 671,
+          "totalStars": 673,
           "forks": 31
         },
         "contributors": [
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 512,
-          "forks": 29
+          "totalStars": 541,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187016380?v=4"
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 113
+          "totalStars": 432,
+          "forks": 116
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 419,
+          "totalStars": 422,
           "forks": 9
         },
         "contributors": [
@@ -203,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 36
+          "totalStars": 398,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119538451?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1603,
-          "forks": 257
+          "totalStars": 1635,
+          "forks": 262
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1018,
+          "totalStars": 1019,
           "forks": 1
         },
         "contributors": [
@@ -265,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 167
+          "totalStars": 806,
+          "forks": 168
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14812897?v=4"
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 36
+          "totalStars": 398,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/119538451?v=4"
@@ -325,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
-          "forks": 24
+          "totalStars": 301,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/268553699?v=4"
@@ -385,7 +385,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
+          "totalStars": 207,
           "forks": 29
         },
         "contributors": [
@@ -397,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "OpenVDN/vdn-minimax-h3",
-        "description": "暂无描述",
+        "name": "op7418/guizang-yingzao-skill",
+        "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
-          "forks": 11
+          "totalStars": 203,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/322941999?v=4"
+          "https://avatars.githubusercontent.com/u/13505770?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1112,
+          "totalStars": 1130,
           "forks": 49
         },
         "contributors": [
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
+          "totalStars": 392,
           "forks": 17
         },
         "contributors": [
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
+          "totalStars": 243,
           "forks": 18
         },
         "contributors": [
@@ -527,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
+          "totalStars": 192,
           "forks": 11
         },
         "contributors": [
@@ -547,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
+          "totalStars": 190,
           "forks": 20
         },
         "contributors": [
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 184,
+          "totalStars": 187,
           "forks": 18
         },
         "contributors": [
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 165,
+          "totalStars": 166,
           "forks": 8
         },
         "contributors": [
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "suihe1/short-drama-production",
-        "description": "AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。",
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 19
+          "totalStars": 145,
+          "forks": 17
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/24429032?v=4"
+          "https://avatars.githubusercontent.com/u/11807284?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 671,
+          "totalStars": 673,
           "forks": 31
         },
         "contributors": [
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 220,
+          "totalStars": 221,
           "forks": 10
         },
         "contributors": [
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
+          "totalStars": 143,
           "forks": 11
         },
         "contributors": [
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 125,
           "forks": 11
         },
         "contributors": [
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 104,
+          "totalStars": 108,
           "forks": 8
         },
         "contributors": [
