@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/05 02:51:10",
+  "lastUpdate": "2026/09/05 03:48:21",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2103,
-          "forks": 147
+          "totalStars": 2161,
+          "forks": 157
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187016380?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1939,
-          "forks": 320
+          "totalStars": 1944,
+          "forks": 323
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -61,7 +61,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1108,
+          "totalStars": 1112,
           "forks": 7
         },
         "contributors": [
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 891,
+          "totalStars": 890,
           "forks": 191
         },
         "contributors": [
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 504,
-          "forks": 132
+          "totalStars": 506,
+          "forks": 133
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 491,
+          "totalStars": 493,
           "forks": 39
         },
         "contributors": [
@@ -173,26 +173,6 @@
       },
       {
         "rank": 9,
-        "name": "codejunkie99/fable-orchestrator",
-        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-        "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 471,
-          "forks": 85
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52658655?v=4"
-        ],
-        "tags": [
-          "#Shell"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "danielblnc/DLSS-NR-on-AMD",
         "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
         "language": {
@@ -201,14 +181,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
-          "forks": 18
+          "totalStars": 483,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60046864?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "codejunkie99/fable-orchestrator",
+        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 473,
+          "forks": 87
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/52658655?v=4"
+        ],
+        "tags": [
+          "#Shell"
         ]
       }
     ],
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1939,
-          "forks": 320
+          "totalStars": 1944,
+          "forks": 323
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 891,
+          "totalStars": 890,
           "forks": 191
         },
         "contributors": [
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 491,
+          "totalStars": 493,
           "forks": 39
         },
         "contributors": [
@@ -323,7 +323,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 430,
+          "totalStars": 433,
           "forks": 33
         },
         "contributors": [
@@ -343,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
-          "forks": 49
+          "totalStars": 336,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32444042?v=4"
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 321,
+          "totalStars": 322,
           "forks": 28
         },
         "contributors": [
@@ -376,7 +376,7 @@
       {
         "rank": 9,
         "name": "kydlikebtc/awesome-grokbot",
-        "description": "440 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+        "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
@@ -403,7 +403,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 259,
+          "totalStars": 260,
           "forks": 16
         },
         "contributors": [
@@ -465,7 +465,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
+          "totalStars": 344,
           "forks": 40
         },
         "contributors": [
@@ -505,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 220,
+          "totalStars": 222,
           "forks": 15
         },
         "contributors": [
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
+          "totalStars": 220,
           "forks": 8
         },
         "contributors": [
@@ -565,8 +565,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 198,
-          "forks": 339
+          "totalStars": 203,
+          "forks": 354
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300279924?v=4"
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 255,
+          "totalStars": 256,
           "forks": 11
         },
         "contributors": [
@@ -679,6 +679,26 @@
       },
       {
         "rank": 4,
+        "name": "DaniilSokolyuk/video2dlssnr",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 91,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2946286?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "ishtms/OpenPocketBaseSDK",
         "description": "PocketBase SDK for Unreal Engine with Blueprint and C++ APIs for records, authentication, files, realtime, batch operations, and admin tooling.",
         "language": {
@@ -692,26 +712,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30657558?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "DaniilSokolyuk/video2dlssnr",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 90,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2946286?v=4"
         ],
         "tags": [
           "#C++"
@@ -768,7 +768,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 57,
-          "forks": 4
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/227399916?v=4"
