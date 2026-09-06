@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/09/05 03:48:21",
+  "lastUpdate": "2026/09/06 02:49:33",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
-      "Python": 5,
-      "C": 1,
-      "Shell": 1
+      "Python": 4,
+      "JavaScript": 1,
+      "Lean": 1,
+      "C": 1
     },
     "starGrowth": {}
   },
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2161,
-          "forks": 157
+          "totalStars": 3765,
+          "forks": 319
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187016380?v=4"
@@ -41,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1944,
-          "forks": 323
+          "totalStars": 2059,
+          "forks": 349
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -61,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1112,
-          "forks": 7
+          "totalStars": 1173,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139895814?v=4"
@@ -81,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1060,
+          "totalStars": 1094,
           "forks": 1
         },
         "contributors": [
@@ -94,15 +95,15 @@
       {
         "rank": 5,
         "name": "2akouwu/reverify",
-        "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+        "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 890,
-          "forks": 191
+          "totalStars": 925,
+          "forks": 199
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14812897?v=4"
@@ -113,6 +114,66 @@
       },
       {
         "rank": 6,
+        "name": "yczz/oc-english",
+        "description": "养成类游戏英语学习",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 823,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8897432?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "anthropics/fermats-last-theorem",
+        "description": "暂无描述",
+        "language": {
+          "name": "Lean",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 703,
+          "forks": 51
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76263028?v=4"
+        ],
+        "tags": [
+          "#Lean"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "danielblnc/DLSS-NR-on-AMD",
+        "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 660,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/60046864?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "nahrek/polyledger",
         "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
         "language": {
@@ -121,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 614,
+          "totalStars": 620,
           "forks": 109
         },
         "contributors": [
@@ -132,7 +193,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 10,
         "name": "MSNightmare/FalconFlank",
         "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
         "language": {
@@ -141,74 +202,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 506,
-          "forks": 133
+          "totalStars": 515,
+          "forks": 136
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
         ],
         "tags": [
           "#C"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Merserk/dlss5-visual-enhancer",
-        "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 493,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/119538451?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "danielblnc/DLSS-NR-on-AMD",
-        "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 483,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/60046864?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "codejunkie99/fable-orchestrator",
-        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-        "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 473,
-          "forks": 87
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52658655?v=4"
-        ],
-        "tags": [
-          "#Shell"
         ]
       }
     ],
@@ -223,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1944,
-          "forks": 323
+          "totalStars": 2059,
+          "forks": 349
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -243,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1060,
+          "totalStars": 1094,
           "forks": 1
         },
         "contributors": [
@@ -256,15 +257,15 @@
       {
         "rank": 3,
         "name": "2akouwu/reverify",
-        "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+        "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 890,
-          "forks": 191
+          "totalStars": 925,
+          "forks": 199
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14812897?v=4"
@@ -283,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 614,
+          "totalStars": 620,
           "forks": 109
         },
         "contributors": [
@@ -295,26 +296,6 @@
       },
       {
         "rank": 5,
-        "name": "Merserk/dlss5-visual-enhancer",
-        "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 493,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/119538451?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Human-Agent-Society/reef",
         "description": "Continual learning infra for self-improving agents",
         "language": {
@@ -323,11 +304,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 433,
-          "forks": 33
+          "totalStars": 483,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/268553699?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 456,
+          "forks": 200
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/184370191?v=4"
         ],
         "tags": [
           "#Python"
@@ -343,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 336,
-          "forks": 50
+          "totalStars": 414,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32444042?v=4"
@@ -363,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
-          "forks": 28
+          "totalStars": 342,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -383,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
+          "totalStars": 325,
           "forks": 16
         },
         "contributors": [
@@ -395,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "OpenVDN/vdn-minimax-h3",
-        "description": "暂无描述",
+        "name": "byJoey/warp-masque-actions",
+        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 260,
-          "forks": 16
+          "totalStars": 279,
+          "forks": 1153
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/322941999?v=4"
+          "https://avatars.githubusercontent.com/u/36790372?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,6 +418,46 @@
     "JavaScript": [
       {
         "rank": 1,
+        "name": "yczz/oc-english",
+        "description": "养成类游戏英语学习",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 823,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8897432?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 446,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11807284?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "PhiloLabs/fable51-worlds",
         "description": "worlds via code, from fable 5.1",
         "language": {
@@ -425,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 426,
-          "forks": 20
+          "totalStars": 438,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260782224?v=4"
@@ -436,7 +477,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 4,
         "name": "subsy/skill-cabinet",
         "description": "暂无描述",
         "language": {
@@ -445,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 389,
+          "totalStars": 395,
           "forks": 25
         },
         "contributors": [
@@ -456,27 +497,27 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "ahujasid/camera-to-blender",
-        "description": "Take a photo of real objects, and paste them in Blender",
+        "rank": 5,
+        "name": "KJGX66F/usque-custom-pro",
+        "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
-          "forks": 40
+          "totalStars": 306,
+          "forks": 512
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/11807284?v=4"
+          "https://avatars.githubusercontent.com/u/300279924?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 4,
+        "rank": 6,
         "name": "dreamers-laboratory/image-to-3d-pipeline",
         "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
         "language": {
@@ -485,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 301,
-          "forks": 26
+          "totalStars": 302,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26134839?v=4"
@@ -496,7 +537,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 7,
         "name": "gozen3ji/consulting-pptx-skill",
         "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
         "language": {
@@ -505,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
-          "forks": 15
+          "totalStars": 239,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32775031?v=4"
@@ -516,60 +557,20 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "yczz/oc-english",
-        "description": "养成类游戏英语学习",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 220,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8897432?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "name": "joeseesun/qiaomu-book-reader",
-        "description": "中文优先的 Obsidian 电子书阅读器 | Chinese-first EPUB, FB2 and PDF reader for Obsidian.",
+        "description": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
-          "forks": 20
+          "totalStars": 225,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3236682?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "KJGX66F/usque-custom-pro",
-        "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 203,
-          "forks": 354
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/300279924?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -585,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 156,
-          "forks": 50
+          "totalStars": 167,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8302364?v=4"
@@ -597,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "suihe1/short-drama-production",
-        "description": "AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。",
+        "name": "adtexterry-lgtm/unigit-ecosystem",
+        "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
-          "forks": 20
+          "totalStars": 143,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/24429032?v=4"
+          "https://avatars.githubusercontent.com/u/317701536?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,6 +620,26 @@
     "C++": [
       {
         "rank": 1,
+        "name": "sebbbi/NoGraphicsAPI",
+        "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 449,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8530705?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "btsouth/omakade",
         "description": "A beautiful, local-first game library built for Omarchy.",
         "language": {
@@ -627,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
-          "forks": 11
+          "totalStars": 280,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258147599?v=4"
@@ -638,7 +659,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "lisitskyaa/ComfyUI-DLSS5-NR",
         "description": "Experimental support of DLSS 5 in ComfyUI",
         "language": {
@@ -647,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133,
+          "totalStars": 136,
           "forks": 15
         },
         "contributors": [
@@ -658,7 +679,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "localai-org/motion-bricks.cpp",
         "description": "NVIDIA MotionBricks ported to GGML/C++; dynamically generates animations from keyframes using a neural network. Can be used in games or with robots",
         "language": {
@@ -667,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 132,
           "forks": 9
         },
         "contributors": [
@@ -678,7 +699,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "DaniilSokolyuk/video2dlssnr",
         "description": "暂无描述",
         "language": {
@@ -687,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
+          "totalStars": 98,
           "forks": 6
         },
         "contributors": [
@@ -698,7 +719,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "ishtms/OpenPocketBaseSDK",
         "description": "PocketBase SDK for Unreal Engine with Blueprint and C++ APIs for records, authentication, files, realtime, batch operations, and admin tooling.",
         "language": {
@@ -718,26 +739,6 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "tsoding/tatr",
-        "description": "Task Tracker",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 64,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18597647?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 7,
         "name": "eric-lio1902e8/GTA-V-Mod-Menu-2026",
         "description": "GTA 5 Online Mod Menu for Windows with online player options, vehicle spawner and customization, teleport presets, world and weather settings, session information, quick actions, hotkeys, and saved configurations.",
@@ -748,7 +749,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 59,
-          "forks": 0
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278917775?v=4"
@@ -759,46 +760,6 @@
       },
       {
         "rank": 8,
-        "name": "SAOG0721/DaVinci-Resolve-DLSS5",
-        "description": "Experimental same-resolution DLSS Neural Rendering OpenFX filter for DaVinci Resolve",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 57,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/227399916?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Tyche-MKR/xoreos",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 55,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/319595299?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "jpneagle/dlss5-webcam-demo",
         "description": "暂无描述",
         "language": {
@@ -807,11 +768,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
-          "forks": 4
+          "totalStars": 56,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/40881842?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "kibblerz/DLSS5-Reshade-AIO",
+        "description": "All In One DLSS5 integration for reshade. Supports DX12, DX11, DX9 and Vulkan",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 51,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5051695?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ClarkCheekyKent/CheekyFoveatedDLSS",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 49,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/175469644?v=4"
         ],
         "tags": [
           "#C++"
