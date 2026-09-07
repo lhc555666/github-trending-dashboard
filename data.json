@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/09/06 03:52:47",
+  "lastUpdate": "2026/09/07 02:47:12",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
       "Python": 4,
-      "JavaScript": 1,
       "Lean": 1,
-      "C": 1
+      "JavaScript": 1,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3800,
-          "forks": 323
+          "totalStars": 4319,
+          "forks": 371
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187016380?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2069,
-          "forks": 351
+          "totalStars": 2239,
+          "forks": 384
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -54,19 +54,19 @@
       },
       {
         "rank": 3,
-        "name": "shadcn-ui/cn",
-        "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+        "name": "ashemag/human-atlas",
+        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1176,
-          "forks": 9
+          "totalStars": 1403,
+          "forks": 366
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/139895814?v=4"
+          "https://avatars.githubusercontent.com/u/8096590?v=4"
         ],
         "tags": [
           "#TypeScript"
@@ -74,19 +74,19 @@
       },
       {
         "rank": 4,
-        "name": "GangTailorUpgrade/undress-service",
-        "description": "Dress AI Sponsor",
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1099,
-          "forks": 1
+          "totalStars": 1199,
+          "forks": 1337
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/270958586?v=4"
+          "https://avatars.githubusercontent.com/u/184370191?v=4"
         ],
         "tags": [
           "#Python"
@@ -94,19 +94,19 @@
       },
       {
         "rank": 5,
-        "name": "2akouwu/reverify",
-        "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+        "name": "pierrenade/short-video-generator-AI",
+        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 924,
-          "forks": 200
+          "totalStars": 934,
+          "forks": 155
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14812897?v=4"
+          "https://avatars.githubusercontent.com/u/121039398?v=4"
         ],
         "tags": [
           "#Python"
@@ -114,26 +114,6 @@
       },
       {
         "rank": 6,
-        "name": "yczz/oc-english",
-        "description": "养成类游戏英语学习",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 823,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8897432?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "anthropics/fermats-last-theorem",
         "description": "暂无描述",
         "language": {
@@ -142,14 +122,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 707,
-          "forks": 52
+          "totalStars": 855,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
         ],
         "tags": [
           "#Lean"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "yczz/oc-english",
+        "description": "养成类游戏英语学习",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 836,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8897432?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 664,
-          "forks": 27
+          "totalStars": 779,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60046864?v=4"
@@ -174,6 +174,26 @@
       },
       {
         "rank": 9,
+        "name": "vinzdg/codenotch",
+        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 716,
+          "forks": 98
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/199352226?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "nahrek/polyledger",
         "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
         "language": {
@@ -190,26 +210,6 @@
         ],
         "tags": [
           "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "MSNightmare/FalconFlank",
-        "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 515,
-          "forks": 136
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/291905677?v=4"
-        ],
-        "tags": [
-          "#C"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2069,
-          "forks": 351
+          "totalStars": 2239,
+          "forks": 384
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -236,19 +236,19 @@
       },
       {
         "rank": 2,
-        "name": "GangTailorUpgrade/undress-service",
-        "description": "Dress AI Sponsor",
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1099,
-          "forks": 1
+          "totalStars": 1199,
+          "forks": 1337
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/270958586?v=4"
+          "https://avatars.githubusercontent.com/u/184370191?v=4"
         ],
         "tags": [
           "#Python"
@@ -256,19 +256,19 @@
       },
       {
         "rank": 3,
-        "name": "2akouwu/reverify",
-        "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+        "name": "pierrenade/short-video-generator-AI",
+        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 924,
-          "forks": 200
+          "totalStars": 934,
+          "forks": 155
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14812897?v=4"
+          "https://avatars.githubusercontent.com/u/121039398?v=4"
         ],
         "tags": [
           "#Python"
@@ -296,19 +296,19 @@
       },
       {
         "rank": 5,
-        "name": "Human-Agent-Society/reef",
-        "description": "Continual learning infra for self-improving agents",
+        "name": "tigerless-labs/agent-memory",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 490,
-          "forks": 38
+          "totalStars": 361,
+          "forks": 22
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/268553699?v=4"
+          "https://avatars.githubusercontent.com/u/285825190?v=4"
         ],
         "tags": [
           "#Python"
@@ -316,46 +316,6 @@
       },
       {
         "rank": 6,
-        "name": "Rion-Wu-tech/wechat-intelligence-hub",
-        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 473,
-          "forks": 213
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/184370191?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "siknet/FreePEP",
-        "description": "人教社电子教材下载器",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 426,
-          "forks": 60
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/32444042?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "op7418/guizang-yingzao-skill",
         "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
         "language": {
@@ -364,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
-          "forks": 32
+          "totalStars": 360,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -375,17 +335,17 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "kydlikebtc/awesome-grokbot",
-        "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+        "description": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
-          "forks": 16
+          "totalStars": 331,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75060932?v=4"
@@ -395,20 +355,60 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "pierrenade/short-video-generator-AI",
-        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "rank": 8,
+        "name": "kajisho5/ffmpeg-skill",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 291,
-          "forks": 96
+          "totalStars": 323,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121039398?v=4"
+          "https://avatars.githubusercontent.com/u/20648875?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "OpenVDN/vdn-minimax-h3",
+        "description": "VideoDeltaNet-H3: Live T2VA / I2VA / FL2VA generation based on Minimax H3.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 309,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/322941999?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "aaronyi97/image-story-video-wizard",
+        "description": "A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 299,
+          "forks": 41
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/260806818?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 823,
-          "forks": 9
+          "totalStars": 836,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8897432?v=4"
@@ -438,66 +438,6 @@
       },
       {
         "rank": 2,
-        "name": "ahujasid/camera-to-blender",
-        "description": "Take a photo of real objects, and paste them in Blender",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 447,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11807284?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "PhiloLabs/fable51-worlds",
-        "description": "worlds via code, from fable 5.1",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 438,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/260782224?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "subsy/skill-cabinet",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 396,
-          "forks": 25
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7700461?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "KJGX66F/usque-custom-pro",
         "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
         "language": {
@@ -506,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
-          "forks": 528
+          "totalStars": 533,
+          "forks": 779
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300279924?v=4"
@@ -517,7 +457,87 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 469,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11807284?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "PhiloLabs/fable51-worlds",
+        "description": "worlds via code, from fable 5.1",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 452,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/260782224?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "byJoey/warp-masque-actions",
+        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 367,
+          "forks": 1496
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/36790372?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 6,
+        "name": "adtexterry-lgtm/unigit-ecosystem",
+        "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 304,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/317701536?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "dreamers-laboratory/image-to-3d-pipeline",
         "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
         "language": {
@@ -537,7 +557,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "gozen3ji/consulting-pptx-skill",
         "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
         "language": {
@@ -546,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 239,
-          "forks": 19
+          "totalStars": 248,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32775031?v=4"
@@ -557,7 +577,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "joeseesun/qiaomu-book-reader",
         "description": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
         "language": {
@@ -566,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 227,
+          "totalStars": 234,
           "forks": 22
         },
         "contributors": [
@@ -577,7 +597,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "jarrenrocks/bot-crossing",
         "description": "A video game for AI agents.",
         "language": {
@@ -586,31 +606,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
-          "forks": 58
+          "totalStars": 180,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8302364?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "adtexterry-lgtm/unigit-ecosystem",
-        "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 143,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/317701536?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,26 +620,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "sebbbi/NoGraphicsAPI",
-        "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 466,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8530705?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "btsouth/omakade",
         "description": "A beautiful, local-first game library built for Omarchy.",
         "language": {
@@ -648,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 280,
-          "forks": 14
+          "totalStars": 291,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258147599?v=4"
@@ -659,7 +639,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "lisitskyaa/ComfyUI-DLSS5-NR",
         "description": "Experimental support of DLSS 5 in ComfyUI",
         "language": {
@@ -668,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
-          "forks": 15
+          "totalStars": 139,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/203462701?v=4"
@@ -679,7 +659,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "localai-org/motion-bricks.cpp",
         "description": "NVIDIA MotionBricks ported to GGML/C++; dynamically generates animations from keyframes using a neural network. Can be used in games or with robots",
         "language": {
@@ -688,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 132,
-          "forks": 9
+          "totalStars": 136,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260893928?v=4"
@@ -699,7 +679,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "DaniilSokolyuk/video2dlssnr",
         "description": "暂无描述",
         "language": {
@@ -708,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 99,
+          "totalStars": 103,
           "forks": 6
         },
         "contributors": [
@@ -719,20 +699,40 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "ishtms/OpenPocketBaseSDK",
-        "description": "PocketBase SDK for Unreal Engine with Blueprint and C++ APIs for records, authentication, files, realtime, batch operations, and admin tooling.",
+        "rank": 5,
+        "name": "freefrank/LostOdysseyRecomp",
+        "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 90,
-          "forks": 0
+          "totalStars": 68,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/30657558?v=4"
+          "https://avatars.githubusercontent.com/u/726115?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "kibblerz/DLSS5-Reshade-AIO",
+        "description": "All In One DLSS5 integration for reshade. Supports DX12, DX11, DX9 and Vulkan",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 64,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5051695?v=4"
         ],
         "tags": [
           "#C++"
@@ -740,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "eric-lio1902e8/GTA-V-Mod-Menu-2026",
-        "description": "GTA 5 Online Mod Menu for Windows with online player options, vehicle spawner and customization, teleport presets, world and weather settings, session information, quick actions, hotkeys, and saved configurations.",
+        "name": "tig3rmast3r/OFXR-Bridge",
+        "description": "Frame generation for VR using Optical Flow",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 59,
-          "forks": 49
+          "totalStars": 61,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278917775?v=4"
+          "https://avatars.githubusercontent.com/u/23511425?v=4"
         ],
         "tags": [
           "#C++"
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 56,
+          "totalStars": 57,
           "forks": 6
         },
         "contributors": [
@@ -780,26 +780,6 @@
       },
       {
         "rank": 9,
-        "name": "kibblerz/DLSS5-Reshade-AIO",
-        "description": "All In One DLSS5 integration for reshade. Supports DX12, DX11, DX9 and Vulkan",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 54,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5051695?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "ClarkCheekyKent/CheekyFoveatedDLSS",
         "description": "暂无描述",
         "language": {
@@ -808,11 +788,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 49,
+          "totalStars": 51,
           "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/175469644?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ufsemmc/FH4TriggerRestore",
+        "description": "Restores trigger rumble for Forza Horizon 4 on Steam with Xbox controllers",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 48,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/121313246?v=4"
         ],
         "tags": [
           "#C++"
