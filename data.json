@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/09/07 03:51:28",
+  "lastUpdate": "2026/09/08 02:57:41",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 2,
-      "Python": 4,
+      "TypeScript": 3,
+      "Python": 3,
+      "Swift": 1,
       "Lean": 1,
-      "JavaScript": 1,
-      "Swift": 1
+      "JavaScript": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4338,
-          "forks": 374
+          "totalStars": 4715,
+          "forks": 410
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187016380?v=4"
@@ -34,26 +34,6 @@
       },
       {
         "rank": 2,
-        "name": "anthropics/commerce-agents",
-        "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2250,
-          "forks": 386
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76263028?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "ashemag/human-atlas",
         "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
         "language": {
@@ -62,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1434,
-          "forks": 374
+          "totalStars": 2055,
+          "forks": 532
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8096590?v=4"
@@ -73,7 +53,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Rion-Wu-tech/wechat-intelligence-hub",
         "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
         "language": {
@@ -82,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1273,
-          "forks": 1459
+          "totalStars": 1839,
+          "forks": 2392
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/184370191?v=4"
@@ -93,7 +73,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "pierrenade/short-video-generator-AI",
         "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
         "language": {
@@ -102,14 +82,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 970,
-          "forks": 155
+          "totalStars": 1183,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121039398?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "vinzdg/codenotch",
+        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 943,
+          "forks": 149
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/199352226?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 860,
-          "forks": 72
+          "totalStars": 941,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76263028?v=4"
@@ -134,22 +134,22 @@
       },
       {
         "rank": 7,
-        "name": "yczz/oc-english",
-        "description": "养成类游戏英语学习",
+        "name": "EverettFish/holo-card-studio",
+        "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 839,
-          "forks": 12
+          "totalStars": 887,
+          "forks": 139
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/8897432?v=4"
+          "https://avatars.githubusercontent.com/u/222453586?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Python"
         ]
       },
       {
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 783,
-          "forks": 34
+          "totalStars": 861,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60046864?v=4"
@@ -174,68 +174,48 @@
       },
       {
         "rank": 9,
-        "name": "vinzdg/codenotch",
-        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
         "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
+          "name": "JavaScript",
+          "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
-          "forks": 99
+          "totalStars": 699,
+          "forks": 73
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/199352226?v=4"
+          "https://avatars.githubusercontent.com/u/11807284?v=4"
         ],
         "tags": [
-          "#Swift"
+          "#JavaScript"
         ]
       },
       {
         "rank": 10,
-        "name": "nahrek/polyledger",
-        "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+        "name": "Albert-Weasker/niubigeo",
+        "description": "Open-source AI brand visibility and competitor reports",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 620,
-          "forks": 109
+          "totalStars": 677,
+          "forks": 52
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/138802404?v=4"
+          "https://avatars.githubusercontent.com/u/186366929?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "anthropics/commerce-agents",
-        "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2250,
-          "forks": 386
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76263028?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Rion-Wu-tech/wechat-intelligence-hub",
         "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
         "language": {
@@ -244,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1273,
-          "forks": 1459
+          "totalStars": 1839,
+          "forks": 2392
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/184370191?v=4"
@@ -255,7 +235,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "pierrenade/short-video-generator-AI",
         "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
         "language": {
@@ -264,11 +244,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 970,
-          "forks": 155
+          "totalStars": 1183,
+          "forks": 159
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/121039398?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "EverettFish/holo-card-studio",
+        "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 887,
+          "forks": 139
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/222453586?v=4"
         ],
         "tags": [
           "#Python"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 620,
+          "totalStars": 621,
           "forks": 109
         },
         "contributors": [
@@ -296,26 +296,6 @@
       },
       {
         "rank": 5,
-        "name": "tigerless-labs/agent-memory",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 373,
-          "forks": 23
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/285825190?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "op7418/guizang-yingzao-skill",
         "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
         "language": {
@@ -324,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 362,
-          "forks": 33
+          "totalStars": 375,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -335,27 +315,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "kydlikebtc/awesome-grokbot",
-        "description": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 331,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/75060932?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "name": "kajisho5/ffmpeg-skill",
         "description": "暂无描述",
         "language": {
@@ -364,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
-          "forks": 18
+          "totalStars": 355,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20648875?v=4"
@@ -375,7 +335,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "OpenVDN/vdn-minimax-h3",
         "description": "VideoDeltaNet-H3: Live T2VA / I2VA / FL2VA generation based on Minimax H3.",
         "language": {
@@ -384,11 +344,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 316,
+          "totalStars": 348,
           "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/322941999?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "0x6rss/instagram-private-graph",
+        "description": "Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 342,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/58754583?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "donvito/codex-astra-luna-orchestrator",
+        "description": "Use Astra as orchestrator and Luna as implementor",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 342,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/890270?v=4"
         ],
         "tags": [
           "#Python"
@@ -404,8 +404,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 299,
-          "forks": 41
+          "totalStars": 317,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260806818?v=4"
@@ -418,19 +418,19 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "yczz/oc-english",
-        "description": "养成类游戏英语学习",
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 839,
-          "forks": 12
+          "totalStars": 699,
+          "forks": 73
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/8897432?v=4"
+          "https://avatars.githubusercontent.com/u/11807284?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 539,
-          "forks": 785
+          "totalStars": 612,
+          "forks": 921
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300279924?v=4"
@@ -458,19 +458,19 @@
       },
       {
         "rank": 3,
-        "name": "ahujasid/camera-to-blender",
-        "description": "Take a photo of real objects, and paste them in Blender",
+        "name": "byJoey/warp-masque-actions",
+        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
-          "forks": 49
+          "totalStars": 466,
+          "forks": 1956
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/11807284?v=4"
+          "https://avatars.githubusercontent.com/u/36790372?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -486,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
-          "forks": 23
+          "totalStars": 465,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260782224?v=4"
@@ -498,26 +498,6 @@
       },
       {
         "rank": 5,
-        "name": "byJoey/warp-masque-actions",
-        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 373,
-          "forks": 1520
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/36790372?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "adtexterry-lgtm/unigit-ecosystem",
         "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
         "language": {
@@ -526,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
-          "forks": 10
+          "totalStars": 394,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/317701536?v=4"
@@ -537,7 +517,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "dreamers-laboratory/image-to-3d-pipeline",
         "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
         "language": {
@@ -557,8 +537,8 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "gozen3ji/consulting-pptx-skill",
+        "rank": 7,
+        "name": "carnot-tech/consulting-pptx-skill",
         "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
         "language": {
           "name": "JavaScript",
@@ -566,11 +546,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 249,
-          "forks": 22
+          "totalStars": 276,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/32775031?v=4"
+          "https://avatars.githubusercontent.com/u/110534823?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "bjarneo/omarchy-workspace-layout",
+        "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 178,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1419214?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -578,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "joeseesun/qiaomu-book-reader",
-        "description": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
+        "name": "blakeshao/kool-brushez",
+        "description": "cool p5js brushes",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
-          "forks": 22
+          "totalStars": 135,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3236682?v=4"
+          "https://avatars.githubusercontent.com/u/90582347?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -598,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "jarrenrocks/bot-crossing",
-        "description": "A video game for AI agents.",
+        "name": "Tejashmakwana/astra-chatgpt-hyperframes",
+        "description": "Reproducible Hyperframes source for a ChatGPT adaptation of Rajmoni’s motion-design reference, with raw assets and verified render.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 180,
-          "forks": 69
+          "totalStars": 130,
+          "forks": 10
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/8302364?v=4"
+          "https://avatars.githubusercontent.com/u/89969328?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -620,46 +620,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "btsouth/omakade",
-        "description": "A beautiful, local-first game library built for Omarchy.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 292,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/258147599?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "lisitskyaa/ComfyUI-DLSS5-NR",
-        "description": "Experimental support of DLSS 5 in ComfyUI",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 139,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/203462701?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "localai-org/motion-bricks.cpp",
         "description": "NVIDIA MotionBricks ported to GGML/C++; dynamically generates animations from keyframes using a neural network. Can be used in games or with robots",
         "language": {
@@ -668,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 136,
+          "totalStars": 142,
           "forks": 10
         },
         "contributors": [
@@ -679,27 +639,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "DaniilSokolyuk/video2dlssnr",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 103,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2946286?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "name": "freefrank/LostOdysseyRecomp",
         "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
         "language": {
@@ -708,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 70,
+          "totalStars": 84,
           "forks": 1
         },
         "contributors": [
@@ -719,27 +659,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "kibblerz/DLSS5-Reshade-AIO",
-        "description": "All In One DLSS5 integration for reshade. Supports DX12, DX11, DX9 and Vulkan",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 64,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5051695?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 3,
         "name": "tig3rmast3r/OFXR-Bridge",
         "description": "Frame generation for VR using Optical Flow",
         "language": {
@@ -748,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 63,
+          "totalStars": 76,
           "forks": 4
         },
         "contributors": [
@@ -759,7 +679,67 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 4,
+        "name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+        "description": "Experimental OptiScaler DLSS Neural Rendering fork with guarded pre-SR placement and configurable 1-3 pass processing.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/97138003?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "kibblerz/DLSS5-Reshade-AIO",
+        "description": "All In One DLSS5 integration for reshade. Supports DX12, DX11, DX9 and Vulkan",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 73,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5051695?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "yappologistic/Spun",
+        "description": "A CD-shaped music player for Linux, with local playback and Cider integration.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 61,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/262229790?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "jpneagle/dlss5-webcam-demo",
         "description": "暂无描述",
         "language": {
@@ -768,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 57,
+          "totalStars": 58,
           "forks": 6
         },
         "contributors": [
@@ -779,7 +759,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "ClarkCheekyKent/CheekyFoveatedDLSS",
         "description": "暂无描述",
         "language": {
@@ -788,8 +768,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51,
-          "forks": 7
+          "totalStars": 53,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/175469644?v=4"
@@ -799,20 +779,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "ufsemmc/FH4TriggerRestore",
-        "description": "Restores trigger rumble for Forza Horizon 4 on Steam with Xbox controllers",
+        "rank": 9,
+        "name": "ImDreamt/MFGAdaUnlock-RenoDx",
+        "description": "DLSS MFG on Ada — unlocks 3x/4x/6x frame generation on RTX 40-series cards and corrects the temporal midpoint. In-memory only.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 49,
-          "forks": 3
+          "totalStars": 51,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/121313246?v=4"
+          "https://avatars.githubusercontent.com/u/88599415?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "JackandBeans/Snap64Recomp",
+        "description": "Native Windows port of Pokémon Snap (N64) by static recompilation. You supply your own cartridge dump; no game data is included.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 45,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/325058581?v=4"
         ],
         "tags": [
           "#C++"
