@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/09 02:58:31",
+  "lastUpdate": "2026/09/09 03:59:45",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2482,
-          "forks": 635
+          "totalStars": 2516,
+          "forks": 640
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8096590?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2170,
-          "forks": 68
+          "totalStars": 2174,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/186366929?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1948,
-          "forks": 2517
+          "totalStars": 1951,
+          "forks": 2520
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/184370191?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1140,
-          "forks": 173
+          "totalStars": 1147,
+          "forks": 174
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222453586?v=4"
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1115,
+          "totalStars": 1124,
           "forks": 184
         },
         "contributors": [
@@ -114,26 +114,6 @@
       },
       {
         "rank": 6,
-        "name": "anthropics/fermats-last-theorem",
-        "description": "暂无描述",
-        "language": {
-          "name": "Lean",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 980,
-          "forks": 82
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76263028?v=4"
-        ],
-        "tags": [
-          "#Lean"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "openai/NavierStokesAndEuler",
         "description": "Lean certificates accompanying Navier-Stokes and Euler results",
         "language": {
@@ -142,11 +122,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 948,
-          "forks": 78
+          "totalStars": 1006,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
+        ],
+        "tags": [
+          "#Lean"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "anthropics/fermats-last-theorem",
+        "description": "暂无描述",
+        "language": {
+          "name": "Lean",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 982,
+          "forks": 83
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76263028?v=4"
         ],
         "tags": [
           "#Lean"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 936,
+          "totalStars": 939,
           "forks": 37
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 775,
+          "totalStars": 777,
           "forks": 77
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 749,
+          "totalStars": 761,
           "forks": 46
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1948,
-          "forks": 2517
+          "totalStars": 1951,
+          "forks": 2520
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/184370191?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1140,
-          "forks": 173
+          "totalStars": 1147,
+          "forks": 174
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222453586?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 749,
+          "totalStars": 761,
           "forks": 46
         },
         "contributors": [
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 410,
-          "forks": 26
+          "totalStars": 413,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/890270?v=4"
@@ -336,6 +336,26 @@
       },
       {
         "rank": 7,
+        "name": "AI-FanGe/Microduck-build-tutorial",
+        "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 357,
+          "forks": 85
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/202376609?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "gazijarin/itsgiving",
         "description": "Express yourself in meetings (with memes, of course).",
         "language": {
@@ -344,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 342,
+          "totalStars": 350,
           "forks": 43
         },
         "contributors": [
@@ -355,27 +375,27 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "AI-FanGe/Microduck-build-tutorial",
-        "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+        "rank": 9,
+        "name": "Sophomoresty/turnstile-bypass",
+        "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
-          "forks": 83
+          "totalStars": 341,
+          "forks": 139
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/202376609?v=4"
+          "https://avatars.githubusercontent.com/u/94944221?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "biusberline/cloudflare-turnstile-solver",
         "description": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
         "language": {
@@ -393,26 +413,6 @@
         "tags": [
           "#Python"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "Sophomoresty/turnstile-bypass",
-        "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 325,
-          "forks": 136
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/94944221?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
       }
     ],
     "JavaScript": [
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 775,
+          "totalStars": 777,
           "forks": 77
         },
         "contributors": [
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 681,
-          "forks": 1039
+          "totalStars": 683,
+          "forks": 1042
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300279924?v=4"
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
-          "forks": 2168
+          "totalStars": 521,
+          "forks": 2171
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36790372?v=4"
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
-          "forks": 23
+          "totalStars": 181,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266635008?v=4"
@@ -546,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
-          "forks": 34
+          "totalStars": 139,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 173,
-          "forks": 9
+          "totalStars": 175,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97138003?v=4"
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
+          "totalStars": 131,
           "forks": 8
         },
         "contributors": [
@@ -708,8 +708,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
-          "forks": 13
+          "totalStars": 97,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
+          "totalStars": 69,
           "forks": 1
         },
         "contributors": [
