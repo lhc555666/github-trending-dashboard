@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/11 02:54:22",
+  "lastUpdate": "2026/09/11 03:55:35",
   "charts": {
     "languageDistribution": {
       "TypeScript": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3105,
-          "forks": 752
+          "totalStars": 3114,
+          "forks": 754
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8096590?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1724,
-          "forks": 167
+          "totalStars": 1726,
+          "forks": 168
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1461,
-          "forks": 87
+          "totalStars": 1474,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28560351?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1390,
-          "forks": 216
+          "totalStars": 1396,
+          "forks": 219
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/199352226?v=4"
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1342,
+          "totalStars": 1345,
           "forks": 194
         },
         "contributors": [
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1042,
-          "forks": 83
+          "totalStars": 1063,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1026,
-          "forks": 142
+          "totalStars": 1058,
+          "forks": 146
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3478629?v=4"
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 926,
+          "totalStars": 929,
           "forks": 69
         },
         "contributors": [
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1342,
+          "totalStars": 1345,
           "forks": 194
         },
         "contributors": [
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1042,
-          "forks": 83
+          "totalStars": 1063,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 926,
+          "totalStars": 929,
           "forks": 69
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 599,
+          "totalStars": 603,
           "forks": 74
         },
         "contributors": [
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 502,
+          "totalStars": 506,
           "forks": 19
         },
         "contributors": [
@@ -345,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 429,
+          "totalStars": 431,
           "forks": 158
         },
         "contributors": [
@@ -357,6 +357,26 @@
       },
       {
         "rank": 8,
+        "name": "lfzk550/fanzha-ai-proxy",
+        "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 429,
+          "forks": 340
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276654128?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "sitimas9/cdcrafthh",
         "description": "CodeCraft-style account farm — OAuth + coupon + API key harvest",
         "language": {
@@ -373,26 +393,6 @@
         ],
         "tags": [
           "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "lfzk550/fanzha-ai-proxy",
-        "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 425,
-          "forks": 340
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/276654128?v=4"
-        ],
-        "tags": [
-          "#Trending"
         ]
       },
       {
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 743,
+          "totalStars": 748,
           "forks": 87
         },
         "contributors": [
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 352,
-          "forks": 63
+          "totalStars": 370,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220598337?v=4"
@@ -527,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 180,
+          "totalStars": 181,
           "forks": 18
         },
         "contributors": [
@@ -547,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 165,
+          "totalStars": 169,
           "forks": 3
         },
         "contributors": [
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
+          "totalStars": 150,
           "forks": 10
         },
         "contributors": [
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "scottstts/Jelly-Baby",
-        "description": "A bouncy shiny jelly baby game",
+        "name": "viettranx/3dviz-pro-max",
+        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
-          "forks": 38
+          "totalStars": 142,
+          "forks": 26
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/129048583?v=4"
+          "https://avatars.githubusercontent.com/u/3197896?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
+          "totalStars": 337,
           "forks": 18
         },
         "contributors": [
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 243,
+          "totalStars": 245,
           "forks": 9
         },
         "contributors": [
@@ -689,8 +689,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 16
+          "totalStars": 230,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 218,
+          "totalStars": 220,
           "forks": 10
         },
         "contributors": [
@@ -721,6 +721,26 @@
       },
       {
         "rank": 6,
+        "name": "nmatt0/moria",
+        "description": "IoT firmware identification and extraction",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 125,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7366332?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "freefrank/LostOdysseyRecomp",
         "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
         "language": {
@@ -740,26 +760,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "nmatt0/moria",
-        "description": "IoT firmware identification and extraction",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 124,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7366332?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 8,
         "name": "nmatt0/mithril",
         "description": "IoT static scanner for secrets, SBOM, CVEs and more.",
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 123,
+          "totalStars": 124,
           "forks": 16
         },
         "contributors": [
@@ -790,7 +790,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 119,
-          "forks": 27
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/193213021?v=4"
