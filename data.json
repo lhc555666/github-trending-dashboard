@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/12 03:01:36",
+  "lastUpdate": "2026/09/12 03:57:38",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
@@ -22,7 +22,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1807,
+          "totalStars": 1830,
           "forks": 111
         },
         "contributors": [
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1779,
+          "totalStars": 1781,
           "forks": 177
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1448,
+          "totalStars": 1450,
           "forks": 208
         },
         "contributors": [
@@ -82,7 +82,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1358,
+          "totalStars": 1361,
           "forks": 110
         },
         "contributors": [
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 953,
-          "forks": 172
+          "totalStars": 959,
+          "forks": 173
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18239147?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 856,
-          "forks": 96
+          "totalStars": 860,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 751,
+          "totalStars": 752,
           "forks": 95
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 718,
+          "totalStars": 721,
           "forks": 81
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 568,
+          "totalStars": 569,
           "forks": 96
         },
         "contributors": [
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1448,
+          "totalStars": 1450,
           "forks": 208
         },
         "contributors": [
@@ -244,7 +244,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1358,
+          "totalStars": 1361,
           "forks": 110
         },
         "contributors": [
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 718,
+          "totalStars": 721,
           "forks": 81
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 496,
+          "totalStars": 507,
           "forks": 104
         },
         "contributors": [
@@ -316,6 +316,26 @@
       },
       {
         "rank": 6,
+        "name": "Colafornia/short-video-generator-AI",
+        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 480,
+          "forks": 110
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13252625?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "lfzk550/fanzha-ai-proxy",
         "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
         "language": {
@@ -335,27 +355,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Colafornia/short-video-generator-AI",
-        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "rank": 8,
+        "name": "crwdla/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 474,
-          "forks": 110
+          "totalStars": 442,
+          "forks": 167
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/13252625?v=4"
+          "https://avatars.githubusercontent.com/u/1875146?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Sophomoresty/turnstile-bypass",
         "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
         "language": {
@@ -369,26 +389,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "crwdla/tokentab",
-        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 440,
-          "forks": 165
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1875146?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 856,
-          "forks": 96
+          "totalStars": 860,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
-          "forks": 101
+          "totalStars": 497,
+          "forks": 102
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220598337?v=4"
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
+          "totalStars": 200,
           "forks": 20
         },
         "contributors": [
@@ -607,7 +607,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 139,
-          "forks": 41
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62043008?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 284,
+          "totalStars": 286,
           "forks": 12
         },
         "contributors": [
@@ -640,6 +640,26 @@
       },
       {
         "rank": 2,
+        "name": "deepseek-ai/DeepJIT",
+        "description": "A lightweight library for xPU kernel JIT compilation",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 276,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "MSNightmare/ShieldCrash",
         "description": "Windows Defender 0day Vulnerability",
         "language": {
@@ -653,26 +673,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "deepseek-ai/DeepJIT",
-        "description": "A lightweight library for xPU kernel JIT compilation",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 274,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/148330874?v=4"
         ],
         "tags": [
           "#C++"
@@ -708,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
+          "totalStars": 151,
           "forks": 38
         },
         "contributors": [
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 62,
+          "totalStars": 64,
           "forks": 4
         },
         "contributors": [
