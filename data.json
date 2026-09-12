@@ -1,13 +1,12 @@
 {
-  "lastUpdate": "2026/09/11 03:55:35",
+  "lastUpdate": "2026/09/12 03:01:36",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 1,
       "Lean": 1,
-      "Swift": 1,
-      "Python": 4,
-      "HTML": 1,
-      "PHP": 1
+      "Python": 3,
+      "TypeScript": 2,
+      "PHP": 1,
+      "JavaScript": 1
     },
     "starGrowth": {}
   },
@@ -15,22 +14,22 @@
     "All": [
       {
         "rank": 1,
-        "name": "ashemag/human-atlas",
-        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "name": "sdli1995/dlssg_for_sm86",
+        "description": "Here is a dlssg for RTX30 Series GPU ",
         "language": {
-          "name": "TypeScript",
+          "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3114,
-          "forks": 754
+          "totalStars": 1807,
+          "forks": 111
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/8096590?v=4"
+          "https://avatars.githubusercontent.com/u/28560351?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Trending"
         ]
       },
       {
@@ -43,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1726,
-          "forks": 168
+          "totalStars": 1779,
+          "forks": 177
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -55,46 +54,6 @@
       },
       {
         "rank": 3,
-        "name": "sdli1995/dlssg_for_sm86",
-        "description": "Here is a dlssg for RTX30 Series GPU ",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1474,
-          "forks": 88
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/28560351?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "vinzdg/codenotch",
-        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1396,
-          "forks": 219
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/199352226?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "EverettFish/holo-card-studio",
         "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
         "language": {
@@ -103,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1345,
-          "forks": 194
+          "totalStars": 1448,
+          "forks": 208
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222453586?v=4"
@@ -114,7 +73,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "Edge0-AI/Edge0",
         "description": "暂无描述",
         "language": {
@@ -123,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1063,
-          "forks": 85
+          "totalStars": 1358,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -134,47 +93,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "yang0/handraw-style",
-        "description": "手绘风格编号画廊与双语提示词 Skill",
+        "rank": 5,
+        "name": "Vincentwei1021/anything2explainer",
+        "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
         "language": {
-          "name": "HTML",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1058,
-          "forks": 146
+          "totalStars": 953,
+          "forks": 172
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3478629?v=4"
+          "https://avatars.githubusercontent.com/u/18239147?v=4"
         ],
         "tags": [
-          "#HTML"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 8,
-        "name": "donvito/codex-astra-luna-orchestrator",
-        "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 929,
-          "forks": 69
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/890270?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "name": "Faizpi/bank-sampah",
         "description": "暂无描述",
         "language": {
@@ -183,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 917,
-          "forks": 0
+          "totalStars": 919,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/143463503?v=4"
@@ -194,23 +133,83 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "iamzulx/crypto-rag",
-        "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+        "rank": 7,
+        "name": "achimala/dream-loop",
+        "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 856,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1448366?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "jtydhr88/screenwriting-skills",
+        "description": "暂无描述",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 751,
+          "forks": 95
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/860985?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "gazijarin/itsgiving",
+        "description": "Express yourself in meetings (with memes, of course).",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 899,
-          "forks": 1
+          "totalStars": 718,
+          "forks": 81
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/42101852?v=4"
+          "https://avatars.githubusercontent.com/u/32211479?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "truanayangi-com/truanayangi",
+        "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 568,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/326995604?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       }
     ],
@@ -225,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1345,
-          "forks": 194
+          "totalStars": 1448,
+          "forks": 208
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222453586?v=4"
@@ -245,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1063,
-          "forks": 85
+          "totalStars": 1358,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -257,46 +256,6 @@
       },
       {
         "rank": 3,
-        "name": "donvito/codex-astra-luna-orchestrator",
-        "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 929,
-          "forks": 69
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/890270?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "iamzulx/crypto-rag",
-        "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 899,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/42101852?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "gazijarin/itsgiving",
         "description": "Express yourself in meetings (with memes, of course).",
         "language": {
@@ -305,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 603,
-          "forks": 74
+          "totalStars": 718,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32211479?v=4"
@@ -316,7 +275,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "OpenWAM-Official/OpenWAM",
         "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
         "language": {
@@ -325,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 506,
-          "forks": 19
+          "totalStars": 539,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/323902510?v=4"
@@ -336,27 +295,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Sophomoresty/turnstile-bypass",
-        "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
+        "rank": 5,
+        "name": "SpaceDudem/text-humanizer",
+        "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 431,
-          "forks": 158
+          "totalStars": 496,
+          "forks": 104
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/94944221?v=4"
+          "https://avatars.githubusercontent.com/u/1766943?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "name": "lfzk550/fanzha-ai-proxy",
         "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
         "language": {
@@ -365,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 429,
-          "forks": 340
+          "totalStars": 476,
+          "forks": 349
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/276654128?v=4"
@@ -376,7 +335,67 @@
         ]
       },
       {
+        "rank": 7,
+        "name": "Colafornia/short-video-generator-AI",
+        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 474,
+          "forks": 110
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13252625?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Sophomoresty/turnstile-bypass",
+        "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 442,
+          "forks": 160
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/94944221?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 9,
+        "name": "crwdla/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 440,
+          "forks": 165
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1875146?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "sitimas9/cdcrafthh",
         "description": "CodeCraft-style account farm — OAuth + coupon + API key harvest",
         "language": {
@@ -394,26 +413,6 @@
         "tags": [
           "#Python"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
-        "description": "Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 358,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/306806987?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
       }
     ],
     "JavaScript": [
@@ -427,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 748,
-          "forks": 87
+          "totalStars": 856,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -447,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 370,
-          "forks": 66
+          "totalStars": 492,
+          "forks": 101
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220598337?v=4"
@@ -467,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 326,
+          "totalStars": 327,
           "forks": 0
         },
         "contributors": [
@@ -479,26 +478,6 @@
       },
       {
         "rank": 4,
-        "name": "browser-use/browser-use-pi",
-        "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 266,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/192012301?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "LerSent001/holo-card",
         "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
         "language": {
@@ -507,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 203,
-          "forks": 26
+          "totalStars": 206,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/266635008?v=4"
@@ -518,7 +497,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "HRuiCcc/RuiC-card-skill",
         "description": "全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
         "language": {
@@ -527,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
-          "forks": 18
+          "totalStars": 199,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319719670?v=4"
@@ -538,20 +517,40 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "TripoGrowthLab/awesome-astra-prompts",
-        "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, previews and source links. Updated twice daily. Curated by Tripo.",
+        "rank": 6,
+        "name": "viettranx/3dviz-pro-max",
+        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
-          "forks": 3
+          "totalStars": 179,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/325380063?v=4"
+          "https://avatars.githubusercontent.com/u/3197896?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "VII-Cae/hyalite--liquid-glass",
+        "description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 167,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/316832668?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -567,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
-          "forks": 39
+          "totalStars": 167,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
@@ -579,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "VII-Cae/hyalite--liquid-glass",
-        "description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.",
+        "name": "xflare-bot/pokemonlive",
+        "description": "Local Pokemon battle prototype with AI-generated cinematics",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
-          "forks": 10
+          "totalStars": 141,
+          "forks": 31
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/316832668?v=4"
+          "https://avatars.githubusercontent.com/u/187724594?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -599,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "viettranx/3dviz-pro-max",
-        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+        "name": "mangfufu/director-desk",
+        "description": "AI 短剧白模预演与摄影机调度工具",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
-          "forks": 26
+          "totalStars": 139,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3197896?v=4"
+          "https://avatars.githubusercontent.com/u/62043008?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -621,19 +620,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-        "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+        "name": "yappologistic/Spun",
+        "description": "A CD-shaped music player for Linux, with local playback and Cider integration.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 337,
-          "forks": 18
+          "totalStars": 284,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/97138003?v=4"
+          "https://avatars.githubusercontent.com/u/262229790?v=4"
         ],
         "tags": [
           "#C++"
@@ -649,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 257,
-          "forks": 63
+          "totalStars": 276,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -661,26 +660,6 @@
       },
       {
         "rank": 3,
-        "name": "yappologistic/Spun",
-        "description": "A CD-shaped music player for Linux, with local playback and Cider integration.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 245,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/262229790?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "deepseek-ai/DeepJIT",
         "description": "A lightweight library for xPU kernel JIT compilation",
         "language": {
@@ -689,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 230,
-          "forks": 17
+          "totalStars": 274,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -700,7 +679,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "coccofresco/TriAevum",
         "description": "Experimental native PC recompilation runtime for Ocarina of Time 3D. Windows x64, NRI/Vulkan, single-screen UI and ROM-only setup.",
         "language": {
@@ -709,11 +688,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 220,
+          "totalStars": 236,
           "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/45957760?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "KyThuatUAV/ESP32_FC",
+        "description": "nghiên cứu và phát triển bộ điều khiển bay drone dựa trên esp32",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 149,
+          "forks": 38
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/193213021?v=4"
         ],
         "tags": [
           "#C++"
@@ -729,8 +728,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 125,
-          "forks": 17
+          "totalStars": 145,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7366332?v=4"
@@ -741,26 +740,6 @@
       },
       {
         "rank": 7,
-        "name": "freefrank/LostOdysseyRecomp",
-        "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 125,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/726115?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "nmatt0/mithril",
         "description": "IoT static scanner for secrets, SBOM, CVEs and more.",
         "language": {
@@ -769,8 +748,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
-          "forks": 16
+          "totalStars": 142,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7366332?v=4"
@@ -780,27 +759,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "KyThuatUAV/ESP32_FC",
-        "description": "nghiên cứu và phát triển bộ điều khiển bay drone dựa trên esp32",
+        "rank": 8,
+        "name": "wzj52501/awesome-competitive-olympiad-algorithms",
+        "description": "Original algorithmic contest problems and lecture notes — NOIP to NOI & ACM-ICPC level",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
-          "forks": 29
+          "totalStars": 107,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/193213021?v=4"
+          "https://avatars.githubusercontent.com/u/14213858?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "MatheusGViana/dlss-5-amd-project",
         "description": "dlss 5 amd project",
         "language": {
@@ -809,11 +788,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
+          "totalStars": 94,
           "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/104395648?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "T-DT-Algorithm-2026/tdt-nav-kit",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 62,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/230106752?v=4"
         ],
         "tags": [
           "#C++"
