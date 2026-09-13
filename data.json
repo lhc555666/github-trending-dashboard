@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/09/12 03:57:38",
+  "lastUpdate": "2026/09/13 03:01:58",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
-      "Python": 3,
-      "TypeScript": 2,
-      "PHP": 1,
-      "JavaScript": 1
+      "Python": 5,
+      "TypeScript": 1,
+      "JavaScript": 1,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1830,
-          "forks": 111
+          "totalStars": 2206,
+          "forks": 133
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28560351?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1781,
-          "forks": 177
+          "totalStars": 1829,
+          "forks": 181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1450,
-          "forks": 208
+          "totalStars": 1472,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222453586?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1361,
-          "forks": 110
+          "totalStars": 1452,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 959,
-          "forks": 173
+          "totalStars": 1083,
+          "forks": 187
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/18239147?v=4"
@@ -114,26 +114,6 @@
       },
       {
         "rank": 6,
-        "name": "Faizpi/bank-sampah",
-        "description": "暂无描述",
-        "language": {
-          "name": "PHP",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 919,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/143463503?v=4"
-        ],
-        "tags": [
-          "#PHP"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "achimala/dream-loop",
         "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
         "language": {
@@ -142,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 860,
-          "forks": 98
+          "totalStars": 924,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -153,27 +133,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "jtydhr88/screenwriting-skills",
-        "description": "暂无描述",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 752,
-          "forks": 95
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/860985?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "name": "gazijarin/itsgiving",
         "description": "Express yourself in meetings (with memes, of course).",
         "language": {
@@ -182,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 721,
-          "forks": 81
+          "totalStars": 791,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32211479?v=4"
@@ -193,23 +153,63 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "truanayangi-com/truanayangi",
-        "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+        "rank": 8,
+        "name": "sumimakito/Mac-Duo",
+        "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
         "language": {
-          "name": "TypeScript",
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 569,
-          "forks": 96
+          "totalStars": 697,
+          "forks": 55
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/326995604?v=4"
+          "https://avatars.githubusercontent.com/u/5277268?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "SpaceDudem/text-humanizer",
+        "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 674,
+          "forks": 106
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1766943?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Colafornia/short-video-generator-AI",
+        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 656,
+          "forks": 111
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13252625?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1450,
-          "forks": 208
+          "totalStars": 1472,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222453586?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1361,
-          "forks": 110
+          "totalStars": 1452,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310437271?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 721,
-          "forks": 81
+          "totalStars": 791,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/32211479?v=4"
@@ -276,26 +276,6 @@
       },
       {
         "rank": 4,
-        "name": "OpenWAM-Official/OpenWAM",
-        "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 539,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/323902510?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "SpaceDudem/text-humanizer",
         "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
         "language": {
@@ -304,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 507,
-          "forks": 104
+          "totalStars": 674,
+          "forks": 106
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1766943?v=4"
@@ -315,7 +295,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "Colafornia/short-video-generator-AI",
         "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
         "language": {
@@ -324,11 +304,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 480,
-          "forks": 110
+          "totalStars": 656,
+          "forks": 111
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13252625?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "crwdla/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 570,
+          "forks": 210
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1875146?v=4"
         ],
         "tags": [
           "#Python"
@@ -344,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 476,
-          "forks": 349
+          "totalStars": 487,
+          "forks": 351
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/276654128?v=4"
@@ -356,19 +356,19 @@
       },
       {
         "rank": 8,
-        "name": "crwdla/tokentab",
-        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
+        "description": "Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
-          "forks": 167
+          "totalStars": 471,
+          "forks": 31
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1875146?v=4"
+          "https://avatars.githubusercontent.com/u/306806987?v=4"
         ],
         "tags": [
           "#Python"
@@ -376,6 +376,26 @@
       },
       {
         "rank": 9,
+        "name": "ArasTey/lunel",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 465,
+          "forks": 1166
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/308009703?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "Sophomoresty/turnstile-bypass",
         "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
         "language": {
@@ -384,31 +404,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
-          "forks": 160
+          "totalStars": 449,
+          "forks": 161
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94944221?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "sitimas9/cdcrafthh",
-        "description": "CodeCraft-style account farm — OAuth + coupon + API key harvest",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 426,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/301397892?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 860,
-          "forks": 98
+          "totalStars": 924,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1448366?v=4"
@@ -438,16 +438,36 @@
       },
       {
         "rank": 2,
-        "name": "mizzlelover/gongwen-gbt9704-skill",
-        "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+        "name": "rizqinrr/viserys-agent",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 497,
-          "forks": 102
+          "totalStars": 626,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/152271198?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "mizzlelover/gongwen-gbt9704-skill",
+        "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 542,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/220598337?v=4"
@@ -457,7 +477,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "yudaprasetya007/routeVSCODE",
         "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
         "language": {
@@ -466,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
+          "totalStars": 238,
           "forks": 0
         },
         "contributors": [
@@ -477,27 +497,27 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "LerSent001/holo-card",
-        "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+        "rank": 5,
+        "name": "nhovongoc0-max/meme-radar",
+        "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 206,
-          "forks": 27
+          "totalStars": 219,
+          "forks": 92
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/266635008?v=4"
+          "https://avatars.githubusercontent.com/u/277285323?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "HRuiCcc/RuiC-card-skill",
         "description": "全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
         "language": {
@@ -506,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 200,
+          "totalStars": 213,
           "forks": 20
         },
         "contributors": [
@@ -517,7 +537,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "name": "LerSent001/holo-card",
+        "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 210,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/266635008?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "viettranx/3dviz-pro-max",
         "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
         "language": {
@@ -526,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 179,
-          "forks": 29
+          "totalStars": 205,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3197896?v=4"
@@ -537,7 +577,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "VII-Cae/hyalite--liquid-glass",
         "description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.",
         "language": {
@@ -546,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 173,
           "forks": 10
         },
         "contributors": [
@@ -557,7 +597,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "cclank/clay-safari",
         "description": "黏土风格 3D 双语动物世界 · A playful clay-style animal world built with Three.js and Blender.",
         "language": {
@@ -566,51 +606,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 167,
+          "totalStars": 168,
           "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/29557585?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "xflare-bot/pokemonlive",
-        "description": "Local Pokemon battle prototype with AI-generated cinematics",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 141,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/187724594?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "mangfufu/director-desk",
-        "description": "AI 短剧白模预演与摄影机调度工具",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 139,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/62043008?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 286,
-          "forks": 12
+          "totalStars": 334,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262229790?v=4"
@@ -648,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 276,
-          "forks": 22
+          "totalStars": 291,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -668,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 276,
-          "forks": 69
+          "totalStars": 279,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
@@ -688,8 +688,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 236,
-          "forks": 10
+          "totalStars": 262,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/45957760?v=4"
@@ -700,26 +700,6 @@
       },
       {
         "rank": 5,
-        "name": "KyThuatUAV/ESP32_FC",
-        "description": "nghiên cứu và phát triển bộ điều khiển bay drone dựa trên esp32",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/193213021?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "nmatt0/moria",
         "description": "IoT firmware identification and extraction",
         "language": {
@@ -728,8 +708,28 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
-          "forks": 18
+          "totalStars": 155,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/7366332?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "nmatt0/mithril",
+        "description": "IoT static scanner for secrets, SBOM, CVEs and more.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 148,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/7366332?v=4"
@@ -740,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "nmatt0/mithril",
-        "description": "IoT static scanner for secrets, SBOM, CVEs and more.",
+        "name": "itzender5820/mousiki",
+        "description": "Highly customizable TUI music player designed to be fast and lightweight",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
-          "forks": 17
+          "totalStars": 117,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/7366332?v=4"
+          "https://avatars.githubusercontent.com/u/238072946?v=4"
         ],
         "tags": [
           "#C++"
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 107,
+          "totalStars": 115,
           "forks": 12
         },
         "contributors": [
@@ -788,7 +788,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
+          "totalStars": 102,
           "forks": 4
         },
         "contributors": [
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 64,
+          "totalStars": 67,
           "forks": 4
         },
         "contributors": [
