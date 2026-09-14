@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/14 02:33:45",
+  "lastUpdate": "2026/09/14 03:15:49",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
@@ -25,7 +25,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 1859,
-          "forks": 191
+          "forks": 192
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -44,7 +44,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1610,
+          "totalStars": 1614,
           "forks": 130
         },
         "contributors": [
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1182,
+          "totalStars": 1191,
           "forks": 209
         },
         "contributors": [
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 816,
+          "totalStars": 817,
           "forks": 94
         },
         "contributors": [
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 801,
+          "totalStars": 803,
           "forks": 59
         },
         "contributors": [
@@ -124,7 +124,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
+          "totalStars": 734,
           "forks": 110
         },
         "contributors": [
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 681,
-          "forks": 171
+          "totalStars": 685,
+          "forks": 172
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/89133686?v=4"
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1610,
+          "totalStars": 1614,
           "forks": 130
         },
         "contributors": [
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 816,
+          "totalStars": 817,
           "forks": 94
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 732,
+          "totalStars": 734,
           "forks": 110
         },
         "contributors": [
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 568,
-          "forks": 97
+          "totalStars": 572,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2530972?v=4"
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 564,
-          "forks": 1428
+          "totalStars": 567,
+          "forks": 1430
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308009703?v=4"
@@ -358,26 +358,6 @@
       },
       {
         "rank": 8,
-        "name": "kevinzakka/mjbatch",
-        "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 413,
-          "forks": 40
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/10518920?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "kruzovic7/ai-data-extractor",
         "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
         "language": {
@@ -386,11 +366,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
-          "forks": 131
+          "totalStars": 422,
+          "forks": 132
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/250558869?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "kevinzakka/mjbatch",
+        "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 416,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/10518920?v=4"
         ],
         "tags": [
           "#Python"
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 358,
           "forks": 21
         },
         "contributors": [
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 580,
+          "totalStars": 582,
           "forks": 120
         },
         "contributors": [
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 240,
-          "forks": 101
+          "totalStars": 244,
+          "forks": 102
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277285323?v=4"
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
+          "totalStars": 221,
           "forks": 32
         },
         "contributors": [
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
+          "totalStars": 213,
           "forks": 7
         },
         "contributors": [
@@ -540,6 +540,26 @@
       },
       {
         "rank": 7,
+        "name": "chuspeeism/iphone-duo",
+        "description": "Interactive iPhone Duo fold animation with projected screen UI, progressive blur, and custom image uploads. Built with Three.js.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 118,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/70992554?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "xsolla-baku-gametech-hackathon/team-noclip",
         "description": "AI desktop overlay and dashboard that captures gameplay sessions and generates \"Previously On...\" summaries using LLMs.",
         "language": {
@@ -559,26 +579,6 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "chuspeeism/iphone-duo",
-        "description": "Interactive iPhone Duo fold animation with projected screen UI, progressive blur, and custom image uploads. Built with Three.js.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 117,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/70992554?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 9,
         "name": "LYiHub/pub-dsh-privacy-router",
         "description": "暂无描述",
@@ -588,7 +588,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
+          "totalStars": 111,
           "forks": 19
         },
         "contributors": [
@@ -600,19 +600,19 @@
       },
       {
         "rank": 10,
-        "name": "Xu123-Bob/Baize",
-        "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。",
+        "name": "varunaditya-plus/SleekFin",
+        "description": "The ultimate Jellyfin Web look refresh, with a hero section, updated elements, and whole new style.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 69,
-          "forks": 0
+          "totalStars": 72,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/286625510?v=4"
+          "https://avatars.githubusercontent.com/u/193228488?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 301,
+          "totalStars": 303,
           "forks": 23
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 58,
+          "totalStars": 59,
           "forks": 1
         },
         "contributors": [
