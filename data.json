@@ -1,14 +1,13 @@
 {
-  "lastUpdate": "2026/09/15 04:15:12",
+  "lastUpdate": "2026/09/16 03:13:57",
   "charts": {
     "languageDistribution": {
-      "Swift": 1,
       "Kotlin": 1,
-      "Python": 3,
+      "Swift": 1,
       "HTML": 2,
+      "Python": 2,
       "C#": 1,
-      "JavaScript": 1,
-      "PHP": 1
+      "JavaScript": 1
     },
     "starGrowth": {}
   },
@@ -16,26 +15,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "sumimakito/Mac-Duo",
-        "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 875,
-          "forks": 64
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5277268?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Chuloo/mural",
         "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
         "language": {
@@ -44,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 849,
-          "forks": 180
+          "totalStars": 1060,
+          "forks": 223
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22301208?v=4"
@@ -55,23 +34,43 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "kruzovic7/ai-data-extractor",
-        "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "rank": 2,
+        "name": "sumimakito/Mac-Duo",
+        "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Swift",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 812,
-          "forks": 132
+          "totalStars": 917,
+          "forks": 66
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/250558869?v=4"
+          "https://avatars.githubusercontent.com/u/5277268?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "ai-sucks-butt/ai-sucks-butt",
+        "description": "If you think AI sucks, star the repo.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 863,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/328935899?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       },
       {
@@ -84,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 760,
-          "forks": 77
+          "totalStars": 834,
+          "forks": 81
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35550115?v=4"
@@ -96,6 +95,26 @@
       },
       {
         "rank": 5,
+        "name": "kruzovic7/ai-data-extractor",
+        "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 823,
+          "forks": 132
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/250558869?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "angusdevgo/IDM_Pro_Tool",
         "description": "IDM激活与状态维护工具",
         "language": {
@@ -104,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 697,
-          "forks": 179
+          "totalStars": 712,
+          "forks": 181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/89133686?v=4"
@@ -115,7 +134,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "eternityspring/reelbench-skills",
         "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
         "language": {
@@ -124,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 679,
-          "forks": 90
+          "totalStars": 697,
+          "forks": 92
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5795147?v=4"
@@ -135,27 +154,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "ArasTey/lunel",
-        "description": "暂无描述",
+        "rank": 8,
+        "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+        "description": "GPT-6 Astra for embodied AI and robotics.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Unknown",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 662,
-          "forks": 1586
+          "totalStars": 693,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/308009703?v=4"
+          "https://avatars.githubusercontent.com/u/43678835?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Trending"
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "nftechie/stonkfly",
         "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
         "language": {
@@ -164,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 657,
-          "forks": 107
+          "totalStars": 693,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2530972?v=4"
@@ -175,7 +194,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "rizqinrr/viserys-agent",
         "description": "暂无描述",
         "language": {
@@ -184,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 649,
+          "totalStars": 652,
           "forks": 2
         },
         "contributors": [
@@ -192,26 +211,6 @@
         ],
         "tags": [
           "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Faizpi/bank-sampah",
-        "description": "暂无描述",
-        "language": {
-          "name": "PHP",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 646,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/143463503?v=4"
-        ],
-        "tags": [
-          "#PHP"
         ]
       }
     ],
@@ -226,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 812,
+          "totalStars": 823,
           "forks": 132
         },
         "contributors": [
@@ -238,26 +237,6 @@
       },
       {
         "rank": 2,
-        "name": "ArasTey/lunel",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 662,
-          "forks": 1586
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308009703?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "nftechie/stonkfly",
         "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
         "language": {
@@ -266,11 +245,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 657,
-          "forks": 107
+          "totalStars": 693,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2530972?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "nilbuild/page-mascot",
+        "description": "A mascot that watches the cursor and blinks when you poke it",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 542,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4921183?v=4"
         ],
         "tags": [
           "#Python"
@@ -286,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 485,
-          "forks": 51
+          "totalStars": 502,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10518920?v=4"
@@ -306,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
-          "forks": 13
+          "totalStars": 481,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100551693?v=4"
@@ -318,6 +317,26 @@
       },
       {
         "rank": 6,
+        "name": "letorig/video-generator-client",
+        "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 443,
+          "forks": 82
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/139477411?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "DefiLeoo/YOINK",
         "description": "暂无描述",
         "language": {
@@ -326,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
-          "forks": 21
+          "totalStars": 377,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/135053852?v=4"
@@ -337,47 +356,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Phyzicalorg/Phyzical_org",
-        "description": "Browser teleoperation data for embodied AI — elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 310,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/326996651?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 8,
-        "name": "nilbuild/page-mascot",
-        "description": "A mascot that watches the cursor and blinks when you poke it",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 296,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4921183?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "yureii1996/cek-probe-model",
         "description": "Untuk cek model apakah maskingan atau bukan",
         "language": {
@@ -397,23 +376,43 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "haxybaxy/video-pedal",
-        "description": "A loop pedal for your webcam: hold a key to record, release to loop, press to go live. Outputs a virtual camera.",
+        "rank": 9,
+        "name": "groundboxerrespect/Dlls5-auto",
+        "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 244,
-          "forks": 15
+          "totalStars": 245,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/87573953?v=4"
+          "https://avatars.githubusercontent.com/u/270958220?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "FLModel/flybook",
+        "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 234,
+          "forks": 43
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/327971531?v=4"
+        ],
+        "tags": [
+          "#Trending"
         ]
       }
     ],
@@ -428,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 649,
+          "totalStars": 652,
           "forks": 2
         },
         "contributors": [
@@ -440,19 +439,19 @@
       },
       {
         "rank": 2,
-        "name": "mizzlelover/gongwen-gbt9704-skill",
-        "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+        "name": "viettranx/3dviz-pro-max",
+        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 610,
-          "forks": 126
+          "totalStars": 405,
+          "forks": 49
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/220598337?v=4"
+          "https://avatars.githubusercontent.com/u/3197896?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -468,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
-          "forks": 140
+          "totalStars": 344,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/277285323?v=4"
@@ -480,26 +479,6 @@
       },
       {
         "rank": 4,
-        "name": "viettranx/3dviz-pro-max",
-        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 296,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3197896?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "Qiuner/birdview",
         "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
         "language": {
@@ -508,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 265,
-          "forks": 15
+          "totalStars": 286,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/149919158?v=4"
@@ -519,7 +498,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "yudaprasetya007/routeVSCODE",
         "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
         "language": {
@@ -539,6 +518,26 @@
         ]
       },
       {
+        "rank": 6,
+        "name": "pliablepixels/gap-trap",
+        "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 148,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4116654?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
         "rank": 7,
         "name": "kazdenc/regen-icons",
         "description": "暂无描述",
@@ -548,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
+          "totalStars": 147,
           "forks": 14
         },
         "contributors": [
@@ -568,8 +567,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 125,
-          "forks": 21
+          "totalStars": 135,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/70992554?v=4"
@@ -588,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
-          "forks": 24
+          "totalStars": 134,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/169660933?v=4"
@@ -600,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "xsolla-baku-gametech-hackathon/team-noclip",
-        "description": "AI desktop overlay and dashboard that captures gameplay sessions and generates \"Previously On...\" summaries using LLMs.",
+        "name": "lidge-jun/aside-codemode",
+        "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 118,
-          "forks": 1
+          "totalStars": 88,
+          "forks": 10
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/313711871?v=4"
+          "https://avatars.githubusercontent.com/u/243035832?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133,
-          "forks": 5
+          "totalStars": 168,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/325998550?v=4"
@@ -642,19 +641,19 @@
       },
       {
         "rank": 2,
-        "name": "Likely7/Veyra-NRVideo",
-        "description": "Windows 视频播放器与采集卡增强工具。支持视频、图片和采集卡实时预览，可组合使用超分辨率、NR 画面增强与补帧。",
+        "name": "KillaBoi/BrokenPipe",
+        "description": "Steam Client Service Local Privilege Escalation Vulnerability",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
-          "forks": 7
+          "totalStars": 134,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/243683505?v=4"
+          "https://avatars.githubusercontent.com/u/46409262?v=4"
         ],
         "tags": [
           "#C++"
@@ -662,8 +661,8 @@
       },
       {
         "rank": 3,
-        "name": "LCPD15/DXL",
-        "description": "A dead-simple DLSS 5 utility. No messing around with various mods：DLSS eXtended Loader",
+        "name": "Epic0522/REGTA-3DSPort-Complete",
+        "description": "GTA III, VC, LCS ports for New Nintendo 3DS family.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -671,10 +670,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 75,
-          "forks": 1
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/131463638?v=4"
+          "https://avatars.githubusercontent.com/u/67914358?v=4"
         ],
         "tags": [
           "#C++"
@@ -682,19 +681,19 @@
       },
       {
         "rank": 4,
-        "name": "T-DT-Algorithm-2026/tdt-nav-kit",
-        "description": "暂无描述",
+        "name": "ashhart/MCDMA",
+        "description": "Metal Cuda Direct Memory Access",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 69,
-          "forks": 5
+          "totalStars": 57,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/230106752?v=4"
+          "https://avatars.githubusercontent.com/u/71890694?v=4"
         ],
         "tags": [
           "#C++"
@@ -702,19 +701,19 @@
       },
       {
         "rank": 5,
-        "name": "keithxc/deskport",
-        "description": "Experimental remote-development client based on Moonlight and Sunshine, working toward persistent sessions and one-action window recall.",
+        "name": "Hero88go/melee-unlocked",
+        "description": "Super Smash Bros. Melee with unlocked FPS as a native Windows build with Slippi online play. Current release is in ALPHA. Bring your own NTSC 1.02 ISO.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 59,
-          "forks": 5
+          "totalStars": 46,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/75361919?v=4"
+          "https://avatars.githubusercontent.com/u/3076363?v=4"
         ],
         "tags": [
           "#C++"
@@ -730,8 +729,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 44,
-          "forks": 3
+          "totalStars": 46,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260893928?v=4"
@@ -742,8 +741,8 @@
       },
       {
         "rank": 7,
-        "name": "zmodelerlover/dlss5-neural-amd",
-        "description": "ReShade add-on running the DLSS-NR network on AMD GPUs via HIP, RenoDX-shaped. Tested on PCSX2. Published to be forked. Discord: https://discord.gg/wYhvS3JSHM",
+        "name": "sam-v-hq99v4/Serum-2-Free",
+        "description": "Free tool for Serum 2 — unlock more possibilities with this powerful synthesizer. Download a free Serum 2 tool, presets, and useful settings for music production. Perfect for creating basses, leads, melodies, pads, and other sounds in modern music.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -751,10 +750,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 39,
-          "forks": 6
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/171363449?v=4"
+          "https://avatars.githubusercontent.com/u/279063136?v=4"
         ],
         "tags": [
           "#C++"
@@ -762,19 +761,19 @@
       },
       {
         "rank": 8,
-        "name": "Hero88go/melee-unlocked",
-        "description": "Super Smash Bros. Melee with unlocked FPS as a native Windows build with Slippi online play. Current release is in ALPHA. Bring your own NTSC 1.02 ISO.",
+        "name": "dougchansan/mk8-recomp",
+        "description": "Static recompilation of AArch64 CPU code to native x86-64, on top of suyu's AOT recompiler and HLE stack.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 36,
-          "forks": 1
+          "totalStars": 33,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3076363?v=4"
+          "https://avatars.githubusercontent.com/u/236513096?v=4"
         ],
         "tags": [
           "#C++"
@@ -782,19 +781,19 @@
       },
       {
         "rank": 9,
-        "name": "TinyBlkDog/titanfall2vr",
-        "description": "Titanfall 2 VR mod",
+        "name": "tarboh/S-MU2000",
+        "description": "Yamaha MU2000 のソフトウェア音源。実機の firmware をそのまま走らせる VST3。非公式・ヤマハとは無関係",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 28,
-          "forks": 1
+          "totalStars": 29,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/38469092?v=4"
+          "https://avatars.githubusercontent.com/u/50641757?v=4"
         ],
         "tags": [
           "#C++"
@@ -810,7 +809,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 27,
+          "totalStars": 28,
           "forks": 0
         },
         "contributors": [
