@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026/09/16 03:13:57",
+  "lastUpdate": "2026/09/16 04:10:57",
   "charts": {
     "languageDistribution": {
       "Kotlin": 1,
       "Swift": 1,
+      "Python": 3,
       "HTML": 2,
-      "Python": 2,
       "C#": 1,
       "JavaScript": 1
     },
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1060,
-          "forks": 223
+          "totalStars": 1065,
+          "forks": 224
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22301208?v=4"
@@ -58,19 +58,19 @@
         "name": "ai-sucks-butt/ai-sucks-butt",
         "description": "If you think AI sucks, star the repo.",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 863,
+          "totalStars": 865,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/328935899?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Python"
         ]
       },
       {
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 834,
+          "totalStars": 835,
           "forks": 81
         },
         "contributors": [
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 712,
+          "totalStars": 715,
           "forks": 181
         },
         "contributors": [
@@ -135,26 +135,6 @@
       },
       {
         "rank": 7,
-        "name": "eternityspring/reelbench-skills",
-        "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 697,
-          "forks": 92
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5795147?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "zjwzcx/Awesome-Astra-Embodied-AI",
         "description": "GPT-6 Astra for embodied AI and robotics.",
         "language": {
@@ -163,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 693,
+          "totalStars": 707,
           "forks": 13
         },
         "contributors": [
@@ -171,6 +151,26 @@
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "eternityspring/reelbench-skills",
+        "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 698,
+          "forks": 92
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5795147?v=4"
+        ],
+        "tags": [
+          "#HTML"
         ]
       },
       {
@@ -217,6 +217,26 @@
     "Python": [
       {
         "rank": 1,
+        "name": "ai-sucks-butt/ai-sucks-butt",
+        "description": "If you think AI sucks, star the repo.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 865,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/328935899?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "kruzovic7/ai-data-extractor",
         "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
         "language": {
@@ -236,7 +256,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "nftechie/stonkfly",
         "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
         "language": {
@@ -256,7 +276,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "nilbuild/page-mascot",
         "description": "A mascot that watches the cursor and blinks when you poke it",
         "language": {
@@ -265,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
+          "totalStars": 549,
           "forks": 42
         },
         "contributors": [
@@ -276,7 +296,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "kevinzakka/mjbatch",
         "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
         "language": {
@@ -296,7 +316,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "yi1108/printfilm",
         "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
         "language": {
@@ -316,7 +336,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "letorig/video-generator-client",
         "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
         "language": {
@@ -325,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 443,
+          "totalStars": 471,
           "forks": 82
         },
         "contributors": [
@@ -336,7 +356,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "DefiLeoo/YOINK",
         "description": "暂无描述",
         "language": {
@@ -356,7 +376,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "yureii1996/cek-probe-model",
         "description": "Untuk cek model apakah maskingan atau bukan",
         "language": {
@@ -376,7 +396,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "groundboxerrespect/Dlls5-auto",
         "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
         "language": {
@@ -385,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 245,
+          "totalStars": 247,
           "forks": 1
         },
         "contributors": [
@@ -393,26 +413,6 @@
         ],
         "tags": [
           "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "FLModel/flybook",
-        "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 234,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/327971531?v=4"
-        ],
-        "tags": [
-          "#Trending"
         ]
       }
     ],
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 405,
-          "forks": 49
+          "totalStars": 406,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3197896?v=4"
@@ -527,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 149,
           "forks": 6
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
+          "totalStars": 171,
           "forks": 6
         },
         "contributors": [
@@ -649,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 134,
-          "forks": 23
+          "totalStars": 138,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46409262?v=4"
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
+          "totalStars": 78,
           "forks": 7
         },
         "contributors": [
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 46,
+          "totalStars": 47,
           "forks": 1
         },
         "contributors": [
