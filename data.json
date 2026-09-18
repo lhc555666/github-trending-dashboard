@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/09/18 03:05:41",
+  "lastUpdate": "2026/09/18 04:01:47",
   "charts": {
     "languageDistribution": {
       "Python": 4,
       "Kotlin": 1,
       "HTML": 1,
-      "Rust": 1,
-      "TypeScript": 1
+      "TypeScript": 1,
+      "Rust": 1
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2530,
-          "forks": 144
+          "totalStars": 2676,
+          "forks": 152
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1322,
+          "totalStars": 1323,
           "forks": 257
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 882,
-          "forks": 59
+          "totalStars": 919,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22087932?v=4"
@@ -102,7 +102,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 832,
+          "totalStars": 836,
           "forks": 17
         },
         "contributors": [
@@ -114,6 +114,26 @@
       },
       {
         "rank": 6,
+        "name": "tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 826,
+          "forks": 37
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/65584429?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "agentverse-os/AgentVerse-OS",
         "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
         "language": {
@@ -122,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 754,
+          "totalStars": 755,
           "forks": 21
         },
         "contributors": [
@@ -133,7 +153,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "vinnylarouge/jevlike",
         "description": "暂无描述",
         "language": {
@@ -142,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 703,
-          "forks": 66
+          "totalStars": 716,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5328067?v=4"
@@ -153,7 +173,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "youngyangyang04/llm-master",
         "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
         "language": {
@@ -162,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 693,
+          "totalStars": 695,
           "forks": 67
         },
         "contributors": [
@@ -173,7 +193,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "nilbuild/page-mascot",
         "description": "A mascot that watches the cursor and blinks when you poke it",
         "language": {
@@ -182,34 +202,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 687,
-          "forks": 61
+          "totalStars": 688,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4921183?v=4"
         ],
         "tags": [
           "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "tamaratran/fast-jev-compaction",
-        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 682,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65584429?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2530,
-          "forks": 144
+          "totalStars": 2676,
+          "forks": 152
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 882,
-          "forks": 59
+          "totalStars": 919,
+          "forks": 63
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22087932?v=4"
@@ -264,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 703,
-          "forks": 66
+          "totalStars": 716,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5328067?v=4"
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 687,
-          "forks": 61
+          "totalStars": 688,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4921183?v=4"
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 429,
+          "totalStars": 439,
           "forks": 53
         },
         "contributors": [
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 415,
+          "totalStars": 432,
           "forks": 82
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
+          "totalStars": 315,
           "forks": 34
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 273,
+          "totalStars": 274,
           "forks": 1
         },
         "contributors": [
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 576,
-          "forks": 35
+          "totalStars": 584,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1158956?v=4"
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
+          "totalStars": 382,
           "forks": 33
         },
         "contributors": [
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 149,
           "forks": 34
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
+          "totalStars": 110,
           "forks": 12
         },
         "contributors": [
@@ -586,7 +586,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 78,
+          "totalStars": 82,
           "forks": 11
         },
         "contributors": [
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 76,
+          "totalStars": 79,
           "forks": 3
         },
         "contributors": [
@@ -648,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
-          "forks": 7
+          "totalStars": 99,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/293385021?v=4"
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 66,
+          "totalStars": 67,
           "forks": 6
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 52,
+          "totalStars": 53,
           "forks": 4
         },
         "contributors": [
@@ -800,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "ASIG-X/JEPLO",
-        "description": "First JEPA-based learning framework for mapping-free LiDAR-based perceptive locomotion",
+        "name": "markus6222/Nexus-Proxy",
+        "description": "Most Advanced Growtopia Proxy",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 39,
-          "forks": 1
+          "totalStars": 40,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/164403888?v=4"
+          "https://avatars.githubusercontent.com/u/329969843?v=4"
         ],
         "tags": [
           "#C++"
