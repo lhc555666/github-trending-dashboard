@@ -1,13 +1,12 @@
 {
-  "lastUpdate": "2026/09/17 04:17:54",
+  "lastUpdate": "2026/09/18 03:05:41",
   "charts": {
     "languageDistribution": {
-      "Python": 3,
+      "Python": 4,
       "Kotlin": 1,
-      "HTML": 2,
+      "HTML": 1,
       "Rust": 1,
-      "JavaScript": 1,
-      "PHP": 1
+      "TypeScript": 1
     },
     "starGrowth": {}
   },
@@ -15,19 +14,19 @@
     "All": [
       {
         "rank": 1,
-        "name": "ai-sucks-butt/ai-sucks-butt",
-        "description": "If you think AI sucks, star the repo.",
+        "name": "browser-use/jev-ultrafast",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1959,
-          "forks": 0
+          "totalStars": 2530,
+          "forks": 144
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/328935899?v=4"
+          "https://avatars.githubusercontent.com/u/192012301?v=4"
         ],
         "tags": [
           "#Python"
@@ -43,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1268,
-          "forks": 248
+          "totalStars": 1322,
+          "forks": 257
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22301208?v=4"
@@ -55,6 +54,26 @@
       },
       {
         "rank": 3,
+        "name": "TheoLeeCJ/openjev",
+        "description": "Can we run something like Jev on a 3090 at home?",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 882,
+          "forks": 59
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22087932?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "yifanzhang-pro/recurrent-looped-tranformer",
         "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
         "language": {
@@ -63,34 +82,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 863,
-          "forks": 84
+          "totalStars": 873,
+          "forks": 85
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35550115?v=4"
         ],
         "tags": [
           "#HTML"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "kruzovic7/ai-data-extractor",
-        "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 827,
-          "forks": 132
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/250558869?v=4"
-        ],
-        "tags": [
-          "#Python"
         ]
       },
       {
@@ -103,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 784,
-          "forks": 14
+          "totalStars": 832,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/43678835?v=4"
@@ -115,26 +114,6 @@
       },
       {
         "rank": 6,
-        "name": "eternityspring/reelbench-skills",
-        "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-        "language": {
-          "name": "HTML",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 709,
-          "forks": 93
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5795147?v=4"
-        ],
-        "tags": [
-          "#HTML"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "agentverse-os/AgentVerse-OS",
         "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
         "language": {
@@ -143,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 689,
-          "forks": 18
+          "totalStars": 754,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/328451092?v=4"
@@ -154,169 +133,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "rizqinrr/viserys-agent",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 660,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/152271198?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Faizpi/bank-sampah",
-        "description": "暂无描述",
-        "language": {
-          "name": "PHP",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 646,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/143463503?v=4"
-        ],
-        "tags": [
-          "#PHP"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "nilbuild/page-mascot",
-        "description": "A mascot that watches the cursor and blinks when you poke it",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 642,
-          "forks": 57
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4921183?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "ai-sucks-butt/ai-sucks-butt",
-        "description": "If you think AI sucks, star the repo.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1959,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/328935899?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "kruzovic7/ai-data-extractor",
-        "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 827,
-          "forks": 132
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/250558869?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "nilbuild/page-mascot",
-        "description": "A mascot that watches the cursor and blinks when you poke it",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 642,
-          "forks": 57
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4921183?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "letorig/video-generator-client",
-        "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 520,
-          "forks": 83
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/139477411?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "DefiLeoo/YOINK",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 379,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/135053852?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "name": "vinnylarouge/jevlike",
         "description": "暂无描述",
         "language": {
@@ -325,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 287,
-          "forks": 32
+          "totalStars": 703,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5328067?v=4"
@@ -336,7 +153,209 @@
         ]
       },
       {
+        "rank": 8,
+        "name": "youngyangyang04/llm-master",
+        "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "language": {
+          "name": "Unknown",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 693,
+          "forks": 67
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8636020?v=4"
+        ],
+        "tags": [
+          "#Trending"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "nilbuild/page-mascot",
+        "description": "A mascot that watches the cursor and blinks when you poke it",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 687,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4921183?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 682,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/65584429?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "browser-use/jev-ultrafast",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2530,
+          "forks": 144
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/192012301?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "TheoLeeCJ/openjev",
+        "description": "Can we run something like Jev on a 3090 at home?",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 882,
+          "forks": 59
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22087932?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "vinnylarouge/jevlike",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 703,
+          "forks": 66
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5328067?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "nilbuild/page-mascot",
+        "description": "A mascot that watches the cursor and blinks when you poke it",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 687,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/4921183?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "letorig/video-generator-client",
+        "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 533,
+          "forks": 84
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/139477411?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ctdal/cve-2026-41940-PoC",
+        "description": "A cPanel and WHM authentication bypassing tool",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 429,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/311369061?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "korcarc/text-humanizer",
+        "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 415,
+          "forks": 82
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/64578973?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "AetherLabsAI/RSIAgent",
         "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
         "language": {
@@ -345,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 275,
-          "forks": 29
+          "totalStars": 313,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/327190302?v=4"
@@ -356,47 +375,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "groundboxerrespect/Dlls5-auto",
-        "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 255,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/270958220?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "FLModel/flybook",
-        "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 234,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/327971531?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "Marcos66236/github-stars-history",
         "description": "Track and visualize the stars history of any GitHub repository. Open-source growth analytics and velocity tracking.",
         "language": {
@@ -405,11 +384,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
-          "forks": 26
+          "totalStars": 276,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/309151474?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "groundboxerrespect/Dlls5-auto",
+        "description": "🎮 Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render — bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 273,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/270958220?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 660,
+          "totalStars": 662,
           "forks": 2
         },
         "contributors": [
@@ -439,19 +438,19 @@
       },
       {
         "rank": 2,
-        "name": "nhovongoc0-max/meme-radar",
-        "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+        "name": "theoephraim/awesome-cloudflare-selfhosted",
+        "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 350,
-          "forks": 147
+          "totalStars": 576,
+          "forks": 35
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/277285323?v=4"
+          "https://avatars.githubusercontent.com/u/1158956?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -467,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
-          "forks": 24
+          "totalStars": 381,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/149919158?v=4"
@@ -479,19 +478,19 @@
       },
       {
         "rank": 4,
-        "name": "theoephraim/awesome-cloudflare-selfhosted",
-        "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+        "name": "pliablepixels/gap-trap",
+        "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 326,
-          "forks": 13
+          "totalStars": 168,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1158956?v=4"
+          "https://avatars.githubusercontent.com/u/4116654?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -507,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
+          "totalStars": 163,
           "forks": 14
         },
         "contributors": [
@@ -519,19 +518,19 @@
       },
       {
         "rank": 6,
-        "name": "LYiHub/pub-dsh-privacy-router",
-        "description": "暂无描述",
+        "name": "dofastted/vm2api",
+        "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 138,
-          "forks": 25
+          "totalStars": 148,
+          "forks": 34
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/169660933?v=4"
+          "https://avatars.githubusercontent.com/u/278058887?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -539,26 +538,6 @@
       },
       {
         "rank": 7,
-        "name": "xepes0/wloc",
-        "description": "WLOC 社区维护版：基于 Yu9191/wloc 恢复，保留原作者历史与许可证，支持 Apple 网络定位测试及自部署。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 106,
-          "forks": 92
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/264093744?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "zihenghe04/AIBro",
         "description": "AI Bro — a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
         "language": {
@@ -567,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
-          "forks": 15
+          "totalStars": 124,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/122504005?v=4"
@@ -578,7 +557,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "lidge-jun/aside-codemode",
         "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
         "language": {
@@ -587,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
+          "totalStars": 109,
           "forks": 12
         },
         "contributors": [
@@ -598,20 +577,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "dofastted/vm2api",
-        "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
+        "rank": 9,
+        "name": "kuhnhomeuk-cell/procedural-film",
+        "description": "Agent skill: turn a topic into a 30s vertical film drawn and scored entirely in JavaScript. Reference film: the life of a monarch butterfly.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 92,
-          "forks": 22
+          "totalStars": 78,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278058887?v=4"
+          "https://avatars.githubusercontent.com/u/277176978?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "gargpratyush/jev-router",
+        "description": "Route to the cheapest model in claude code for your task using jev-router",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/75370041?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -621,26 +620,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "KillaBoi/BrokenPipe",
-        "description": "Steam Client Service Local Privilege Escalation Vulnerability",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 181,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/46409262?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "Epic0522/REGTA-3DSPort-Complete",
         "description": "GTA III, VC, LCS ports for New Nintendo 3DS family.",
         "language": {
@@ -649,11 +628,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 104,
-          "forks": 10
+          "totalStars": 121,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/67914358?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "kvmem/kvmem-llama.cpp",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 93,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/293385021?v=4"
         ],
         "tags": [
           "#C++"
@@ -669,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 72,
-          "forks": 3
+          "totalStars": 74,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/71890694?v=4"
@@ -689,8 +688,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 53,
-          "forks": 5
+          "totalStars": 66,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126285031?v=4"
@@ -709,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 51,
+          "totalStars": 54,
           "forks": 1
         },
         "contributors": [
@@ -721,46 +720,6 @@
       },
       {
         "rank": 6,
-        "name": "dougchansan/mk8-recomp",
-        "description": "Static recompilation of AArch64 CPU code to native x86-64, on top of suyu's AOT recompiler and HLE stack.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 42,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/236513096?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "kvmem/kvmem-llama.cpp",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 40,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/293385021?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "yappologistic/Nala",
         "description": "暂无描述",
         "language": {
@@ -769,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 39,
+          "totalStars": 52,
           "forks": 4
         },
         "contributors": [
@@ -780,27 +739,47 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "ASIG-X/JEPLO",
-        "description": "First JEPA-based learning framework for mapping-free LiDAR-based perceptive locomotion",
+        "rank": 7,
+        "name": "tony-devbtc/Seed-Phrase-Generator",
+        "description": "WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 34,
-          "forks": 1
+          "totalStars": 51,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/164403888?v=4"
+          "https://avatars.githubusercontent.com/u/307365119?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "DomazinUS/RaceWave46",
+        "description": "An AI-assisted Wave Race 64 recompilation for Windows, with modern graphics and expanded local multiplayer.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 43,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/111136444?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "shantanugoel/hearth",
         "description": "Hearth: household working memory on a ZECTRIX NOTE4",
         "language": {
@@ -809,11 +788,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 31,
-          "forks": 1
+          "totalStars": 41,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/390304?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ASIG-X/JEPLO",
+        "description": "First JEPA-based learning framework for mapping-free LiDAR-based perceptive locomotion",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 39,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/164403888?v=4"
         ],
         "tags": [
           "#C++"
