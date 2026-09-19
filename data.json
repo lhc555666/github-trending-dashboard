@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/19 03:01:47",
+  "lastUpdate": "2026/09/19 03:58:58",
   "charts": {
     "languageDistribution": {
       "Python": 6,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5743,
-          "forks": 368
+          "totalStars": 5826,
+          "forks": 373
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3350,
-          "forks": 170
+          "totalStars": 3401,
+          "forks": 174
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65584429?v=4"
@@ -60,8 +60,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1619,
-          "forks": 106
+          "totalStars": 1631,
+          "forks": 107
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22087932?v=4"
@@ -80,8 +80,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1094,
-          "forks": 520
+          "totalStars": 1129,
+          "forks": 530
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204130968?v=4"
@@ -92,26 +92,6 @@
       },
       {
         "rank": 5,
-        "name": "vinnylarouge/jevlike",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 898,
-          "forks": 76
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5328067?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "jarrodwatts/jev-trader",
         "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
         "language": {
@@ -120,14 +100,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 897,
-          "forks": 170
+          "totalStars": 905,
+          "forks": 171
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35651410?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "vinnylarouge/jevlike",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 901,
+          "forks": 76
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5328067?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 784,
-          "forks": 92
+          "totalStars": 849,
+          "forks": 101
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1269226?v=4"
@@ -160,8 +160,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 770,
-          "forks": 66
+          "totalStars": 775,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/52874273?v=4"
@@ -200,7 +200,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 712,
+          "totalStars": 713,
           "forks": 67
         },
         "contributors": [
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5743,
-          "forks": 368
+          "totalStars": 5826,
+          "forks": 373
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1619,
-          "forks": 106
+          "totalStars": 1631,
+          "forks": 107
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22087932?v=4"
@@ -262,8 +262,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1094,
-          "forks": 520
+          "totalStars": 1129,
+          "forks": 530
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204130968?v=4"
@@ -282,7 +282,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 898,
+          "totalStars": 901,
           "forks": 76
         },
         "contributors": [
@@ -322,7 +322,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 712,
+          "totalStars": 713,
           "forks": 67
         },
         "contributors": [
@@ -382,7 +382,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 406,
+          "totalStars": 424,
           "forks": 40
         },
         "contributors": [
@@ -402,7 +402,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
+          "totalStars": 394,
           "forks": 38
         },
         "contributors": [
@@ -424,7 +424,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 645,
+          "totalStars": 646,
           "forks": 39
         },
         "contributors": [
@@ -496,26 +496,6 @@
       },
       {
         "rank": 5,
-        "name": "droidrun/mobile-jev",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 147,
-          "forks": 22
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/207381488?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "gargpratyush/jev-router",
         "description": "Route to the cheapest model in claude code for your task using jev-router",
         "language": {
@@ -524,11 +504,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
-          "forks": 5
+          "totalStars": 149,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75370041?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "droidrun/mobile-jev",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 149,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207381488?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -544,7 +544,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 134,
+          "totalStars": 135,
           "forks": 17
         },
         "contributors": [
@@ -564,7 +564,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
+          "totalStars": 133,
           "forks": 16
         },
         "contributors": [
@@ -584,7 +584,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
+          "totalStars": 126,
           "forks": 14
         },
         "contributors": [
@@ -596,19 +596,19 @@
       },
       {
         "rank": 10,
-        "name": "lidge-jun/aside-codemode",
-        "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
+        "name": "wy-coliney/jev-browser-use",
+        "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
-          "forks": 12
+          "totalStars": 119,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/243035832?v=4"
+          "https://avatars.githubusercontent.com/u/30455008?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -626,7 +626,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 197,
+          "totalStars": 212,
           "forks": 18
         },
         "contributors": [
@@ -686,8 +686,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 106,
-          "forks": 14
+          "totalStars": 107,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87581101?v=4"
@@ -718,6 +718,26 @@
       },
       {
         "rank": 6,
+        "name": "markus6222/Nexus-Proxy",
+        "description": "Most Advanced Growtopia Proxy",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 60,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/329969843?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "yappologistic/Nala",
         "description": "暂无描述",
         "language": {
@@ -731,26 +751,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262229790?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "markus6222/Nexus-Proxy",
-        "description": "Most Advanced Growtopia Proxy",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 58,
-          "forks": 20
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/329969843?v=4"
         ],
         "tags": [
           "#C++"
@@ -806,7 +806,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 43,
+          "totalStars": 44,
           "forks": 0
         },
         "contributors": [
