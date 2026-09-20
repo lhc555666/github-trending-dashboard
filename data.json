@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/20 03:17:38",
+  "lastUpdate": "2026/09/20 04:17:47",
   "charts": {
     "languageDistribution": {
       "Python": 7,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8938,
-          "forks": 562
+          "totalStars": 9098,
+          "forks": 569
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4338,
-          "forks": 238
+          "totalStars": 4380,
+          "forks": 241
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65584429?v=4"
@@ -60,8 +60,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2650,
-          "forks": 284
+          "totalStars": 2757,
+          "forks": 293
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1269226?v=4"
@@ -80,7 +80,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1984,
+          "totalStars": 2001,
           "forks": 123
         },
         "contributors": [
@@ -100,8 +100,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1605,
-          "forks": 677
+          "totalStars": 1623,
+          "forks": 682
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204130968?v=4"
@@ -120,8 +120,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1442,
-          "forks": 124
+          "totalStars": 1508,
+          "forks": 131
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1319,
-          "forks": 258
+          "totalStars": 1331,
+          "forks": 259
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35651410?v=4"
@@ -152,26 +152,6 @@
       },
       {
         "rank": 8,
-        "name": "vinnylarouge/jevlike",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1002,
-          "forks": 84
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5328067?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "TianyuCodings/NanoJev",
         "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
         "language": {
@@ -180,11 +160,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1001,
-          "forks": 135
+          "totalStars": 1040,
+          "forks": 139
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48460209?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "vinnylarouge/jevlike",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1003,
+          "forks": 84
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5328067?v=4"
         ],
         "tags": [
           "#Python"
@@ -200,7 +200,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 729,
+          "totalStars": 730,
           "forks": 70
         },
         "contributors": [
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8938,
-          "forks": 562
+          "totalStars": 9098,
+          "forks": 569
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -242,7 +242,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1984,
+          "totalStars": 2001,
           "forks": 123
         },
         "contributors": [
@@ -262,8 +262,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1605,
-          "forks": 677
+          "totalStars": 1623,
+          "forks": 682
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204130968?v=4"
@@ -282,8 +282,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1442,
-          "forks": 124
+          "totalStars": 1508,
+          "forks": 131
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -294,26 +294,6 @@
       },
       {
         "rank": 5,
-        "name": "vinnylarouge/jevlike",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1002,
-          "forks": 84
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5328067?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "TianyuCodings/NanoJev",
         "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
         "language": {
@@ -322,11 +302,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1001,
-          "forks": 135
+          "totalStars": 1040,
+          "forks": 139
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48460209?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "vinnylarouge/jevlike",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1003,
+          "forks": 84
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5328067?v=4"
         ],
         "tags": [
           "#Python"
@@ -342,7 +342,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 729,
+          "totalStars": 730,
           "forks": 70
         },
         "contributors": [
@@ -382,8 +382,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 564,
-          "forks": 32
+          "totalStars": 578,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4060187?v=4"
@@ -424,7 +424,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 683,
+          "totalStars": 690,
           "forks": 42
         },
         "contributors": [
@@ -444,8 +444,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 375,
-          "forks": 87
+          "totalStars": 402,
+          "forks": 95
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278058887?v=4"
@@ -464,8 +464,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 318,
-          "forks": 31
+          "totalStars": 335,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270291518?v=4"
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 230,
+          "totalStars": 235,
           "forks": 31
         },
         "contributors": [
@@ -504,8 +504,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
-          "forks": 16
+          "totalStars": 213,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75370041?v=4"
@@ -516,6 +516,26 @@
       },
       {
         "rank": 6,
+        "name": "wy-coliney/jev-browser-use",
+        "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 203,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/30455008?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "VDERR/echocat-skill-panel-3.0",
         "description": "DSH 技能调用审计 + 应用内 skill 管理器",
         "language": {
@@ -535,26 +555,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "wy-coliney/jev-browser-use",
-        "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 200,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/30455008?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 8,
         "name": "coolbbcamp/OfficialSite",
         "description": "https://coolbb.site",
@@ -564,7 +564,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 190,
+          "totalStars": 193,
           "forks": 0
         },
         "contributors": [
@@ -584,7 +584,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
+          "totalStars": 163,
           "forks": 28
         },
         "contributors": [
@@ -604,7 +604,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 160,
+          "totalStars": 161,
           "forks": 10
         },
         "contributors": [
@@ -626,7 +626,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
+          "totalStars": 310,
           "forks": 28
         },
         "contributors": [
@@ -646,7 +646,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 134,
+          "totalStars": 135,
           "forks": 19
         },
         "contributors": [
@@ -706,7 +706,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
+          "totalStars": 88,
           "forks": 5
         },
         "contributors": [
@@ -726,7 +726,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 82,
+          "totalStars": 83,
           "forks": 26
         },
         "contributors": [
@@ -778,6 +778,26 @@
       },
       {
         "rank": 9,
+        "name": "marcosd4h/wesp-research",
+        "description": "Technical documentation, reverse engineering research, and tools for the Windows Endpoint Security Platform (WESP).",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 54,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/17311749?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "doxsir/peep",
         "description": "PE file parser in plain C++17 - reading exe headers byte by byte",
         "language": {
@@ -791,26 +811,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298954304?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "marcosd4h/wesp-research",
-        "description": "Technical documentation, reverse engineering research, and tools for the Windows Endpoint Security Platform (WESP).",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 53,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17311749?v=4"
         ],
         "tags": [
           "#C++"
