@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/21 03:13:18",
+  "lastUpdate": "2026/09/21 04:15:02",
   "charts": {
     "languageDistribution": {
       "Python": 6,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 12392,
-          "forks": 774
+          "totalStars": 12588,
+          "forks": 783
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5313,
-          "forks": 292
+          "totalStars": 5376,
+          "forks": 295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65584429?v=4"
@@ -60,8 +60,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4773,
-          "forks": 425
+          "totalStars": 5031,
+          "forks": 450
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -80,8 +80,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3766,
-          "forks": 396
+          "totalStars": 3791,
+          "forks": 398
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1269226?v=4"
@@ -92,26 +92,6 @@
       },
       {
         "rank": 5,
-        "name": "TheoLeeCJ/SemIf",
-        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2507,
-          "forks": 158
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/22087932?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "zai-org/ZCode",
         "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
         "language": {
@@ -120,14 +100,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2466,
-          "forks": 613
+          "totalStars": 3041,
+          "forks": 784
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223098841?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "TheoLeeCJ/SemIf",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2524,
+          "forks": 158
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22087932?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2067,
-          "forks": 1368
+          "totalStars": 2094,
+          "forks": 1409
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204130968?v=4"
@@ -160,8 +160,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1858,
-          "forks": 97
+          "totalStars": 1930,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252857002?v=4"
@@ -180,8 +180,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1568,
-          "forks": 293
+          "totalStars": 1584,
+          "forks": 300
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35651410?v=4"
@@ -200,8 +200,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1488,
-          "forks": 177
+          "totalStars": 1520,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48460209?v=4"
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 12392,
-          "forks": 774
+          "totalStars": 12588,
+          "forks": 783
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4773,
-          "forks": 425
+          "totalStars": 5031,
+          "forks": 450
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -262,7 +262,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2507,
+          "totalStars": 2524,
           "forks": 158
         },
         "contributors": [
@@ -282,8 +282,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2067,
-          "forks": 1368
+          "totalStars": 2094,
+          "forks": 1409
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204130968?v=4"
@@ -302,8 +302,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1858,
-          "forks": 97
+          "totalStars": 1930,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252857002?v=4"
@@ -322,8 +322,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1488,
-          "forks": 177
+          "totalStars": 1520,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48460209?v=4"
@@ -342,7 +342,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1188,
+          "totalStars": 1215,
           "forks": 85
         },
         "contributors": [
@@ -362,8 +362,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1127,
-          "forks": 67
+          "totalStars": 1163,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4060187?v=4"
@@ -382,8 +382,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1092,
-          "forks": 96
+          "totalStars": 1097,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5328067?v=4"
@@ -424,7 +424,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 742,
+          "totalStars": 744,
           "forks": 48
         },
         "contributors": [
@@ -444,7 +444,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 524,
+          "totalStars": 528,
           "forks": 135
         },
         "contributors": [
@@ -464,8 +464,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 488,
-          "forks": 48
+          "totalStars": 493,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270291518?v=4"
@@ -484,7 +484,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 311,
+          "totalStars": 319,
           "forks": 25
         },
         "contributors": [
@@ -504,8 +504,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 281,
-          "forks": 36
+          "totalStars": 284,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207381488?v=4"
@@ -524,7 +524,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 266,
+          "totalStars": 272,
           "forks": 21
         },
         "contributors": [
@@ -544,7 +544,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 262,
+          "totalStars": 265,
           "forks": 27
         },
         "contributors": [
@@ -556,6 +556,26 @@
       },
       {
         "rank": 8,
+        "name": "logicrw/awesome-jev-projects",
+        "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 240,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34853455?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "coolbbcamp/OfficialSite",
         "description": "https://coolbb.site",
         "language": {
@@ -564,7 +584,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 238,
+          "totalStars": 240,
           "forks": 1
         },
         "contributors": [
@@ -575,40 +595,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "logicrw/awesome-jev-projects",
-        "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 230,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/34853455?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "VDERR/echocat-skill-panel",
-        "description": "DSH 技能调用审计 + 应用内 skill 管理器",
+        "name": "chaseleantj/desktop-habitats",
+        "description": "Living ecosystems you can interact with on your desktop",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 201,
-          "forks": 6
+          "totalStars": 203,
+          "forks": 25
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/106128710?v=4"
+          "https://avatars.githubusercontent.com/u/25005362?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -618,6 +618,26 @@
     "C++": [
       {
         "rank": 1,
+        "name": "adonis-singh/re4",
+        "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 209,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/126285031?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "LaneCommercial/Battery-Power-Management-Driver",
         "description": "⭐️ Battery Power Management Driver with installer v1.2. Includes setup keygen activation, latest build Pro version, pre-activated serial. Optimize power consumption, maximize battery life, and enhance device performance on Windows 10/11 PC desktop. Genuine original software. ⭐️",
         "language": {
@@ -631,26 +651,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/288470471?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "adonis-singh/re4",
-        "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 204,
-          "forks": 15
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/126285031?v=4"
         ],
         "tags": [
           "#C++"
@@ -686,8 +686,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
-          "forks": 19
+          "totalStars": 121,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/291905677?v=4"
