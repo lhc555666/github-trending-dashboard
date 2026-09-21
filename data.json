@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026/09/20 04:17:47",
+  "lastUpdate": "2026/09/21 03:13:18",
   "charts": {
     "languageDistribution": {
-      "Python": 7,
-      "TypeScript": 2,
+      "Python": 6,
+      "TypeScript": 3,
       "Swift": 1
     },
     "starGrowth": {}
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9098,
-          "forks": 569
+          "totalStars": 12392,
+          "forks": 774
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -40,8 +40,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4380,
-          "forks": 241
+          "totalStars": 5313,
+          "forks": 292
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65584429?v=4"
@@ -52,66 +52,6 @@
       },
       {
         "rank": 3,
-        "name": "robbietilton/Compositor",
-        "description": "The Photoshop alternative for Mac",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2757,
-          "forks": 293
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1269226?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "TheoLeeCJ/SemIf",
-        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2001,
-          "forks": 123
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/22087932?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "mcncarl/jianying-headless",
-        "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1623,
-          "forks": 682
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/204130968?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "NandhaKishorM/laya",
         "description": "暂无描述",
         "language": {
@@ -120,8 +60,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1508,
-          "forks": 131
+          "totalStars": 4773,
+          "forks": 425
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -131,7 +71,107 @@
         ]
       },
       {
+        "rank": 4,
+        "name": "robbietilton/Compositor",
+        "description": "The Photoshop alternative for Mac",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 3766,
+          "forks": 396
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1269226?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "TheoLeeCJ/SemIf",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2507,
+          "forks": 158
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22087932?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2466,
+          "forks": 613
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/223098841?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
         "rank": 7,
+        "name": "mcncarl/jianying-headless",
+        "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2067,
+          "forks": 1368
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/204130968?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1858,
+          "forks": 97
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252857002?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "jarrodwatts/jev-trader",
         "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
         "language": {
@@ -140,8 +180,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1331,
-          "forks": 259
+          "totalStars": 1568,
+          "forks": 293
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/35651410?v=4"
@@ -151,7 +191,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "TianyuCodings/NanoJev",
         "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
         "language": {
@@ -160,51 +200,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1040,
-          "forks": 139
+          "totalStars": 1488,
+          "forks": 177
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48460209?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "vinnylarouge/jevlike",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1003,
-          "forks": 84
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5328067?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "nilbuild/page-mascot",
-        "description": "A mascot that watches the cursor and blinks when you poke it",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 730,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4921183?v=4"
         ],
         "tags": [
           "#Python"
@@ -222,8 +222,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9098,
-          "forks": 569
+          "totalStars": 12392,
+          "forks": 774
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192012301?v=4"
@@ -234,46 +234,6 @@
       },
       {
         "rank": 2,
-        "name": "TheoLeeCJ/SemIf",
-        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2001,
-          "forks": 123
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/22087932?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "mcncarl/jianying-headless",
-        "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1623,
-          "forks": 682
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/204130968?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "NandhaKishorM/laya",
         "description": "暂无描述",
         "language": {
@@ -282,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1508,
-          "forks": 131
+          "totalStars": 4773,
+          "forks": 425
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -293,7 +253,67 @@
         ]
       },
       {
+        "rank": 3,
+        "name": "TheoLeeCJ/SemIf",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2507,
+          "forks": 158
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22087932?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "mcncarl/jianying-headless",
+        "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2067,
+          "forks": 1368
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/204130968?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
         "rank": 5,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1858,
+          "forks": 97
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252857002?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "TianyuCodings/NanoJev",
         "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
         "language": {
@@ -302,8 +322,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1040,
-          "forks": 139
+          "totalStars": 1488,
+          "forks": 177
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48460209?v=4"
@@ -313,40 +333,20 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "vinnylarouge/jevlike",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1003,
-          "forks": 84
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5328067?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 7,
-        "name": "nilbuild/page-mascot",
-        "description": "A mascot that watches the cursor and blinks when you poke it",
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 730,
-          "forks": 70
+          "totalStars": 1188,
+          "forks": 85
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/4921183?v=4"
+          "https://avatars.githubusercontent.com/u/167806754?v=4"
         ],
         "tags": [
           "#Python"
@@ -354,36 +354,16 @@
       },
       {
         "rank": 8,
-        "name": "korcarc/text-humanizer",
-        "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 729,
-          "forks": 83
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/64578973?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "jaredpalmer/kev",
-        "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 578,
-          "forks": 33
+          "totalStars": 1127,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4060187?v=4"
@@ -393,20 +373,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "arvindear/wp2shell-PoC",
-        "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+        "rank": 9,
+        "name": "vinnylarouge/jevlike",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 563,
-          "forks": 53
+          "totalStars": 1092,
+          "forks": 96
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/140964372?v=4"
+          "https://avatars.githubusercontent.com/u/5328067?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "korcarc/text-humanizer",
+        "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 737,
+          "forks": 86
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/64578973?v=4"
         ],
         "tags": [
           "#Python"
@@ -424,8 +424,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 690,
-          "forks": 42
+          "totalStars": 742,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1158956?v=4"
@@ -444,8 +444,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 402,
-          "forks": 95
+          "totalStars": 524,
+          "forks": 135
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/278058887?v=4"
@@ -464,8 +464,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 335,
-          "forks": 33
+          "totalStars": 488,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270291518?v=4"
@@ -476,6 +476,26 @@
       },
       {
         "rank": 4,
+        "name": "rmalde/minecraft-agent",
+        "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 311,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/47470168?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "droidrun/mobile-jev",
         "description": "暂无描述",
         "language": {
@@ -484,31 +504,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
-          "forks": 31
+          "totalStars": 281,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207381488?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "gargpratyush/jev-router",
-        "description": "Route to the cheapest model in claude code for your task using jev-router",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 213,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/75370041?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -524,8 +524,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 203,
-          "forks": 11
+          "totalStars": 266,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30455008?v=4"
@@ -536,7 +536,67 @@
       },
       {
         "rank": 7,
-        "name": "VDERR/echocat-skill-panel-3.0",
+        "name": "gargpratyush/jev-router",
+        "description": "Route to the cheapest model in claude code for your task using jev-router",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 262,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/75370041?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "coolbbcamp/OfficialSite",
+        "description": "https://coolbb.site",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 238,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/138713084?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "logicrw/awesome-jev-projects",
+        "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 230,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34853455?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "VDERR/echocat-skill-panel",
         "description": "DSH 技能调用审计 + 应用内 skill 管理器",
         "language": {
           "name": "JavaScript",
@@ -553,84 +613,24 @@
         "tags": [
           "#JavaScript"
         ]
-      },
-      {
-        "rank": 8,
-        "name": "coolbbcamp/OfficialSite",
-        "description": "https://coolbb.site",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 193,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/138713084?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "fatwang2/awesome-jev",
-        "description": "A source-backed Jev project directory with a reusable Jev-only GitHub review workflow.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 163,
-          "forks": 28
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/134143178?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "lakeday-org/perch",
-        "description": "Semantic code linting with Jev",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 161,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/324587317?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
       }
     ],
     "C++": [
       {
         "rank": 1,
-        "name": "kvmem/kvmem-llama.cpp",
-        "description": "暂无描述",
+        "name": "LaneCommercial/Battery-Power-Management-Driver",
+        "description": "⭐️ Battery Power Management Driver with installer v1.2. Includes setup keygen activation, latest build Pro version, pre-activated serial. Optimize power consumption, maximize battery life, and enhance device performance on Windows 10/11 PC desktop. Genuine original software. ⭐️",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 310,
-          "forks": 28
+          "totalStars": 205,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/293385021?v=4"
+          "https://avatars.githubusercontent.com/u/288470471?v=4"
         ],
         "tags": [
           "#C++"
@@ -638,26 +638,6 @@
       },
       {
         "rank": 2,
-        "name": "isinternets/Dawn",
-        "description": "Dawn Production Releases ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 135,
-          "forks": 19
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/87581101?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "adonis-singh/re4",
         "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++",
         "language": {
@@ -666,8 +646,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
-          "forks": 11
+          "totalStars": 204,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126285031?v=4"
@@ -677,20 +657,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "LevinAi-arch/rtx-5070ti-laptop-160w-power-limit",
-        "description": "Research and proof-of-concept for raising the NVIDIA RTX 5070 Ti Laptop GPU power limit from 140W to 160W on Lenovo Legion Pro 5 Gen 10.",
+        "rank": 3,
+        "name": "isinternets/Dawn",
+        "description": "Dawn Production Releases ",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 122,
-          "forks": 7
+          "totalStars": 145,
+          "forks": 20
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/207599747?v=4"
+          "https://avatars.githubusercontent.com/u/87581101?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "MSNightmare/BigDiskBuster",
+        "description": "Windows Defender Update Denial of Service Vulnerability",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 119,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/291905677?v=4"
         ],
         "tags": [
           "#C++"
@@ -698,26 +698,6 @@
       },
       {
         "rank": 5,
-        "name": "ashhart/MCDMA",
-        "description": "Metal Cuda Direct Memory Access",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 88,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/71890694?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "markus6222/Nexus-Proxy",
         "description": "Most Advanced Growtopia Proxy",
         "language": {
@@ -726,8 +706,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 83,
-          "forks": 26
+          "totalStars": 112,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/329969843?v=4"
@@ -737,7 +717,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "DomazinUS/RaceWave46",
         "description": "An AI-assisted Wave Race 64 recompilation for Windows, with modern graphics and expanded local multiplayer.",
         "language": {
@@ -746,7 +726,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 80,
+          "totalStars": 87,
           "forks": 1
         },
         "contributors": [
@@ -757,7 +737,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "yappologistic/Nala",
         "description": "暂无描述",
         "language": {
@@ -766,8 +746,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 63,
-          "forks": 5
+          "totalStars": 65,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/262229790?v=4"
@@ -777,7 +757,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "marcosd4h/wesp-research",
         "description": "Technical documentation, reverse engineering research, and tools for the Windows Endpoint Security Platform (WESP).",
         "language": {
@@ -786,8 +766,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
-          "forks": 6
+          "totalStars": 63,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17311749?v=4"
@@ -797,7 +777,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "doxsir/peep",
         "description": "PE file parser in plain C++17 - reading exe headers byte by byte",
         "language": {
@@ -811,6 +791,26 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/298954304?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "cs2-dma/CS2-DMA",
+        "description": "Open-source, low-level Direct Memory Access (DMA) research framework for Counter-Strike 2, focused on memory acquisition, entity-state parsing, synchronization, PCIe experimentation, and reverse-engineering research. Intended strictly for educational and research purposes.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 43,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/330042266?v=4"
         ],
         "tags": [
           "#C++"
