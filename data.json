@@ -1,10 +1,13 @@
 {
-  "lastUpdate": "2026/09/23 04:08:09",
+  "lastUpdate": "2026/09/24 03:02:54",
   "charts": {
     "languageDistribution": {
-      "Python": 7,
-      "TypeScript": 2,
-      "Kotlin": 1
+      "Python": 5,
+      "TypeScript": 1,
+      "Kotlin": 1,
+      "Go": 1,
+      "Rust": 1,
+      "Astro": 1
     },
     "starGrowth": {}
   },
@@ -13,15 +16,15 @@
       {
         "rank": 1,
         "name": "NandhaKishorM/laya",
-        "description": "暂无描述",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 17321,
-          "forks": 1468
+          "totalStars": 20790,
+          "forks": 1774
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48623612?v=4"
@@ -40,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6363,
-          "forks": 1869
+          "totalStars": 6562,
+          "forks": 1952
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/223098841?v=4"
@@ -52,26 +55,6 @@
       },
       {
         "rank": 3,
-        "name": "tamaratran/fast-jev-compaction",
-        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6357,
-          "forks": 361
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65584429?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "mizorewww/laya-mlx",
         "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
         "language": {
@@ -80,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5559,
-          "forks": 402
+          "totalStars": 5995,
+          "forks": 454
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252857002?v=4"
@@ -91,27 +74,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "jaredpalmer/kev",
-        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 4566,
-          "forks": 247
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4060187?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "name": "jev-chat/jev-chat-jarvis",
         "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
         "language": {
@@ -120,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4269,
-          "forks": 903
+          "totalStars": 5342,
+          "forks": 1025
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332283779?v=4"
@@ -131,202 +94,40 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "TianyuCodings/NanoJev",
-        "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2021,
-          "forks": 213
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48460209?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "bespokelabsai/nimble",
-        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1641,
-          "forks": 119
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/167806754?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "yibie/awesome-jev",
-        "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1340,
-          "forks": 187
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/365484?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "mizorewww/laya-coreml",
-        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1310,
-          "forks": 100
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/252857002?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      }
-    ],
-    "Python": [
-      {
-        "rank": 1,
-        "name": "NandhaKishorM/laya",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 17321,
-          "forks": 1468
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48623612?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "mizorewww/laya-mlx",
-        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 5559,
-          "forks": 402
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/252857002?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "jaredpalmer/kev",
-        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 4566,
-          "forks": 247
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/4060187?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "TianyuCodings/NanoJev",
-        "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2021,
-          "forks": 213
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/48460209?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 5,
-        "name": "bespokelabsai/nimble",
-        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "name": "unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Go",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1641,
-          "forks": 119
+          "totalStars": 1749,
+          "forks": 89
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/167806754?v=4"
+          "https://avatars.githubusercontent.com/u/181495282?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Go"
         ]
       },
       {
         "rank": 6,
-        "name": "yibie/awesome-jev",
-        "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1340,
-          "forks": 187
+          "totalStars": 1694,
+          "forks": 127
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/365484?v=4"
+          "https://avatars.githubusercontent.com/u/167806754?v=4"
         ],
         "tags": [
           "#Python"
@@ -342,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1310,
-          "forks": 100
+          "totalStars": 1398,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252857002?v=4"
@@ -362,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1011,
-          "forks": 326
+          "totalStars": 1317,
+          "forks": 363
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/328839634?v=4"
@@ -374,6 +175,188 @@
       },
       {
         "rank": 9,
+        "name": "Lumid-Off/AirCard-Windows",
+        "description": "暂无描述",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 793,
+          "forks": 57
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/100797807?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "heyjunpenn/awesome-jev",
+        "description": "A verified, community-maintained catalog of 834 open-source projects built with Jev.",
+        "language": {
+          "name": "Astro",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 777,
+          "forks": 55
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/33251742?v=4"
+        ],
+        "tags": [
+          "#Astro"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "NandhaKishorM/laya",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 20790,
+          "forks": 1774
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/48623612?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 5995,
+          "forks": 454
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252857002?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1694,
+          "forks": 127
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/167806754?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1398,
+          "forks": 117
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/252857002?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1317,
+          "forks": 363
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/328839634?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "volotat/mini-AGI",
+        "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 721,
+          "forks": 106
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/14307880?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "kerpopule/hermes-jev-skills",
+        "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 711,
+          "forks": 64
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/26120791?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "incoai/splash",
         "description": "A local inference engine for Apple silicon, built around the model.",
         "language": {
@@ -382,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 639,
-          "forks": 56
+          "totalStars": 690,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/282140180?v=4"
@@ -393,20 +376,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "volotat/mini-AGI",
-        "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+        "rank": 9,
+        "name": "deepopen-com/deepopen",
+        "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 622,
-          "forks": 74
+          "totalStars": 688,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14307880?v=4"
+          "https://avatars.githubusercontent.com/u/331844194?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "wfzyx/von",
+        "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 592,
+          "forks": 46
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5880370?v=4"
         ],
         "tags": [
           "#Python"
@@ -416,6 +419,46 @@
     "JavaScript": [
       {
         "rank": 1,
+        "name": "SewCabinSpout/cleanupper",
+        "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 723,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/270956601?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "riba2534/claude-opus-5-5-demo",
+        "description": "claude-opus-5-5-demo",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 598,
+          "forks": 89
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/26398978?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "Sac-Y/Jev-cu",
         "description": "暂无描述",
         "language": {
@@ -424,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 583,
-          "forks": 57
+          "totalStars": 588,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/270291518?v=4"
@@ -435,7 +478,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 4,
         "name": "rmalde/minecraft-agent",
         "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
         "language": {
@@ -444,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 524,
-          "forks": 50
+          "totalStars": 532,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/47470168?v=4"
@@ -455,7 +498,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 5,
         "name": "logicrw/awesome-jev-projects",
         "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
         "language": {
@@ -464,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 399,
-          "forks": 32
+          "totalStars": 453,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34853455?v=4"
@@ -475,7 +518,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 6,
         "name": "wy-coliney/jev-browser-use",
         "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
         "language": {
@@ -484,8 +527,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 391,
-          "forks": 29
+          "totalStars": 441,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30455008?v=4"
@@ -495,47 +538,27 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "droidrun/mobile-jev",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 357,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/207381488?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "jkudish/jev-mcp",
-        "description": "Fast, cheap, typed judgments from TypeSafe's Jev model, as MCP tools.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 290,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/260253?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 7,
+        "name": "JohnHeibel/PDoomVideo",
+        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 381,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25869466?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "maanHimself/OpenDLSS-NR",
         "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
         "language": {
@@ -544,31 +567,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 284,
-          "forks": 27
+          "totalStars": 332,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64527563?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "moritzkremb/jev-voice-browser",
-        "description": "Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken word; Playwright acts — often before you finish the sentence.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 248,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/33087790?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -584,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 246,
-          "forks": 30
+          "totalStars": 278,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25005362?v=4"
@@ -596,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "jkudish/jev-browser",
-        "description": "Browser use using Typesafe's Jev model",
+        "name": "miuuyy/Astra-Ares",
+        "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 241,
-          "forks": 18
+          "totalStars": 244,
+          "forks": 17
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/260253?v=4"
+          "https://avatars.githubusercontent.com/u/147659719?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -618,19 +621,19 @@
     "C++": [
       {
         "rank": 1,
-        "name": "MSNightmare/BigDiskBuster",
-        "description": "Windows Defender Update Denial of Service Vulnerability",
+        "name": "nihui/qwenimage-ncnn-vulkan",
+        "description": "ncnn implementation of Qwen-Image-2.1, with text-to-image, image editing, multi-reference image input and transparent RGBA output",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
-          "forks": 31
+          "totalStars": 95,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/291905677?v=4"
+          "https://avatars.githubusercontent.com/u/171016?v=4"
         ],
         "tags": [
           "#C++"
@@ -638,26 +641,6 @@
       },
       {
         "rank": 2,
-        "name": "isinternets/Dawn",
-        "description": "Dawn Production Releases ",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 168,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/87581101?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "mijim/OPEN-TOON",
         "description": "OPEN-TOON is an open-source project for building a professional 2D animation application that combines drawing, rigging, compositing, and production tools in a modern, minimalist interface.",
         "language": {
@@ -677,37 +660,17 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "marcosd4h/wesp-research",
-        "description": "Technical documentation, reverse engineering research, and tools for the Windows Endpoint Security Platform (WESP).",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 66,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17311749?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "lkarlslund/laya.cpp",
-        "description": "C++ inference for Laya typed decisions, optimized for RTX, supports Vulkan, CPU",
+        "description": "C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 64,
-          "forks": 5
+          "totalStars": 82,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8929787?v=4"
@@ -717,7 +680,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "name": "ItsAdeline/NVSmooth30",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 60,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/92349976?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "doxsir/peep",
         "description": "PE file parser in plain C++17 - reading exe headers byte by byte",
         "language": {
@@ -737,27 +720,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "nihui/qwenimage-ncnn-vulkan",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 52,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/171016?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "name": "Phi1ow/mkwii-ps5",
         "description": "Mario Kart Wii PAL on PS5 ; native static recompilation with WiiCompiled, AGC rendering and DualSense controls.",
         "language": {
@@ -766,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 46,
+          "totalStars": 47,
           "forks": 5
         },
         "contributors": [
@@ -777,7 +740,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 7,
         "name": "onuroluc/sirca-shell",
         "description": "My own top bar and dock for KDE Plasma 6 on Wayland. Popups grow out of the bar, everything is blurred and see-through, light/dark and 7 colours.",
         "language": {
@@ -786,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
+          "totalStars": 44,
           "forks": 2
         },
         "contributors": [
@@ -797,9 +760,29 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "ItsAdeline/NVSmooth30",
-        "description": "暂无描述",
+        "rank": 8,
+        "name": "fabriciowth/cozmo-esp32",
+        "description": "Robô de bancada com ESP32: rosto animado no OLED, conversa por voz em pt-BR, jogos e controle do Mac",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 42,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1108581?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "drJhonatan00/BackAuto",
+        "description": "BackAuto is a modern, lightweight, and efficient automated backup utility built with .NET 8 and Windows Forms. Designed for performance and reliability, it allows users to protect important files effortlessly through a clean user interface and flexible background scheduling.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -807,10 +790,30 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 38,
-          "forks": 1
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/92349976?v=4"
+          "https://avatars.githubusercontent.com/u/320677708?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "animatek/G1-Emu",
+        "description": "Nord Modular G1 emulator (68331 + DSP56303), playable from Animatek NME",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 37,
+          "forks": 4
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1858583?v=4"
         ],
         "tags": [
           "#C++"
