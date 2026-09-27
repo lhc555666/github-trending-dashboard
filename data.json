@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/27 03:33:17",
+  "lastUpdate": "2026/09/27 04:38:41",
   "charts": {
     "languageDistribution": {
       "Kotlin": 1,
@@ -23,7 +23,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6685,
+          "totalStars": 6689,
           "forks": 1154
         },
         "contributors": [
@@ -43,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1970,
+          "totalStars": 1971,
           "forks": 103
         },
         "contributors": [
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1618,
-          "forks": 131
+          "totalStars": 1633,
+          "forks": 135
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332430450?v=4"
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1320,
+          "totalStars": 1330,
           "forks": 87
         },
         "contributors": [
@@ -95,26 +95,6 @@
       },
       {
         "rank": 5,
-        "name": "JohnHeibel/PDoomVideo",
-        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1060,
-          "forks": 107
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25869466?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "yetone/magpie",
         "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
         "language": {
@@ -123,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1058,
+          "totalStars": 1079,
           "forks": 63
         },
         "contributors": [
@@ -131,6 +111,26 @@
         ],
         "tags": [
           "#Go"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "JohnHeibel/PDoomVideo",
+        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1069,
+          "forks": 108
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25869466?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1038,
+          "totalStars": 1039,
           "forks": 111
         },
         "contributors": [
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 981,
+          "totalStars": 982,
           "forks": 68
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 894,
+          "totalStars": 896,
           "forks": 25
         },
         "contributors": [
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 811,
+          "totalStars": 813,
           "forks": 120
         },
         "contributors": [
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1618,
-          "forks": 131
+          "totalStars": 1633,
+          "forks": 135
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332430450?v=4"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1038,
+          "totalStars": 1039,
           "forks": 111
         },
         "contributors": [
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 799,
+          "totalStars": 800,
           "forks": 106
         },
         "contributors": [
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 623,
+          "totalStars": 626,
           "forks": 37
         },
         "contributors": [
@@ -345,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 597,
+          "totalStars": 599,
           "forks": 130
         },
         "contributors": [
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
+          "totalStars": 469,
           "forks": 43
         },
         "contributors": [
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1060,
-          "forks": 107
+          "totalStars": 1069,
+          "forks": 108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25869466?v=4"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 811,
+          "totalStars": 813,
           "forks": 120
         },
         "contributors": [
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 749,
-          "forks": 180
+          "totalStars": 754,
+          "forks": 181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3814912?v=4"
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 398,
+          "totalStars": 404,
           "forks": 45
         },
         "contributors": [
@@ -527,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 234,
+          "totalStars": 240,
           "forks": 14
         },
         "contributors": [
@@ -567,8 +567,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
-          "forks": 64
+          "totalStars": 173,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/178687560?v=4"
@@ -587,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 135,
-          "forks": 13
+          "totalStars": 148,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97503247?v=4"
@@ -607,7 +607,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
+          "totalStars": 131,
           "forks": 13
         },
         "contributors": [
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 203,
-          "forks": 26
+          "totalStars": 212,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86886444?v=4"
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 126,
+          "totalStars": 127,
           "forks": 2
         },
         "contributors": [
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
+          "totalStars": 111,
           "forks": 4
         },
         "contributors": [
@@ -789,7 +789,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 45,
+          "totalStars": 46,
           "forks": 3
         },
         "contributors": [
@@ -809,7 +809,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 41,
+          "totalStars": 43,
           "forks": 3
         },
         "contributors": [
