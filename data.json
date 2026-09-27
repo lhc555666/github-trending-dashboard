@@ -1,14 +1,13 @@
 {
-  "lastUpdate": "2026/09/26 04:21:45",
+  "lastUpdate": "2026/09/27 03:33:17",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 2,
       "Kotlin": 1,
-      "Go": 2,
-      "Swift": 1,
+      "Go": 3,
       "Python": 2,
       "Rust": 1,
-      "JavaScript": 1
+      "JavaScript": 2,
+      "TypeScript": 1
     },
     "starGrowth": {}
   },
@@ -16,26 +15,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "zai-org/ZCode",
-        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6782,
-          "forks": 2037
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/223098841?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "jev-chat/jev-chat-jarvis",
         "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
         "language": {
@@ -44,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6531,
-          "forks": 1135
+          "totalStars": 6685,
+          "forks": 1154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332283779?v=4"
@@ -55,7 +34,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "unreallabsai/unreal-agent",
         "description": "Async-first agent harness",
         "language": {
@@ -64,7 +43,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1943,
+          "totalStars": 1970,
           "forks": 103
         },
         "contributors": [
@@ -75,27 +54,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "driceroland/Search",
-        "description": "A small, fast WebKit browser for macOS, by Office Commun.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1875,
-          "forks": 163
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/74648512?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "Contrastive-LM/CLM",
         "description": "暂无描述",
         "language": {
@@ -104,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1299,
-          "forks": 100
+          "totalStars": 1618,
+          "forks": 131
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332430450?v=4"
@@ -115,27 +74,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "deepopen-com/deepopen",
-        "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1021,
-          "forks": 110
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/331844194?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "tobi/disktree",
         "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
         "language": {
@@ -144,14 +83,74 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 975,
-          "forks": 64
+          "totalStars": 1320,
+          "forks": 87
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/347?v=4"
         ],
         "tags": [
           "#Rust"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "JohnHeibel/PDoomVideo",
+        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1060,
+          "forks": 107
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25869466?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1058,
+          "forks": 63
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1206493?v=4"
+        ],
+        "tags": [
+          "#Go"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "deepopen-com/deepopen",
+        "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1038,
+          "forks": 111
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/331844194?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -164,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 951,
-          "forks": 65
+          "totalStars": 981,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/91774998?v=4"
@@ -176,26 +175,6 @@
       },
       {
         "rank": 9,
-        "name": "JohnHeibel/PDoomVideo",
-        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 918,
-          "forks": 96
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25869466?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "kryvora-network/kryvora-node",
         "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
         "language": {
@@ -204,14 +183,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 828,
-          "forks": 22
+          "totalStars": 894,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332587460?v=4"
         ],
         "tags": [
           "#Go"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "riba2534/claude-opus-5-5-demo",
+        "description": "claude-opus-5-5-demo",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 811,
+          "forks": 120
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/26398978?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       }
     ],
@@ -226,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1299,
-          "forks": 100
+          "totalStars": 1618,
+          "forks": 131
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332430450?v=4"
@@ -246,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1021,
-          "forks": 110
+          "totalStars": 1038,
+          "forks": 111
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/331844194?v=4"
@@ -259,15 +258,15 @@
       {
         "rank": 3,
         "name": "nokia-applied-research/AnyJev",
-        "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+        "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 724,
-          "forks": 96
+          "totalStars": 799,
+          "forks": 106
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/312694883?v=4"
@@ -278,6 +277,26 @@
       },
       {
         "rank": 4,
+        "name": "asokurasu/text-humanizer",
+        "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 732,
+          "forks": 83
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/314023151?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "yukitorido/short-video-generator-AI",
         "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
         "language": {
@@ -286,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 673,
+          "totalStars": 718,
           "forks": 82
         },
         "contributors": [
@@ -297,47 +316,7 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "asokurasu/text-humanizer",
-        "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 661,
-          "forks": 82
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/314023151?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 6,
-        "name": "jev-chat/jev-chat-windows",
-        "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 560,
-          "forks": 125
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/332283779?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Rizzo-AI-Academy/rizzo-flow",
         "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
         "language": {
@@ -346,11 +325,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 496,
-          "forks": 31
+          "totalStars": 623,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/217188291?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "jev-chat/jev-chat-windows",
+        "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 597,
+          "forks": 130
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/332283779?v=4"
         ],
         "tags": [
           "#Python"
@@ -366,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 495,
+          "totalStars": 496,
           "forks": 6
         },
         "contributors": [
@@ -378,26 +377,6 @@
       },
       {
         "rank": 9,
-        "name": "wuyoscar/jev-skill",
-        "description": "An awesome collection of Jev use cases, workflows, and agent skills.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 492,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/72287536?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "kydlikebtc/awesome-jev",
         "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
         "language": {
@@ -406,11 +385,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 437,
-          "forks": 8
+          "totalStars": 495,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/75060932?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "samyost1/3dicon",
+        "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 467,
+          "forks": 43
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/90903248?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 918,
-          "forks": 96
+          "totalStars": 1060,
+          "forks": 107
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25869466?v=4"
@@ -448,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 119
+          "totalStars": 811,
+          "forks": 120
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26398978?v=4"
@@ -468,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 623,
-          "forks": 151
+          "totalStars": 749,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3814912?v=4"
@@ -480,46 +479,6 @@
       },
       {
         "rank": 4,
-        "name": "rmalde/minecraft-agent",
-        "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 549,
-          "forks": 55
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/47470168?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "maanHimself/OpenDLSS-NR",
-        "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 401,
-          "forks": 45
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/64527563?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "JohnHeibel/ClaudeAnimationBase",
         "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
         "language": {
@@ -528,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 301,
-          "forks": 38
+          "totalStars": 398,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25869466?v=4"
@@ -539,7 +498,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "name": "miuuyy/Astra-Ares",
         "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
         "language": {
@@ -548,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 274,
+          "totalStars": 285,
           "forks": 20
         },
         "contributors": [
@@ -559,7 +518,27 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "name": "zouyuxuan122/dsh-our-free-model",
+        "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 234,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/245557608?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Shelpid/SETS",
         "description": "Self Improving Trading Machine",
         "language": {
@@ -569,7 +548,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 209,
-          "forks": 63
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252756188?v=4"
@@ -579,20 +558,40 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Devin-AXIS/jev-dsh-decision",
-        "description": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+        "rank": 8,
+        "name": "jaydendavisnc/inkwave",
+        "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
-          "forks": 58
+          "totalStars": 169,
+          "forks": 64
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/228423313?v=4"
+          "https://avatars.githubusercontent.com/u/178687560?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "lemomo-ai/lemo-opuscar",
+        "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 135,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/97503247?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -600,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "trustfuture/simon-skills",
-        "description": "不露脸做视频账号的 AI skill 合集：调查长片 + 手绘白板讲解视频，一句选题出片、配音字幕、封面与各平台文案",
+        "name": "sunkeke-ai/Life-Compass-Obsidian-CN",
+        "description": "Compass 的非官方简体中文本地化；原项目由 Daniel Agrici（@AgriciDaniel）创建。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
-          "forks": 43
+          "totalStars": 130,
+          "forks": 13
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29225052?v=4"
+          "https://avatars.githubusercontent.com/u/42227995?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -622,6 +621,26 @@
     "C++": [
       {
         "rank": 1,
+        "name": "Niko1221/Strata",
+        "description": "Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 203,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/86886444?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "kaolti/phantomat",
         "description": "Phantomat: a zoomable, infinite-canvas window manager for Hyprland",
         "language": {
@@ -630,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
-          "forks": 12
+          "totalStars": 170,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6442937?v=4"
@@ -641,7 +660,27 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "name": "ZacharyZhang-NY/OmaPhoto",
+        "description": "Layered image editor for Linux and Omarchy, a port of Compositor",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 126,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/18405598?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "nihui/qwenimage-ncnn-vulkan",
         "description": "ncnn implementation of Qwen-Image-2.1, with text-to-image, image editing, multi-reference image input and transparent RGBA output",
         "language": {
@@ -650,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 114,
+          "totalStars": 116,
           "forks": 5
         },
         "contributors": [
@@ -661,67 +700,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "ItsAdeline/NVSmooth30",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 93,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/92349976?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "lkarlslund/laya.cpp",
-        "description": "C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 91,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8929787?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 5,
-        "name": "mijim/OPEN-TOON",
-        "description": "OPEN-TOON is an open-source project for building a professional 2D animation application that combines drawing, rigging, compositing, and production tools in a modern, minimalist interface.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 89,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17006034?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "elmasas/lcs-recomp",
         "description": "暂无描述",
         "language": {
@@ -730,8 +709,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 71,
-          "forks": 3
+          "totalStars": 110,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/323533098?v=4"
@@ -741,7 +720,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Phi1ow/mkwii-ps5",
         "description": "Mario Kart Wii PAL on PS5 ; native static recompilation with WiiCompiled, AGC rendering and DualSense controls.",
         "language": {
@@ -750,11 +729,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 49,
+          "totalStars": 51,
           "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/331962174?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Echo-Storm/ls-addon-manager",
+        "description": "Addon Manager for Lossless Scaling (LSFG): DLSS 5 Neural Rendering, DLSS 4 and FSR 3 upscalers with motion measured from the frames (preview), one-click installer, addons you install and tune in one window, live GPU and frame-time view. Tested with World of Warcraft: Forever.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 47,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/67808989?v=4"
         ],
         "tags": [
           "#C++"
@@ -782,26 +781,6 @@
       },
       {
         "rank": 9,
-        "name": "OminousIndustries/OpusSkate",
-        "description": "C++ Skate Game by Opus 5.5",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 40,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/152263032?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "AgibotTech/sonic_for_a3",
         "description": "SONIC adpation for new full size humanoid agibot A3！",
         "language": {
@@ -810,11 +789,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 39,
-          "forks": 2
+          "totalStars": 45,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/182621657?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "DaVarga/bs-arm64",
+        "description": "Unofficial native ARM64 Beat Saber for the Steam Frame / ARM64 Proton: no FEX, no frame drops.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 41,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3964986?v=4"
         ],
         "tags": [
           "#C++"
