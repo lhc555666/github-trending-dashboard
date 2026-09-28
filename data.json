@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/09/28 03:31:22",
+  "lastUpdate": "2026/09/28 04:40:30",
   "charts": {
     "languageDistribution": {
       "Python": 1,
       "Rust": 1,
       "Go": 2,
-      "JavaScript": 3,
-      "TypeScript": 3
+      "TypeScript": 3,
+      "JavaScript": 3
     },
     "starGrowth": {}
   },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1963,
-          "forks": 173
+          "totalStars": 1983,
+          "forks": 175
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332430450?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1649,
+          "totalStars": 1663,
           "forks": 108
         },
         "contributors": [
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1296,
+          "totalStars": 1308,
           "forks": 74
         },
         "contributors": [
@@ -74,26 +74,6 @@
       },
       {
         "rank": 4,
-        "name": "JohnHeibel/PDoomVideo",
-        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1276,
-          "forks": 135
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/25869466?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "mexicat/pdoom-video",
         "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
         "language": {
@@ -102,14 +82,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1247,
-          "forks": 128
+          "totalStars": 1293,
+          "forks": 133
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/699380?v=4"
         ],
         "tags": [
           "#TypeScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "JohnHeibel/PDoomVideo",
+        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1288,
+          "forks": 138
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/25869466?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1014,
+          "totalStars": 1016,
           "forks": 75
         },
         "contributors": [
@@ -142,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 979,
+          "totalStars": 980,
           "forks": 26
         },
         "contributors": [
@@ -154,6 +154,26 @@
       },
       {
         "rank": 8,
+        "name": "dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 848,
+          "forks": 52
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1329503?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "riba2534/claude-opus-5-5-demo",
         "description": "claude-opus-5-5-demo",
         "language": {
@@ -162,8 +182,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 840,
-          "forks": 123
+          "totalStars": 846,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26398978?v=4"
@@ -173,7 +193,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "dgreenheck/tidewater",
         "description": "Coastal town built with Opus 5.5",
         "language": {
@@ -182,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 835,
+          "totalStars": 838,
           "forks": 201
         },
         "contributors": [
@@ -190,26 +210,6 @@
         ],
         "tags": [
           "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "dzhng/jevgrep",
-        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 824,
-          "forks": 53
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1329503?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1963,
-          "forks": 173
+          "totalStars": 1983,
+          "forks": 175
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332430450?v=4"
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 576,
+          "totalStars": 579,
           "forks": 13
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 564,
+          "totalStars": 573,
           "forks": 41
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 496,
+          "totalStars": 497,
           "forks": 6
         },
         "contributors": [
@@ -364,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 368,
-          "forks": 117
+          "totalStars": 371,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/89133686?v=4"
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 346,
+          "totalStars": 348,
           "forks": 40
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1276,
-          "forks": 135
+          "totalStars": 1288,
+          "forks": 138
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25869466?v=4"
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 840,
-          "forks": 123
+          "totalStars": 846,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26398978?v=4"
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 835,
+          "totalStars": 838,
           "forks": 201
         },
         "contributors": [
@@ -486,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 483,
+          "totalStars": 487,
           "forks": 56
         },
         "contributors": [
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 385,
-          "forks": 47
+          "totalStars": 398,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97503247?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 314,
+          "totalStars": 317,
           "forks": 19
         },
         "contributors": [
@@ -566,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
-          "forks": 49
+          "totalStars": 259,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -586,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 248,
-          "forks": 90
+          "totalStars": 257,
+          "forks": 91
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/178687560?v=4"
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 524,
+          "totalStars": 536,
           "forks": 55
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 187,
           "forks": 15
         },
         "contributors": [
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
+          "totalStars": 176,
           "forks": 4
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
+          "totalStars": 144,
           "forks": 5
         },
         "contributors": [
@@ -708,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 81,
+          "totalStars": 84,
           "forks": 2
         },
         "contributors": [
@@ -760,26 +760,6 @@
       },
       {
         "rank": 8,
-        "name": "TwoSevenOneT/InjectSetConsole",
-        "description": "Proof of Concept for Process Code Injection Without Using WriteProcessMemory",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 55,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/183250995?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "OedoSoldier/Endfield-Poser",
         "description": "暂无描述",
         "language": {
@@ -788,11 +768,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 54,
-          "forks": 9
+          "totalStars": 58,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/31711261?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "TwoSevenOneT/InjectSetConsole",
+        "description": "Proof of Concept for Process Code Injection Without Using WriteProcessMemory",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 57,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/183250995?v=4"
         ],
         "tags": [
           "#C++"
