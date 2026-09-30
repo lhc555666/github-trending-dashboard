@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/09/30 03:53:10",
+  "lastUpdate": "2026/09/30 04:54:37",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3428,
-          "forks": 986
+          "totalStars": 3480,
+          "forks": 998
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2000,
-          "forks": 206
+          "totalStars": 2004,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/699380?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1923,
-          "forks": 122
+          "totalStars": 1929,
+          "forks": 123
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/347?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1886,
-          "forks": 212
+          "totalStars": 1921,
+          "forks": 222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86886444?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1792,
-          "forks": 114
+          "totalStars": 1799,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1329503?v=4"
@@ -123,7 +123,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1074,
+          "totalStars": 1085,
           "forks": 43
         },
         "contributors": [
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1056,
-          "forks": 173
+          "totalStars": 1077,
+          "forks": 176
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/42039842?v=4"
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 987,
+          "totalStars": 993,
           "forks": 64
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 937,
+          "totalStars": 947,
           "forks": 111
         },
         "contributors": [
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 863,
+          "totalStars": 878,
           "forks": 41
         },
         "contributors": [
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1074,
+          "totalStars": 1085,
           "forks": 43
         },
         "contributors": [
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 987,
+          "totalStars": 993,
           "forks": 64
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 293,
+          "totalStars": 299,
           "forks": 11
         },
         "contributors": [
@@ -357,6 +357,26 @@
       },
       {
         "rank": 8,
+        "name": "InternLM/Intern-Decision",
+        "description": "Fast multi-modal decision model",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 262,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/135356492?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "HeyOkay/HaloBattery",
         "description": "Unified battery level indicators for 2.4GHz mice, headsets and Bluetooth devices in the Windows tray",
         "language": {
@@ -376,26 +396,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "InternLM/Intern-Decision",
-        "description": "Fast multi-modal decision model",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 259,
-          "forks": 18
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/135356492?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
         "name": "openJiuwen-ai/iCode",
         "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 258,
+          "totalStars": 259,
           "forks": 41
         },
         "contributors": [
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 621,
+          "totalStars": 622,
           "forks": 81
         },
         "contributors": [
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 437,
+          "totalStars": 438,
           "forks": 78
         },
         "contributors": [
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 429,
+          "totalStars": 436,
           "forks": 21
         },
         "contributors": [
@@ -487,7 +487,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 331,
+          "totalStars": 332,
           "forks": 123
         },
         "contributors": [
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 323,
+          "totalStars": 326,
           "forks": 17
         },
         "contributors": [
@@ -527,8 +527,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 170,
-          "forks": 60
+          "totalStars": 173,
+          "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/214206822?v=4"
@@ -559,26 +559,6 @@
       },
       {
         "rank": 8,
-        "name": "YeJe-cpu/SeeCut",
-        "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 138,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/237224701?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "NativeDog1/dsh-boot-animation",
         "description": "打开新对话、或打开你钉住的会话时，视频铺满整个窗口播放一段片头开机动画。支持换成自己的视频，每个会话只播一次或每次打开都播",
         "language": {
@@ -587,11 +567,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
+          "totalStars": 141,
           "forks": 12
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/332947228?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "YeJe-cpu/SeeCut",
+        "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 139,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/237224701?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1886,
-          "forks": 212
+          "totalStars": 1922,
+          "forks": 222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86886444?v=4"
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 214,
+          "totalStars": 216,
           "forks": 5
         },
         "contributors": [
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 200,
+          "totalStars": 201,
           "forks": 16
         },
         "contributors": [
@@ -681,6 +681,26 @@
       },
       {
         "rank": 4,
+        "name": "seamusc/papermono-shopping-list",
+        "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 168,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1640022?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "elmasas/lcs-recomp",
         "description": "暂无描述",
         "language": {
@@ -694,26 +714,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/323533098?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "seamusc/papermono-shopping-list",
-        "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 167,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1640022?v=4"
         ],
         "tags": [
           "#C++"
@@ -741,26 +741,6 @@
       },
       {
         "rank": 7,
-        "name": "emmericp/D2R-3D",
-        "description": "Play Diablo II: Resurrected in 3D.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 123,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8938753?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "deepseek-ai/DeepGEMM-Ascend",
         "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
         "language": {
@@ -769,11 +749,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 4
+          "totalStars": 134,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "emmericp/D2R-3D",
+        "description": "Play Diablo II: Resurrected in 3D.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 125,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8938753?v=4"
         ],
         "tags": [
           "#C++"
@@ -790,7 +790,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 109,
-          "forks": 21
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/183250995?v=4"
