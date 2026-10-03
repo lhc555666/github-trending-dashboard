@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/10/02 04:56:50",
+  "lastUpdate": "2026/10/03 03:42:33",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
       "Swift": 1,
       "Python": 4,
-      "HTML": 2
+      "HTML": 1,
+      "JavaScript": 1
     },
     "starGrowth": {}
   },
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4729,
-          "forks": 1304
+          "totalStars": 4995,
+          "forks": 1360
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -34,15 +35,15 @@
       {
         "rank": 2,
         "name": "Louis-CFM/coucou",
-        "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+        "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
         "language": {
           "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2538,
-          "forks": 377
+          "totalStars": 3014,
+          "forks": 461
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72659375?v=4"
@@ -61,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2402,
-          "forks": 419
+          "totalStars": 2517,
+          "forks": 434
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85809106?v=4"
@@ -73,26 +74,6 @@
       },
       {
         "rank": 4,
-        "name": "dzhng/jevgrep",
-        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2010,
-          "forks": 132
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1329503?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "rehan-remade/universal-modder",
         "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
         "language": {
@@ -101,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1632,
-          "forks": 121
+          "totalStars": 2186,
+          "forks": 168
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/173837546?v=4"
@@ -112,27 +93,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "kaankiziltug/logo-design-skill",
-        "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+        "rank": 5,
+        "name": "CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
         "language": {
-          "name": "HTML",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1374,
-          "forks": 76
+          "totalStars": 1556,
+          "forks": 191
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/119437067?v=4"
+          "https://avatars.githubusercontent.com/u/131273140?v=4"
         ],
         "tags": [
-          "#HTML"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "yihui-dev/awesome-opus5-5-videos",
         "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
         "language": {
@@ -141,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1288,
-          "forks": 137
+          "totalStars": 1439,
+          "forks": 153
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/26054274?v=4"
@@ -152,7 +133,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "firelex/jeff",
         "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
         "language": {
@@ -161,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1277,
-          "forks": 57
+          "totalStars": 1326,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3168549?v=4"
@@ -172,7 +153,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "wy51ai/floorplan-3d",
         "description": "暂无描述",
         "language": {
@@ -181,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1185,
-          "forks": 249
+          "totalStars": 1324,
+          "forks": 273
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253894366?v=4"
@@ -192,23 +173,43 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "feitangyuan/onetake",
-        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+        "rank": 9,
+        "name": "nanaism/yomiyasu",
+        "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1158,
-          "forks": 74
+          "totalStars": 1201,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/251547459?v=4"
+          "https://avatars.githubusercontent.com/u/72681409?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "edenfunf/reelmimic",
+        "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 967,
+          "forks": 126
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/146086744?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       }
     ],
@@ -223,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2402,
-          "forks": 419
+          "totalStars": 2517,
+          "forks": 434
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85809106?v=4"
@@ -243,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1632,
-          "forks": 121
+          "totalStars": 2186,
+          "forks": 168
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/173837546?v=4"
@@ -263,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1277,
-          "forks": 57
+          "totalStars": 1326,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3168549?v=4"
@@ -275,26 +276,6 @@
       },
       {
         "rank": 4,
-        "name": "feitangyuan/onetake",
-        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1158,
-          "forks": 74
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/251547459?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "nanaism/yomiyasu",
         "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
         "language": {
@@ -303,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1030,
-          "forks": 21
+          "totalStars": 1201,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72681409?v=4"
@@ -314,7 +295,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "echris6/motion-video-kit",
         "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
         "language": {
@@ -323,11 +304,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 910,
-          "forks": 80
+          "totalStars": 962,
+          "forks": 82
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/209274433?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Edwardxlai/easyread",
+        "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 617,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/130557749?v=4"
         ],
         "tags": [
           "#Python"
@@ -343,8 +344,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 554,
-          "forks": 28
+          "totalStars": 556,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/226998942?v=4"
@@ -363,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 418,
-          "forks": 8
+          "totalStars": 470,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/140901557?v=4"
@@ -383,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
-          "forks": 17
+          "totalStars": 399,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60330232?v=4"
@@ -395,19 +396,19 @@
       },
       {
         "rank": 10,
-        "name": "fulldiagnose/antigravity-fixer",
-        "description": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix",
+        "name": "amywork777/lipflow",
+        "description": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 339,
-          "forks": 34
+          "totalStars": 384,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/335350208?v=4"
+          "https://avatars.githubusercontent.com/u/192041387?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +418,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "lemomo-ai/lemo-opuscar",
-        "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 779,
-          "forks": 94
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97503247?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "edenfunf/reelmimic",
         "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
         "language": {
@@ -445,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 696,
-          "forks": 117
+          "totalStars": 967,
+          "forks": 126
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/146086744?v=4"
@@ -456,27 +437,7 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "Edwardxlai/easyread",
-        "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 526,
-          "forks": 37
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/130557749?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "xikhar/spiderbench",
         "description": "暂无描述",
         "language": {
@@ -485,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
-          "forks": 82
+          "totalStars": 473,
+          "forks": 86
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -496,7 +457,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "moguzbulbul/blueprint-animation",
         "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
         "language": {
@@ -505,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 373,
+          "totalStars": 385,
           "forks": 18
         },
         "contributors": [
@@ -516,27 +477,7 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "jaydendavisnc/inkwave",
-        "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 356,
-          "forks": 128
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/178687560?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
+        "rank": 4,
         "name": "grmchn/dopa-drill",
         "description": "算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
         "language": {
@@ -545,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 206,
-          "forks": 88
+          "totalStars": 210,
+          "forks": 87
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/214206822?v=4"
@@ -556,7 +497,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 5,
         "name": "blendi-remade/dioramas",
         "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
         "language": {
@@ -565,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
-          "forks": 20
+          "totalStars": 206,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/173838289?v=4"
@@ -576,20 +517,80 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "caomod2077/Deobfuscator-Luraph-V15",
-        "description": "A standalone, high-performance deobfuscator and devirtualizer for Roblox Luau scripts protected by Luraph v15.",
+        "rank": 6,
+        "name": "guanmo-ai/awesome-ai-motion",
+        "description": "发现惊艳动效、创意视频与交互艺术，探索背后的源码、提示词与制作过程。Curated motion design, creative video & interactive art — with source code, prompts & making-of resources.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 72
+          "totalStars": 189,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/116502323?v=4"
+          "https://avatars.githubusercontent.com/u/316967716?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "deepseek-ai/dsh-libreoffice-kit",
+        "description": "An internal component used by DeepSeek Harness",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 119,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "kangkungmozzarella/kantor-ai",
+        "description": "Kantor Kita: interactive 3D paper-model office for a 13-person team",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 105,
+          "forks": 34
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/179934763?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "kkokosa/heapspace",
+        "description": "Heapscape: a local Three.js and ClrMD explorer for .NET memory dumps",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 99,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/11159779?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -597,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "guanmo-ai/awesome-ai-motion",
-        "description": "精选 AI 动画与视频：作品封面、可播放案例、作者原始提示词与来源。Curated AI motion & video with original prompts. Focused on Claude Opus 5.5.",
+        "name": "humaedihume/kantor-agent",
+        "description": "Kantor Agent: kantor 3D tanpa konfigurasi yang menampilkan Claude Code & subagent-nya bekerja (plugin Claude Code)",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 118,
-          "forks": 18
+          "totalStars": 97,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/316967716?v=4"
+          "https://avatars.githubusercontent.com/u/26764347?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -619,6 +620,26 @@
     "C++": [
       {
         "rank": 1,
+        "name": "chasmlol/SkyCraft",
+        "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 565,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/246197476?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "deepseek-ai/DeepGEMM-Ascend",
         "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
         "language": {
@@ -627,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 454,
+          "totalStars": 467,
           "forks": 33
         },
         "contributors": [
@@ -638,47 +659,7 @@
         ]
       },
       {
-        "rank": 2,
-        "name": "chasmlol/SkyCraft",
-        "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 287,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/246197476?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 3,
-        "name": "ZacharyZhang-NY/OmaPhoto",
-        "description": "Layered image editor for Linux and Omarchy, a port of Compositor",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 233,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18405598?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "blackbearreloaded/ProsperoEden",
         "description": "Experimental Eden port for PS5",
         "language": {
@@ -687,11 +668,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 220,
-          "forks": 15
+          "totalStars": 275,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316784285?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "emmericp/D2R-3D",
+        "description": "Play Diablo II: Resurrected in 3D.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 211,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8938753?v=4"
         ],
         "tags": [
           "#C++"
@@ -707,7 +708,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
+          "totalStars": 208,
           "forks": 21
         },
         "contributors": [
@@ -719,26 +720,6 @@
       },
       {
         "rank": 6,
-        "name": "emmericp/D2R-3D",
-        "description": "Play Diablo II: Resurrected in 3D.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 196,
-          "forks": 24
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8938753?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "seamusc/papermono-shopping-list",
         "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
         "language": {
@@ -747,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 189,
           "forks": 5
         },
         "contributors": [
@@ -758,7 +739,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "CHOMPI-Club/CHOMPI",
         "description": "All of the production files, hardware and firmware, that make up the CHOMPI Sampler.",
         "language": {
@@ -767,8 +748,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
-          "forks": 25
+          "totalStars": 187,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107282329?v=4"
@@ -778,17 +759,17 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "countervolts/d4r",
-        "description": "NVIDIA's official DLSS 3/4/4.5 on AMD RDNA3/4 GPUs on Linux.",
+        "description": "NVIDIA's official DLSS 3/4/4.5 on AMD RDNA3/4 GPUs on Windows and Linux.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
-          "forks": 1
+          "totalStars": 185,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/93222141?v=4"
@@ -798,7 +779,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "TwoSevenOneT/InjectSetConsole",
         "description": "Proof of Concept for Process Code Injection Without Using WriteProcessMemory",
         "language": {
@@ -807,11 +788,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 23
+          "totalStars": 121,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/183250995?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "luki-1/ArkWeb",
+        "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 101,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/37488014?v=4"
         ],
         "tags": [
           "#C++"
