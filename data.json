@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/03 03:42:33",
+  "lastUpdate": "2026/10/03 04:40:08",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4995,
-          "forks": 1360
+          "totalStars": 5007,
+          "forks": 1364
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3014,
-          "forks": 461
+          "totalStars": 3021,
+          "forks": 463
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/72659375?v=4"
@@ -62,7 +62,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2517,
+          "totalStars": 2530,
           "forks": 434
         },
         "contributors": [
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2186,
-          "forks": 168
+          "totalStars": 2206,
+          "forks": 171
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/173837546?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1556,
-          "forks": 191
+          "totalStars": 1592,
+          "forks": 196
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131273140?v=4"
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1439,
+          "totalStars": 1451,
           "forks": 153
         },
         "contributors": [
@@ -134,26 +134,6 @@
       },
       {
         "rank": 7,
-        "name": "firelex/jeff",
-        "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1326,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3168549?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "wy51ai/floorplan-3d",
         "description": "暂无描述",
         "language": {
@@ -162,7 +142,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1324,
+          "totalStars": 1327,
           "forks": 273
         },
         "contributors": [
@@ -170,6 +150,26 @@
         ],
         "tags": [
           "#HTML"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "firelex/jeff",
+        "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1327,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3168549?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1201,
+          "totalStars": 1207,
           "forks": 27
         },
         "contributors": [
@@ -202,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 967,
-          "forks": 126
+          "totalStars": 971,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/146086744?v=4"
@@ -224,7 +224,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2517,
+          "totalStars": 2530,
           "forks": 434
         },
         "contributors": [
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2186,
-          "forks": 168
+          "totalStars": 2206,
+          "forks": 171
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/173837546?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1326,
+          "totalStars": 1327,
           "forks": 61
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1201,
+          "totalStars": 1207,
           "forks": 27
         },
         "contributors": [
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 962,
+          "totalStars": 966,
           "forks": 82
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 617,
+          "totalStars": 621,
           "forks": 47
         },
         "contributors": [
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
+          "totalStars": 474,
           "forks": 10
         },
         "contributors": [
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
+          "totalStars": 386,
           "forks": 41
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 967,
-          "forks": 126
+          "totalStars": 971,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/146086744?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 473,
+          "totalStars": 474,
           "forks": 86
         },
         "contributors": [
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 189,
+          "totalStars": 191,
           "forks": 29
         },
         "contributors": [
@@ -546,7 +546,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 119,
+          "totalStars": 120,
           "forks": 5
         },
         "contributors": [
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 565,
-          "forks": 28
+          "totalStars": 573,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246197476?v=4"
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
+          "totalStars": 470,
           "forks": 33
         },
         "contributors": [
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 275,
+          "totalStars": 276,
           "forks": 21
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
+          "totalStars": 212,
           "forks": 25
         },
         "contributors": [
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
+          "totalStars": 188,
           "forks": 30
         },
         "contributors": [
@@ -808,7 +808,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 101,
+          "totalStars": 104,
           "forks": 7
         },
         "contributors": [
