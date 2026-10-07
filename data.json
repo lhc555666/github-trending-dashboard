@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/07 04:11:45",
+  "lastUpdate": "2026/10/07 05:14:47",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3650,
-          "forks": 323
+          "totalStars": 4180,
+          "forks": 377
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -44,7 +44,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1820,
+          "totalStars": 1835,
           "forks": 128
         },
         "contributors": [
@@ -65,7 +65,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 1592,
-          "forks": 335
+          "forks": 336
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/245261909?v=4"
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1572,
+          "totalStars": 1577,
           "forks": 307
         },
         "contributors": [
@@ -104,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1308,
-          "forks": 109
+          "totalStars": 1329,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/225147579?v=4"
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 904,
-          "forks": 338
+          "totalStars": 945,
+          "forks": 356
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -144,8 +144,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 843,
-          "forks": 49
+          "totalStars": 857,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/66750157?v=4"
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 841,
-          "forks": 183
+          "totalStars": 842,
+          "forks": 184
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64717086?v=4"
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 796,
-          "forks": 104
+          "totalStars": 823,
+          "forks": 106
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 713,
+          "totalStars": 720,
           "forks": 76
         },
         "contributors": [
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 351,
+          "totalStars": 355,
           "forks": 65
         },
         "contributors": [
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 296,
+          "totalStars": 297,
           "forks": 57
         },
         "contributors": [
@@ -358,6 +358,26 @@
       },
       {
         "rank": 8,
+        "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+        "description": "Real-time browser demo for Talk Like You",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 163,
+          "forks": 2
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/204159916?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "ACoci86/terrahour",
         "description": "A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones.",
         "language": {
@@ -366,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
+          "totalStars": 155,
           "forks": 6
         },
         "contributors": [
@@ -377,7 +397,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Tier-Flow/LoopVL",
         "description": "暂无描述",
         "language": {
@@ -386,31 +406,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 153,
           "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/334404099?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
-        "description": "Real-time browser demo for Talk Like You",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 151,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/204159916?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,7 +428,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1820,
+          "totalStars": 1835,
           "forks": 128
         },
         "contributors": [
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 841,
-          "forks": 183
+          "totalStars": 842,
+          "forks": 184
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64717086?v=4"
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 796,
-          "forks": 104
+          "totalStars": 823,
+          "forks": 106
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -488,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 413,
+          "totalStars": 414,
           "forks": 30
         },
         "contributors": [
@@ -500,6 +500,26 @@
       },
       {
         "rank": 5,
+        "name": "GTKottman/mortiflix-oss",
+        "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 166,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/259927371?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "yoge7388095s/eth-trading-bot",
         "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
         "language": {
@@ -519,26 +539,6 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "GTKottman/mortiflix-oss",
-        "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 156,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/259927371?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 7,
         "name": "Hiteater-wzm/eeo",
         "description": "An open community where brands define themselves for AI",
@@ -548,7 +548,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
+          "totalStars": 151,
           "forks": 26
         },
         "contributors": [
@@ -568,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 149,
           "forks": 7
         },
         "contributors": [
@@ -588,7 +588,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 125,
+          "totalStars": 128,
           "forks": 6
         },
         "contributors": [
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1308,
-          "forks": 109
+          "totalStars": 1329,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/225147579?v=4"
@@ -650,8 +650,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 468,
-          "forks": 74
+          "totalStars": 471,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/327657586?v=4"
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 190,
           "forks": 25
         },
         "contributors": [
@@ -730,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 157,
+          "totalStars": 158,
           "forks": 19
         },
         "contributors": [
@@ -790,7 +790,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
+          "totalStars": 110,
           "forks": 12
         },
         "contributors": [
@@ -810,7 +810,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
+          "totalStars": 105,
           "forks": 5
         },
         "contributors": [
