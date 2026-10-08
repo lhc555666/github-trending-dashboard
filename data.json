@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/08 04:23:59",
+  "lastUpdate": "2026/10/08 05:24:36",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 10145,
-          "forks": 1008
+          "totalStars": 10279,
+          "forks": 1027
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2134,
-          "forks": 144
+          "totalStars": 2149,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41177312?v=4"
@@ -64,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1848,
-          "forks": 208
+          "totalStars": 1874,
+          "forks": 213
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -84,7 +84,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1681,
+          "totalStars": 1688,
           "forks": 338
         },
         "contributors": [
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1639,
+          "totalStars": 1642,
           "forks": 357
         },
         "contributors": [
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 978,
-          "forks": 329
+          "totalStars": 987,
+          "forks": 330
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252857002?v=4"
@@ -144,8 +144,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 935,
-          "forks": 205
+          "totalStars": 938,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64717086?v=4"
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 904,
-          "forks": 108
+          "totalStars": 912,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 741,
-          "forks": 19
+          "totalStars": 744,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13041?v=4"
@@ -204,7 +204,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 672,
+          "totalStars": 671,
           "forks": 35
         },
         "contributors": [
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 904,
-          "forks": 108
+          "totalStars": 912,
+          "forks": 110
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 495,
+          "totalStars": 501,
           "forks": 11
         },
         "contributors": [
@@ -286,8 +286,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 462,
-          "forks": 2
+          "totalStars": 468,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204159916?v=4"
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
-          "forks": 30
+          "totalStars": 274,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/154470154?v=4"
@@ -358,6 +358,26 @@
       },
       {
         "rank": 8,
+        "name": "BQ-Wang0511/TalkLikeYou",
+        "description": "Official implementation of Talk Like You",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 199,
+          "forks": 9
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/204159916?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "empero-org/brewery-ai",
         "description": "An intuitive console agent to fine-tune AI models with little to no experience required! ",
         "language": {
@@ -377,26 +397,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "BQ-Wang0511/TalkLikeYou",
-        "description": "Official implementation of Talk Like You",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 196,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/204159916?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
         "name": "kandinskylab/kandinsky-6",
         "description": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
@@ -406,7 +406,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
+          "totalStars": 193,
           "forks": 11
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2134,
-          "forks": 144
+          "totalStars": 2149,
+          "forks": 147
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41177312?v=4"
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1848,
-          "forks": 208
+          "totalStars": 1874,
+          "forks": 213
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -468,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 935,
-          "forks": 205
+          "totalStars": 938,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64717086?v=4"
@@ -508,7 +508,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 396,
+          "totalStars": 398,
           "forks": 12
         },
         "contributors": [
@@ -528,8 +528,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 205,
-          "forks": 43
+          "totalStars": 213,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252478527?v=4"
@@ -548,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
-          "forks": 22
+          "totalStars": 170,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/129889057?v=4"
@@ -568,7 +568,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 168,
           "forks": 26
         },
         "contributors": [
@@ -630,7 +630,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 578,
+          "totalStars": 597,
           "forks": 39
         },
         "contributors": [
@@ -650,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 520,
+          "totalStars": 526,
           "forks": 80
         },
         "contributors": [
@@ -670,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 324,
+          "totalStars": 325,
           "forks": 50
         },
         "contributors": [
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 194,
+          "totalStars": 195,
           "forks": 11
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 151,
           "forks": 14
         },
         "contributors": [
@@ -770,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 140,
+          "totalStars": 142,
           "forks": 5
         },
         "contributors": [
@@ -790,7 +790,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
+          "totalStars": 134,
           "forks": 7
         },
         "contributors": [
