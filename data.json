@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/09 04:28:15",
+  "lastUpdate": "2026/10/09 05:28:06",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
@@ -7,8 +7,8 @@
       "TypeScript": 1,
       "Rust": 3,
       "Python": 1,
-      "Swift": 1,
       "Go": 1,
+      "Swift": 1,
       "C++": 1
     },
     "starGrowth": {}
@@ -25,8 +25,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 12318,
-          "forks": 1292
+          "totalStars": 12358,
+          "forks": 1295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -45,8 +45,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2552,
-          "forks": 267
+          "totalStars": 2577,
+          "forks": 269
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -85,8 +85,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1274,
-          "forks": 122
+          "totalStars": 1325,
+          "forks": 126
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/333880792?v=4"
@@ -105,8 +105,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1125,
-          "forks": 143
+          "totalStars": 1136,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
@@ -117,26 +117,6 @@
       },
       {
         "rank": 6,
-        "name": "alejandrobujan/tendedero",
-        "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1054,
-          "forks": 91
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/62165585?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "mhtsec/ARTEX",
         "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
         "language": {
@@ -145,14 +125,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1046,
-          "forks": 2667
+          "totalStars": 1126,
+          "forks": 2771
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83952182?v=4"
         ],
         "tags": [
           "#Go"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "alejandrobujan/tendedero",
+        "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1069,
+          "forks": 91
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/62165585?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -165,8 +165,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1035,
-          "forks": 64
+          "totalStars": 1048,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41537900?v=4"
@@ -185,8 +185,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 898,
-          "forks": 332
+          "totalStars": 920,
+          "forks": 340
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -205,8 +205,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 846,
-          "forks": 384
+          "totalStars": 874,
+          "forks": 397
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -227,8 +227,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1125,
-          "forks": 143
+          "totalStars": 1136,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
@@ -239,6 +239,26 @@
       },
       {
         "rank": 2,
+        "name": "zhongerxin/iPhone-use",
+        "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 755,
+          "forks": 71
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/8215057?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "LosaLosSantos/aurelio-finance",
         "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
         "language": {
@@ -252,26 +272,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/154470154?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "zhongerxin/iPhone-use",
-        "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 668,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8215057?v=4"
         ],
         "tags": [
           "#Python"
@@ -307,8 +307,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 543,
-          "forks": 5
+          "totalStars": 545,
+          "forks": 6
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/204159916?v=4"
@@ -327,7 +327,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 255,
+          "totalStars": 259,
           "forks": 75
         },
         "contributors": [
@@ -429,8 +429,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2552,
-          "forks": 267
+          "totalStars": 2577,
+          "forks": 269
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -449,8 +449,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 788,
-          "forks": 427
+          "totalStars": 800,
+          "forks": 438
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/183978316?v=4"
@@ -469,8 +469,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 472,
-          "forks": 14
+          "totalStars": 474,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/259927371?v=4"
@@ -549,7 +549,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
+          "totalStars": 231,
           "forks": 33
         },
         "contributors": [
@@ -569,7 +569,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 185,
+          "totalStars": 187,
           "forks": 26
         },
         "contributors": [
@@ -631,8 +631,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1035,
-          "forks": 64
+          "totalStars": 1048,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41537900?v=4"
@@ -651,7 +651,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 336,
+          "totalStars": 338,
           "forks": 51
         },
         "contributors": [
@@ -671,8 +671,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
-          "forks": 18
+          "totalStars": 312,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1254882?v=4"
@@ -711,7 +711,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
+          "totalStars": 197,
           "forks": 18
         },
         "contributors": [
@@ -731,7 +731,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 188,
+          "totalStars": 189,
           "forks": 5
         },
         "contributors": [
@@ -771,7 +771,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
+          "totalStars": 150,
           "forks": 21
         },
         "contributors": [
