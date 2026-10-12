@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2026/10/11 05:02:30",
+  "lastUpdate": "2026/10/12 04:13:22",
   "charts": {
     "languageDistribution": {
       "Lean": 1,
-      "Rust": 5,
-      "JavaScript": 1,
+      "Rust": 4,
+      "JavaScript": 2,
       "Go": 1,
       "Python": 2
     },
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 13747,
-          "forks": 1518
+          "totalStars": 14143,
+          "forks": 1594
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3339,
-          "forks": 984
+          "totalStars": 6420,
+          "forks": 1818
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -54,6 +54,26 @@
       },
       {
         "rank": 3,
+        "name": "wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 3739,
+          "forks": 297
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96392276?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "alchaincyf/huashu-art-motion",
         "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
         "language": {
@@ -62,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3256,
-          "forks": 357
+          "totalStars": 3418,
+          "forks": 385
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -73,7 +93,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "mhtsec/ARTEX",
         "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
         "language": {
@@ -82,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2970,
-          "forks": 5384
+          "totalStars": 3284,
+          "forks": 5696
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83952182?v=4"
@@ -93,7 +113,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "zhongerxin/iPhone-use",
         "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
         "language": {
@@ -102,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2658,
-          "forks": 268
+          "totalStars": 3151,
+          "forks": 315
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -113,43 +133,23 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "nullmoth/nvidia-macos-driver",
-        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "rank": 7,
+        "name": "storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
         "language": {
           "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2335,
-          "forks": 213
+          "totalStars": 3060,
+          "forks": 1263
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/333880792?v=4"
+          "https://avatars.githubusercontent.com/u/76897702?v=4"
         ],
         "tags": [
           "#Rust"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "LosaLosSantos/aurelio-finance",
-        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2095,
-          "forks": 215
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/154470154?v=4"
-        ],
-        "tags": [
-          "#Python"
         ]
       },
       {
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1951,
-          "forks": 833
+          "totalStars": 2787,
+          "forks": 1286
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -174,19 +174,19 @@
       },
       {
         "rank": 9,
-        "name": "storytold/gridcraft",
-        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "name": "nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
         "language": {
           "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1937,
-          "forks": 734
+          "totalStars": 2578,
+          "forks": 235
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/76897702?v=4"
+          "https://avatars.githubusercontent.com/u/333880792?v=4"
         ],
         "tags": [
           "#Rust"
@@ -194,22 +194,22 @@
       },
       {
         "rank": 10,
-        "name": "noahdunnagan/fsearch",
-        "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+        "name": "LosaLosSantos/aurelio-finance",
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
         "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1663,
-          "forks": 108
+          "totalStars": 2349,
+          "forks": 289
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/119903110?v=4"
+          "https://avatars.githubusercontent.com/u/154470154?v=4"
         ],
         "tags": [
-          "#Rust"
+          "#Python"
         ]
       }
     ],
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2658,
-          "forks": 268
+          "totalStars": 3151,
+          "forks": 315
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8215057?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2095,
-          "forks": 215
+          "totalStars": 2349,
+          "forks": 289
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/154470154?v=4"
@@ -256,6 +256,26 @@
       },
       {
         "rank": 3,
+        "name": "wesbos/photo-frame-dashboard",
+        "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 793,
+          "forks": 64
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/176013?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "n1tr00-10/tiktok-web-signature",
         "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
         "language": {
@@ -264,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 707,
+          "totalStars": 710,
           "forks": 0
         },
         "contributors": [
@@ -275,47 +295,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "anthropics/oss-scanner",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 680,
-          "forks": 347
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76263028?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 5,
-        "name": "szabadkai/c64-keyboard-font",
-        "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 593,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5462129?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "sirioberati/Genjustsu-Open-Source-Workflow",
         "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
         "language": {
@@ -324,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 503,
-          "forks": 146
+          "totalStars": 656,
+          "forks": 173
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128729078?v=4"
@@ -335,7 +315,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "nullmoth/1401",
         "description": "1401: macOS on the PC you already own. Free, never for sale.",
         "language": {
@@ -344,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
-          "forks": 21
+          "totalStars": 389,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/333880792?v=4"
@@ -355,47 +335,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "mushigaite/short-video-maker",
-        "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 291,
-          "forks": 75
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/310725007?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "kandinskylab/kandinsky-6",
-        "description": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 254,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/242813463?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 7,
         "name": "Jakeschincariol/founder-skill",
         "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
         "language": {
@@ -404,11 +344,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
-          "forks": 22
+          "totalStars": 318,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "SubmitGame/awesome-decomp-games",
+        "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 295,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/334859005?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "zhouwei713/luobo-ppt",
+        "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 270,
+          "forks": 52
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/12554051?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "BinceQu/RoboHarness",
+        "description": "A robotic harness that gives LLM agents a visual-geometric control panel so that they can directly understand and invoke embodied tasks.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 224,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/129478693?v=4"
         ],
         "tags": [
           "#Python"
@@ -418,6 +418,26 @@
     "JavaScript": [
       {
         "rank": 1,
+        "name": "wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 3739,
+          "forks": 297
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/96392276?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "alchaincyf/huashu-art-motion",
         "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
         "language": {
@@ -426,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3256,
-          "forks": 357
+          "totalStars": 3418,
+          "forks": 385
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -437,7 +457,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "shadany7824/playgta5",
         "description": "A source code for playgta5.com.",
         "language": {
@@ -446,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1232,
-          "forks": 638
+          "totalStars": 1397,
+          "forks": 694
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/183978316?v=4"
@@ -457,40 +477,20 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "wesbos/photo-frame-dashboard",
-        "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 559,
-          "forks": 35
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/176013?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 4,
-        "name": "GTKottman/mortiflix-oss",
-        "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+        "name": "Fei2411/DeepSeek-Bot",
+        "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 552,
-          "forks": 19
+          "totalStars": 976,
+          "forks": 88
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/259927371?v=4"
+          "https://avatars.githubusercontent.com/u/279467036?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 548,
-          "forks": 134
+          "totalStars": 780,
+          "forks": 191
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12645328?v=4"
@@ -526,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
-          "forks": 66
+          "totalStars": 573,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264924385?v=4"
@@ -538,19 +538,19 @@
       },
       {
         "rank": 7,
-        "name": "FeiZhuLulu/DeepSeek-Bot",
-        "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+        "name": "T-Auto/dsh-ops",
+        "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
-          "forks": 28
+          "totalStars": 417,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279467036?v=4"
+          "https://avatars.githubusercontent.com/u/183904010?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -566,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
-          "forks": 86
+          "totalStars": 389,
+          "forks": 88
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252478527?v=4"
@@ -578,19 +578,19 @@
       },
       {
         "rank": 9,
-        "name": "wheresryan22/anatomy",
-        "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+        "name": "gholtzap/lintapple",
+        "description": "It should be impossible for AI to make a bad UI.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 381,
-          "forks": 49
+          "totalStars": 272,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/96392276?v=4"
+          "https://avatars.githubusercontent.com/u/100532011?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -598,19 +598,19 @@
       },
       {
         "rank": 10,
-        "name": "aindeev/agent-chrome-relay",
-        "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+        "name": "Nonco-Organization/multicoin-address-validator",
+        "description": "Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 237,
-          "forks": 3
+          "totalStars": 231,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/6354229?v=4"
+          "https://avatars.githubusercontent.com/u/339759213?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1345,
-          "forks": 88
+          "totalStars": 1450,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41537900?v=4"
@@ -640,26 +640,6 @@
       },
       {
         "rank": 2,
-        "name": "droogie/bbhost",
-        "description": "Definitive Bloodborne PC Experience",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 449,
-          "forks": 34
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1254882?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "mw00/project-maya",
         "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
         "language": {
@@ -668,11 +648,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
-          "forks": 45
+          "totalStars": 498,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14845178?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "droogie/bbhost",
+        "description": "Definitive Bloodborne PC Experience",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 482,
+          "forks": 33
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1254882?v=4"
         ],
         "tags": [
           "#C++"
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
+          "totalStars": 223,
           "forks": 10
         },
         "contributors": [
@@ -700,36 +700,16 @@
       },
       {
         "rank": 5,
-        "name": "SpeedBreakerProject/speedbreaker",
-        "description": "Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac (iPhone/iPad: build it yourself). Bring your own disc: no game files included. Not affiliated with EA or Valve.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 175,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/338247991?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "LingCore/WinShun",
-        "description": "Windows 上的快速搜索启动器：双击 Ctrl 呼出，按文件名、拼音和文本内容搜索。Qt 6 + C++20。",
+        "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 144,
-          "forks": 16
+          "totalStars": 202,
+          "forks": 21
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/53141949?v=4"
@@ -739,47 +719,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Aeka0/Overlord",
-        "description": "VR mod for H2(Call of Duty: Modern Warfare 2 Campaign Remastered)",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 124,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/124626301?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "TekRantGaming/king-kong-recompiled",
-        "description": "Native PC port of Peter Jackson's King Kong (Xbox 360) via static recompilation",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 121,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/52795608?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "name": "kenkorasu/seed-phrase-generator",
         "description": "WalletGen - Seed Phrase generator / checker / finder / bruteforce for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
         "language": {
@@ -788,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
+          "totalStars": 110,
           "forks": 8
         },
         "contributors": [
@@ -799,20 +739,80 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "DingoOz/TraceMaker",
-        "description": "暂无描述",
+        "rank": 7,
+        "name": "Wallawalla47/Infernix",
+        "description": "C++/CUDA single-GPU inference engine for Qwen3.8 (incl. Qwen3.8-Flash-Next with offloaded experts) on the RTX 5090; grew from NInfer",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
-          "forks": 12
+          "totalStars": 94,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1388693?v=4"
+          "https://avatars.githubusercontent.com/u/46779408?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "VecSzn/PolyStrata",
+        "description": "Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost, image input. Built on Strata.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 92,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/82099364?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "MiniBandit/MKW-3DS",
+        "description": "Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows).",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 3
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/194791386?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "AdrianLuo-X/ConcordRTS",
+        "description": "C++20 RTS 引擎源码，支持 RA2/YR 规则与地图格式，不包含官方游戏素材。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 74,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/143371595?v=4"
         ],
         "tags": [
           "#C++"
