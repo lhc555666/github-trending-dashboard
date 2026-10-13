@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026/10/12 05:16:24",
+  "lastUpdate": "2026/10/13 05:22:32",
   "charts": {
     "languageDistribution": {
-      "Lean": 1,
-      "Rust": 4,
-      "JavaScript": 2,
+      "Rust": 6,
+      "JavaScript": 1,
       "Go": 1,
-      "Python": 2
+      "Shell": 1,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -14,26 +14,6 @@
     "All": [
       {
         "rank": 1,
-        "name": "openai/math",
-        "description": "暂无描述",
-        "language": {
-          "name": "Lean",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 14156,
-          "forks": 1595
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/14957082?v=4"
-        ],
-        "tags": [
-          "#Lean"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "storytold/wordcraft",
         "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
         "language": {
@@ -42,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6560,
-          "forks": 1857
+          "totalStars": 9535,
+          "forks": 2487
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -53,7 +33,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "wheresryan22/anatomy",
         "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
         "language": {
@@ -62,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3884,
-          "forks": 305
+          "totalStars": 6655,
+          "forks": 484
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96392276?v=4"
@@ -73,27 +53,27 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "alchaincyf/huashu-art-motion",
-        "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+        "rank": 3,
+        "name": "storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Rust",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3433,
-          "forks": 386
+          "totalStars": 3958,
+          "forks": 1717
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/127714341?v=4"
+          "https://avatars.githubusercontent.com/u/76897702?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Rust"
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "mhtsec/ARTEX",
         "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
         "language": {
@@ -102,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3306,
-          "forks": 5727
+          "totalStars": 3666,
+          "forks": 6053
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83952182?v=4"
@@ -113,37 +93,57 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "zhongerxin/iPhone-use",
-        "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3170,
-          "forks": 319
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8215057?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "storytold/gridcraft",
-        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "rank": 5,
+        "name": "storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
         "language": {
           "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3105,
-          "forks": 1289
+          "totalStars": 3609,
+          "forks": 1666
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76897702?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2787,
+          "forks": 255
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/333880792?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "storytold/deckcraft",
+        "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2662,
+          "forks": 1424
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -154,16 +154,36 @@
       },
       {
         "rank": 8,
-        "name": "storytold/cadcraft",
-        "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+        "name": "t4t5/omdrop-owl",
+        "description": "airdrop for non-apple devices",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2469,
+          "forks": 180
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2598660?v=4"
+        ],
+        "tags": [
+          "#Shell"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
         "language": {
           "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2822,
-          "forks": 1301
+          "totalStars": 2311,
+          "forks": 1410
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -173,89 +193,29 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "nullmoth/nvidia-macos-driver",
-        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "rank": 10,
+        "name": "alejandrobujan/tendedero",
+        "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
         "language": {
-          "name": "Rust",
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2587,
-          "forks": 236
+          "totalStars": 2030,
+          "forks": 167
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/333880792?v=4"
+          "https://avatars.githubusercontent.com/u/62165585?v=4"
         ],
         "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "LosaLosSantos/aurelio-finance",
-        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2379,
-          "forks": 289
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/154470154?v=4"
-        ],
-        "tags": [
-          "#Python"
+          "#Swift"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "zhongerxin/iPhone-use",
-        "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3170,
-          "forks": 319
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/8215057?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "LosaLosSantos/aurelio-finance",
-        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2379,
-          "forks": 289
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/154470154?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "wesbos/photo-frame-dashboard",
         "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
         "language": {
@@ -264,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 799,
-          "forks": 65
+          "totalStars": 966,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/176013?v=4"
@@ -275,7 +235,27 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 875,
+          "forks": 115
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20528382?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "n1tr00-10/tiktok-web-signature",
         "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
         "language": {
@@ -284,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 710,
+          "totalStars": 711,
           "forks": 0
         },
         "contributors": [
@@ -295,20 +275,40 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "sirioberati/Genjustsu-Open-Source-Workflow",
-        "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+        "rank": 4,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 662,
-          "forks": 173
+          "totalStars": 680,
+          "forks": 287
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/128729078?v=4"
+          "https://avatars.githubusercontent.com/u/24306647?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "jwuthri-cloud/Tracely-ai",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 481,
+          "forks": 69
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/341043007?v=4"
         ],
         "tags": [
           "#Python"
@@ -316,6 +316,26 @@
       },
       {
         "rank": 6,
+        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+        "description": "Introduction to Semiconductor Manufacturing",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 465,
+          "forks": 46
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/72488779?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "nullmoth/1401",
         "description": "1401: macOS on the PC you already own. Free, never for sale.",
         "language": {
@@ -324,31 +344,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
-          "forks": 25
+          "totalStars": 432,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/333880792?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Jakeschincariol/founder-skill",
-        "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 318,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/196724947?v=4"
         ],
         "tags": [
           "#Python"
@@ -364,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 299,
-          "forks": 11
+          "totalStars": 429,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/334859005?v=4"
@@ -376,6 +376,26 @@
       },
       {
         "rank": 9,
+        "name": "Jakeschincariol/founder-skill",
+        "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 414,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/196724947?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "zhouwei713/luobo-ppt",
         "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
         "language": {
@@ -384,31 +404,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 272,
-          "forks": 53
+          "totalStars": 308,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12554051?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-        "description": "Introduction to Semiconductor Manufacturing",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 236,
-          "forks": 11
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/72488779?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3884,
-          "forks": 305
+          "totalStars": 6655,
+          "forks": 484
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96392276?v=4"
@@ -438,26 +438,6 @@
       },
       {
         "rank": 2,
-        "name": "alchaincyf/huashu-art-motion",
-        "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3433,
-          "forks": 386
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/127714341?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "shadany7824/playgta5",
         "description": "A source code for playgta5.com.",
         "language": {
@@ -466,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1402,
-          "forks": 695
+          "totalStars": 1503,
+          "forks": 736
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/183978316?v=4"
@@ -477,7 +457,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Fei2411/DeepSeek-Bot",
         "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
         "language": {
@@ -486,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1013,
-          "forks": 91
+          "totalStars": 1458,
+          "forks": 140
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/279467036?v=4"
@@ -497,7 +477,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "marclou/mailcheap",
         "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
         "language": {
@@ -506,11 +486,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 784,
-          "forks": 191
+          "totalStars": 841,
+          "forks": 211
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12645328?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "T-Auto/dsh-ops",
+        "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 731,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/183904010?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -526,8 +526,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 582,
-          "forks": 95
+          "totalStars": 661,
+          "forks": 102
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264924385?v=4"
@@ -538,26 +538,6 @@
       },
       {
         "rank": 7,
-        "name": "T-Auto/dsh-ops",
-        "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 432,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/183904010?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "gr8rstudio/gr8r-studio",
         "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
         "language": {
@@ -566,8 +546,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 389,
-          "forks": 88
+          "totalStars": 557,
+          "forks": 115
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/252478527?v=4"
@@ -577,7 +557,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "gholtzap/lintapple",
         "description": "It should be impossible for AI to make a bad UI.",
         "language": {
@@ -586,8 +566,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 295,
-          "forks": 6
+          "totalStars": 459,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/100532011?v=4"
@@ -597,7 +577,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Nonco-Organization/multicoin-address-validator",
         "description": "Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses",
         "language": {
@@ -615,6 +595,26 @@
         "tags": [
           "#JavaScript"
         ]
+      },
+      {
+        "rank": 10,
+        "name": "mu-zi-lee/magpie-our-free-model",
+        "description": "Our Free Model 的 Magpie 适配插件：整合免费模型池、EAC 授权与多账号渠道，支持自动服务管理及免登录的 Cloudflare 临时远程控制台。｜Magpie integration for Our Free Model with free model pools, EAC authentication, multiple account providers, automatic service management, and an accountless Cloudflare temporary remote console.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 213,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/75201518?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
       }
     ],
     "C++": [
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1455,
-          "forks": 96
+          "totalStars": 1579,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41537900?v=4"
@@ -640,19 +640,19 @@
       },
       {
         "rank": 2,
-        "name": "mw00/project-maya",
-        "description": "Project Maya - GLM-5.3-Flash (321B MoE) on your own NVIDIA GPU(s): engine, server, dashboard, quant tools. Built on Strata.",
+        "name": "NVIDIA-Omniverse/usd-brep",
+        "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 506,
-          "forks": 60
+          "totalStars": 643,
+          "forks": 53
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/14845178?v=4"
+          "https://avatars.githubusercontent.com/u/57824658?v=4"
         ],
         "tags": [
           "#C++"
@@ -668,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 483,
-          "forks": 34
+          "totalStars": 511,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1254882?v=4"
@@ -680,16 +680,16 @@
       },
       {
         "rank": 4,
-        "name": "snuri00/psp-web-recomp",
-        "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+        "name": "snuri00/ps2-web-recomp",
+        "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 224,
-          "forks": 10
+          "totalStars": 424,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142660054?v=4"
@@ -700,6 +700,26 @@
       },
       {
         "rank": 5,
+        "name": "snuri00/psp-web-recomp",
+        "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 259,
+          "forks": 12
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/142660054?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "LingCore/WinShun",
         "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
         "language": {
@@ -708,8 +728,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
-          "forks": 21
+          "totalStars": 253,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/53141949?v=4"
@@ -719,27 +739,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "kenkorasu/seed-phrase-generator",
-        "description": "WalletGen - Seed Phrase generator / checker / finder / bruteforce for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet via brute force and brain wallet generation",
+        "rank": 7,
+        "name": "MiniBandit/MKW-3DS",
+        "description": "Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows).",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 8
+          "totalStars": 108,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314910312?v=4"
+          "https://avatars.githubusercontent.com/u/194791386?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Wallawalla47/Infernix",
         "description": "C++/CUDA single-GPU inference engine for Qwen3.8 (incl. Qwen3.8-Flash-Next with offloaded experts) on the RTX 5090; grew from NInfer",
         "language": {
@@ -748,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 94,
+          "totalStars": 102,
           "forks": 14
         },
         "contributors": [
@@ -759,47 +779,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "VecSzn/PolyStrata",
-        "description": "Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost, image input. Built on Strata.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 92,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/82099364?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 9,
-        "name": "MiniBandit/MKW-3DS",
-        "description": "Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows).",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 76,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/194791386?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "AdrianLuo-X/ConcordRTS",
         "description": "C++20 RTS 引擎源码，支持 RA2/YR 规则与地图格式，不包含官方游戏素材。",
         "language": {
@@ -808,11 +788,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
-          "forks": 24
+          "totalStars": 94,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/143371595?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "leolobato/playden-ps5",
+        "description": "Play your Steam library's Windows games on a jailbroken PS5.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 88,
+          "forks": 6
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/134285?v=4"
         ],
         "tags": [
           "#C++"
