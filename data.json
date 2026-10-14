@@ -1,14 +1,15 @@
 {
-  "lastUpdate": "2026/10/14 03:26:45",
+  "lastUpdate": "2026/10/14 04:17:07",
   "charts": {
     "languageDistribution": {
       "JavaScript": 1,
-      "Go": 2,
-      "Shell": 1,
+      "Go": 1,
       "Swift": 1,
+      "Shell": 1,
       "Rust": 3,
       "Python": 1,
-      "C": 1
+      "C": 1,
+      "C++": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +25,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8421,
-          "forks": 610
+          "totalStars": 8484,
+          "forks": 614
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96392276?v=4"
@@ -44,8 +45,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3915,
-          "forks": 6246
+          "totalStars": 3924,
+          "forks": 6253
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/83952182?v=4"
@@ -56,26 +57,6 @@
       },
       {
         "rank": 3,
-        "name": "t4t5/omdrop-owl",
-        "description": "airdrop for non-apple devices",
-        "language": {
-          "name": "Shell",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2597,
-          "forks": 196
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2598660?v=4"
-        ],
-        "tags": [
-          "#Shell"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "ARahim3/DigUp",
         "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
         "language": {
@@ -84,14 +65,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2569,
-          "forks": 185
+          "totalStars": 2601,
+          "forks": 187
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41390319?v=4"
         ],
         "tags": [
           "#Swift"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "t4t5/omdrop-owl",
+        "description": "airdrop for non-apple devices",
+        "language": {
+          "name": "Shell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2599,
+          "forks": 196
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2598660?v=4"
+        ],
+        "tags": [
+          "#Shell"
         ]
       },
       {
@@ -104,8 +105,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2351,
-          "forks": 792
+          "totalStars": 2366,
+          "forks": 795
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -124,8 +125,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2091,
-          "forks": 212
+          "totalStars": 2100,
+          "forks": 213
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51239614?v=4"
@@ -144,7 +145,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2032,
+          "totalStars": 2033,
           "forks": 131
         },
         "contributors": [
@@ -164,8 +165,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1620,
-          "forks": 205
+          "totalStars": 1653,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20528382?v=4"
@@ -176,26 +177,6 @@
       },
       {
         "rank": 9,
-        "name": "trhhubsd/ARTEXX",
-        "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-        "language": {
-          "name": "Go",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1207,
-          "forks": 10
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/91248508?v=4"
-        ],
-        "tags": [
-          "#Go"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "jhaizhou-ops/d2r-mobile",
         "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
         "language": {
@@ -204,14 +185,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1206,
-          "forks": 428
+          "totalStars": 1230,
+          "forks": 434
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258432107?v=4"
         ],
         "tags": [
           "#C"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "NVIDIA-Omniverse/usd-brep",
+        "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1223,
+          "forks": 143
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57824658?v=4"
+        ],
+        "tags": [
+          "#C++"
         ]
       }
     ],
@@ -226,8 +227,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1620,
-          "forks": 205
+          "totalStars": 1653,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20528382?v=4"
@@ -246,8 +247,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1080,
-          "forks": 140
+          "totalStars": 1088,
+          "forks": 142
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/176013?v=4"
@@ -266,8 +267,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 919,
-          "forks": 204
+          "totalStars": 941,
+          "forks": 210
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131444687?v=4"
@@ -286,8 +287,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 882,
-          "forks": 357
+          "totalStars": 886,
+          "forks": 359
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24306647?v=4"
@@ -306,7 +307,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 758,
+          "totalStars": 760,
           "forks": 107
         },
         "contributors": [
@@ -346,8 +347,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 569,
-          "forks": 22
+          "totalStars": 570,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/334859005?v=4"
@@ -366,7 +367,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
+          "totalStars": 544,
           "forks": 53
         },
         "contributors": [
@@ -428,8 +429,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8421,
-          "forks": 610
+          "totalStars": 8484,
+          "forks": 614
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/96392276?v=4"
@@ -449,7 +450,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 900,
-          "forks": 225
+          "forks": 226
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12645328?v=4"
@@ -468,7 +469,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 871,
+          "totalStars": 874,
           "forks": 10
         },
         "contributors": [
@@ -488,7 +489,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 750,
+          "totalStars": 752,
           "forks": 116
         },
         "contributors": [
@@ -508,7 +509,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
+          "totalStars": 394,
           "forks": 90
         },
         "contributors": [
@@ -528,7 +529,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 270,
+          "totalStars": 285,
           "forks": 64
         },
         "contributors": [
@@ -548,8 +549,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
-          "forks": 41
+          "totalStars": 271,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/103972607?v=4"
@@ -608,7 +609,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 148,
+          "totalStars": 152,
           "forks": 14
         },
         "contributors": [
@@ -630,8 +631,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1202,
-          "forks": 140
+          "totalStars": 1223,
+          "forks": 143
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/57824658?v=4"
@@ -650,8 +651,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 724,
-          "forks": 65
+          "totalStars": 730,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142660054?v=4"
@@ -670,7 +671,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 281,
+          "totalStars": 283,
           "forks": 22
         },
         "contributors": [
@@ -690,8 +691,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 8
+          "totalStars": 171,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134285?v=4"
@@ -710,7 +711,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 133,
+          "totalStars": 134,
           "forks": 8
         },
         "contributors": [
@@ -722,6 +723,26 @@
       },
       {
         "rank": 6,
+        "name": "AdrianLuo-X/ConcordRTS",
+        "description": "C++20 RTS 引擎源码，支持 RA2/YR 规则与地图格式，不包含官方游戏素材。",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 111,
+          "forks": 31
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/143371595?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Wallawalla47/Infernix",
         "description": "C++/CUDA single-GPU inference engine for Qwen3.8 (incl. Qwen3.8-Flash-Next with offloaded experts) on the RTX 5090; grew from NInfer",
         "language": {
@@ -741,26 +762,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "AdrianLuo-X/ConcordRTS",
-        "description": "C++20 RTS 引擎源码，支持 RA2/YR 规则与地图格式，不包含官方游戏素材。",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 110,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/143371595?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
         "rank": 8,
         "name": "AjncSystem/ShadowOfTheColossus-PC",
         "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
@@ -770,8 +771,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 97,
-          "forks": 0
+          "totalStars": 99,
+          "forks": 1
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/305895304?v=4"
@@ -802,19 +803,19 @@
       },
       {
         "rank": 10,
-        "name": "gameboy829/PS5-LZ4-Game-Compressor",
-        "description": "LZ4 game compression for PS5 homebrew — beta.1",
+        "name": "T3CHNOLOG1C/SacredFire",
+        "description": "SacredFire: an experimental native PC runtime for Crash Team Racing: Nitro-Fueled (PS4, CUSA13795 v1.21), built on bbport and the shadPS4 video core.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
-          "forks": 6
+          "totalStars": 76,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/340286165?v=4"
+          "https://avatars.githubusercontent.com/u/25619701?v=4"
         ],
         "tags": [
           "#C++"
