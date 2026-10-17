@@ -1,13 +1,825 @@
 {
-  "lastUpdate": "2026/10/17 02:54:36",
+  "lastUpdate": "2026/10/17 03:46:38",
   "charts": {
-    "languageDistribution": {},
+    "languageDistribution": {
+      "C": 2,
+      "Python": 2,
+      "Rust": 1,
+      "JavaScript": 1,
+      "C#": 1,
+      "TypeScript": 2,
+      "Go": 1
+    },
     "starGrowth": {}
   },
   "projects": {
-    "All": [],
-    "Python": [],
-    "JavaScript": [],
-    "C++": []
+    "All": [
+      {
+        "rank": 1,
+        "name": "jhaizhou-ops/d2r-mobile",
+        "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 3556,
+          "forks": 1027
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/258432107?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2882,
+          "forks": 371
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/20528382?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2544,
+          "forks": 495
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/131444687?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "liseami/CCBaga",
+        "description": "暂无描述",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2409,
+          "forks": 241
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/51239614?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "HeyPuter/everything",
+        "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1769,
+          "forks": 260
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/103972607?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ahwootech/BRUTAL",
+        "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+        "language": {
+          "name": "C#",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1593,
+          "forks": 81
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/189169933?v=4"
+        ],
+        "tags": [
+          "#C#"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "chenglou/handwired",
+        "description": "Turn your regular JavaScript code into a neural net.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1583,
+          "forks": 124
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1909539?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "deeplethe/solid-glass",
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1465,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/282846749?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1067,
+          "forks": 418
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/24306647?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "language": {
+          "name": "Go",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1066,
+          "forks": 114
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/85809106?v=4"
+        ],
+        "tags": [
+          "#Go"
+        ]
+      }
+    ],
+    "Python": [
+      {
+        "rank": 1,
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2544,
+          "forks": 495
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/131444687?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1067,
+          "forks": 418
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/24306647?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+        "description": "Introduction to Semiconductor Manufacturing",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1005,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/72488779?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "jwuthri-cloud/Tracely-ai",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 829,
+          "forks": 139
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/341043007?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "yeyuxin777/baoyan-agent-benchmark",
+        "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 504,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/32065217?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "StoopwenpueNq/jackie-fmri-sim",
+        "description": "jackie-fmri-sim",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 469,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/15234191?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "i12bp8/decomp.wtf",
+        "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 464,
+          "forks": 177
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57963363?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "datalab-to/indra",
+        "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 463,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/176631703?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Tencent-Hunyuan/Hy-Memory",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 403,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/210980732?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Leonxlnx/earshot",
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 367,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/219127460?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      }
+    ],
+    "JavaScript": [
+      {
+        "rank": 1,
+        "name": "HeyPuter/everything",
+        "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1769,
+          "forks": 260
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/103972607?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "threerocks/sweety-handdraw-video",
+        "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 648,
+          "forks": 121
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16551316?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "rayytor/desktop_gifs",
+        "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 474,
+          "forks": 77
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/234740178?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "NB-Corp/gpt-with-taste",
+        "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 321,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/320855961?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "YIAN6557/eian-riso-broll",
+        "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 291,
+          "forks": 16
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/314587746?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "AirsupHQ/machine-skill",
+        "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 275,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/335045975?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "leag1234/elixiroffice",
+        "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 270,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57147261?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "sola1039/HAST-SEC",
+        "description": "武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 239,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/149643286?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "zehraakar424-lgtm/wallet-core-web",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 228,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/291624625?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "flybrainlabs/node",
+        "description": "flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 219,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/334615534?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      }
+    ],
+    "C++": [
+      {
+        "rank": 1,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1041,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/28518750?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "AjncSystem/ShadowOfTheColossus-PC",
+        "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 887,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/305895304?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "MyLuxy/overdrive",
+        "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 509,
+          "forks": 136
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/240354279?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "HayatoG/iss_pc",
+        "description": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 409,
+          "forks": 24
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22659047?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "GetLostIn/CTR-NitroFueled-PC",
+        "description": "Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4. No game files included.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 389,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/337930185?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "leolobato/playden-ps5",
+        "description": "Play your Steam library's Windows games on a jailbroken PS5.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 302,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/134285?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Michele-M-Media/HYPERHEN",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 196,
+          "forks": 13
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/197989904?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "HayatoG/tlg_pc",
+        "description": "Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, optional 60 FPS, SMAA/CAS filters. | Port nativo para PC de The Last Guardian — usa o seu próprio dump.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 186,
+          "forks": 8
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22659047?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "OpenPort-Labs/Galaxy-Android",
+        "description": "Native 100% ARM64 Android port of the 2007 cosmic gravity platformer with OpenGL ES 3.2, AAudio, Hor+ ultrawide, and touch controls.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 180,
+          "forks": 18
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/340843521?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Spark198rus/black-pc",
+        "description": "Unofficial native Windows port of BLACK (Xbox, NTSC-U). Runs your own copy of the game's code on the PC; no game data included.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 172,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/37002490?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      }
+    ]
   }
 }
