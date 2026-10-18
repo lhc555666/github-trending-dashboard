@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026/10/17 03:46:38",
+  "lastUpdate": "2026/10/18 02:56:11",
   "charts": {
     "languageDistribution": {
-      "C": 2,
+      "C": 1,
       "Python": 2,
-      "Rust": 1,
       "JavaScript": 1,
       "C#": 1,
-      "TypeScript": 2,
+      "TypeScript": 3,
+      "C++": 1,
       "Go": 1
     },
     "starGrowth": {}
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3556,
-          "forks": 1027
+          "totalStars": 3722,
+          "forks": 1058
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258432107?v=4"
@@ -36,26 +36,6 @@
       },
       {
         "rank": 2,
-        "name": "onehumanbeing/esp32-iphone-agent",
-        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2882,
-          "forks": 371
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/20528382?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Arekejoker/qwen21-nsfw-pose-skill",
         "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
         "language": {
@@ -64,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2544,
-          "forks": 495
+          "totalStars": 2649,
+          "forks": 509
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131444687?v=4"
@@ -75,27 +55,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "liseami/CCBaga",
-        "description": "暂无描述",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2409,
-          "forks": 241
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/51239614?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "HeyPuter/everything",
         "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
         "language": {
@@ -104,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1769,
-          "forks": 260
+          "totalStars": 2065,
+          "forks": 295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/103972607?v=4"
@@ -115,7 +75,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "ahwootech/BRUTAL",
         "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
         "language": {
@@ -124,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1593,
-          "forks": 81
+          "totalStars": 1799,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/189169933?v=4"
@@ -135,27 +95,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "chenglou/handwired",
-        "description": "Turn your regular JavaScript code into a neural net.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1583,
-          "forks": 124
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1909539?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "deeplethe/solid-glass",
         "description": "A design system for AI applications. Material, physical, tactile, technical.",
         "language": {
@@ -164,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1465,
-          "forks": 21
+          "totalStars": 1765,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/282846749?v=4"
@@ -175,27 +115,47 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "zhuyansen/new-term-radar",
-        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "rank": 6,
+        "name": "chenglou/handwired",
+        "description": "Turn your regular JavaScript code into a neural net.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1067,
-          "forks": 418
+          "totalStars": 1681,
+          "forks": 135
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/24306647?v=4"
+          "https://avatars.githubusercontent.com/u/1909539?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1273,
+          "forks": 68
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/28518750?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "feder-cr/git-ai",
         "description": "Git designed for AI agents.",
         "language": {
@@ -204,14 +164,54 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1066,
-          "forks": 114
+          "totalStars": 1140,
+          "forks": 123
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85809106?v=4"
         ],
         "tags": [
           "#Go"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Caho1/open-claude-ui",
+        "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1138,
+          "forks": 253
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/124897849?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1084,
+          "forks": 422
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/24306647?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       }
     ],
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2544,
-          "forks": 495
+          "totalStars": 2649,
+          "forks": 509
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131444687?v=4"
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1067,
-          "forks": 418
+          "totalStars": 1084,
+          "forks": 422
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/24306647?v=4"
@@ -258,19 +258,19 @@
       },
       {
         "rank": 3,
-        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-        "description": "Introduction to Semiconductor Manufacturing",
+        "name": "Leonxlnx/earshot",
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1005,
-          "forks": 96
+          "totalStars": 690,
+          "forks": 42
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/72488779?v=4"
+          "https://avatars.githubusercontent.com/u/219127460?v=4"
         ],
         "tags": [
           "#Python"
@@ -278,19 +278,19 @@
       },
       {
         "rank": 4,
-        "name": "jwuthri-cloud/Tracely-ai",
-        "description": "暂无描述",
+        "name": "anujasid/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 829,
-          "forks": 139
+          "totalStars": 633,
+          "forks": 156
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341043007?v=4"
+          "https://avatars.githubusercontent.com/u/343139124?v=4"
         ],
         "tags": [
           "#Python"
@@ -298,6 +298,46 @@
       },
       {
         "rank": 5,
+        "name": "Tencent-Hunyuan/Hy-Memory",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 589,
+          "forks": 57
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/210980732?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "datalab-to/indra",
+        "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 588,
+          "forks": 47
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/176631703?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "yeyuxin777/baoyan-agent-benchmark",
         "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
         "language": {
@@ -306,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 504,
+          "totalStars": 523,
           "forks": 0
         },
         "contributors": [
@@ -317,7 +357,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 8,
+        "name": "i12bp8/decomp.wtf",
+        "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 490,
+          "forks": 208
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/57963363?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "StoopwenpueNq/jackie-fmri-sim",
         "description": "jackie-fmri-sim",
         "language": {
@@ -337,80 +397,20 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "i12bp8/decomp.wtf",
-        "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 464,
-          "forks": 177
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/57963363?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "datalab-to/indra",
-        "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 463,
-          "forks": 35
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/176631703?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Tencent-Hunyuan/Hy-Memory",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 403,
-          "forks": 35
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/210980732?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "Leonxlnx/earshot",
-        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "name": "OpenMOSS/MOSS-Image",
+        "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 367,
-          "forks": 23
+          "totalStars": 462,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/219127460?v=4"
+          "https://avatars.githubusercontent.com/u/156300419?v=4"
         ],
         "tags": [
           "#Python"
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1769,
-          "forks": 260
+          "totalStars": 2065,
+          "forks": 295
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/103972607?v=4"
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 648,
-          "forks": 121
+          "totalStars": 670,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16551316?v=4"
@@ -460,26 +460,6 @@
       },
       {
         "rank": 3,
-        "name": "rayytor/desktop_gifs",
-        "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 474,
-          "forks": 77
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/234740178?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "NB-Corp/gpt-with-taste",
         "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
         "language": {
@@ -488,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 321,
-          "forks": 16
+          "totalStars": 352,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/320855961?v=4"
@@ -499,27 +479,27 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "YIAN6557/eian-riso-broll",
-        "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+        "rank": 4,
+        "name": "showheyohtaki/motion-prompt",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 291,
-          "forks": 16
+          "totalStars": 307,
+          "forks": 43
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314587746?v=4"
+          "https://avatars.githubusercontent.com/u/41701394?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "AirsupHQ/machine-skill",
         "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
         "language": {
@@ -528,8 +508,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 275,
-          "forks": 23
+          "totalStars": 293,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/335045975?v=4"
@@ -539,27 +519,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "leag1234/elixiroffice",
-        "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+        "rank": 6,
+        "name": "flybrainlabs/node",
+        "description": "flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 270,
-          "forks": 8
+          "totalStars": 290,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/57147261?v=4"
+          "https://avatars.githubusercontent.com/u/334615534?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "sola1039/HAST-SEC",
         "description": "武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
         "language": {
@@ -568,7 +548,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 239,
+          "totalStars": 269,
           "forks": 20
         },
         "contributors": [
@@ -579,7 +559,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "zehraakar424-lgtm/wallet-core-web",
         "description": "暂无描述",
         "language": {
@@ -599,20 +579,40 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "flybrainlabs/node",
-        "description": "flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
+        "rank": 9,
+        "name": "jonwheatley/pixel-path",
+        "description": "Turn any two places into a pixel-art fly-through of the real road. A Claude Code skill.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
-          "forks": 0
+          "totalStars": 218,
+          "forks": 14
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/334615534?v=4"
+          "https://avatars.githubusercontent.com/u/49005?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ns2250225/guangzhou",
+        "description": "广州旅游观光小游戏",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 124,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/6628803?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1041,
-          "forks": 49
+          "totalStars": 1273,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28518750?v=4"
@@ -650,8 +650,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 887,
-          "forks": 40
+          "totalStars": 992,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/305895304?v=4"
@@ -670,8 +670,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 509,
-          "forks": 136
+          "totalStars": 661,
+          "forks": 158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/240354279?v=4"
@@ -690,8 +690,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 409,
-          "forks": 24
+          "totalStars": 503,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22659047?v=4"
@@ -710,8 +710,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 389,
-          "forks": 30
+          "totalStars": 445,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337930185?v=4"
@@ -730,8 +730,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 302,
-          "forks": 25
+          "totalStars": 323,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134285?v=4"
@@ -742,26 +742,6 @@
       },
       {
         "rank": 7,
-        "name": "Michele-M-Media/HYPERHEN",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 196,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/197989904?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "HayatoG/tlg_pc",
         "description": "Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, optional 60 FPS, SMAA/CAS filters. | Port nativo para PC de The Last Guardian — usa o seu próprio dump.",
         "language": {
@@ -770,8 +750,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
-          "forks": 8
+          "totalStars": 242,
+          "forks": 11
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22659047?v=4"
@@ -781,27 +761,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "OpenPort-Labs/Galaxy-Android",
-        "description": "Native 100% ARM64 Android port of the 2007 cosmic gravity platformer with OpenGL ES 3.2, AAudio, Hor+ ultrawide, and touch controls.",
+        "rank": 8,
+        "name": "BelmanteGu/SuperMarioWonderRecomp",
+        "description": "Super Mario Bros. Wonder static recompilation (NVN on Vulkan/MoltenVK), macOS, Android and Windows. No game assets.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 180,
-          "forks": 18
+          "totalStars": 232,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/340843521?v=4"
+          "https://avatars.githubusercontent.com/u/151742873?v=4"
         ],
         "tags": [
           "#C++"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Spark198rus/black-pc",
         "description": "Unofficial native Windows port of BLACK (Xbox, NTSC-U). Runs your own copy of the game's code on the PC; no game data included.",
         "language": {
@@ -810,11 +790,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 172,
-          "forks": 14
+          "totalStars": 212,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/37002490?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Michele-M-Media/HYPERHEN",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 206,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/197989904?v=4"
         ],
         "tags": [
           "#C++"
