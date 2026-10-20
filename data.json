@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/20 03:18:16",
+  "lastUpdate": "2026/10/20 04:14:50",
   "charts": {
     "languageDistribution": {
       "Java": 1,
@@ -7,8 +7,8 @@
       "C#": 1,
       "C": 1,
       "TypeScript": 2,
-      "C++": 1,
-      "Python": 3
+      "Python": 3,
+      "C++": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5959,
-          "forks": 718
+          "totalStars": 6219,
+          "forks": 745
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94786511?v=4"
@@ -44,7 +44,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2464,
+          "totalStars": 2468,
           "forks": 271
         },
         "contributors": [
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1998,
+          "totalStars": 1999,
           "forks": 111
         },
         "contributors": [
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1890,
-          "forks": 299
+          "totalStars": 1932,
+          "forks": 305
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1425386?v=4"
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1817,
+          "totalStars": 1820,
           "forks": 151
         },
         "contributors": [
@@ -116,26 +116,6 @@
       },
       {
         "rank": 6,
-        "name": "Supermedo/uncharted_pc",
-        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1600,
-          "forks": 82
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/28518750?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Leonxlnx/earshot",
         "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
         "language": {
@@ -144,7 +124,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1586,
+          "totalStars": 1608,
           "forks": 94
         },
         "contributors": [
@@ -152,6 +132,26 @@
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1606,
+          "forks": 83
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/28518750?v=4"
+        ],
+        "tags": [
+          "#C++"
         ]
       },
       {
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1257,
+          "totalStars": 1258,
           "forks": 266
         },
         "contributors": [
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1026,
-          "forks": 239
+          "totalStars": 1075,
+          "forks": 248
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79557224?v=4"
@@ -204,8 +204,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1005,
-          "forks": 153
+          "totalStars": 1010,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167222040?v=4"
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1586,
+          "totalStars": 1608,
           "forks": 94
         },
         "contributors": [
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1026,
-          "forks": 239
+          "totalStars": 1075,
+          "forks": 248
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79557224?v=4"
@@ -266,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1005,
-          "forks": 153
+          "totalStars": 1010,
+          "forks": 154
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/167222040?v=4"
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 988,
+          "totalStars": 989,
           "forks": 82
         },
         "contributors": [
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 967,
+          "totalStars": 975,
           "forks": 45
         },
         "contributors": [
@@ -326,8 +326,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 918,
-          "forks": 382
+          "totalStars": 921,
+          "forks": 383
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343139124?v=4"
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 580,
+          "totalStars": 585,
           "forks": 40
         },
         "contributors": [
@@ -366,8 +366,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 527,
-          "forks": 190
+          "totalStars": 535,
+          "forks": 195
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/183933817?v=4"
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 502,
+          "totalStars": 504,
           "forks": 23
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 969,
-          "forks": 104
+          "totalStars": 986,
+          "forks": 107
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -448,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 623,
-          "forks": 51
+          "totalStars": 639,
+          "forks": 56
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/107297384?v=4"
@@ -468,7 +468,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 490,
+          "totalStars": 492,
           "forks": 53
         },
         "contributors": [
@@ -488,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
+          "totalStars": 225,
           "forks": 40
         },
         "contributors": [
@@ -508,8 +508,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
-          "forks": 17
+          "totalStars": 217,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/344425403?v=4"
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 204,
+          "totalStars": 210,
           "forks": 29
         },
         "contributors": [
@@ -548,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 203,
-          "forks": 6
+          "totalStars": 204,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/53018067?v=4"
@@ -588,7 +588,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
+          "totalStars": 156,
           "forks": 217
         },
         "contributors": [
@@ -600,19 +600,19 @@
       },
       {
         "rank": 10,
-        "name": "kergee/mcd-undercover",
-        "description": "把真实门店菜单变成 3～8 人的同机谁是卧底游戏（麦当劳 MCP 参赛项目）",
+        "name": "typecraft-dev/oma-cast",
+        "description": "omarchy rebuild of raycast",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 110,
-          "forks": 5
+          "totalStars": 114,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3995388?v=4"
+          "https://avatars.githubusercontent.com/u/158004072?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1600,
-          "forks": 82
+          "totalStars": 1606,
+          "forks": 83
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/28518750?v=4"
@@ -650,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 920,
+          "totalStars": 922,
           "forks": 215
         },
         "contributors": [
@@ -670,8 +670,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 386,
-          "forks": 17
+          "totalStars": 387,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/338085035?v=4"
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 328,
+          "totalStars": 329,
           "forks": 36
         },
         "contributors": [
@@ -710,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 280,
+          "totalStars": 284,
           "forks": 9
         },
         "contributors": [
@@ -730,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 264,
+          "totalStars": 265,
           "forks": 21
         },
         "contributors": [
@@ -750,7 +750,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 248,
+          "totalStars": 249,
           "forks": 12
         },
         "contributors": [
@@ -770,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 230,
+          "totalStars": 232,
           "forks": 12
         },
         "contributors": [
@@ -790,7 +790,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
+          "totalStars": 212,
           "forks": 7
         },
         "contributors": [
