@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/22 03:11:46",
+  "lastUpdate": "2026/10/22 04:03:54",
   "charts": {
     "languageDistribution": {
       "Java": 2,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 19863,
-          "forks": 2143
+          "totalStars": 20053,
+          "forks": 2172
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94786511?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 18265,
-          "forks": 1884
+          "totalStars": 18376,
+          "forks": 1897
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3972,
-          "forks": 558
+          "totalStars": 4000,
+          "forks": 564
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1425386?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2791,
-          "forks": 343
+          "totalStars": 2814,
+          "forks": 348
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192837953?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2280,
-          "forks": 165
+          "totalStars": 2350,
+          "forks": 167
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16513318?v=4"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2016,
-          "forks": 459
+          "totalStars": 2034,
+          "forks": 463
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79557224?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1358,
-          "forks": 203
+          "totalStars": 1367,
+          "forks": 204
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34966120?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1310,
+          "totalStars": 1324,
           "forks": 65
         },
         "contributors": [
@@ -182,7 +182,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1304,
+          "totalStars": 1305,
           "forks": 195
         },
         "contributors": [
@@ -202,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1294,
-          "forks": 126
+          "totalStars": 1302,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 18265,
-          "forks": 1884
+          "totalStars": 18376,
+          "forks": 1897
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2016,
-          "forks": 459
+          "totalStars": 2034,
+          "forks": 463
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/79557224?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1310,
+          "totalStars": 1324,
           "forks": 65
         },
         "contributors": [
@@ -284,7 +284,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1304,
+          "totalStars": 1305,
           "forks": 195
         },
         "contributors": [
@@ -297,15 +297,15 @@
       {
         "rank": 5,
         "name": "ikow/php2shell-poc",
-        "description": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+        "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1063,
-          "forks": 387
+          "totalStars": 1096,
+          "forks": 398
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5469411?v=4"
@@ -325,7 +325,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 798,
-          "forks": 100
+          "forks": 101
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343430477?v=4"
@@ -344,7 +344,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 741,
+          "totalStars": 746,
           "forks": 20
         },
         "contributors": [
@@ -364,8 +364,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 567,
-          "forks": 216
+          "totalStars": 606,
+          "forks": 226
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12439321?v=4"
@@ -384,8 +384,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 544,
-          "forks": 67
+          "totalStars": 553,
+          "forks": 71
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/344663807?v=4"
@@ -404,7 +404,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 531,
+          "totalStars": 538,
           "forks": 50
         },
         "contributors": [
@@ -426,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1294,
-          "forks": 126
+          "totalStars": 1302,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/127714341?v=4"
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1175,
+          "totalStars": 1181,
           "forks": 98
         },
         "contributors": [
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
-          "forks": 32
+          "totalStars": 491,
+          "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -486,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 357,
+          "totalStars": 359,
           "forks": 32
         },
         "contributors": [
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
-          "forks": 588
+          "totalStars": 319,
+          "forks": 599
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/329836734?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 306,
+          "totalStars": 307,
           "forks": 28
         },
         "contributors": [
@@ -547,7 +547,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 268,
-          "forks": 46
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/219127460?v=4"
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 256,
+          "totalStars": 265,
           "forks": 30
         },
         "contributors": [
@@ -578,6 +578,26 @@
       },
       {
         "rank": 9,
+        "name": "ZiChuanLan/pi-purge",
+        "description": "pi extension: /purge swaps pi's built-in assistant persona for your own prompt file",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 253,
+          "forks": 100
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/139305401?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "kailashsr38/ascii-magic-art",
         "description": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
         "language": {
@@ -595,26 +615,6 @@
         "tags": [
           "#JavaScript"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "ZiChuanLan/pi-purge",
-        "description": "pi extension: /purge swaps pi's built-in assistant persona for your own prompt file",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 251,
-          "forks": 100
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/139305401?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
       }
     ],
     "C++": [
@@ -628,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 501,
+          "totalStars": 502,
           "forks": 24
         },
         "contributors": [
@@ -648,7 +648,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 372,
+          "totalStars": 373,
           "forks": 15
         },
         "contributors": [
@@ -688,7 +688,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 232,
+          "totalStars": 233,
           "forks": 36
         },
         "contributors": [
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 191,
+          "totalStars": 192,
           "forks": 36
         },
         "contributors": [
@@ -788,7 +788,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 167,
           "forks": 9
         },
         "contributors": [
