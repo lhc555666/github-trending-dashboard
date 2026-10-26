@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/26 03:06:14",
+  "lastUpdate": "2026/10/26 04:05:00",
   "charts": {
     "languageDistribution": {
       "Kotlin": 1,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5154,
-          "forks": 414
+          "totalStars": 5221,
+          "forks": 424
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16513318?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2784,
-          "forks": 359
+          "totalStars": 2922,
+          "forks": 377
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62031663?v=4"
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1951,
+          "totalStars": 1954,
           "forks": 52
         },
         "contributors": [
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1939,
+          "totalStars": 1946,
           "forks": 286
         },
         "contributors": [
@@ -103,7 +103,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1795,
+          "totalStars": 1797,
           "forks": 623
         },
         "contributors": [
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1671,
-          "forks": 362
+          "totalStars": 1691,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1474,
+          "totalStars": 1481,
           "forks": 265
         },
         "contributors": [
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1439,
+          "totalStars": 1440,
           "forks": 420
         },
         "contributors": [
@@ -183,7 +183,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1399,
+          "totalStars": 1401,
           "forks": 129
         },
         "contributors": [
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1266,
+          "totalStars": 1268,
           "forks": 10
         },
         "contributors": [
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1795,
+          "totalStars": 1797,
           "forks": 623
         },
         "contributors": [
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1671,
-          "forks": 362
+          "totalStars": 1691,
+          "forks": 365
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/196724947?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1439,
+          "totalStars": 1440,
           "forks": 420
         },
         "contributors": [
@@ -277,6 +277,26 @@
       },
       {
         "rank": 4,
+        "name": "rddmwmddr/android-ad-cleaner",
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1006,
+          "forks": 83
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5119232?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "eagle-hq/EAGLE-4",
         "description": "Official Inference Code of EAGLE-4",
         "language": {
@@ -296,7 +316,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Snapintosh/Snapintosh",
         "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
         "language": {
@@ -305,31 +325,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 945,
+          "totalStars": 948,
           "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/346728985?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "rddmwmddr/android-ad-cleaner",
-        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 940,
-          "forks": 76
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/5119232?v=4"
         ],
         "tags": [
           "#Python"
@@ -365,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 797,
-          "forks": 36
+          "totalStars": 819,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41390763?v=4"
@@ -385,8 +385,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 782,
-          "forks": 80
+          "totalStars": 814,
+          "forks": 82
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/21166029?v=4"
@@ -427,7 +427,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1399,
+          "totalStars": 1401,
           "forks": 129
         },
         "contributors": [
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 618,
-          "forks": 116
+          "totalStars": 620,
+          "forks": 117
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/3250382?v=4"
@@ -487,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 360,
-          "forks": 113
+          "totalStars": 361,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97088?v=4"
@@ -507,7 +507,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 349,
+          "totalStars": 353,
           "forks": 38
         },
         "contributors": [
@@ -568,7 +568,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 196,
-          "forks": 102
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/142894633?v=4"
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 175,
+          "totalStars": 177,
           "forks": 6
         },
         "contributors": [
@@ -607,7 +607,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
+          "totalStars": 160,
           "forks": 11
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 392,
+          "totalStars": 394,
           "forks": 8
         },
         "contributors": [
@@ -649,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
-          "forks": 29
+          "totalStars": 228,
+          "forks": 30
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283953767?v=4"
@@ -669,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
-          "forks": 6
+          "totalStars": 214,
+          "forks": 7
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/256620642?v=4"
@@ -709,8 +709,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 131,
-          "forks": 14
+          "totalStars": 132,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/241212243?v=4"
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 93,
+          "totalStars": 97,
           "forks": 4
         },
         "contributors": [
@@ -789,7 +789,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 89,
+          "totalStars": 90,
           "forks": 8
         },
         "contributors": [
@@ -809,7 +809,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 82,
+          "totalStars": 83,
           "forks": 1
         },
         "contributors": [
