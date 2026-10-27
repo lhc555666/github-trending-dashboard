@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/27 03:37:15",
+  "lastUpdate": "2026/10/27 04:25:05",
   "charts": {
     "languageDistribution": {
       "C": 2,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3909,
-          "forks": 507
+          "totalStars": 3929,
+          "forks": 510
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62031663?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2113,
-          "forks": 175
+          "totalStars": 2171,
+          "forks": 178
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5119232?v=4"
@@ -63,7 +63,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2091,
+          "totalStars": 2092,
           "forks": 309
         },
         "contributors": [
@@ -83,7 +83,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2065,
+          "totalStars": 2068,
           "forks": 63
         },
         "contributors": [
@@ -95,6 +95,26 @@
       },
       {
         "rank": 5,
+        "name": "designfuchen/word-atlas",
+        "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1862,
+          "forks": 472
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/17679892?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "ikow/php2shell-poc",
         "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
         "language": {
@@ -114,26 +134,6 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "designfuchen/word-atlas",
-        "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1826,
-          "forks": 462
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/17679892?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
         "rank": 7,
         "name": "oosexgang/hackios-xnu-kernel",
         "description": "暂无描述",
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1701,
-          "forks": 305
+          "totalStars": 1710,
+          "forks": 307
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343646710?v=4"
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1629,
-          "forks": 92
+          "totalStars": 1643,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6751787?v=4"
@@ -183,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1481,
-          "forks": 428
+          "totalStars": 1482,
+          "forks": 429
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12439321?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2113,
-          "forks": 175
+          "totalStars": 2171,
+          "forks": 178
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5119232?v=4"
@@ -265,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1629,
-          "forks": 92
+          "totalStars": 1643,
+          "forks": 98
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/6751787?v=4"
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1481,
-          "forks": 428
+          "totalStars": 1482,
+          "forks": 429
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/12439321?v=4"
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1287,
-          "forks": 148
+          "totalStars": 1295,
+          "forks": 149
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/21166029?v=4"
@@ -325,7 +325,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1229,
+          "totalStars": 1234,
           "forks": 54
         },
         "contributors": [
@@ -365,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 933,
+          "totalStars": 934,
           "forks": 136
         },
         "contributors": [
@@ -385,8 +385,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 862,
-          "forks": 128
+          "totalStars": 864,
+          "forks": 129
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/46409262?v=4"
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 804,
+          "totalStars": 805,
           "forks": 79
         },
         "contributors": [
@@ -448,7 +448,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 451,
-          "forks": 51
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/275284869?v=4"
@@ -487,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
-          "forks": 366
+          "totalStars": 428,
+          "forks": 372
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139305401?v=4"
@@ -519,6 +519,26 @@
       },
       {
         "rank": 6,
+        "name": "mochiiwuff/capri-desktop",
+        "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 254,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/321940728?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Charonyuu/whatsmyagentdoing",
         "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
         "language": {
@@ -532,26 +552,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88021016?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "mochiiwuff/capri-desktop",
-        "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 251,
-          "forks": 34
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/321940728?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 147,
+          "totalStars": 148,
           "forks": 0
         },
         "contributors": [
@@ -629,7 +629,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 446,
+          "totalStars": 448,
           "forks": 8
         },
         "contributors": [
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 313,
+          "totalStars": 314,
           "forks": 44
         },
         "contributors": [
@@ -689,8 +689,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 223,
-          "forks": 91
+          "totalStars": 242,
+          "forks": 99
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343751448?v=4"
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 147,
+          "totalStars": 148,
           "forks": 18
         },
         "contributors": [
