@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/28 03:53:32",
+  "lastUpdate": "2026/10/28 04:55:53",
   "charts": {
     "languageDistribution": {
       "C": 2,
@@ -21,7 +21,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4310,
+          "totalStars": 4317,
           "forks": 557
         },
         "contributors": [
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3549,
-          "forks": 303
+          "totalStars": 3636,
+          "forks": 315
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5119232?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2687,
-          "forks": 611
+          "totalStars": 2713,
+          "forks": 620
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17679892?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2544,
-          "forks": 118
+          "totalStars": 2613,
+          "forks": 122
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36901?v=4"
@@ -101,7 +101,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2034,
+          "totalStars": 2043,
           "forks": 121
         },
         "contributors": [
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1827,
+          "totalStars": 1835,
           "forks": 318
         },
         "contributors": [
@@ -133,26 +133,6 @@
       },
       {
         "rank": 7,
-        "name": "morganlinton/BeautifulRust",
-        "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1325,
-          "forks": 59
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41390763?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "DLSS-5-Swaper-New/.github",
         "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.",
         "language": {
@@ -161,7 +141,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1280,
+          "totalStars": 1541,
           "forks": 1
         },
         "contributors": [
@@ -169,6 +149,26 @@
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "morganlinton/BeautifulRust",
+        "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1327,
+          "forks": 59
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/41390763?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       },
       {
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1271,
+          "totalStars": 1273,
           "forks": 79
         },
         "contributors": [
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1132,
-          "forks": 269
+          "totalStars": 1145,
+          "forks": 272
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187917479?v=4"
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3549,
-          "forks": 303
+          "totalStars": 3636,
+          "forks": 315
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5119232?v=4"
@@ -243,7 +243,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2034,
+          "totalStars": 2043,
           "forks": 121
         },
         "contributors": [
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1325,
+          "totalStars": 1327,
           "forks": 59
         },
         "contributors": [
@@ -275,6 +275,26 @@
       },
       {
         "rank": 4,
+        "name": "interplains/Zero-Breach-Toolkit",
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1095,
+          "forks": 117
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/39777629?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "DenisSergeevitch/ex-ussr-kinship-research",
         "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
         "language": {
@@ -283,8 +303,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1065,
-          "forks": 106
+          "totalStars": 1067,
+          "forks": 107
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2140110?v=4"
@@ -294,7 +314,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Snapintosh/Snapintosh",
         "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
         "language": {
@@ -308,26 +328,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/346728985?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "interplains/Zero-Breach-Toolkit",
-        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 986,
-          "forks": 107
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/39777629?v=4"
         ],
         "tags": [
           "#Python"
@@ -383,8 +383,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 546,
-          "forks": 62
+          "totalStars": 569,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348156401?v=4"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 661,
-          "forks": 495
+          "totalStars": 671,
+          "forks": 503
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139305401?v=4"
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 341,
-          "forks": 52
+          "totalStars": 347,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/321940728?v=4"
@@ -525,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 159,
+          "totalStars": 160,
           "forks": 10
         },
         "contributors": [
@@ -566,7 +566,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 135,
-          "forks": 13
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/346943810?v=4"
@@ -597,19 +597,19 @@
       },
       {
         "rank": 10,
-        "name": "jacke-pp/ai-wallet-binance",
-        "description": "让任何 AI 用你自己的币安 AI 钱包交易：秒买秒卖、狙击 Agent 专属发射台（Four、Flap、GANG）、AI 专属 Mint、本机交易页面。币安签名，不碰私钥。Let any AI trade with your own Binance AI wallet.",
+        "name": "Ahmadkhattak1/awesome-downloader",
+        "description": "Open-source Windows download manager with browser video integration",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
-          "forks": 5
+          "totalStars": 128,
+          "forks": 36
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/316605581?v=4"
+          "https://avatars.githubusercontent.com/u/46068424?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,7 +627,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 497,
+          "totalStars": 499,
           "forks": 12
         },
         "contributors": [
@@ -647,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
-          "forks": 207
+          "totalStars": 462,
+          "forks": 209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343751448?v=4"
@@ -707,8 +707,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 141,
-          "forks": 2
+          "totalStars": 145,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343598286?v=4"
@@ -739,6 +739,26 @@
       },
       {
         "rank": 7,
+        "name": "maharmstone/moxnox",
+        "description": "NT-like POSIX-compatible operating system",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 105,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/9301135?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "VitoMiguelF/crashott-pc",
         "description": "Crash of the Titans (Xbox 360) statically recompiled for Windows: DLSS/FSR, PC controls, PT-BR, subtitles, mods. Bring your own copy of the game.",
         "language": {
@@ -752,26 +772,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/54370123?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "maharmstone/moxnox",
-        "description": "NT-like POSIX-compatible operating system",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 98,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9301135?v=4"
         ],
         "tags": [
           "#C++"
@@ -799,8 +799,8 @@
       },
       {
         "rank": 10,
-        "name": "DreamyLab30/Filmimic",
-        "description": "Real-time film emulation for Unreal Engine: 21 looks, grain, halation, lens effects, Blueprint controls and reusable presets.",
+        "name": "Kristian8606/esp32-airplay2-surround",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -808,10 +808,10 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 95,
-          "forks": 0
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/19686851?v=4"
+          "https://avatars.githubusercontent.com/u/34716572?v=4"
         ],
         "tags": [
           "#C++"
