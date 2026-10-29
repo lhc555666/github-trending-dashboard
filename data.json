@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/29 04:16:53",
+  "lastUpdate": "2026/10/29 05:07:21",
   "charts": {
     "languageDistribution": {
       "C": 1,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4433,
-          "forks": 569
+          "totalStars": 4441,
+          "forks": 570
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/62031663?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4408,
-          "forks": 399
+          "totalStars": 4427,
+          "forks": 401
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5119232?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3916,
-          "forks": 213
+          "totalStars": 3947,
+          "forks": 214
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36901?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3093,
-          "forks": 682
+          "totalStars": 3103,
+          "forks": 683
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17679892?v=4"
@@ -101,8 +101,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2889,
-          "forks": 309
+          "totalStars": 2914,
+          "forks": 314
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39777629?v=4"
@@ -121,7 +121,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2282,
+          "totalStars": 2287,
           "forks": 139
         },
         "contributors": [
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2103,
-          "forks": 555
+          "totalStars": 2148,
+          "forks": 560
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9844218?v=4"
@@ -161,8 +161,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1430,
-          "forks": 89
+          "totalStars": 1435,
+          "forks": 90
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/19428358?v=4"
@@ -181,7 +181,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1371,
+          "totalStars": 1372,
           "forks": 62
         },
         "contributors": [
@@ -201,8 +201,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1339,
-          "forks": 305
+          "totalStars": 1341,
+          "forks": 307
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187917479?v=4"
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4408,
-          "forks": 399
+          "totalStars": 4427,
+          "forks": 401
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/5119232?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2889,
-          "forks": 309
+          "totalStars": 2914,
+          "forks": 314
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39777629?v=4"
@@ -263,7 +263,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2282,
+          "totalStars": 2287,
           "forks": 139
         },
         "contributors": [
@@ -283,7 +283,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1371,
+          "totalStars": 1372,
           "forks": 62
         },
         "contributors": [
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1185,
+          "totalStars": 1186,
           "forks": 128
         },
         "contributors": [
@@ -343,7 +343,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 931,
+          "totalStars": 939,
           "forks": 100
         },
         "contributors": [
@@ -363,8 +363,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 610,
-          "forks": 49
+          "totalStars": 618,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120387240?v=4"
@@ -426,7 +426,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 826,
-          "forks": 611
+          "forks": 614
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/139305401?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 506,
+          "totalStars": 508,
           "forks": 61
         },
         "contributors": [
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 377,
-          "forks": 69
+          "totalStars": 379,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/321940728?v=4"
@@ -477,6 +477,26 @@
       },
       {
         "rank": 4,
+        "name": "jacke-pp/open-yoki",
+        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 339,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/316605581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "Jestions-dev/BlueFatFish",
         "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
         "language": {
@@ -496,7 +516,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "haydenschmitty/floorplan",
         "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
         "language": {
@@ -505,7 +525,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 279,
+          "totalStars": 287,
           "forks": 25
         },
         "contributors": [
@@ -516,7 +536,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Charonyuu/whatsmyagentdoing",
         "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
         "language": {
@@ -536,26 +556,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "jacke-pp/open-yoki",
-        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 252,
-          "forks": 1
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/316605581?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 8,
         "name": "Moessif/code-video-showcase",
         "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
@@ -565,7 +565,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 176,
+          "totalStars": 179,
           "forks": 10
         },
         "contributors": [
@@ -585,7 +585,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 173,
+          "totalStars": 175,
           "forks": 13
         },
         "contributors": [
@@ -605,7 +605,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
+          "totalStars": 169,
           "forks": 5
         },
         "contributors": [
@@ -647,8 +647,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 352,
-          "forks": 50
+          "totalStars": 354,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283953767?v=4"
@@ -667,7 +667,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
+          "totalStars": 323,
           "forks": 25
         },
         "contributors": [
@@ -727,8 +727,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 109,
-          "forks": 127
+          "totalStars": 114,
+          "forks": 132
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212403118?v=4"
@@ -767,7 +767,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 84,
+          "totalStars": 85,
           "forks": 6
         },
         "contributors": [
@@ -787,7 +787,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 82,
+          "totalStars": 83,
           "forks": 3
         },
         "contributors": [
