@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/30 04:16:57",
+  "lastUpdate": "2026/10/30 05:06:50",
   "charts": {
     "languageDistribution": {
       "Python": 5,
@@ -20,8 +20,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4839,
-          "forks": 268
+          "totalStars": 4862,
+          "forks": 269
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36901?v=4"
@@ -40,7 +40,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4798,
+          "totalStars": 4801,
           "forks": 435
         },
         "contributors": [
@@ -60,8 +60,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3650,
-          "forks": 389
+          "totalStars": 3657,
+          "forks": 390
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39777629?v=4"
@@ -80,8 +80,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3334,
-          "forks": 867
+          "totalStars": 3358,
+          "forks": 875
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9844218?v=4"
@@ -100,8 +100,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3266,
-          "forks": 715
+          "totalStars": 3268,
+          "forks": 716
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17679892?v=4"
@@ -120,7 +120,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2412,
+          "totalStars": 2413,
           "forks": 149
         },
         "contributors": [
@@ -140,8 +140,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1493,
-          "forks": 339
+          "totalStars": 1500,
+          "forks": 340
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/187917479?v=4"
@@ -160,7 +160,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1273,
+          "totalStars": 1276,
           "forks": 133
         },
         "contributors": [
@@ -180,8 +180,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1096,
-          "forks": 114
+          "totalStars": 1097,
+          "forks": 115
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348156401?v=4"
@@ -200,7 +200,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1018,
+          "totalStars": 1031,
           "forks": 2
         },
         "contributors": [
@@ -222,7 +222,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4798,
+          "totalStars": 4801,
           "forks": 435
         },
         "contributors": [
@@ -242,8 +242,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3650,
-          "forks": 389
+          "totalStars": 3657,
+          "forks": 390
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39777629?v=4"
@@ -262,7 +262,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2412,
+          "totalStars": 2413,
           "forks": 149
         },
         "contributors": [
@@ -282,7 +282,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1273,
+          "totalStars": 1276,
           "forks": 133
         },
         "contributors": [
@@ -302,8 +302,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1096,
-          "forks": 114
+          "totalStars": 1097,
+          "forks": 115
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348156401?v=4"
@@ -342,8 +342,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 775,
-          "forks": 66
+          "totalStars": 780,
+          "forks": 67
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120387240?v=4"
@@ -362,7 +362,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 559,
+          "totalStars": 562,
           "forks": 1
         },
         "contributors": [
@@ -382,7 +382,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
+          "totalStars": 506,
           "forks": 115
         },
         "contributors": [
@@ -424,7 +424,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 879,
+          "totalStars": 880,
           "forks": 642
         },
         "contributors": [
@@ -456,6 +456,26 @@
       },
       {
         "rank": 3,
+        "name": "jacke-pp/open-yoki",
+        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 463,
+          "forks": 27
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/316605581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "mochiiwuff/capri-desktop",
         "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
         "language": {
@@ -475,7 +495,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "haydenschmitty/floorplan",
         "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
         "language": {
@@ -484,31 +504,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 396,
+          "totalStars": 398,
           "forks": 36
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348570593?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "jacke-pp/open-yoki",
-        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 387,
-          "forks": 25
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/316605581?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -524,8 +524,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 373,
-          "forks": 25
+          "totalStars": 374,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/272715639?v=4"
@@ -544,7 +544,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 349,
+          "totalStars": 363,
           "forks": 103
         },
         "contributors": [
@@ -564,8 +564,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 348,
-          "forks": 50
+          "totalStars": 354,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257292434?v=4"
@@ -584,7 +584,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 249,
+          "totalStars": 250,
           "forks": 22
         },
         "contributors": [
@@ -604,7 +604,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 225,
+          "totalStars": 228,
           "forks": 5
         },
         "contributors": [
@@ -626,7 +626,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 548,
+          "totalStars": 551,
           "forks": 16
         },
         "contributors": [
@@ -646,8 +646,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 34
+          "totalStars": 399,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -686,8 +686,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 174,
-          "forks": 188
+          "totalStars": 177,
+          "forks": 189
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212403118?v=4"
@@ -706,8 +706,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 154,
-          "forks": 24
+          "totalStars": 157,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -726,8 +726,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 154,
-          "forks": 7
+          "totalStars": 157,
+          "forks": 8
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/110007851?v=4"
@@ -738,6 +738,26 @@
       },
       {
         "rank": 7,
+        "name": "RanggaCasper/MostWanted-Android",
+        "description": "Unofficial native Android port of Need for Speed: Most Wanted (Xbox Black Edition). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 121,
+          "forks": 10
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76829603?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "Kristian8606/esp32-airplay2-surround",
         "description": "暂无描述",
         "language": {
@@ -751,26 +771,6 @@
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34716572?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "RanggaCasper/MostWanted-Android",
-        "description": "Unofficial native Android port of Need for Speed: Most Wanted (Xbox Black Edition). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 120,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76829603?v=4"
         ],
         "tags": [
           "#C++"
