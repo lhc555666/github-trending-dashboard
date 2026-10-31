@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/31 03:57:30",
+  "lastUpdate": "2026/10/31 04:53:22",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -23,7 +23,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5432,
+          "totalStars": 5445,
           "forks": 300
         },
         "contributors": [
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4067,
-          "forks": 1039
+          "totalStars": 4099,
+          "forks": 1049
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9844218?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3889,
-          "forks": 416
+          "totalStars": 3894,
+          "forks": 417
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39777629?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3401,
-          "forks": 743
+          "totalStars": 3407,
+          "forks": 744
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/17679892?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2714,
-          "forks": 117
+          "totalStars": 2769,
+          "forks": 119
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/268149062?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1729,
-          "forks": 103
+          "totalStars": 1770,
+          "forks": 111
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41872026?v=4"
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1585,
-          "forks": 253
+          "totalStars": 1669,
+          "forks": 262
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/102038245?v=4"
@@ -175,26 +175,6 @@
       },
       {
         "rank": 9,
-        "name": "qybaihe/bla",
-        "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1465,
-          "forks": 198
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/137127051?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "heydamir/unslop",
         "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
         "language": {
@@ -203,14 +183,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1437,
-          "forks": 69
+          "totalStars": 1500,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "qybaihe/bla",
+        "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1480,
+          "forks": 199
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/137127051?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       }
     ],
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3889,
-          "forks": 416
+          "totalStars": 3894,
+          "forks": 417
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39777629?v=4"
@@ -245,8 +245,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1347,
-          "forks": 138
+          "totalStars": 1349,
+          "forks": 139
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2140110?v=4"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1202,
+          "totalStars": 1205,
           "forks": 125
         },
         "contributors": [
@@ -305,7 +305,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 916,
+          "totalStars": 929,
           "forks": 2
         },
         "contributors": [
@@ -325,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 704,
-          "forks": 38
+          "totalStars": 715,
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153735320?v=4"
@@ -345,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 537,
+          "totalStars": 538,
           "forks": 118
         },
         "contributors": [
@@ -365,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 464,
+          "totalStars": 465,
           "forks": 36
         },
         "contributors": [
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 410,
+          "totalStars": 412,
           "forks": 50
         },
         "contributors": [
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1437,
-          "forks": 69
+          "totalStars": 1500,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 682,
-          "forks": 186
+          "totalStars": 699,
+          "forks": 189
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319719670?v=4"
@@ -479,26 +479,6 @@
       },
       {
         "rank": 4,
-        "name": "misshexa66/OunceCake",
-        "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 542,
-          "forks": 63
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/275284869?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "jacke-pp/open-yoki",
         "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
         "language": {
@@ -507,11 +487,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 500,
+          "totalStars": 579,
           "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316605581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "misshexa66/OunceCake",
+        "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 543,
+          "forks": 63
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/275284869?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -527,7 +527,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 491,
+          "totalStars": 494,
           "forks": 42
         },
         "contributors": [
@@ -539,26 +539,6 @@
       },
       {
         "rank": 7,
-        "name": "Humpalumps/Ultra-Water",
-        "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 444,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/257292434?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "sleepy-zone/ai-ref-library-cn",
         "description": "暂无描述",
         "language": {
@@ -567,11 +547,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
-          "forks": 122
+          "totalStars": 450,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131369648?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Humpalumps/Ultra-Water",
+        "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 446,
+          "forks": 61
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/257292434?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -588,7 +588,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 439,
-          "forks": 86
+          "forks": 87
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/321940728?v=4"
@@ -607,8 +607,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 382,
-          "forks": 47
+          "totalStars": 404,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 556,
-          "forks": 69
+          "totalStars": 580,
+          "forks": 71
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 436,
+          "totalStars": 437,
           "forks": 38
         },
         "contributors": [
@@ -669,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 249,
-          "forks": 216
+          "totalStars": 253,
+          "forks": 217
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212403118?v=4"
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 151,
+          "totalStars": 157,
           "forks": 7
         },
         "contributors": [
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 112,
+          "totalStars": 113,
           "forks": 6
         },
         "contributors": [
@@ -810,7 +810,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 101,
-          "forks": 39
+          "forks": 40
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/70724239?v=4"
