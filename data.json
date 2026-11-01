@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/01 04:15:22",
+  "lastUpdate": "2026/11/01 05:19:44",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4773,
-          "forks": 1215
+          "totalStars": 4807,
+          "forks": 1222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9844218?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3675,
-          "forks": 181
+          "totalStars": 3723,
+          "forks": 183
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3415,
-          "forks": 311
+          "totalStars": 3635,
+          "forks": 336
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2903,
-          "forks": 464
+          "totalStars": 2952,
+          "forks": 476
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/102038245?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2695,
-          "forks": 211
+          "totalStars": 2723,
+          "forks": 218
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41872026?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1757,
-          "forks": 470
+          "totalStars": 1773,
+          "forks": 472
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133310917?v=4"
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1652,
+          "totalStars": 1655,
           "forks": 4
         },
         "contributors": [
@@ -155,26 +155,6 @@
       },
       {
         "rank": 8,
-        "name": "andyhuo520/digital-human-koubo",
-        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1595,
-          "forks": 365
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/187917479?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "patch-gg/pixelfx",
         "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
         "language": {
@@ -183,14 +163,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1585,
-          "forks": 193
+          "totalStars": 1650,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
         ],
         "tags": [
           "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "andyhuo520/digital-human-koubo",
+        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1599,
+          "forks": 366
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/187917479?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1437,
+          "totalStars": 1443,
           "forks": 118
         },
         "contributors": [
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1305,
+          "totalStars": 1315,
           "forks": 132
         },
         "contributors": [
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 964,
+          "totalStars": 976,
           "forks": 56
         },
         "contributors": [
@@ -285,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 564,
+          "totalStars": 569,
           "forks": 125
         },
         "contributors": [
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 536,
-          "forks": 33
+          "totalStars": 544,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48219470?v=4"
@@ -325,8 +325,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 495,
-          "forks": 59
+          "totalStars": 497,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8006000?v=4"
@@ -345,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 487,
-          "forks": 36
+          "totalStars": 488,
+          "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/194880281?v=4"
@@ -365,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 449,
+          "totalStars": 450,
           "forks": 46
         },
         "contributors": [
@@ -377,6 +377,26 @@
       },
       {
         "rank": 9,
+        "name": "hyz317/HairDeck",
+        "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 380,
+          "forks": 25
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/22991464?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "N1nEmAn/sapper-v2",
         "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
         "language": {
@@ -385,31 +405,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 367,
-          "forks": 321
+          "totalStars": 370,
+          "forks": 329
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118088443?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "oxnw/ai-phone",
-        "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 364,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/13040117?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3675,
-          "forks": 181
+          "totalStars": 3723,
+          "forks": 183
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1585,
-          "forks": 193
+          "totalStars": 1650,
+          "forks": 207
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 935,
-          "forks": 63
+          "totalStars": 955,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348570593?v=4"
@@ -487,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 874,
-          "forks": 222
+          "totalStars": 881,
+          "forks": 223
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319719670?v=4"
@@ -507,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 628,
-          "forks": 42
+          "totalStars": 706,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316605581?v=4"
@@ -519,6 +519,26 @@
       },
       {
         "rank": 6,
+        "name": "elvarofficial/teardown",
+        "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 518,
+          "forks": 86
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/350203459?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "sleepy-zone/ai-ref-library-cn",
         "description": "暂无描述",
         "language": {
@@ -538,26 +558,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Humpalumps/Ultra-Water",
-        "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 502,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/257292434?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 8,
         "name": "NiazMorshed2007/reanimate",
         "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
@@ -567,8 +567,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 497,
-          "forks": 41
+          "totalStars": 507,
+          "forks": 42
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77217706?v=4"
@@ -579,19 +579,19 @@
       },
       {
         "rank": 9,
-        "name": "elvarofficial/teardown",
-        "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "name": "Humpalumps/Ultra-Water",
+        "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
-          "forks": 82
+          "totalStars": 505,
+          "forks": 70
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/350203459?v=4"
+          "https://avatars.githubusercontent.com/u/257292434?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1377,
-          "forks": 177
+          "totalStars": 1400,
+          "forks": 180
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -649,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
+          "totalStars": 457,
           "forks": 39
         },
         "contributors": [
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 355,
+          "totalStars": 358,
           "forks": 231
         },
         "contributors": [
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 321,
+          "totalStars": 325,
           "forks": 14
         },
         "contributors": [
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
+          "totalStars": 309,
           "forks": 6
         },
         "contributors": [
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 219,
+          "totalStars": 221,
           "forks": 12
         },
         "contributors": [
@@ -810,7 +810,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 103,
-          "forks": 70
+          "forks": 73
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/70724239?v=4"
