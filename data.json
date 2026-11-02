@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/02 04:17:35",
+  "lastUpdate": "2026/11/02 05:19:07",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9035,
-          "forks": 913
+          "totalStars": 9228,
+          "forks": 938
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5223,
-          "forks": 1334
+          "totalStars": 5243,
+          "forks": 1336
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9844218?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5032,
-          "forks": 252
+          "totalStars": 5069,
+          "forks": 255
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4193,
-          "forks": 790
+          "totalStars": 4272,
+          "forks": 815
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/102038245?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3298,
-          "forks": 267
+          "totalStars": 3328,
+          "forks": 269
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41872026?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2820,
-          "forks": 369
+          "totalStars": 2859,
+          "forks": 374
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2071,
-          "forks": 252
+          "totalStars": 2089,
+          "forks": 253
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1922,
-          "forks": 500
+          "totalStars": 1930,
+          "forks": 501
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133310917?v=4"
@@ -183,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1860,
-          "forks": 134
+          "totalStars": 1885,
+          "forks": 136
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348570593?v=4"
@@ -203,7 +203,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1703,
+          "totalStars": 1705,
           "forks": 6
         },
         "contributors": [
@@ -225,7 +225,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1285,
+          "totalStars": 1306,
           "forks": 79
         },
         "contributors": [
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 641,
+          "totalStars": 646,
           "forks": 39
         },
         "contributors": [
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 625,
+          "totalStars": 627,
           "forks": 43
         },
         "contributors": [
@@ -277,26 +277,6 @@
       },
       {
         "rank": 4,
-        "name": "caru-ini/stack-diagram",
-        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 544,
-          "forks": 23
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/166897461?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "speridlabs/idol-sdk",
         "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
         "language": {
@@ -305,7 +285,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
+          "totalStars": 519,
           "forks": 39
         },
         "contributors": [
@@ -316,7 +296,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "N1nEmAn/sapper-v2",
         "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
         "language": {
@@ -325,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 512,
-          "forks": 434
+          "totalStars": 515,
+          "forks": 436
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118088443?v=4"
@@ -336,7 +316,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "MiniMax-AI/mcode-stack",
         "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
         "language": {
@@ -356,7 +336,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "patch-gg/anymove",
         "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
         "language": {
@@ -365,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 463,
-          "forks": 47
+          "totalStars": 466,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -376,7 +356,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Pika-Labs/Pika-H3-Flex",
         "description": "Pika H3 Flex: video and audio generation inference",
         "language": {
@@ -396,7 +376,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "oxnw/ai-phone",
         "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
         "language": {
@@ -405,11 +385,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 395,
+          "totalStars": 397,
           "forks": 62
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13040117?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "brainstormity/LightPost",
+        "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 339,
+          "forks": 65
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/240602355?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5032,
-          "forks": 252
+          "totalStars": 5069,
+          "forks": 255
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2820,
-          "forks": 369
+          "totalStars": 2859,
+          "forks": 374
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1860,
-          "forks": 134
+          "totalStars": 1885,
+          "forks": 136
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348570593?v=4"
@@ -479,26 +479,6 @@
       },
       {
         "rank": 4,
-        "name": "HRuiCcc/RuiC-PoseAtlas",
-        "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 991,
-          "forks": 259
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/319719670?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "elvarofficial/teardown",
         "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
         "language": {
@@ -507,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 984,
-          "forks": 161
+          "totalStars": 997,
+          "forks": 165
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -518,27 +498,27 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "NiazMorshed2007/reanimate",
-        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "rank": 5,
+        "name": "HRuiCcc/RuiC-PoseAtlas",
+        "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 751,
-          "forks": 65
+          "totalStars": 996,
+          "forks": 260
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/77217706?v=4"
+          "https://avatars.githubusercontent.com/u/319719670?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "jacke-pp/open-yoki",
         "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
         "language": {
@@ -547,11 +527,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 751,
-          "forks": 49
+          "totalStars": 828,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316605581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "NiazMorshed2007/reanimate",
+        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 752,
+          "forks": 65
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/77217706?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 593,
+          "totalStars": 600,
           "forks": 156
         },
         "contributors": [
@@ -587,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
-          "forks": 75
+          "totalStars": 545,
+          "forks": 76
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257292434?v=4"
@@ -607,8 +607,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
-          "forks": 181
+          "totalStars": 526,
+          "forks": 185
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316774153?v=4"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2071,
-          "forks": 252
+          "totalStars": 2089,
+          "forks": 253
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -649,8 +649,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 504,
-          "forks": 260
+          "totalStars": 506,
+          "forks": 262
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212403118?v=4"
@@ -689,8 +689,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 403,
-          "forks": 22
+          "totalStars": 405,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/339028930?v=4"
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 331,
+          "totalStars": 332,
           "forks": 9
         },
         "contributors": [
@@ -729,8 +729,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
-          "forks": 30
+          "totalStars": 311,
+          "forks": 31
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65777760?v=4"
@@ -749,7 +749,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 242,
+          "totalStars": 244,
           "forks": 13
         },
         "contributors": [
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 150,
+          "totalStars": 152,
           "forks": 3
         },
         "contributors": [
