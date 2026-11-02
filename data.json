@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026/11/01 05:19:44",
+  "lastUpdate": "2026/11/02 04:17:35",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 3,
-      "JavaScript": 2,
+      "TypeScript": 2,
+      "JavaScript": 3,
       "Kotlin": 1,
       "C": 1,
-      "Go": 1,
-      "HTML": 1
+      "C++": 1,
+      "Go": 1
     },
     "starGrowth": {}
   },
@@ -15,6 +15,26 @@
     "All": [
       {
         "rank": 1,
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "description": "Towards a More Autonomous Agent System",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 9035,
+          "forks": 913
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "anhao/ai-pose-gallery-zh",
         "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
         "language": {
@@ -23,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4807,
-          "forks": 1222
+          "totalStars": 5223,
+          "forks": 1334
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/9844218?v=4"
@@ -34,7 +54,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "heydamir/unslop",
         "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
         "language": {
@@ -43,34 +63,14 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3723,
-          "forks": 183
+          "totalStars": 5032,
+          "forks": 252
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
         ],
         "tags": [
           "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "deepseek-ai/dsh-superagent-prototype",
-        "description": "Towards a More Autonomous Agent System",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3635,
-          "forks": 336
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/148330874?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
         ]
       },
       {
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2952,
-          "forks": 476
+          "totalStars": 4193,
+          "forks": 790
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/102038245?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2723,
-          "forks": 218
+          "totalStars": 3298,
+          "forks": 267
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41872026?v=4"
@@ -115,46 +115,6 @@
       },
       {
         "rank": 6,
-        "name": "paipiange/nvzhuang",
-        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-        "language": {
-          "name": "Go",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1773,
-          "forks": 472
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/133310917?v=4"
-        ],
-        "tags": [
-          "#Go"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "aschmelyun/print-my-profile-pic",
-        "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
-        "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1655,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3395980?v=4"
-        ],
-        "tags": [
-          "#Trending"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "patch-gg/pixelfx",
         "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
         "language": {
@@ -163,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1650,
-          "forks": 207
+          "totalStars": 2820,
+          "forks": 369
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -174,89 +134,89 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "andyhuo520/digital-human-koubo",
-        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "rank": 7,
+        "name": "Djihads80/Eglantine",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
         "language": {
-          "name": "TypeScript",
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2071,
+          "forks": 252
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76681596?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "paipiange/nvzhuang",
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "language": {
+          "name": "Go",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1599,
-          "forks": 366
+          "totalStars": 1922,
+          "forks": 500
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/187917479?v=4"
+          "https://avatars.githubusercontent.com/u/133310917?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Go"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "haydenschmitty/floorplan",
+        "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1860,
+          "forks": 134
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/348570593?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       },
       {
         "rank": 10,
-        "name": "lexifina/global-law",
-        "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+        "name": "aschmelyun/print-my-profile-pic",
+        "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
         "language": {
-          "name": "HTML",
+          "name": "Unknown",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1443,
-          "forks": 118
+          "totalStars": 1703,
+          "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/217036878?v=4"
+          "https://avatars.githubusercontent.com/u/3395980?v=4"
         ],
         "tags": [
-          "#HTML"
+          "#Trending"
         ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "Motionsites-AI/claude-skill",
-        "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1315,
-          "forks": 132
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/348156401?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "deepopen-com/deepopen-3d-webs",
-        "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1131,
-          "forks": 111
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/331844194?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "BryceYuuu/RUN",
         "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
         "language": {
@@ -265,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 976,
-          "forks": 56
+          "totalStars": 1285,
+          "forks": 79
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153735320?v=4"
@@ -276,27 +236,27 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "konlu/story-studio",
-        "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+        "rank": 2,
+        "name": "hyz317/HairDeck",
+        "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 569,
-          "forks": 125
+          "totalStars": 641,
+          "forks": 39
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/198685879?v=4"
+          "https://avatars.githubusercontent.com/u/22991464?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "ramenvr/autopilot",
         "description": "Play any game",
         "language": {
@@ -305,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 544,
-          "forks": 34
+          "totalStars": 625,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48219470?v=4"
@@ -316,20 +276,60 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "toyxyz/toyxyz_RGBMocap",
-        "description": "Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.",
+        "rank": 4,
+        "name": "caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 497,
-          "forks": 60
+          "totalStars": 544,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/8006000?v=4"
+          "https://avatars.githubusercontent.com/u/166897461?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "speridlabs/idol-sdk",
+        "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 518,
+          "forks": 39
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207595948?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "N1nEmAn/sapper-v2",
+        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 512,
+          "forks": 434
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118088443?v=4"
         ],
         "tags": [
           "#Python"
@@ -345,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 488,
-          "forks": 37
+          "totalStars": 501,
+          "forks": 39
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/194880281?v=4"
@@ -365,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 450,
-          "forks": 46
+          "totalStars": 463,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -377,19 +377,19 @@
       },
       {
         "rank": 9,
-        "name": "hyz317/HairDeck",
-        "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+        "name": "Pika-Labs/Pika-H3-Flex",
+        "description": "Pika H3 Flex: video and audio generation inference",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 380,
-          "forks": 25
+          "totalStars": 454,
+          "forks": 23
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/22991464?v=4"
+          "https://avatars.githubusercontent.com/u/272671295?v=4"
         ],
         "tags": [
           "#Python"
@@ -397,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "N1nEmAn/sapper-v2",
-        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "name": "oxnw/ai-phone",
+        "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 370,
-          "forks": 329
+          "totalStars": 395,
+          "forks": 62
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/118088443?v=4"
+          "https://avatars.githubusercontent.com/u/13040117?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3723,
-          "forks": 183
+          "totalStars": 5032,
+          "forks": 252
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1650,
-          "forks": 207
+          "totalStars": 2820,
+          "forks": 369
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -467,8 +467,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 955,
-          "forks": 68
+          "totalStars": 1860,
+          "forks": 134
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348570593?v=4"
@@ -487,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 881,
-          "forks": 223
+          "totalStars": 991,
+          "forks": 259
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319719670?v=4"
@@ -499,26 +499,6 @@
       },
       {
         "rank": 5,
-        "name": "jacke-pp/open-yoki",
-        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 706,
-          "forks": 43
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/316605581?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "elvarofficial/teardown",
         "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
         "language": {
@@ -527,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 518,
-          "forks": 86
+          "totalStars": 984,
+          "forks": 161
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -538,27 +518,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "sleepy-zone/ai-ref-library-cn",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 512,
-          "forks": 138
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/131369648?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "name": "NiazMorshed2007/reanimate",
         "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
         "language": {
@@ -567,11 +527,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 507,
-          "forks": 42
+          "totalStars": 751,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/77217706?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "jacke-pp/open-yoki",
+        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 751,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/316605581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "sleepy-zone/ai-ref-library-cn",
+        "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 593,
+          "forks": 156
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/131369648?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -587,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 505,
-          "forks": 70
+          "totalStars": 542,
+          "forks": 75
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257292434?v=4"
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "Balanov/svoi",
-        "description": "Free local-first Windows companion for job search and everyday work, with editable responses.",
+        "name": "Centiplatrap/pc-game-fps-doctor",
+        "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 377,
-          "forks": 0
+          "totalStars": 518,
+          "forks": 181
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29678847?v=4"
+          "https://avatars.githubusercontent.com/u/316774153?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1400,
-          "forks": 180
+          "totalStars": 2071,
+          "forks": 252
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -641,26 +641,6 @@
       },
       {
         "rank": 2,
-        "name": "NotRexed/SkyboundTotk",
-        "description": "暂无描述",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 457,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/179062254?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "cutetailbud/ff-ruyijs",
         "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
         "language": {
@@ -669,11 +649,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
-          "forks": 231
+          "totalStars": 504,
+          "forks": 260
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212403118?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "NotRexed/SkyboundTotk",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 470,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/179062254?v=4"
         ],
         "tags": [
           "#C++"
@@ -689,8 +689,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 325,
-          "forks": 14
+          "totalStars": 403,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/339028930?v=4"
@@ -709,8 +709,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
-          "forks": 6
+          "totalStars": 331,
+          "forks": 9
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343598286?v=4"
@@ -721,6 +721,26 @@
       },
       {
         "rank": 6,
+        "name": "zortos293/Eglantine",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 305,
+          "forks": 30
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/65777760?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "Villagers654/Venture",
         "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
         "language": {
@@ -729,31 +749,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
-          "forks": 12
+          "totalStars": 242,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/110007851?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "velkajelka/ableton-linux",
-        "description": "Native Ableton Live for Linux",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 126,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/18194091?v=4"
         ],
         "tags": [
           "#C++"
@@ -769,7 +769,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 150,
           "forks": 3
         },
         "contributors": [
@@ -781,19 +781,19 @@
       },
       {
         "rank": 9,
-        "name": "CrossCommissioner/CrystalDiskMark-Portable",
-        "description": "CrystalDiskMark Portable – pre‑packaged, password‑protected portable edition of the industry‑standard disk benchmark. Fast, reliable, zero‑install. For Windows 10/11.",
+        "name": "mstlvc/Radiance",
+        "description": "Digital vibrance, colour, resolution and DDC/CI monitor control for Windows - a native C++ / Dear ImGui tray app with per-game profiles.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 105,
-          "forks": 0
+          "totalStars": 130,
+          "forks": 22
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/320026221?v=4"
+          "https://avatars.githubusercontent.com/u/207450216?v=4"
         ],
         "tags": [
           "#C++"
@@ -801,19 +801,19 @@
       },
       {
         "rank": 10,
-        "name": "ShadyHero/Eden-NS2",
-        "description": "please refer to https://github.com/0x2593/Eden-NS2 for updates and detailed instructions",
+        "name": "velkajelka/ableton-linux",
+        "description": "Native Ableton Live for Linux",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 103,
-          "forks": 73
+          "totalStars": 128,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/70724239?v=4"
+          "https://avatars.githubusercontent.com/u/18194091?v=4"
         ],
         "tags": [
           "#C++"
