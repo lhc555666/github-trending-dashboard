@@ -1,13 +1,16 @@
 {
-  "lastUpdate": "2026/11/02 05:19:07",
+  "lastUpdate": "2026/11/03 05:15:30",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 2,
-      "JavaScript": 3,
+      "TypeScript": 1,
+      "JavaScript": 2,
       "Kotlin": 1,
+      "Rust": 1,
       "C": 1,
       "C++": 1,
-      "Go": 1
+      "Go": 1,
+      "Python": 1,
+      "HTML": 1
     },
     "starGrowth": {}
   },
@@ -23,8 +26,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9228,
-          "forks": 938
+          "totalStars": 14141,
+          "forks": 1504
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -35,26 +38,6 @@
       },
       {
         "rank": 2,
-        "name": "anhao/ai-pose-gallery-zh",
-        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 5243,
-          "forks": 1336
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/9844218?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "heydamir/unslop",
         "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
         "language": {
@@ -63,8 +46,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5069,
-          "forks": 255
+          "totalStars": 6496,
+          "forks": 332
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -74,7 +57,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "wangzan101/Mika",
         "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
         "language": {
@@ -83,8 +66,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4272,
-          "forks": 815
+          "totalStars": 5557,
+          "forks": 1080
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/102038245?v=4"
@@ -94,17 +77,37 @@
         ]
       },
       {
+        "rank": 4,
+        "name": "storytold/craft-anything",
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 5015,
+          "forks": 830
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76897702?v=4"
+        ],
+        "tags": [
+          "#Rust"
+        ]
+      },
+      {
         "rank": 5,
         "name": "valentderah/totk-pc-recomp",
-        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
         "language": {
           "name": "C",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3328,
-          "forks": 269
+          "totalStars": 4121,
+          "forks": 332
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41872026?v=4"
@@ -123,8 +126,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2859,
-          "forks": 374
+          "totalStars": 3642,
+          "forks": 495
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -143,8 +146,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2089,
-          "forks": 253
+          "totalStars": 2619,
+          "forks": 306
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -163,8 +166,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1930,
-          "forks": 501
+          "totalStars": 2063,
+          "forks": 527
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133310917?v=4"
@@ -175,42 +178,42 @@
       },
       {
         "rank": 9,
-        "name": "haydenschmitty/floorplan",
-        "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+        "name": "BryceYuuu/RUN",
+        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
         "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1885,
-          "forks": 136
+          "totalStars": 1856,
+          "forks": 128
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/348570593?v=4"
+          "https://avatars.githubusercontent.com/u/153735320?v=4"
         ],
         "tags": [
-          "#JavaScript"
+          "#Python"
         ]
       },
       {
         "rank": 10,
-        "name": "aschmelyun/print-my-profile-pic",
-        "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+        "name": "lexifina/global-law",
+        "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
         "language": {
-          "name": "Unknown",
+          "name": "HTML",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1705,
-          "forks": 6
+          "totalStars": 1711,
+          "forks": 156
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3395980?v=4"
+          "https://avatars.githubusercontent.com/u/217036878?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#HTML"
         ]
       }
     ],
@@ -225,8 +228,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1306,
-          "forks": 79
+          "totalStars": 1856,
+          "forks": 128
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153735320?v=4"
@@ -245,8 +248,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 646,
-          "forks": 39
+          "totalStars": 750,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/22991464?v=4"
@@ -265,8 +268,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 627,
-          "forks": 43
+          "totalStars": 672,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48219470?v=4"
@@ -285,8 +288,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 519,
-          "forks": 39
+          "totalStars": 657,
+          "forks": 52
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/207595948?v=4"
@@ -305,8 +308,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 515,
-          "forks": 436
+          "totalStars": 630,
+          "forks": 497
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118088443?v=4"
@@ -317,19 +320,19 @@
       },
       {
         "rank": 6,
-        "name": "MiniMax-AI/mcode-stack",
-        "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+        "name": "AssassinCreator/steam-stash-value-report-card",
+        "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 501,
-          "forks": 39
+          "totalStars": 630,
+          "forks": 55
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/194880281?v=4"
+          "https://avatars.githubusercontent.com/u/316880408?v=4"
         ],
         "tags": [
           "#Python"
@@ -337,26 +340,6 @@
       },
       {
         "rank": 7,
-        "name": "patch-gg/anymove",
-        "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 466,
-          "forks": 48
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/337959018?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "Pika-Labs/Pika-H3-Flex",
         "description": "Pika H3 Flex: video and audio generation inference",
         "language": {
@@ -365,7 +348,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 454,
+          "totalStars": 598,
           "forks": 23
         },
         "contributors": [
@@ -376,27 +359,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "oxnw/ai-phone",
-        "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
+        "rank": 8,
+        "name": "MiniMax-AI/mcode-stack",
+        "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 62
+          "totalStars": 514,
+          "forks": 40
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/13040117?v=4"
+          "https://avatars.githubusercontent.com/u/194880281?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "brainstormity/LightPost",
         "description": "A lightweight system to automate posting to all of your socials from one dashboard",
         "language": {
@@ -405,11 +388,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 339,
+          "totalStars": 351,
           "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/240602355?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "wquguru/shisei",
+        "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 347,
+          "forks": 70
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/209866177?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +430,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5069,
-          "forks": 255
+          "totalStars": 6496,
+          "forks": 332
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/97800728?v=4"
@@ -447,8 +450,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2859,
-          "forks": 374
+          "totalStars": 3642,
+          "forks": 495
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -459,26 +462,6 @@
       },
       {
         "rank": 3,
-        "name": "haydenschmitty/floorplan",
-        "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1885,
-          "forks": 136
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/348570593?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "elvarofficial/teardown",
         "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
         "language": {
@@ -487,8 +470,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 997,
-          "forks": 165
+          "totalStars": 1342,
+          "forks": 204
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -498,7 +481,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "HRuiCcc/RuiC-PoseAtlas",
         "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
         "language": {
@@ -507,11 +490,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 996,
-          "forks": 260
+          "totalStars": 1080,
+          "forks": 270
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/319719670?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "NiazMorshed2007/reanimate",
+        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 980,
+          "forks": 96
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/77217706?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -527,8 +530,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 828,
-          "forks": 51
+          "totalStars": 950,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316605581?v=4"
@@ -539,26 +542,6 @@
       },
       {
         "rank": 7,
-        "name": "NiazMorshed2007/reanimate",
-        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 752,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/77217706?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "sleepy-zone/ai-ref-library-cn",
         "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
         "language": {
@@ -567,8 +550,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 600,
-          "forks": 156
+          "totalStars": 679,
+          "forks": 171
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/131369648?v=4"
@@ -578,17 +561,37 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Humpalumps/Ultra-Water",
-        "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 200+ fps",
+        "rank": 8,
+        "name": "Centiplatrap/pc-game-fps-doctor",
+        "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 545,
-          "forks": 76
+          "totalStars": 607,
+          "forks": 222
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/316774153?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Humpalumps/Ultra-Water",
+        "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 589,
+          "forks": 80
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/257292434?v=4"
@@ -599,19 +602,19 @@
       },
       {
         "rank": 10,
-        "name": "Centiplatrap/pc-game-fps-doctor",
-        "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+        "name": "Gezine/CivSwitch",
+        "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 526,
-          "forks": 185
+          "totalStars": 498,
+          "forks": 104
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/316774153?v=4"
+          "https://avatars.githubusercontent.com/u/30000519?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +632,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2089,
-          "forks": 253
+          "totalStars": 2619,
+          "forks": 306
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -642,15 +645,15 @@
       {
         "rank": 2,
         "name": "cutetailbud/ff-ruyijs",
-        "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+        "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 506,
-          "forks": 262
+          "totalStars": 631,
+          "forks": 282
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212403118?v=4"
@@ -661,19 +664,19 @@
       },
       {
         "rank": 3,
-        "name": "NotRexed/SkyboundTotk",
-        "description": "暂无描述",
+        "name": "zortos293/Eglantine",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 470,
-          "forks": 42
+          "totalStars": 479,
+          "forks": 45
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/179062254?v=4"
+          "https://avatars.githubusercontent.com/u/65777760?v=4"
         ],
         "tags": [
           "#C++"
@@ -689,8 +692,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 405,
-          "forks": 23
+          "totalStars": 442,
+          "forks": 25
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/339028930?v=4"
@@ -701,66 +704,6 @@
       },
       {
         "rank": 5,
-        "name": "Shagg88/COGBox",
-        "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 332,
-          "forks": 9
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/343598286?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "zortos293/Eglantine",
-        "description": "VERY experimental Nintendo Switch 2 emulator",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 311,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/65777760?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Villagers654/Venture",
-        "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 244,
-          "forks": 13
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/110007851?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "gminustwo/msr2ds",
         "description": "Metroid: Samus Returns as a single-screen PC game, built on the Azahar 3DS emulator. Bring your own dump.",
         "language": {
@@ -769,8 +712,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 152,
-          "forks": 3
+          "totalStars": 187,
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/347583672?v=4"
@@ -780,20 +723,80 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "mstlvc/Radiance",
-        "description": "Digital vibrance, colour, resolution and DDC/CI monitor control for Windows - a native C++ / Dear ImGui tray app with per-game profiles.",
+        "rank": 6,
+        "name": "ravencaio/tlou-remastered-pc",
+        "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 130,
-          "forks": 22
+          "totalStars": 168,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/207450216?v=4"
+          "https://avatars.githubusercontent.com/u/69921724?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "robertnisipeanu/idrive-apps",
+        "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 140,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/16354517?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "momusdigital/fnv_decomp",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 137,
+          "forks": 19
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/345077781?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "heydemoura/EglantinePS5",
+        "description": "VERY experimental Nintendo Switch 2 emulator port for PS5",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 135,
+          "forks": 55
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/5550190?v=4"
         ],
         "tags": [
           "#C++"
@@ -809,7 +812,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 128,
+          "totalStars": 134,
           "forks": 7
         },
         "contributors": [
