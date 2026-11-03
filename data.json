@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/03 05:15:30",
+  "lastUpdate": "2026/11/03 05:59:10",
   "charts": {
     "languageDistribution": {
       "TypeScript": 1,
@@ -26,8 +26,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 14141,
-          "forks": 1504
+          "totalStars": 14275,
+          "forks": 1525
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -46,7 +46,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6496,
+          "totalStars": 6523,
           "forks": 332
         },
         "contributors": [
@@ -66,8 +66,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5557,
-          "forks": 1080
+          "totalStars": 5589,
+          "forks": 1088
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/102038245?v=4"
@@ -86,8 +86,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5015,
-          "forks": 830
+          "totalStars": 5092,
+          "forks": 840
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -106,7 +106,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4121,
+          "totalStars": 4132,
           "forks": 332
         },
         "contributors": [
@@ -126,8 +126,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3642,
-          "forks": 495
+          "totalStars": 3658,
+          "forks": 497
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -146,8 +146,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2619,
-          "forks": 306
+          "totalStars": 2631,
+          "forks": 308
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -166,8 +166,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2063,
-          "forks": 527
+          "totalStars": 2067,
+          "forks": 529
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/133310917?v=4"
@@ -186,8 +186,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1856,
-          "forks": 128
+          "totalStars": 1948,
+          "forks": 134
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153735320?v=4"
@@ -206,7 +206,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1711,
+          "totalStars": 1715,
           "forks": 156
         },
         "contributors": [
@@ -228,8 +228,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1856,
-          "forks": 128
+          "totalStars": 1948,
+          "forks": 134
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153735320?v=4"
@@ -248,7 +248,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 750,
+          "totalStars": 751,
           "forks": 49
         },
         "contributors": [
@@ -268,7 +268,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 672,
+          "totalStars": 673,
           "forks": 48
         },
         "contributors": [
@@ -288,7 +288,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 657,
+          "totalStars": 659,
           "forks": 52
         },
         "contributors": [
@@ -300,26 +300,6 @@
       },
       {
         "rank": 5,
-        "name": "N1nEmAn/sapper-v2",
-        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 630,
-          "forks": 497
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/118088443?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "AssassinCreator/steam-stash-value-report-card",
         "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
         "language": {
@@ -328,11 +308,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 630,
+          "totalStars": 637,
           "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316880408?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "N1nEmAn/sapper-v2",
+        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 634,
+          "forks": 499
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118088443?v=4"
         ],
         "tags": [
           "#Python"
@@ -380,19 +380,19 @@
       },
       {
         "rank": 9,
-        "name": "brainstormity/LightPost",
-        "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+        "name": "RikiyaT/lm_understand-logs",
+        "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 351,
-          "forks": 65
+          "totalStars": 358,
+          "forks": 41
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/240602355?v=4"
+          "https://avatars.githubusercontent.com/u/122655264?v=4"
         ],
         "tags": [
           "#Python"
@@ -408,8 +408,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 347,
-          "forks": 70
+          "totalStars": 351,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/209866177?v=4"
@@ -430,7 +430,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6496,
+          "totalStars": 6523,
           "forks": 332
         },
         "contributors": [
@@ -450,8 +450,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3642,
-          "forks": 495
+          "totalStars": 3658,
+          "forks": 497
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -470,8 +470,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1342,
-          "forks": 204
+          "totalStars": 1350,
+          "forks": 206
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -490,7 +490,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1080,
+          "totalStars": 1084,
           "forks": 270
         },
         "contributors": [
@@ -510,7 +510,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 980,
+          "totalStars": 982,
           "forks": 96
         },
         "contributors": [
@@ -550,7 +550,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 679,
+          "totalStars": 680,
           "forks": 171
         },
         "contributors": [
@@ -571,7 +571,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 607,
-          "forks": 222
+          "forks": 224
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/316774153?v=4"
@@ -610,7 +610,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 498,
+          "totalStars": 502,
           "forks": 104
         },
         "contributors": [
@@ -632,8 +632,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2619,
-          "forks": 306
+          "totalStars": 2631,
+          "forks": 308
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76681596?v=4"
@@ -652,7 +652,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 631,
+          "totalStars": 635,
           "forks": 282
         },
         "contributors": [
@@ -672,8 +672,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
-          "forks": 45
+          "totalStars": 484,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65777760?v=4"
@@ -692,7 +692,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
+          "totalStars": 443,
           "forks": 25
         },
         "contributors": [
@@ -732,8 +732,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 4
+          "totalStars": 170,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/69921724?v=4"
@@ -772,7 +772,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 137,
+          "totalStars": 139,
           "forks": 19
         },
         "contributors": [
