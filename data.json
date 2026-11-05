@@ -1,15 +1,13 @@
 {
-  "lastUpdate": "2026/11/04 05:38:44",
+  "lastUpdate": "2026/11/05 04:59:51",
   "charts": {
     "languageDistribution": {
-      "TypeScript": 1,
+      "TypeScript": 4,
       "Rust": 1,
       "JavaScript": 2,
-      "Kotlin": 2,
-      "C": 1,
-      "Python": 1,
-      "C++": 1,
-      "Go": 1
+      "Kotlin": 1,
+      "Swift": 1,
+      "PowerShell": 1
     },
     "starGrowth": {}
   },
@@ -25,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 17400,
-          "forks": 1884
+          "totalStars": 18788,
+          "forks": 2108
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -45,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 9072,
-          "forks": 1502
+          "totalStars": 12620,
+          "forks": 2114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -57,66 +55,6 @@
       },
       {
         "rank": 3,
-        "name": "heydamir/unslop",
-        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 7696,
-          "forks": 385
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97800728?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "wangzan101/Mika",
-        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-        "language": {
-          "name": "Kotlin",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 6182,
-          "forks": 1201
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/102038245?v=4"
-        ],
-        "tags": [
-          "#Kotlin"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "valentderah/totk-pc-recomp",
-        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 4585,
-          "forks": 368
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41872026?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "patch-gg/pixelfx",
         "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
         "language": {
@@ -125,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4248,
-          "forks": 573
+          "totalStars": 4832,
+          "forks": 645
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -136,67 +74,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "BryceYuuu/RUN",
-        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "rank": 4,
+        "name": "KKKKhazix/agent-autoloop",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3256,
-          "forks": 240
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/153735320?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Djihads80/Eglantine",
-        "description": "VERY experimental Nintendo Switch 2 emulator",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3138,
-          "forks": 361
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76681596?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "paipiange/nvzhuang",
-        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-        "language": {
-          "name": "Go",
+          "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2142,
-          "forks": 549
+          "totalStars": 2747,
+          "forks": 536
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/133310917?v=4"
+          "https://avatars.githubusercontent.com/u/239590580?v=4"
         ],
         "tags": [
-          "#Go"
+          "#TypeScript"
         ]
       },
       {
-        "rank": 10,
+        "rank": 5,
         "name": "Verlintas/NOIR",
         "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
         "language": {
@@ -205,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1826,
-          "forks": 140
+          "totalStars": 2152,
+          "forks": 184
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310443301?v=4"
@@ -214,24 +112,124 @@
         "tags": [
           "#Kotlin"
         ]
+      },
+      {
+        "rank": 6,
+        "name": "elvarofficial/teardown",
+        "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1951,
+          "forks": 302
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/350203459?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1774,
+          "forks": 81
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/166897461?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "govijr/terminal-mac",
+        "description": "Entire MacOS running in your terminal.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1644,
+          "forks": 98
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/111436589?v=4"
+        ],
+        "tags": [
+          "#Swift"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1557,
+          "forks": 350
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/233344575?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Arjun-Ingole/hop",
+        "description": "Install Linux next to Windows without a USB stick",
+        "language": {
+          "name": "PowerShell",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1515,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/80504466?v=4"
+        ],
+        "tags": [
+          "#PowerShell"
+        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "BryceYuuu/RUN",
-        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "name": "N1nEmAn/sapper-v2",
+        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3256,
-          "forks": 240
+          "totalStars": 929,
+          "forks": 618
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/153735320?v=4"
+          "https://avatars.githubusercontent.com/u/118088443?v=4"
         ],
         "tags": [
           "#Python"
@@ -239,19 +237,19 @@
       },
       {
         "rank": 2,
-        "name": "Pika-Labs/Pika-H3-Flex",
-        "description": "Pika H3 Flex: video and audio generation inference",
+        "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1395,
-          "forks": 29
+          "totalStars": 916,
+          "forks": 555
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/272671295?v=4"
+          "https://avatars.githubusercontent.com/u/85034342?v=4"
         ],
         "tags": [
           "#Python"
@@ -259,46 +257,6 @@
       },
       {
         "rank": 3,
-        "name": "hyz317/HairDeck",
-        "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 787,
-          "forks": 53
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/22991464?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "RikiyaT/lm_understand-logs",
-        "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 783,
-          "forks": 96
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/122655264?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "AssassinCreator/steam-stash-value-report-card",
         "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
         "language": {
@@ -307,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 711,
+          "totalStars": 760,
           "forks": 57
         },
         "contributors": [
@@ -318,7 +276,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "ramenvr/autopilot",
         "description": "Play any game",
         "language": {
@@ -327,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 693,
-          "forks": 55
+          "totalStars": 718,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48219470?v=4"
@@ -338,27 +296,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "N1nEmAn/sapper-v2",
-        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 674,
-          "forks": 528
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/118088443?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "smarkyie/NSP-Box",
         "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
         "language": {
@@ -367,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 424,
-          "forks": 31
+          "totalStars": 469,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/68492368?v=4"
@@ -378,20 +316,80 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "wquguru/shisei",
-        "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+        "rank": 6,
+        "name": "aa1143/NamiAgent",
+        "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
-          "forks": 85
+          "totalStars": 350,
+          "forks": 35
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/209866177?v=4"
+          "https://avatars.githubusercontent.com/u/5190483?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "apekshik/anyscene",
+        "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 312,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/46071272?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "mofan6/Moect",
+        "description": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter & backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导出、批量任务、消息搜索及时间筛选，提供一键安装包。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 307,
+          "forks": 60
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/88974174?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
+        "description": "Powerful FPS Optimizer for all games. Increase frame rate, reduce lag and stutters with one-click profiles. Clean interface, fully reversible, easy to use.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 301,
+          "forks": 298
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/341864736?v=4"
         ],
         "tags": [
           "#Python"
@@ -399,19 +397,19 @@
       },
       {
         "rank": 10,
-        "name": "soimy/c3rb3r-rescue",
-        "description": "Evidence-based DSM ransomware recovery: preservation, RAM key recovery, copy decryption, and GitLab validation.",
+        "name": "SplendorHornbill/windows-animated-wallpapers",
+        "description": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
-          "forks": 33
+          "totalStars": 301,
+          "forks": 278
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/1550237?v=4"
+          "https://avatars.githubusercontent.com/u/341906841?v=4"
         ],
         "tags": [
           "#Python"
@@ -421,26 +419,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "heydamir/unslop",
-        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 7696,
-          "forks": 385
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/97800728?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "patch-gg/pixelfx",
         "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
         "language": {
@@ -449,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4248,
-          "forks": 573
+          "totalStars": 4832,
+          "forks": 645
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -460,7 +438,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "elvarofficial/teardown",
         "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
         "language": {
@@ -469,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1712,
-          "forks": 257
+          "totalStars": 1951,
+          "forks": 302
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -480,20 +458,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "NiazMorshed2007/reanimate",
-        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "rank": 3,
+        "name": "UncensoredLabs/uncensored-ai-api",
+        "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1117,
-          "forks": 106
+          "totalStars": 719,
+          "forks": 51
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/77217706?v=4"
+          "https://avatars.githubusercontent.com/u/351208728?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "brightsongwrath/personal-data-deletor-osint",
+        "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 598,
+          "forks": 102
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/317165612?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -501,26 +499,6 @@
       },
       {
         "rank": 5,
-        "name": "sleepy-zone/ai-ref-library-cn",
-        "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 704,
-          "forks": 176
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/131369648?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Gezine/CivSwitch",
         "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
         "language": {
@@ -529,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 555,
-          "forks": 116
+          "totalStars": 587,
+          "forks": 119
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30000519?v=4"
@@ -540,7 +518,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "yetone/alma-relay",
         "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
         "language": {
@@ -549,8 +527,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 441,
-          "forks": 49
+          "totalStars": 455,
+          "forks": 54
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1206493?v=4"
@@ -560,7 +538,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "0xCodez/DuoDesk",
         "description": "All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0",
         "language": {
@@ -569,11 +547,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 413,
-          "forks": 68
+          "totalStars": 445,
+          "forks": 70
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/329118438?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "PatchBuilderAmplify/stolen-crypto-tracer",
+        "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 401,
+          "forks": 40
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/317164659?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -589,8 +587,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 388,
-          "forks": 101
+          "totalStars": 394,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/94058511?v=4"
@@ -601,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "sleepy-zone/char-db-cn",
-        "description": "二次元角色换装库 · 中文版（发型 / 服装 / 姿势 / 组装）",
+        "name": "artemnovitckii/claude-animation-skills",
+        "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 353,
-          "forks": 51
+          "totalStars": 384,
+          "forks": 50
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/131369648?v=4"
+          "https://avatars.githubusercontent.com/u/52527600?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -623,26 +621,6 @@
     "C++": [
       {
         "rank": 1,
-        "name": "Djihads80/Eglantine",
-        "description": "VERY experimental Nintendo Switch 2 emulator",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3138,
-          "forks": 361
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/76681596?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "zortos293/Lichii",
         "description": "VERY experimental Nintendo Switch 2 emulator",
         "language": {
@@ -651,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 627,
-          "forks": 54
+          "totalStars": 983,
+          "forks": 118
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65777760?v=4"
@@ -662,7 +640,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "gothamor/gta-vcs-recomp",
         "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
         "language": {
@@ -671,7 +649,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 469,
+          "totalStars": 487,
           "forks": 27
         },
         "contributors": [
@@ -682,20 +660,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "drakolordx7/pokopia-recomp",
-        "description": "Pokémon Pokopia (Switch 2) recompiled to run natively on Windows.",
+        "rank": 3,
+        "name": "drakolordx7/switch2-recomp",
+        "description": "Nintendo Switch 2 games recompiled to run natively on PC. Pokémon Pokopia is playable now.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 311,
-          "forks": 26
+          "totalStars": 397,
+          "forks": 33
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98249188?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "ravencaio/tlou-remastered-pc",
+        "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 238,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/69921724?v=4"
         ],
         "tags": [
           "#C++"
@@ -711,8 +709,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
-          "forks": 40
+          "totalStars": 238,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/345077781?v=4"
@@ -723,66 +721,6 @@
       },
       {
         "rank": 6,
-        "name": "gminustwo/msr2ds",
-        "description": "Metroid: Samus Returns as a single-screen PC game, built on the Azahar 3DS emulator. Bring your own dump.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 216,
-          "forks": 6
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/347583672?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "ravencaio/tlou-remastered-pc",
-        "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 211,
-          "forks": 7
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/69921724?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "xFractals/pokopia-native",
-        "description": "Build Pokémon Pokopia (Switch 2) into a native Mac app and iPhone app from your own dump. Tools only; no game content.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 205,
-          "forks": 27
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/351408713?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "robertnisipeanu/idrive-apps",
         "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
         "language": {
@@ -791,8 +729,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 178,
-          "forks": 39
+          "totalStars": 213,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16354517?v=4"
@@ -802,20 +740,80 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "heydemoura/EglantinePS5",
-        "description": "VERY experimental Nintendo Switch 2 emulator port for PS5",
+        "rank": 7,
+        "name": "Tahirhayyat/frp-unlock-tool-desktop",
+        "description": "Standalone desktop setup for Frp start Tool 2026 with full feature access and ready-to-run installat",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
-          "forks": 77
+          "totalStars": 193,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/5550190?v=4"
+          "https://avatars.githubusercontent.com/u/155419191?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "sumeraaly1-arch/wondshare-recoverit-desktop",
+        "description": "Wondshare Recoverit: Desktop Data Recovery Software with Complete Installer",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 193,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/276925417?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "ailihfgf/catia-cad-desktop",
+        "description": "Catia Cad 2026: Complete Standalone Desktop CAD Suite with All Features Enabled",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 193,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/223670587?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "LampvertOriginal/designcenter-nx-desktop",
+        "description": "Designcenter-NX: Full-Featured Desktop Installer for Immediate Deployment",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 193,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/207653472?v=4"
         ],
         "tags": [
           "#C++"
