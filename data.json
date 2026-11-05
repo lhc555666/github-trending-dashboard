@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/05 04:59:51",
+  "lastUpdate": "2026/11/05 05:56:41",
   "charts": {
     "languageDistribution": {
       "TypeScript": 4,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 18788,
-          "forks": 2108
+          "totalStars": 18822,
+          "forks": 2112
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 12620,
-          "forks": 2114
+          "totalStars": 12783,
+          "forks": 2139
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/76897702?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4832,
-          "forks": 645
+          "totalStars": 4853,
+          "forks": 651
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2747,
-          "forks": 536
+          "totalStars": 2786,
+          "forks": 539
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2152,
-          "forks": 184
+          "totalStars": 2175,
+          "forks": 187
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/310443301?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1951,
-          "forks": 302
+          "totalStars": 1960,
+          "forks": 304
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -143,7 +143,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1774,
+          "totalStars": 1780,
           "forks": 81
         },
         "contributors": [
@@ -163,8 +163,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1644,
-          "forks": 98
+          "totalStars": 1670,
+          "forks": 99
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/111436589?v=4"
@@ -183,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1557,
-          "forks": 350
+          "totalStars": 1568,
+          "forks": 353
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/233344575?v=4"
@@ -217,26 +217,6 @@
     "Python": [
       {
         "rank": 1,
-        "name": "N1nEmAn/sapper-v2",
-        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 929,
-          "forks": 618
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/118088443?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
         "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
         "language": {
@@ -245,11 +225,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 916,
-          "forks": 555
+          "totalStars": 991,
+          "forks": 580
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85034342?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "N1nEmAn/sapper-v2",
+        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 960,
+          "forks": 627
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/118088443?v=4"
         ],
         "tags": [
           "#Python"
@@ -265,7 +265,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 760,
+          "totalStars": 765,
           "forks": 57
         },
         "contributors": [
@@ -285,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 718,
-          "forks": 59
+          "totalStars": 719,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/48219470?v=4"
@@ -317,6 +317,26 @@
       },
       {
         "rank": 6,
+        "name": "dragonwolfshovel/youtube-uploader",
+        "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 425,
+          "forks": 15
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/341907020?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "aa1143/NamiAgent",
         "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
         "language": {
@@ -325,7 +345,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 350,
+          "totalStars": 354,
           "forks": 35
         },
         "contributors": [
@@ -336,7 +356,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "apekshik/anyscene",
         "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
         "language": {
@@ -345,7 +365,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
+          "totalStars": 313,
           "forks": 35
         },
         "contributors": [
@@ -356,7 +376,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "mofan6/Moect",
         "description": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter & backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导出、批量任务、消息搜索及时间筛选，提供一键安装包。",
         "language": {
@@ -365,8 +385,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 307,
-          "forks": 60
+          "totalStars": 311,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88974174?v=4"
@@ -376,40 +396,20 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
-        "description": "Powerful FPS Optimizer for all games. Increase frame rate, reduce lag and stutters with one-click profiles. Clean interface, fully reversible, easy to use.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 301,
-          "forks": 298
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/341864736?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 10,
-        "name": "SplendorHornbill/windows-animated-wallpapers",
-        "description": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
+        "name": "sarpstar/cinecode",
+        "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 301,
-          "forks": 278
+          "totalStars": 310,
+          "forks": 49
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341906841?v=4"
+          "https://avatars.githubusercontent.com/u/56429320?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4832,
-          "forks": 645
+          "totalStars": 4853,
+          "forks": 651
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337959018?v=4"
@@ -447,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1951,
-          "forks": 302
+          "totalStars": 1960,
+          "forks": 304
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/350203459?v=4"
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 719,
+          "totalStars": 734,
           "forks": 51
         },
         "contributors": [
@@ -487,8 +487,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 598,
-          "forks": 102
+          "totalStars": 605,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/317165612?v=4"
@@ -507,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 587,
-          "forks": 119
+          "totalStars": 588,
+          "forks": 120
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/30000519?v=4"
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 394,
+          "totalStars": 395,
           "forks": 103
         },
         "contributors": [
@@ -607,7 +607,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
+          "totalStars": 386,
           "forks": 50
         },
         "contributors": [
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 983,
-          "forks": 118
+          "totalStars": 1026,
+          "forks": 126
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/65777760?v=4"
@@ -669,8 +669,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 397,
-          "forks": 33
+          "totalStars": 399,
+          "forks": 34
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98249188?v=4"
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 238,
+          "totalStars": 239,
           "forks": 7
         },
         "contributors": [
@@ -709,7 +709,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 238,
+          "totalStars": 239,
           "forks": 47
         },
         "contributors": [
@@ -729,7 +729,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 213,
+          "totalStars": 214,
           "forks": 48
         },
         "contributors": [
