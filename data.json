@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/08 04:19:21",
+  "lastUpdate": "2026/11/08 05:23:51",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
@@ -23,8 +23,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3981,
-          "forks": 723
+          "totalStars": 3991,
+          "forks": 724
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -43,8 +43,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3073,
-          "forks": 1181
+          "totalStars": 3084,
+          "forks": 1182
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85034342?v=4"
@@ -63,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2427,
-          "forks": 1154
+          "totalStars": 2455,
+          "forks": 1162
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/328980256?v=4"
@@ -83,8 +83,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2268,
-          "forks": 148
+          "totalStars": 2283,
+          "forks": 151
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/111436589?v=4"
@@ -103,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2008,
-          "forks": 187
+          "totalStars": 2047,
+          "forks": 191
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -123,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1720,
-          "forks": 928
+          "totalStars": 1745,
+          "forks": 936
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51308528?v=4"
@@ -143,8 +143,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1232,
-          "forks": 129
+          "totalStars": 1245,
+          "forks": 130
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/352250088?v=4"
@@ -163,7 +163,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1156,
+          "totalStars": 1159,
           "forks": 428
         },
         "contributors": [
@@ -183,8 +183,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1083,
-          "forks": 119
+          "totalStars": 1090,
+          "forks": 122
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/335944997?v=4"
@@ -203,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 949,
-          "forks": 167
+          "totalStars": 992,
+          "forks": 178
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/56429320?v=4"
@@ -225,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3073,
-          "forks": 1181
+          "totalStars": 3084,
+          "forks": 1182
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85034342?v=4"
@@ -245,7 +245,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1156,
+          "totalStars": 1159,
           "forks": 428
         },
         "contributors": [
@@ -265,8 +265,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 949,
-          "forks": 167
+          "totalStars": 992,
+          "forks": 178
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/56429320?v=4"
@@ -305,8 +305,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 628,
-          "forks": 75
+          "totalStars": 639,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/329836734?v=4"
@@ -317,26 +317,6 @@
       },
       {
         "rank": 6,
-        "name": "shanselman/gputaskman",
-        "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 552,
-          "forks": 25
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/2892?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "Th0rgal/satmux",
         "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
         "language": {
@@ -345,11 +325,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
-          "forks": 25
+          "totalStars": 567,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41830259?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "shanselman/gputaskman",
+        "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 561,
+          "forks": 26
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2892?v=4"
         ],
         "tags": [
           "#Python"
@@ -365,8 +365,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 507,
-          "forks": 68
+          "totalStars": 509,
+          "forks": 69
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253899067?v=4"
@@ -385,8 +385,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 506,
-          "forks": 28
+          "totalStars": 509,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308845393?v=4"
@@ -405,7 +405,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 481,
+          "totalStars": 485,
           "forks": 3
         },
         "contributors": [
@@ -427,8 +427,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1720,
-          "forks": 928
+          "totalStars": 1745,
+          "forks": 936
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51308528?v=4"
@@ -447,7 +447,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 523,
+          "totalStars": 530,
           "forks": 110
         },
         "contributors": [
@@ -467,7 +467,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 445,
+          "totalStars": 450,
           "forks": 38
         },
         "contributors": [
@@ -547,7 +547,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
+          "totalStars": 306,
           "forks": 28
         },
         "contributors": [
@@ -567,7 +567,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 280,
+          "totalStars": 286,
           "forks": 14
         },
         "contributors": [
@@ -587,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
+          "totalStars": 264,
           "forks": 17
         },
         "contributors": [
@@ -599,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "yang0/chatgpt2api-dsh",
-        "description": "暂无描述",
+        "name": "ilsa99/microsoft-365-desktop",
+        "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 241,
-          "forks": 36
+          "totalStars": 244,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3478629?v=4"
+          "https://avatars.githubusercontent.com/u/169668232?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2008,
-          "forks": 187
+          "totalStars": 2047,
+          "forks": 191
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -650,7 +650,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 493,
-          "forks": 48
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/98249188?v=4"
@@ -669,7 +669,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 250,
+          "totalStars": 251,
           "forks": 6
         },
         "contributors": [
@@ -689,7 +689,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 245,
+          "totalStars": 246,
           "forks": 2
         },
         "contributors": [
@@ -730,7 +730,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 181,
-          "forks": 3
+          "forks": 4
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/81330169?v=4"
