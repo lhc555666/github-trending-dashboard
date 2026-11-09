@@ -1,12 +1,13 @@
 {
-  "lastUpdate": "2026/11/08 05:23:51",
+  "lastUpdate": "2026/11/09 04:33:26",
   "charts": {
     "languageDistribution": {
       "TypeScript": 3,
-      "Python": 3,
-      "Swift": 1,
       "C++": 1,
+      "Python": 2,
+      "Swift": 1,
       "JavaScript": 1,
+      "C": 1,
       "HTML": 1
     },
     "starGrowth": {}
@@ -23,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3991,
-          "forks": 724
+          "totalStars": 4157,
+          "forks": 754
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239590580?v=4"
@@ -35,26 +36,6 @@
       },
       {
         "rank": 2,
-        "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3084,
-          "forks": 1182
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/85034342?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Minireel/HGhub",
         "description": "YellowFruit third-party client",
         "language": {
@@ -63,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2455,
-          "forks": 1162
+          "totalStars": 3748,
+          "forks": 1496
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/328980256?v=4"
@@ -74,27 +55,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "govijr/terminal-mac",
-        "description": "Entire MacOS running in your terminal.",
-        "language": {
-          "name": "Swift",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2283,
-          "forks": 151
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/111436589?v=4"
-        ],
-        "tags": [
-          "#Swift"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "NotRexed/Hookshot",
         "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
         "language": {
@@ -103,14 +64,54 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2047,
-          "forks": 191
+          "totalStars": 3311,
+          "forks": 313
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
         ],
         "tags": [
           "#C++"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 3282,
+          "forks": 1206
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/85034342?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "govijr/terminal-mac",
+        "description": "Entire MacOS running in your terminal.",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2412,
+          "forks": 165
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/111436589?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -123,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1745,
-          "forks": 936
+          "totalStars": 1877,
+          "forks": 1003
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51308528?v=4"
@@ -135,42 +136,42 @@
       },
       {
         "rank": 7,
-        "name": "livliv-dev/player",
-        "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1245,
-          "forks": 130
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/352250088?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "mmdoctor/google-pro-helper",
-        "description": "暂无描述",
+        "name": "sarpstar/cinecode",
+        "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1159,
-          "forks": 428
+          "totalStars": 1641,
+          "forks": 296
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/155910760?v=4"
+          "https://avatars.githubusercontent.com/u/56429320?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "tangerineturtle1/NX2navi",
+        "description": "暂无描述",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1468,
+          "forks": 71
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/178368288?v=4"
+        ],
+        "tags": [
+          "#C"
         ]
       },
       {
@@ -183,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1090,
-          "forks": 122
+          "totalStars": 1455,
+          "forks": 161
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/335944997?v=4"
@@ -195,22 +196,22 @@
       },
       {
         "rank": 10,
-        "name": "sarpstar/cinecode",
-        "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+        "name": "livliv-dev/player",
+        "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "TypeScript",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 992,
-          "forks": 178
+          "totalStars": 1347,
+          "forks": 142
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/56429320?v=4"
+          "https://avatars.githubusercontent.com/u/352250088?v=4"
         ],
         "tags": [
-          "#Python"
+          "#TypeScript"
         ]
       }
     ],
@@ -225,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3084,
-          "forks": 1182
+          "totalStars": 3282,
+          "forks": 1206
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85034342?v=4"
@@ -237,26 +238,6 @@
       },
       {
         "rank": 2,
-        "name": "mmdoctor/google-pro-helper",
-        "description": "暂无描述",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1159,
-          "forks": 428
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/155910760?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "sarpstar/cinecode",
         "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
         "language": {
@@ -265,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 992,
-          "forks": 178
+          "totalStars": 1641,
+          "forks": 296
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/56429320?v=4"
@@ -276,20 +257,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "AssassinCreator/steam-stash-value-report-card",
-        "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+        "rank": 3,
+        "name": "mmdoctor/google-pro-helper",
+        "description": "暂无描述",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 791,
-          "forks": 56
+          "totalStars": 1262,
+          "forks": 450
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/316880408?v=4"
+          "https://avatars.githubusercontent.com/u/155910760?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "shanselman/gputaskman",
+        "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1123,
+          "forks": 57
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/2892?v=4"
         ],
         "tags": [
           "#Python"
@@ -297,26 +298,6 @@
       },
       {
         "rank": 5,
-        "name": "WoYun520/gif-factory",
-        "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 639,
-          "forks": 77
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/329836734?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Th0rgal/satmux",
         "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
         "language": {
@@ -325,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 567,
-          "forks": 26
+          "totalStars": 959,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41830259?v=4"
@@ -336,20 +317,40 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "shanselman/gputaskman",
-        "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+        "rank": 6,
+        "name": "WoYun520/gif-factory",
+        "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 561,
-          "forks": 26
+          "totalStars": 904,
+          "forks": 108
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/2892?v=4"
+          "https://avatars.githubusercontent.com/u/329836734?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "majorminorlabs/hermes-voice",
+        "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 553,
+          "forks": 35
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/308845393?v=4"
         ],
         "tags": [
           "#Python"
@@ -365,8 +366,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 509,
-          "forks": 69
+          "totalStars": 545,
+          "forks": 74
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/253899067?v=4"
@@ -377,26 +378,6 @@
       },
       {
         "rank": 9,
-        "name": "majorminorlabs/hermes-voice",
-        "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 509,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/308845393?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "riyadhHDA/wichforks",
         "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
         "language": {
@@ -405,11 +386,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 485,
-          "forks": 3
+          "totalStars": 525,
+          "forks": 5
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25872060?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "lxe/phoneuse",
+        "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 465,
+          "forks": 48
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1486609?v=4"
         ],
         "tags": [
           "#Python"
@@ -427,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1745,
-          "forks": 936
+          "totalStars": 1877,
+          "forks": 1003
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51308528?v=4"
@@ -447,8 +448,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 530,
-          "forks": 110
+          "totalStars": 620,
+          "forks": 127
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260232027?v=4"
@@ -459,26 +460,6 @@
       },
       {
         "rank": 3,
-        "name": "woniuniuniu/dsh-media-desk",
-        "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 450,
-          "forks": 38
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/153842595?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "Wallbycontact/java-mod-rust-port-tool",
         "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
         "language": {
@@ -487,7 +468,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 395,
+          "totalStars": 396,
           "forks": 25
         },
         "contributors": [
@@ -498,7 +479,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "MythicHokageRepel/steam-inventory-value-desktop",
         "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
         "language": {
@@ -507,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 394,
+          "totalStars": 393,
           "forks": 26
         },
         "contributors": [
@@ -518,7 +499,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "PatchBuilderAmplify/stolen-crypto-tracer",
         "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
         "language": {
@@ -538,27 +519,27 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Badgenyamultiplexer/pc-game-fps-doctor",
-        "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+        "rank": 6,
+        "name": "kubai087/kubai-icons",
+        "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 306,
-          "forks": 28
+          "totalStars": 364,
+          "forks": 19
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/317165608?v=4"
+          "https://avatars.githubusercontent.com/u/68949228?v=4"
         ],
         "tags": [
           "#JavaScript"
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "shanselman/sandbox-mcp",
         "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
         "language": {
@@ -567,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 286,
-          "forks": 14
+          "totalStars": 339,
+          "forks": 17
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2892?v=4"
@@ -578,27 +559,7 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "Roland0511/dsh-marktext",
-        "description": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 264,
-          "forks": 17
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/588050?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "name": "ilsa99/microsoft-365-desktop",
         "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
         "language": {
@@ -607,11 +568,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 244,
+          "totalStars": 332,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/169668232?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Gacktadactle/fortnite-skin-swapper-enhancement",
+        "description": "Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 332,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/76502711?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Badgenyamultiplexer/pc-game-fps-doctor",
+        "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 307,
+          "forks": 28
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/317165608?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -629,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2047,
-          "forks": 191
+          "totalStars": 3311,
+          "forks": 313
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -641,26 +642,6 @@
       },
       {
         "rank": 2,
-        "name": "drakolordx7/switch2-recomp",
-        "description": "Nintendo Switch 2 games recompiled to run natively on PC.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 493,
-          "forks": 49
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/98249188?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Darhkfox/SuperMarioAllStars",
         "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
         "language": {
@@ -669,7 +650,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 251,
+          "totalStars": 278,
           "forks": 6
         },
         "contributors": [
@@ -680,47 +661,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "featureJosh/Recompia",
-        "description": "Pokémon Pokopia (Switch 2) recompiled to run natively on Windows. With multiplayer support",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 246,
-          "forks": 2
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/201660770?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "yzytz17/1.5-joint-module",
-        "description": "Ultra-low-cost robotic joint: a $1.5 FOC board inside a 1503 gimbal motor, plus a 3D-printed high-ratio precision gearbox. Cheap power, exact motion.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 184,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/307192916?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 3,
         "name": "BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp",
         "description": "Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows.",
         "language": {
@@ -729,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
+          "totalStars": 189,
           "forks": 4
         },
         "contributors": [
@@ -740,27 +681,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "andrewnakas/gtav-recomp",
-        "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 172,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/7544678?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "name": "viejunerd/Eglantine-PS5-",
         "description": "暂无描述",
         "language": {
@@ -769,8 +690,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 142,
-          "forks": 15
+          "totalStars": 159,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/295021507?v=4"
@@ -780,20 +701,100 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "tmcleroy/soulcalibur2-recomp",
-        "description": "Soulcalibur II (Xbox) as a native port for macOS, Linux/Steam Deck and Windows, with Link and Heihachi from your own discs",
+        "rank": 5,
+        "name": "Goldoire/fefw-recomp",
+        "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 140,
-          "forks": 5
+          "totalStars": 156,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/2308736?v=4"
+          "https://avatars.githubusercontent.com/u/84254875?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "EddizEge/Anka",
+        "description": "Anka — Nintendo Switch 2 emulator for Windows, focused on performance",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 96,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/300900304?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "adrbn/bo2-mac",
+        "description": "Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 78,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/128328324?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "linuxopt/mp4-recomp",
+        "description": "metroid prime 4 beyond recomp",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 76,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/305337987?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "YaibaKamikaze/IzunaRecomp",
+        "description": "暂无描述",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 75,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/344046199?v=4"
         ],
         "tags": [
           "#C++"
@@ -801,19 +802,19 @@
       },
       {
         "rank": 10,
-        "name": "Awis13/liberty-pro-max",
-        "description": "GTA IV (PC 1.0.8.0) statically recompiled to run natively on Apple silicon Macs and iPads (Apple TV experimental): Metal renderer, the episodes, ~100 fixes, saves through iCloud. Build it from your own copy with the Builder app; no game data included.",
+        "name": "xiaobai0818/Flyingshark_agv",
+        "description": "一个带有建图和导航功能的agv无人车系统",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
-          "forks": 3
+          "totalStars": 71,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/41254059?v=4"
+          "https://avatars.githubusercontent.com/u/124970182?v=4"
         ],
         "tags": [
           "#C++"
