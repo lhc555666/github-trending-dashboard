@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/10 05:52:19",
+  "lastUpdate": "2026/11/10 06:44:51",
   "charts": {
     "languageDistribution": {
       "C++": 1,
@@ -27,8 +27,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5393,
-          "forks": 482
+          "totalStars": 5446,
+          "forks": 486
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -47,8 +47,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2812,
-          "forks": 1134
+          "totalStars": 3021,
+          "forks": 1209
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354314991?v=4"
@@ -67,7 +67,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2514,
+          "totalStars": 2540,
           "forks": 168
         },
         "contributors": [
@@ -87,8 +87,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2054,
-          "forks": 396
+          "totalStars": 2099,
+          "forks": 407
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258432107?v=4"
@@ -107,8 +107,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1953,
-          "forks": 1047
+          "totalStars": 1965,
+          "forks": 1059
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51308528?v=4"
@@ -127,8 +127,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1515,
-          "forks": 163
+          "totalStars": 1529,
+          "forks": 165
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8266075?v=4"
@@ -147,7 +147,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1503,
+          "totalStars": 1515,
           "forks": 43
         },
         "contributors": [
@@ -167,8 +167,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1477,
-          "forks": 521
+          "totalStars": 1497,
+          "forks": 527
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155910760?v=4"
@@ -187,8 +187,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1417,
-          "forks": 147
+          "totalStars": 1423,
+          "forks": 148
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/352250088?v=4"
@@ -199,19 +199,19 @@
       },
       {
         "rank": 10,
-        "name": "voyager-so/vork",
-        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "name": "jamesondh/chimera-vocal-synth",
+        "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
         "language": {
           "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1310,
-          "forks": 99
+          "totalStars": 1322,
+          "forks": 153
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/329758707?v=4"
+          "https://avatars.githubusercontent.com/u/4026659?v=4"
         ],
         "tags": [
           "#Rust"
@@ -229,8 +229,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1477,
-          "forks": 521
+          "totalStars": 1497,
+          "forks": 527
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/155910760?v=4"
@@ -249,7 +249,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1039,
+          "totalStars": 1044,
           "forks": 126
         },
         "contributors": [
@@ -289,7 +289,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 627,
+          "totalStars": 628,
           "forks": 38
         },
         "contributors": [
@@ -329,7 +329,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 542,
+          "totalStars": 544,
           "forks": 53
         },
         "contributors": [
@@ -341,6 +341,26 @@
       },
       {
         "rank": 7,
+        "name": "farhatullah0006-art/rx-11-audio-editor-config",
+        "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 480,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/337244869?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "bhaviammu06-collab/adobe-air-desktop-tool",
         "description": "Adobe AIR SDK for Windows: Build Cross-Platform Desktop Apps with AJAX, HTML, and Flash",
         "language": {
@@ -360,26 +380,6 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "farhatullah0006-art/rx-11-audio-editor-config",
-        "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 479,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/337244869?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 9,
         "name": "vidhansuman051/acrobat-pro-secure-installer",
         "description": "Adobe Acrobat Pro Desktop Installer with Enhanced Security and Complete Standalone Setup",
@@ -389,7 +389,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 478,
+          "totalStars": 479,
           "forks": 0
         },
         "contributors": [
@@ -409,7 +409,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 478,
+          "totalStars": 479,
           "forks": 0
         },
         "contributors": [
@@ -431,8 +431,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1953,
-          "forks": 1047
+          "totalStars": 1965,
+          "forks": 1059
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/51308528?v=4"
@@ -451,7 +451,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
+          "totalStars": 480,
           "forks": 0
         },
         "contributors": [
@@ -471,7 +471,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
+          "totalStars": 480,
           "forks": 0
         },
         "contributors": [
@@ -491,7 +491,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 400,
+          "totalStars": 401,
           "forks": 25
         },
         "contributors": [
@@ -531,7 +531,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 384,
+          "totalStars": 386,
           "forks": 19
         },
         "contributors": [
@@ -551,8 +551,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 354,
-          "forks": 207
+          "totalStars": 372,
+          "forks": 214
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337416215?v=4"
@@ -571,7 +571,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 290,
+          "totalStars": 296,
           "forks": 11
         },
         "contributors": [
@@ -583,26 +583,6 @@
       },
       {
         "rank": 9,
-        "name": "yang0/chatgpt2api-dsh",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 254,
-          "forks": 36
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/3478629?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "lili-luo/dsh-plugin-bundle",
         "description": "基于 DeepSeek Harness（DSH）的插件组合包。每个插件在独立子目录里，可以用 `path:` 单独安装。",
         "language": {
@@ -611,11 +591,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 250,
+          "totalStars": 256,
           "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/251334142?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "yang0/chatgpt2api-dsh",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 255,
+          "forks": 36
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/3478629?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -633,8 +633,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5393,
-          "forks": 482
+          "totalStars": 5446,
+          "forks": 486
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -653,7 +653,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 392,
+          "totalStars": 396,
           "forks": 24
         },
         "contributors": [
@@ -733,8 +733,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 98,
-          "forks": 14
+          "totalStars": 106,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/20365903?v=4"
@@ -753,7 +753,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 81,
+          "totalStars": 82,
           "forks": 10
         },
         "contributors": [
@@ -813,7 +813,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 68,
+          "totalStars": 69,
           "forks": 5
         },
         "contributors": [
