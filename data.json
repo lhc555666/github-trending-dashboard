@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/11 04:37:35",
+  "lastUpdate": "2026/11/11 05:30:59",
   "charts": {
     "languageDistribution": {
       "C++": 1,
@@ -26,8 +26,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6753,
-          "forks": 593
+          "totalStars": 6794,
+          "forks": 596
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -46,8 +46,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5238,
-          "forks": 2018
+          "totalStars": 5307,
+          "forks": 2048
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354314991?v=4"
@@ -66,8 +66,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2940,
-          "forks": 199
+          "totalStars": 2947,
+          "forks": 200
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/178368288?v=4"
@@ -86,8 +86,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2445,
-          "forks": 454
+          "totalStars": 2454,
+          "forks": 455
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258432107?v=4"
@@ -126,7 +126,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1833,
+          "totalStars": 1837,
           "forks": 54
         },
         "contributors": [
@@ -146,8 +146,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1744,
-          "forks": 202
+          "totalStars": 1756,
+          "forks": 204
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4026659?v=4"
@@ -166,8 +166,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1733,
-          "forks": 186
+          "totalStars": 1744,
+          "forks": 187
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/8266075?v=4"
@@ -186,7 +186,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1662,
+          "totalStars": 1668,
           "forks": 572
         },
         "contributors": [
@@ -206,7 +206,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1364,
+          "totalStars": 1365,
           "forks": 111
         },
         "contributors": [
@@ -228,7 +228,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1662,
+          "totalStars": 1668,
           "forks": 572
         },
         "contributors": [
@@ -248,7 +248,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1101,
+          "totalStars": 1104,
           "forks": 135
         },
         "contributors": [
@@ -268,7 +268,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1035,
+          "totalStars": 1036,
           "forks": 49
         },
         "contributors": [
@@ -308,8 +308,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 654,
-          "forks": 40
+          "totalStars": 655,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/308845393?v=4"
@@ -320,26 +320,6 @@
       },
       {
         "rank": 6,
-        "name": "Goblinmine/homelab-diagram",
-        "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 617,
-          "forks": 52
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/113011860?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "HybridRobotics/supermimic",
         "description": "SuperTrack implementation.",
         "language": {
@@ -348,11 +328,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 596,
-          "forks": 42
+          "totalStars": 636,
+          "forks": 43
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Goblinmine/homelab-diagram",
+        "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 623,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/113011860?v=4"
         ],
         "tags": [
           "#Python"
@@ -368,8 +368,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 584,
-          "forks": 57
+          "totalStars": 586,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1486609?v=4"
@@ -388,7 +388,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 561,
+          "totalStars": 562,
           "forks": 9
         },
         "contributors": [
@@ -490,8 +490,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 536,
-          "forks": 285
+          "totalStars": 539,
+          "forks": 287
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/337416215?v=4"
@@ -510,7 +510,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 403,
+          "totalStars": 404,
           "forks": 19
         },
         "contributors": [
@@ -530,7 +530,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 365,
+          "totalStars": 368,
           "forks": 13
         },
         "contributors": [
@@ -570,7 +570,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 217,
+          "totalStars": 218,
           "forks": 22
         },
         "contributors": [
@@ -590,7 +590,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 214,
+          "totalStars": 215,
           "forks": 49
         },
         "contributors": [
@@ -632,8 +632,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6753,
-          "forks": 593
+          "totalStars": 6794,
+          "forks": 596
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/179062254?v=4"
@@ -652,7 +652,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 513,
+          "totalStars": 519,
           "forks": 32
         },
         "contributors": [
@@ -672,7 +672,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
+          "totalStars": 339,
           "forks": 11
         },
         "contributors": [
@@ -692,7 +692,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 267,
+          "totalStars": 268,
           "forks": 32
         },
         "contributors": [
@@ -712,7 +712,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 124,
+          "totalStars": 127,
           "forks": 4
         },
         "contributors": [
@@ -732,7 +732,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 115,
+          "totalStars": 116,
           "forks": 2
         },
         "contributors": [
@@ -752,7 +752,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 101,
+          "totalStars": 102,
           "forks": 10
         },
         "contributors": [
@@ -812,7 +812,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 75,
+          "totalStars": 76,
           "forks": 5
         },
         "contributors": [
