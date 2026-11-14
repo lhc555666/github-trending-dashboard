@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/14 04:51:08",
+  "lastUpdate": "2026/11/14 05:43:48",
   "charts": {
     "languageDistribution": {
       "Swift": 2,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7388,
-          "forks": 2603
+          "totalStars": 7405,
+          "forks": 2606
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354314991?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2888,
-          "forks": 522
+          "totalStars": 2893,
+          "forks": 523
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258432107?v=4"
@@ -64,7 +64,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1955,
+          "totalStars": 1960,
           "forks": 410
         },
         "contributors": [
@@ -84,8 +84,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1532,
-          "forks": 22
+          "totalStars": 1544,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -104,7 +104,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1453,
+          "totalStars": 1456,
           "forks": 96
         },
         "contributors": [
@@ -124,7 +124,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1354,
+          "totalStars": 1355,
           "forks": 236
         },
         "contributors": [
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1317,
+          "totalStars": 1320,
           "forks": 61
         },
         "contributors": [
@@ -164,7 +164,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1107,
+          "totalStars": 1109,
           "forks": 57
         },
         "contributors": [
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1036,
-          "forks": 170
+          "totalStars": 1085,
+          "forks": 176
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -204,7 +204,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 811,
+          "totalStars": 817,
           "forks": 59
         },
         "contributors": [
@@ -226,7 +226,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1453,
+          "totalStars": 1456,
           "forks": 96
         },
         "contributors": [
@@ -246,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 499,
+          "totalStars": 502,
           "forks": 5
         },
         "contributors": [
@@ -266,7 +266,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 492,
+          "totalStars": 493,
           "forks": 29
         },
         "contributors": [
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
+          "totalStars": 359,
           "forks": 27
         },
         "contributors": [
@@ -306,7 +306,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 343,
+          "totalStars": 344,
           "forks": 19
         },
         "contributors": [
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
+          "totalStars": 344,
           "forks": 39
         },
         "contributors": [
@@ -346,7 +346,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 299,
+          "totalStars": 304,
           "forks": 21
         },
         "contributors": [
@@ -428,7 +428,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 412,
+          "totalStars": 413,
           "forks": 14
         },
         "contributors": [
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 319,
+          "totalStars": 320,
           "forks": 48
         },
         "contributors": [
@@ -469,7 +469,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 310,
-          "forks": 50
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16551316?v=4"
@@ -528,7 +528,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 221,
+          "totalStars": 222,
           "forks": 132
         },
         "contributors": [
@@ -548,7 +548,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 180,
+          "totalStars": 181,
           "forks": 0
         },
         "contributors": [
@@ -560,6 +560,26 @@
       },
       {
         "rank": 8,
+        "name": "TensaikunYT/Videohub",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 169,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/355285282?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "emollick/ai-portals",
         "description": "暂无描述",
         "language": {
@@ -579,26 +599,6 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "TensaikunYT/Videohub",
-        "description": "暂无描述",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 162,
-          "forks": 42
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/355285282?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 10,
         "name": "beiwocaishijia/gezhi-sheets",
         "description": "格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。",
@@ -609,7 +609,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 145,
-          "forks": 46
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264801203?v=4"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1532,
-          "forks": 22
+          "totalStars": 1544,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -690,7 +690,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 146,
+          "totalStars": 149,
           "forks": 15
         },
         "contributors": [
@@ -710,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 135,
+          "totalStars": 142,
           "forks": 5
         },
         "contributors": [
@@ -730,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 132,
+          "totalStars": 134,
           "forks": 14
         },
         "contributors": [
@@ -742,19 +742,19 @@
       },
       {
         "rank": 7,
-        "name": "omacom/folio",
-        "description": "Omarchy's file manager: airy, keyboard-first, and following the theme",
+        "name": "azure-teal-slope/windows-optimizer-desktop",
+        "description": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled tasks on Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 111,
-          "forks": 27
+          "totalStars": 127,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/219015873?v=4"
+          "https://avatars.githubusercontent.com/u/341516658?v=4"
         ],
         "tags": [
           "#C++"
@@ -762,46 +762,6 @@
       },
       {
         "rank": 8,
-        "name": "bhuiyah/infamous2-recomp",
-        "description": "inFamous 2 (PS3) statically recompiled to a native Windows PC port, with a launcher that builds it from your own game files. No game files included.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 92,
-          "forks": 3
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/66151125?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "ben-kennedy-81/xfer-serum-desktop",
-        "description": "Xfer Serum 2026 desktop setup with wavetable synthesizer, visual drawable editor, hundreds of presets with user wavetable import, and modular routing with per-voice effects rack for Windows 11",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 92,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/342010362?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "bradburns2001/topaz-video-ai-desktop",
         "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
         "language": {
@@ -810,11 +770,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 91,
+          "totalStars": 127,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/342006086?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "ben-miller-23/dxo-photolab-10-desktop",
+        "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 127,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/341996502?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "azuremaple1997/coreldraw-desktop",
+        "description": "CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single timeline for Windows 11",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 127,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/342026225?v=4"
         ],
         "tags": [
           "#C++"
