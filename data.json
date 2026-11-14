@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2026/11/13 05:54:46",
+  "lastUpdate": "2026/11/14 04:51:08",
   "charts": {
     "languageDistribution": {
       "Swift": 2,
-      "C": 1,
       "C#": 1,
-      "Python": 2,
-      "TypeScript": 2,
       "C++": 1,
-      "Go": 1
+      "Python": 1,
+      "TypeScript": 3,
+      "Go": 1,
+      "Objective-C": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7031,
-          "forks": 2568
+          "totalStars": 7388,
+          "forks": 2603
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354314991?v=4"
@@ -36,26 +36,6 @@
       },
       {
         "rank": 2,
-        "name": "tangerineturtle1/NX2navi",
-        "description": "暂无描述",
-        "language": {
-          "name": "C",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3630,
-          "forks": 255
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/178368288?v=4"
-        ],
-        "tags": [
-          "#C"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "jhaizhou-ops/S2Arm",
         "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
         "language": {
@@ -64,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2796,
-          "forks": 514
+          "totalStars": 2888,
+          "forks": 522
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/258432107?v=4"
@@ -75,7 +55,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Kianuni/Erosion-CN",
         "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
         "language": {
@@ -84,14 +64,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1748,
-          "forks": 378
+          "totalStars": 1955,
+          "forks": 410
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354704145?v=4"
         ],
         "tags": [
           "#Swift"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "apex-compute/ANR",
+        "description": "Apex Neural Rendering (ANR) by Apex Compute",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1532,
+          "forks": 22
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/222723497?v=4"
+        ],
+        "tags": [
+          "#C++"
         ]
       },
       {
@@ -104,8 +104,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1347,
-          "forks": 88
+          "totalStars": 1453,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1234,
-          "forks": 202
+          "totalStars": 1354,
+          "forks": 236
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343980363?v=4"
@@ -136,56 +136,16 @@
       },
       {
         "rank": 7,
-        "name": "apex-compute/ANR",
-        "description": "Apex Neural Rendering (ANR) by Apex Compute",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1075,
-          "forks": 12
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/222723497?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Th0rgal/satmux",
-        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1058,
-          "forks": 51
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41830259?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "FrigadeHQ/yogurt",
-        "description": "Private AI meeting notes. Free and open source.",
+        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
         "language": {
           "name": "TypeScript",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1015,
-          "forks": 37
+          "totalStars": 1317,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/117952255?v=4"
@@ -195,7 +155,7 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "HolyArrs/HolyArrs",
         "description": "One self-hosted app for your shows, movies and music.",
         "language": {
@@ -204,14 +164,54 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1008,
-          "forks": 56
+          "totalStars": 1107,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348458842?v=4"
         ],
         "tags": [
           "#Go"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "deepseek-ai/chat-demo",
+        "description": "Chat Demo",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1036,
+          "forks": 170
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "kolbicz/WQFiles",
+        "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+        "language": {
+          "name": "Objective-C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 811,
+          "forks": 59
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/34033735?v=4"
+        ],
+        "tags": [
+          "#Objective-C"
         ]
       }
     ],
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1347,
-          "forks": 88
+          "totalStars": 1453,
+          "forks": 96
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
@@ -238,86 +238,6 @@
       },
       {
         "rank": 2,
-        "name": "Th0rgal/satmux",
-        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1058,
-          "forks": 51
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/41830259?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "Goblinmine/homelab-diagram",
-        "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 949,
-          "forks": 78
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/113011860?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "lxe/phoneuse",
-        "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 638,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/1486609?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Dodaios/ste80-humanizer",
-        "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 465,
-          "forks": 29
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/285448159?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "Robbyant/lingbot-touch",
         "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
         "language": {
@@ -326,7 +246,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 425,
+          "totalStars": 499,
           "forks": 5
         },
         "contributors": [
@@ -337,7 +257,27 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 3,
+        "name": "Dodaios/ste80-humanizer",
+        "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 492,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/285448159?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "lizTheDeveloper/flyover-scrub",
         "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
         "language": {
@@ -346,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 338,
+          "totalStars": 358,
           "forks": 27
         },
         "contributors": [
@@ -357,27 +297,7 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "drost-ai/tinker-ai-skill",
-        "description": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 319,
-          "forks": 39
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/293927330?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "name": "MiniMax-AI/MiniMax-H3-Image",
         "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
         "language": {
@@ -386,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 312,
-          "forks": 17
+          "totalStars": 343,
+          "forks": 19
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/194880281?v=4"
@@ -397,7 +317,47 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 6,
+        "name": "xiaoerofficial021-collab/FlowHMR-Windows",
+        "description": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 338,
+          "forks": 39
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/256119334?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Moh4696/cinematic-skill",
+        "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 299,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/110087282?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "tigerogijzooav/Hyperliquid-Trade-Bot",
         "description": "Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, detect martingale/grid recovery strategies, and assess maximum drawdown and risk-adjusted returns. Read-only terminal checker — no trading, no API keys. Unofficial community project, not affiliated with Hyperliquid.",
         "language": {
@@ -415,6 +375,46 @@
         "tags": [
           "#Python"
         ]
+      },
+      {
+        "rank": 9,
+        "name": "gokayfem/image-to-sculpt",
+        "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 287,
+          "forks": 21
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/88277926?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "ScottDuncanAI/PID-to-Knowledge-Graph",
+        "description": "P&ID to Knowledge Graph: a Claude skill that turns P&ID PDFs (digital or scanned) into a process knowledge graph of flow, instruments and control loops.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 261,
+          "forks": 53
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265539613?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
       }
     ],
     "JavaScript": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 408,
-          "forks": 13
+          "totalStars": 412,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/1206493?v=4"
@@ -440,6 +440,26 @@
       },
       {
         "rank": 2,
+        "name": "op7418/guizang-game-skill",
+        "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 319,
+          "forks": 48
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/13505770?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 3,
         "name": "threerocks/article2media",
         "description": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
         "language": {
@@ -448,8 +468,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 294,
-          "forks": 49
+          "totalStars": 310,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/16551316?v=4"
@@ -459,7 +479,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "vzroslieigry/maxagent",
         "description": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
         "language": {
@@ -479,47 +499,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "op7418/guizang-game-skill",
-        "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 264,
-          "forks": 44
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/13505770?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 5,
-        "name": "DandanLLab/SnowCatQQ",
-        "description": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 238,
-          "forks": 106
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/100036451?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 6,
         "name": "setyamickala/fastmint-fcfs-agentic",
         "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
         "language": {
@@ -528,8 +508,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 226,
-          "forks": 19
+          "totalStars": 227,
+          "forks": 20
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/25724362?v=4"
@@ -539,47 +519,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "littledivy/tailnet-do",
-        "description": "Put a Cloudflare Durable Object on your Tailscale tailnet",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 213,
-          "forks": 8
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/34997667?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "CallMeGuLab/dsh-purge-safe",
-        "description": "DeepSeek Harness 破甲：默认提示词面向国模「鸢码」，完整开放版，无付费墙，技能库与知识库全含。破解市面上收费 388u 的版本，免费公开。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 172,
-          "forks": 140
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/319308597?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "name": "shitouxiaoge-commits/CFAPEX",
         "description": "项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
         "language": {
@@ -588,8 +528,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
-          "forks": 99
+          "totalStars": 221,
+          "forks": 132
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/307868556?v=4"
@@ -599,7 +539,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "name": "stevejiang0509/ex3301-t0-root-ssh-research",
+        "description": "Sanitized EX3301-T0 7.2C0 root SSH privilege-escalation case study and offline demo",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 180,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/291333077?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "emollick/ai-portals",
         "description": "暂无描述",
         "language": {
@@ -608,11 +568,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 164,
+          "totalStars": 168,
           "forks": 37
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63437581?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "TensaikunYT/Videohub",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 162,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/355285282?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "beiwocaishijia/gezhi-sheets",
+        "description": "格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 145,
+          "forks": 46
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/264801203?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1075,
-          "forks": 12
+          "totalStars": 1532,
+          "forks": 22
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -642,46 +642,6 @@
       },
       {
         "rank": 2,
-        "name": "Goldoire/fefw-recomp",
-        "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 668,
-          "forks": 49
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/84254875?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "imxieyi/Kernarium",
-        "description": "Run real Linux kernel natively on iOS",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 414,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/20365903?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "huawei-csl/MACaQ",
         "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
         "language": {
@@ -690,8 +650,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 216,
-          "forks": 11
+          "totalStars": 235,
+          "forks": 13
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/234563461?v=4"
@@ -701,7 +661,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 3,
         "name": "snicolast/SegaRally2Native",
         "description": "Sega Rally 2 - PC Port",
         "language": {
@@ -710,8 +670,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 140,
-          "forks": 8
+          "totalStars": 162,
+          "forks": 10
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/34808101?v=4"
@@ -721,7 +681,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "retropineaple/ForbiddenItlwm",
         "description": "Because AirDrop was never supposed to work on Intel Wi-Fi.",
         "language": {
@@ -730,11 +690,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 120,
-          "forks": 10
+          "totalStars": 146,
+          "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/118107729?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "SerenityG4K/SpaceAnimalsRecomp",
+        "description": "StarFox Remake [recompiled]: static recompilation of Star Fox (Nintendo Switch 2) into a native Windows app, built on your PC from your own copy. No game files included.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 135,
+          "forks": 5
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/81037408?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "daurosk/oot-remake-multiplayer",
+        "description": "Working multiplayer for the Ocarina of Time remake: first on an emulator, then in a native recomp.",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 132,
+          "forks": 14
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/354202035?v=4"
         ],
         "tags": [
           "#C++"
@@ -750,8 +750,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 100,
-          "forks": 24
+          "totalStars": 111,
+          "forks": 27
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/219015873?v=4"
@@ -762,19 +762,19 @@
       },
       {
         "rank": 8,
-        "name": "saulob/13-sentinels-aegis-rim-pc",
-        "description": "13 Sentinels: Aegis Rim native PC port for Windows and Linux, with direct PS4 PKG installation, TRG launcher and modern graphics options",
+        "name": "bhuiyah/infamous2-recomp",
+        "description": "inFamous 2 (PS3) statically recompiled to a native Windows PC port, with a launcher that builds it from your own game files. No game files included.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 96,
-          "forks": 1
+          "totalStars": 92,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/3660977?v=4"
+          "https://avatars.githubusercontent.com/u/66151125?v=4"
         ],
         "tags": [
           "#C++"
@@ -782,19 +782,19 @@
       },
       {
         "rank": 9,
-        "name": "vfjoo888/SuperWonders",
-        "description": "A static recompilation of Super Mario Wonders for switch 1 ",
+        "name": "ben-kennedy-81/xfer-serum-desktop",
+        "description": "Xfer Serum 2026 desktop setup with wavetable synthesizer, visual drawable editor, hundreds of presets with user wavetable import, and modular routing with per-voice effects rack for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 87,
-          "forks": 4
+          "totalStars": 92,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/252813363?v=4"
+          "https://avatars.githubusercontent.com/u/342010362?v=4"
         ],
         "tags": [
           "#C++"
@@ -802,19 +802,19 @@
       },
       {
         "rank": 10,
-        "name": "gokulraj381/Neo---all-in-one-bot",
-        "description": "暂无描述",
+        "name": "bradburns2001/topaz-video-ai-desktop",
+        "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 86,
-          "forks": 15
+          "totalStars": 91,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/29753772?v=4"
+          "https://avatars.githubusercontent.com/u/342006086?v=4"
         ],
         "tags": [
           "#C++"
