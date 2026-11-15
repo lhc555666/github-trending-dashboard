@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2026/11/14 05:43:48",
+  "lastUpdate": "2026/11/15 04:42:57",
   "charts": {
     "languageDistribution": {
       "Swift": 2,
-      "C#": 1,
       "C++": 1,
-      "Python": 1,
       "TypeScript": 3,
+      "Python": 1,
       "Go": 1,
-      "Objective-C": 1
+      "Visual Basic .NET": 1,
+      "C": 1
     },
     "starGrowth": {}
   },
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 7405,
-          "forks": 2606
+          "totalStars": 7603,
+          "forks": 2643
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354314991?v=4"
@@ -36,26 +36,6 @@
       },
       {
         "rank": 2,
-        "name": "jhaizhou-ops/S2Arm",
-        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-        "language": {
-          "name": "C#",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2893,
-          "forks": 523
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/258432107?v=4"
-        ],
-        "tags": [
-          "#C#"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Kianuni/Erosion-CN",
         "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
         "language": {
@@ -64,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1960,
-          "forks": 410
+          "totalStars": 2069,
+          "forks": 424
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/354704145?v=4"
@@ -75,7 +55,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "apex-compute/ANR",
         "description": "Apex Neural Rendering (ANR) by Apex Compute",
         "language": {
@@ -84,8 +64,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1544,
-          "forks": 23
+          "totalStars": 1867,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -95,7 +75,47 @@
         ]
       },
       {
+        "rank": 4,
+        "name": "deepseek-ai/chat-demo",
+        "description": "Chat Demo",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1851,
+          "forks": 308
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/148330874?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
         "rank": 5,
+        "name": "FrigadeHQ/yogurt",
+        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1514,
+          "forks": 83
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/117952255?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "HybridRobotics/supermimic",
         "description": "Humanoid whole-body motion tracking with one differentiable world model.",
         "language": {
@@ -104,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1456,
-          "forks": 96
+          "totalStars": 1506,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
@@ -115,7 +135,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "agentes-chat/agentes-chat",
         "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
         "language": {
@@ -124,31 +144,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1355,
-          "forks": 236
+          "totalStars": 1414,
+          "forks": 249
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/343980363?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "FrigadeHQ/yogurt",
-        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1320,
-          "forks": 61
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/117952255?v=4"
         ],
         "tags": [
           "#TypeScript"
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1109,
-          "forks": 57
+          "totalStars": 1196,
+          "forks": 61
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/348458842?v=4"
@@ -176,42 +176,42 @@
       },
       {
         "rank": 9,
-        "name": "deepseek-ai/chat-demo",
-        "description": "Chat Demo",
+        "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+        "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
         "language": {
-          "name": "TypeScript",
+          "name": "Visual Basic .NET",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1085,
-          "forks": 176
+          "totalStars": 1050,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/148330874?v=4"
+          "https://avatars.githubusercontent.com/u/352167098?v=4"
         ],
         "tags": [
-          "#TypeScript"
+          "#Visual Basic .NET"
         ]
       },
       {
         "rank": 10,
-        "name": "kolbicz/WQFiles",
-        "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+        "name": "adriadam10/mkw-recomp",
+        "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
         "language": {
-          "name": "Objective-C",
+          "name": "C",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 817,
-          "forks": 59
+          "totalStars": 949,
+          "forks": 52
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/34033735?v=4"
+          "https://avatars.githubusercontent.com/u/57327458?v=4"
         ],
         "tags": [
-          "#Objective-C"
+          "#C"
         ]
       }
     ],
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1456,
-          "forks": 96
+          "totalStars": 1506,
+          "forks": 103
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
@@ -238,26 +238,6 @@
       },
       {
         "rank": 2,
-        "name": "Robbyant/lingbot-touch",
-        "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 502,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/212647524?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "Dodaios/ste80-humanizer",
         "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
         "language": {
@@ -266,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 493,
-          "forks": 29
+          "totalStars": 620,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/285448159?v=4"
@@ -277,20 +257,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "lizTheDeveloper/flyover-scrub",
-        "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+        "rank": 3,
+        "name": "duwqijlk/muse-protocol",
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 359,
-          "forks": 27
+          "totalStars": 604,
+          "forks": 288
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/915684?v=4"
+          "https://avatars.githubusercontent.com/u/126966774?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Robbyant/lingbot-touch",
+        "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 551,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/212647524?v=4"
         ],
         "tags": [
           "#Python"
@@ -298,19 +298,19 @@
       },
       {
         "rank": 5,
-        "name": "MiniMax-AI/MiniMax-H3-Image",
-        "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+        "name": "Moh4696/cinematic-skill",
+        "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
-          "forks": 19
+          "totalStars": 421,
+          "forks": 38
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/194880281?v=4"
+          "https://avatars.githubusercontent.com/u/110087282?v=4"
         ],
         "tags": [
           "#Python"
@@ -319,15 +319,15 @@
       {
         "rank": 6,
         "name": "xiaoerofficial021-collab/FlowHMR-Windows",
-        "description": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
+        "description": "FlowHMR for Windows: video-based motion capture, 3D preview, and motion export.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 344,
-          "forks": 39
+          "totalStars": 392,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/256119334?v=4"
@@ -338,19 +338,19 @@
       },
       {
         "rank": 7,
-        "name": "Moh4696/cinematic-skill",
-        "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+        "name": "MiniMax-AI/MiniMax-H3-Image",
+        "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 304,
-          "forks": 21
+          "totalStars": 368,
+          "forks": 20
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/110087282?v=4"
+          "https://avatars.githubusercontent.com/u/194880281?v=4"
         ],
         "tags": [
           "#Python"
@@ -358,19 +358,19 @@
       },
       {
         "rank": 8,
-        "name": "tigerogijzooav/Hyperliquid-Trade-Bot",
-        "description": "Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, detect martingale/grid recovery strategies, and assess maximum drawdown and risk-adjusted returns. Read-only terminal checker — no trading, no API keys. Unofficial community project, not affiliated with Hyperliquid.",
+        "name": "higurashi-ai/Haru",
+        "description": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 289,
-          "forks": 66
+          "totalStars": 332,
+          "forks": 21
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/310483646?v=4"
+          "https://avatars.githubusercontent.com/u/139871528?v=4"
         ],
         "tags": [
           "#Python"
@@ -378,19 +378,19 @@
       },
       {
         "rank": 9,
-        "name": "gokayfem/image-to-sculpt",
-        "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
+        "name": "AFangTeam/PrintLab",
+        "description": "Mac + Codex + 拓竹的个人 3D 打印工作台与工作流。允许非商业修改与再发布，保留署名。",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 287,
-          "forks": 21
+          "totalStars": 309,
+          "forks": 45
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/88277926?v=4"
+          "https://avatars.githubusercontent.com/u/62383383?v=4"
         ],
         "tags": [
           "#Python"
@@ -398,19 +398,19 @@
       },
       {
         "rank": 10,
-        "name": "ScottDuncanAI/PID-to-Knowledge-Graph",
-        "description": "P&ID to Knowledge Graph: a Claude skill that turns P&ID PDFs (digital or scanned) into a process knowledge graph of flow, instruments and control loops.",
+        "name": "zadescoxp/calibrain-harness",
+        "description": "Calibrain Harness: a forward-testing harness for trading crypto perpetuals with fast classification models (Kairos today) on Bybit testnet. Under development.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 261,
-          "forks": 53
+          "totalStars": 301,
+          "forks": 61
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265539613?v=4"
+          "https://avatars.githubusercontent.com/u/78777405?v=4"
         ],
         "tags": [
           "#Python"
@@ -420,6 +420,26 @@
     "JavaScript": [
       {
         "rank": 1,
+        "name": "Noniv/abyssal-garden",
+        "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 502,
+          "forks": 89
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/80125277?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "yetone/rewind-for-x",
         "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
         "language": {
@@ -428,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 413,
+          "totalStars": 416,
           "forks": 14
         },
         "contributors": [
@@ -439,7 +459,27 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "name": "hikaku-io/hikaku-extension",
+        "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 345,
+          "forks": 1
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/356462171?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
         "name": "op7418/guizang-game-skill",
         "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
         "language": {
@@ -448,8 +488,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 320,
-          "forks": 48
+          "totalStars": 343,
+          "forks": 54
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/13505770?v=4"
@@ -459,60 +499,20 @@
         ]
       },
       {
-        "rank": 3,
-        "name": "threerocks/article2media",
-        "description": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 310,
-          "forks": 49
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/16551316?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "vzroslieigry/maxagent",
-        "description": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 265,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/44081747?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
         "rank": 5,
-        "name": "setyamickala/fastmint-fcfs-agentic",
-        "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+        "name": "TensaikunYT/Videohub",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 227,
-          "forks": 20
+          "totalStars": 296,
+          "forks": 67
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/25724362?v=4"
+          "https://avatars.githubusercontent.com/u/355285282?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -528,8 +528,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 222,
-          "forks": 132
+          "totalStars": 278,
+          "forks": 161
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/307868556?v=4"
@@ -540,19 +540,19 @@
       },
       {
         "rank": 7,
-        "name": "stevejiang0509/ex3301-t0-root-ssh-research",
-        "description": "Sanitized EX3301-T0 7.2C0 root SSH privilege-escalation case study and offline demo",
+        "name": "StormBrawlerSack/legwork-osint-ai-investigator",
+        "description": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 181,
-          "forks": 0
+          "totalStars": 230,
+          "forks": 16
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/291333077?v=4"
+          "https://avatars.githubusercontent.com/u/317205055?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -560,19 +560,19 @@
       },
       {
         "rank": 8,
-        "name": "TensaikunYT/Videohub",
-        "description": "暂无描述",
+        "name": "setyamickala/fastmint-fcfs-agentic",
+        "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 169,
-          "forks": 42
+          "totalStars": 227,
+          "forks": 21
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/355285282?v=4"
+          "https://avatars.githubusercontent.com/u/25724362?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -580,19 +580,19 @@
       },
       {
         "rank": 9,
-        "name": "emollick/ai-portals",
-        "description": "暂无描述",
+        "name": "solderpupabridge/mutuals-osint-social-connections",
+        "description": "OSINT tool for Windows: enter two public accounts and see everyone who links them.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 37
+          "totalStars": 186,
+          "forks": 12
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/63437581?v=4"
+          "https://avatars.githubusercontent.com/u/317205498?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -608,8 +608,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 145,
-          "forks": 48
+          "totalStars": 178,
+          "forks": 59
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/264801203?v=4"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1544,
-          "forks": 23
+          "totalStars": 1867,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -642,19 +642,19 @@
       },
       {
         "rank": 2,
-        "name": "huawei-csl/MACaQ",
-        "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+        "name": "ben-miller-23/dxo-photolab-10-desktop",
+        "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
-          "forks": 13
+          "totalStars": 353,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/234563461?v=4"
+          "https://avatars.githubusercontent.com/u/341996502?v=4"
         ],
         "tags": [
           "#C++"
@@ -662,19 +662,19 @@
       },
       {
         "rank": 3,
-        "name": "snicolast/SegaRally2Native",
-        "description": "Sega Rally 2 - PC Port",
+        "name": "brisk-thrush-husky/malware-defender-desktop",
+        "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 162,
-          "forks": 10
+          "totalStars": 352,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/34808101?v=4"
+          "https://avatars.githubusercontent.com/u/342037251?v=4"
         ],
         "tags": [
           "#C++"
@@ -682,19 +682,19 @@
       },
       {
         "rank": 4,
-        "name": "retropineaple/ForbiddenItlwm",
-        "description": "Because AirDrop was never supposed to work on Intel Wi-Fi.",
+        "name": "amber-lance-72/xeno-roblox-desktop",
+        "description": "Xeno Roblox 2026 desktop setup with lightweight script runner, built-in script library with search, and auto-attach on game join for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 149,
-          "forks": 15
+          "totalStars": 352,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/118107729?v=4"
+          "https://avatars.githubusercontent.com/u/342026570?v=4"
         ],
         "tags": [
           "#C++"
@@ -702,46 +702,6 @@
       },
       {
         "rank": 5,
-        "name": "SerenityG4K/SpaceAnimalsRecomp",
-        "description": "StarFox Remake [recompiled]: static recompilation of Star Fox (Nintendo Switch 2) into a native Windows app, built on your PC from your own copy. No game files included.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 142,
-          "forks": 5
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/81037408?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "daurosk/oot-remake-multiplayer",
-        "description": "Working multiplayer for the Ocarina of Time remake: first on an emulator, then in a native recomp.",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 134,
-          "forks": 14
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/354202035?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 7,
         "name": "azure-teal-slope/windows-optimizer-desktop",
         "description": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled tasks on Windows 11",
         "language": {
@@ -750,11 +710,51 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 351,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/341516658?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ben-cook-42/kontakt-8-desktop",
+        "description": "Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to build your own instruments on Windows 11",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 351,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/341538506?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "ben14-dunn/native-instruments-kontakt-desktop",
+        "description": "Native Instruments Kontakt 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to build your own instruments on Windows 11",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 351,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/342048985?v=4"
         ],
         "tags": [
           "#C++"
@@ -770,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 351,
           "forks": 0
         },
         "contributors": [
@@ -782,19 +782,19 @@
       },
       {
         "rank": 9,
-        "name": "ben-miller-23/dxo-photolab-10-desktop",
-        "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
+        "name": "alex-wells-65/iobit-driver-booster-desktop",
+        "description": "iObit Driver Booster 2026 desktop setup with one-click driver scan, offline installer with rollback, and game boost mode for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 351,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341996502?v=4"
+          "https://avatars.githubusercontent.com/u/342032219?v=4"
         ],
         "tags": [
           "#C++"
@@ -802,19 +802,19 @@
       },
       {
         "rank": 10,
-        "name": "azuremaple1997/coreldraw-desktop",
-        "description": "CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single timeline for Windows 11",
+        "name": "brave-shell-07/izotope-rx-11-desktop",
+        "description": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 127,
+          "totalStars": 351,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342026225?v=4"
+          "https://avatars.githubusercontent.com/u/342050141?v=4"
         ],
         "tags": [
           "#C++"
