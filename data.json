@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/16 04:39:58",
+  "lastUpdate": "2026/11/16 05:43:09",
   "charts": {
     "languageDistribution": {
       "TypeScript": 2,
@@ -24,8 +24,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3352,
-          "forks": 666
+          "totalStars": 3416,
+          "forks": 682
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/148330874?v=4"
@@ -44,8 +44,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2254,
-          "forks": 45
+          "totalStars": 2268,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -57,14 +57,14 @@
       {
         "rank": 3,
         "name": "Kianuni/Erosion-CN",
-        "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+        "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
         "language": {
           "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2147,
+          "totalStars": 2151,
           "forks": 434
         },
         "contributors": [
@@ -76,26 +76,6 @@
       },
       {
         "rank": 4,
-        "name": "FrigadeHQ/yogurt",
-        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-        "language": {
-          "name": "TypeScript",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1676,
-          "forks": 93
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/117952255?v=4"
-        ],
-        "tags": [
-          "#TypeScript"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "hitkeeen/blender-ai-mcp-addon",
         "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
         "language": {
@@ -104,14 +84,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1584,
-          "forks": 38
+          "totalStars": 1694,
+          "forks": 44
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/340037382?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "FrigadeHQ/yogurt",
+        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+        "language": {
+          "name": "TypeScript",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1691,
+          "forks": 95
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/117952255?v=4"
+        ],
+        "tags": [
+          "#TypeScript"
         ]
       },
       {
@@ -124,8 +124,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1582,
-          "forks": 111
+          "totalStars": 1590,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
@@ -144,7 +144,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1231,
+          "totalStars": 1232,
           "forks": 3
         },
         "contributors": [
@@ -164,8 +164,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1178,
-          "forks": 170
+          "totalStars": 1203,
+          "forks": 176
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80125277?v=4"
@@ -184,8 +184,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1128,
-          "forks": 486
+          "totalStars": 1157,
+          "forks": 491
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126966774?v=4"
@@ -204,8 +204,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1108,
-          "forks": 94
+          "totalStars": 1135,
+          "forks": 97
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/73703990?v=4"
@@ -226,8 +226,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1582,
-          "forks": 111
+          "totalStars": 1590,
+          "forks": 114
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/10053058?v=4"
@@ -246,8 +246,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1128,
-          "forks": 486
+          "totalStars": 1157,
+          "forks": 491
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126966774?v=4"
@@ -266,8 +266,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 463,
-          "forks": 177
+          "totalStars": 469,
+          "forks": 179
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134844667?v=4"
@@ -286,7 +286,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 445,
+          "totalStars": 449,
           "forks": 29
         },
         "contributors": [
@@ -306,8 +306,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 400,
-          "forks": 49
+          "totalStars": 419,
+          "forks": 50
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39720973?v=4"
@@ -326,7 +326,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
+          "totalStars": 360,
           "forks": 24
         },
         "contributors": [
@@ -346,8 +346,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 341,
-          "forks": 24
+          "totalStars": 357,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/39571499?v=4"
@@ -386,7 +386,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
+          "totalStars": 335,
           "forks": 66
         },
         "contributors": [
@@ -428,8 +428,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1178,
-          "forks": 170
+          "totalStars": 1203,
+          "forks": 176
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/80125277?v=4"
@@ -448,7 +448,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 396,
+          "totalStars": 397,
           "forks": 1
         },
         "contributors": [
@@ -468,7 +468,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 393,
+          "totalStars": 395,
           "forks": 83
         },
         "contributors": [
@@ -488,7 +488,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 362,
+          "totalStars": 365,
           "forks": 57
         },
         "contributors": [
@@ -548,8 +548,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 202,
-          "forks": 48
+          "totalStars": 203,
+          "forks": 49
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/143675923?v=4"
@@ -630,8 +630,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2254,
-          "forks": 45
+          "totalStars": 2268,
+          "forks": 46
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/222723497?v=4"
@@ -642,19 +642,19 @@
       },
       {
         "rank": 2,
-        "name": "brisk-thrush-husky/malware-defender-desktop",
-        "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+        "name": "azuremaple1997/coreldraw-desktop",
+        "description": "CorelDraw Desktop 2026 setup with professional color grading, HDR support, Fairlight audio post with unlimited tracks, and multi-user collaboration on a single timeline for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 442,
-          "forks": 0
+          "totalStars": 451,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342037251?v=4"
+          "https://avatars.githubusercontent.com/u/342026225?v=4"
         ],
         "tags": [
           "#C++"
@@ -670,7 +670,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 441,
+          "totalStars": 450,
           "forks": 0
         },
         "contributors": [
@@ -682,19 +682,19 @@
       },
       {
         "rank": 4,
-        "name": "azure-teal-slope/windows-optimizer-desktop",
-        "description": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled tasks on Windows 11",
+        "name": "ben-miller-23/dxo-photolab-10-desktop",
+        "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
-          "forks": 0
+          "totalStars": 449,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341516658?v=4"
+          "https://avatars.githubusercontent.com/u/341996502?v=4"
         ],
         "tags": [
           "#C++"
@@ -710,7 +710,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 439,
+          "totalStars": 448,
           "forks": 0
         },
         "contributors": [
@@ -730,7 +730,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
+          "totalStars": 448,
           "forks": 0
         },
         "contributors": [
@@ -742,19 +742,19 @@
       },
       {
         "rank": 7,
-        "name": "ben-miller-23/dxo-photolab-10-desktop",
-        "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
+        "name": "angela-cook-1988/vegas-pro-23-desktop",
+        "description": "VEGAS Pro 23 2026 desktop setup with timeline editing, color correction, keyframe animation and DVD/Blu-ray authoring tools for Windows 11",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
-          "forks": 1
+          "totalStars": 448,
+          "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341996502?v=4"
+          "https://avatars.githubusercontent.com/u/341458965?v=4"
         ],
         "tags": [
           "#C++"
@@ -770,7 +770,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
+          "totalStars": 448,
           "forks": 0
         },
         "contributors": [
@@ -782,26 +782,6 @@
       },
       {
         "rank": 9,
-        "name": "brave-shell-07/izotope-rx-11-desktop",
-        "description": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
-        "language": {
-          "name": "C++",
-          "color": "text-purple-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 438,
-          "forks": 0
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/342050141?v=4"
-        ],
-        "tags": [
-          "#C++"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "brave-plum-co/leonardo-ai-desktop",
         "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
         "language": {
@@ -810,11 +790,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
+          "totalStars": 448,
           "forks": 0
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/342025194?v=4"
+        ],
+        "tags": [
+          "#C++"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "alex-wells-65/iobit-driver-booster-desktop",
+        "description": "iObit Driver Booster 2026 desktop setup with one-click driver scan, offline installer with rollback, and game boost mode for Windows 11",
+        "language": {
+          "name": "C++",
+          "color": "text-purple-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 447,
+          "forks": 0
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/342032219?v=4"
         ],
         "tags": [
           "#C++"
