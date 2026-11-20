@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/20 05:38:57",
+  "lastUpdate": "2026/11/20 06:34:52",
   "charts": {
     "languageDistribution": {
       "Rust": 1,
@@ -21,8 +21,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5491,
-          "forks": 444
+          "totalStars": 5568,
+          "forks": 446
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88717125?v=4"
@@ -41,8 +41,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4746,
-          "forks": 407
+          "totalStars": 4764,
+          "forks": 408
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85200472?v=4"
@@ -61,8 +61,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2472,
-          "forks": 45
+          "totalStars": 2477,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87460536?v=4"
@@ -81,8 +81,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1817,
-          "forks": 421
+          "totalStars": 1837,
+          "forks": 425
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192405006?v=4"
@@ -121,8 +121,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1634,
-          "forks": 480
+          "totalStars": 1641,
+          "forks": 482
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/110924215?v=4"
@@ -141,8 +141,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1383,
-          "forks": 465
+          "totalStars": 1387,
+          "forks": 467
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134844667?v=4"
@@ -161,7 +161,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1272,
+          "totalStars": 1274,
           "forks": 114
         },
         "contributors": [
@@ -173,26 +173,6 @@
       },
       {
         "rank": 9,
-        "name": "joshpuckett/allo",
-        "description": "Allo is your friendly neighborhood typeface, free and open source",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1167,
-          "forks": 31
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/403737?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
         "name": "sourmitocand1987/VividFrame-GPU",
         "description": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn",
         "language": {
@@ -201,14 +181,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1128,
-          "forks": 23
+          "totalStars": 1169,
+          "forks": 24
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/356367281?v=4"
         ],
         "tags": [
           "#Trending"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "joshpuckett/allo",
+        "description": "Allo is your friendly neighborhood typeface, free and open source",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1168,
+          "forks": 32
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/403737?v=4"
+        ],
+        "tags": [
+          "#Python"
         ]
       }
     ],
@@ -223,8 +223,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2472,
-          "forks": 45
+          "totalStars": 2477,
+          "forks": 47
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87460536?v=4"
@@ -243,8 +243,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1817,
-          "forks": 421
+          "totalStars": 1837,
+          "forks": 425
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192405006?v=4"
@@ -283,8 +283,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1383,
-          "forks": 465
+          "totalStars": 1387,
+          "forks": 467
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/134844667?v=4"
@@ -303,7 +303,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1272,
+          "totalStars": 1274,
           "forks": 114
         },
         "contributors": [
@@ -323,8 +323,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1167,
-          "forks": 31
+          "totalStars": 1168,
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/403737?v=4"
@@ -343,8 +343,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 989,
-          "forks": 221
+          "totalStars": 1006,
+          "forks": 226
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/191466064?v=4"
@@ -363,7 +363,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 775,
+          "totalStars": 776,
           "forks": 98
         },
         "contributors": [
@@ -384,7 +384,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 723,
-          "forks": 264
+          "forks": 266
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212546731?v=4"
@@ -403,8 +403,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 514,
-          "forks": 25
+          "totalStars": 584,
+          "forks": 28
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265551449?v=4"
@@ -425,8 +425,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1634,
-          "forks": 480
+          "totalStars": 1641,
+          "forks": 482
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/110924215?v=4"
@@ -445,7 +445,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 723,
+          "totalStars": 728,
           "forks": 56
         },
         "contributors": [
@@ -465,8 +465,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 509,
-          "forks": 54
+          "totalStars": 511,
+          "forks": 55
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4921183?v=4"
@@ -505,7 +505,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 309,
+          "totalStars": 317,
           "forks": 141
         },
         "contributors": [
@@ -545,7 +545,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 232,
+          "totalStars": 234,
           "forks": 51
         },
         "contributors": [
@@ -566,7 +566,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 228,
-          "forks": 30
+          "forks": 32
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/67821697?v=4"
@@ -627,8 +627,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4746,
-          "forks": 407
+          "totalStars": 4764,
+          "forks": 408
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85200472?v=4"
