@@ -1,10 +1,11 @@
 {
-  "lastUpdate": "2026/11/20 06:34:52",
+  "lastUpdate": "2026/11/21 05:32:06",
   "charts": {
     "languageDistribution": {
       "Rust": 1,
       "C++": 1,
-      "Python": 6,
+      "Python": 5,
+      "HTML": 1,
       "JavaScript": 1
     },
     "starGrowth": {}
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5568,
-          "forks": 446
+          "totalStars": 6804,
+          "forks": 537
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88717125?v=4"
@@ -41,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4764,
-          "forks": 408
+          "totalStars": 5410,
+          "forks": 452
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85200472?v=4"
@@ -61,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2477,
-          "forks": 47
+          "totalStars": 2548,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87460536?v=4"
@@ -81,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1837,
-          "forks": 425
+          "totalStars": 2066,
+          "forks": 470
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192405006?v=4"
@@ -93,66 +94,26 @@
       },
       {
         "rank": 5,
-        "name": "duwqijlk/muse-protocol",
-        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Unknown",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1664,
-          "forks": 657
+          "totalStars": 1835,
+          "forks": 19
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/126966774?v=4"
+          "https://avatars.githubusercontent.com/u/356367752?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Trending"
         ]
       },
       {
         "rank": 6,
-        "name": "CzzzzzzJ/mdldm-maitian",
-        "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1641,
-          "forks": 482
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/110924215?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "haziqahmedqasmi/PeakCut",
-        "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1387,
-          "forks": 467
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/134844667?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "sybil-solutions/inference-optimisation-skill",
         "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
         "language": {
@@ -161,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1274,
-          "forks": 114
+          "totalStars": 1370,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284200730?v=4"
@@ -172,27 +133,27 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "sourmitocand1987/VividFrame-GPU",
-        "description": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn",
+        "rank": 7,
+        "name": "iamajmeena/neonclipping",
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
         "language": {
-          "name": "Unknown",
-          "color": "text-gray-500"
+          "name": "Python",
+          "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1169,
-          "forks": 24
+          "totalStars": 1310,
+          "forks": 63
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/356367281?v=4"
+          "https://avatars.githubusercontent.com/u/265551449?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Python"
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "joshpuckett/allo",
         "description": "Allo is your friendly neighborhood typeface, free and open source",
         "language": {
@@ -201,14 +162,54 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1168,
-          "forks": 32
+          "totalStars": 1261,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/403737?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "chuanqisun/spaceship",
+        "description": "Steer ideas like a space pilot!",
+        "language": {
+          "name": "HTML",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 996,
+          "forks": 105
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/1895289?v=4"
+        ],
+        "tags": [
+          "#HTML"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "siliconjungle/shapeshift-labs-ink-studio",
+        "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 885,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/71357672?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
         ]
       }
     ],
@@ -223,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2477,
-          "forks": 47
+          "totalStars": 2548,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87460536?v=4"
@@ -243,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1837,
-          "forks": 425
+          "totalStars": 2066,
+          "forks": 470
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192405006?v=4"
@@ -255,46 +256,6 @@
       },
       {
         "rank": 3,
-        "name": "duwqijlk/muse-protocol",
-        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1664,
-          "forks": 657
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/126966774?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "haziqahmedqasmi/PeakCut",
-        "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1387,
-          "forks": 467
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/134844667?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "sybil-solutions/inference-optimisation-skill",
         "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
         "language": {
@@ -303,8 +264,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1274,
-          "forks": 114
+          "totalStars": 1370,
+          "forks": 124
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284200730?v=4"
@@ -314,7 +275,27 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "name": "iamajmeena/neonclipping",
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1310,
+          "forks": 63
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/265551449?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "joshpuckett/allo",
         "description": "Allo is your friendly neighborhood typeface, free and open source",
         "language": {
@@ -323,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1168,
-          "forks": 32
+          "totalStars": 1261,
+          "forks": 35
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/403737?v=4"
@@ -334,47 +315,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Bodila51/gtavi-claudecode",
-        "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1006,
-          "forks": 226
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/191466064?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "n4ze3m/tiny-voca",
-        "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 776,
-          "forks": 98
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/39720973?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "name": "boringmarketer/boring-marketing-skills",
         "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
         "language": {
@@ -383,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 723,
-          "forks": 266
+          "totalStars": 747,
+          "forks": 273
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/212546731?v=4"
@@ -394,20 +335,80 @@
         ]
       },
       {
-        "rank": 10,
-        "name": "iamajmeena/neonclipping",
-        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "rank": 7,
+        "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 584,
-          "forks": 28
+          "totalStars": 514,
+          "forks": 420
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265551449?v=4"
+          "https://avatars.githubusercontent.com/u/208099046?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "WollyMonjac/Tiny-2.1",
+        "description": "Language model for DOS that fits on a floppy disk",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 352,
+          "forks": 52
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/339840132?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "waw666waw666/RegisterHub",
+        "description": "万能注册机模板 | Universal Auto-Registration Template",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 334,
+          "forks": 276
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/184799977?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "smoovplay/smoovplay",
+        "description": "Your console. Your GPU. Smoother gameplay. Open-source real-time frame generation & upscaling for console gaming.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 317,
+          "forks": 20
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/356881351?v=4"
         ],
         "tags": [
           "#Python"
@@ -417,26 +418,6 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "CzzzzzzJ/mdldm-maitian",
-        "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1641,
-          "forks": 482
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/110924215?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "siliconjungle/shapeshift-labs-ink-studio",
         "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
         "language": {
@@ -445,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 728,
-          "forks": 56
+          "totalStars": 885,
+          "forks": 72
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/71357672?v=4"
@@ -456,7 +437,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "nilbuild/stick-scene",
         "description": "Skill to draw stick figure animated visuals",
         "language": {
@@ -465,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 511,
-          "forks": 55
+          "totalStars": 539,
+          "forks": 60
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/4921183?v=4"
@@ -476,27 +457,7 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "hikaku-io/hikaku-extension",
-        "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 387,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/356462171?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "duwqijlk/google-trial-tool",
         "description": "暂无描述",
         "language": {
@@ -505,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 317,
-          "forks": 141
+          "totalStars": 366,
+          "forks": 157
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126966774?v=4"
@@ -516,7 +477,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 4,
         "name": "diego3g/craft",
         "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
         "language": {
@@ -525,8 +486,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
-          "forks": 14
+          "totalStars": 317,
+          "forks": 18
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/2254731?v=4"
@@ -536,27 +497,7 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "CoderL98/hghub-plugins",
-        "description": "HGhub HPP 1.0 单文件插件与订阅源",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 234,
-          "forks": 51
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/39719083?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "name": "staryone/motlab",
         "description": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
         "language": {
@@ -565,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
-          "forks": 32
+          "totalStars": 300,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/67821697?v=4"
@@ -576,7 +517,27 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 6,
+        "name": "CoderL98/hghub-plugins",
+        "description": "HGhub HPP 1.0 单文件插件与订阅源",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 253,
+          "forks": 56
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/39719083?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "mdexa-ai/mdexa-ai-native-database",
         "description": "Verified license and provenance records for datasets behind medical AI: information cards, JSON Schema, decision rules and evidence index (hashes only). Cards CC BY 4.0, scripts MIT.",
         "language": {
@@ -596,7 +557,27 @@
         ]
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "name": "estebanarosemena/StellarHub",
+        "description": "No bloatware, no account, no subscriptions, no payments, no telemetry; free forever. Top Tier control for your Windows PC. Live hardware stats, drivers, apps, disk space, cleanup and hardware tests, all in one app.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 199,
+          "forks": 17
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/69443735?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "finktheartist/rubber-hose-ui",
         "description": "Eleven ordinary UI controls drawn as rubber-hose cartoon characters. One file each, no dependencies.",
         "language": {
@@ -605,11 +586,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 182,
+          "totalStars": 185,
           "forks": 15
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/120680146?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "bogdan239/uberdesigner-studio",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 156,
+          "forks": 7
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/351094513?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4764,
-          "forks": 408
+          "totalStars": 5410,
+          "forks": 452
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85200472?v=4"
@@ -647,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 358,
-          "forks": 55
+          "totalStars": 361,
+          "forks": 57
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/274407203?v=4"
@@ -659,19 +660,19 @@
       },
       {
         "rank": 3,
-        "name": "brisk-thrush-husky/malware-defender-desktop",
-        "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+        "name": "heydemoura/PS5_Longshot",
+        "description": "Longshot for the PlayStation 5: a port of Longshot (static recompilation) to the PS5, with the Longshot PS5 Builder for Linux and Windows. No PC builds of the game.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 308,
-          "forks": 0
+          "totalStars": 199,
+          "forks": 36
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342037251?v=4"
+          "https://avatars.githubusercontent.com/u/5550190?v=4"
         ],
         "tags": [
           "#C++"
@@ -679,19 +680,19 @@
       },
       {
         "rank": 4,
-        "name": "brave-shell-07/izotope-rx-11-desktop",
-        "description": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
+        "name": "cuesta4/GOW3rehooked",
+        "description": "GOW3rehooked - the definitive GOW3 Remastered experience on PC. ",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 306,
-          "forks": 0
+          "totalStars": 197,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342050141?v=4"
+          "https://avatars.githubusercontent.com/u/49216888?v=4"
         ],
         "tags": [
           "#C++"
@@ -699,19 +700,19 @@
       },
       {
         "rank": 5,
-        "name": "bradburns2001/topaz-video-ai-desktop",
-        "description": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
+        "name": "gminustwo/red_two",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 305,
-          "forks": 0
+          "totalStars": 188,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342006086?v=4"
+          "https://avatars.githubusercontent.com/u/347583672?v=4"
         ],
         "tags": [
           "#C++"
@@ -719,19 +720,19 @@
       },
       {
         "rank": 6,
-        "name": "briskember13/adobe-acrobat-pdf-desktop",
-        "description": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Windows 11",
+        "name": "BubbleBrainBB/awesome-fable-5.2",
+        "description": "Pictures and films computed entirely by code, written by Claude Fable 5.2 — a first-person underwater dive film and a path-traced afternoon interior.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 304,
-          "forks": 0
+          "totalStars": 124,
+          "forks": 18
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342055151?v=4"
+          "https://avatars.githubusercontent.com/u/108770159?v=4"
         ],
         "tags": [
           "#C++"
@@ -739,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "brave-plum-co/leonardo-ai-desktop",
-        "description": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+        "name": "Dipshet/GracemeriaRecomp",
+        "description": "Native PC port of Ace Combat 6: Fires of Liberation using XenonRecomp",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 304,
-          "forks": 0
+          "totalStars": 104,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342025194?v=4"
+          "https://avatars.githubusercontent.com/u/264011288?v=4"
         ],
         "tags": [
           "#C++"
@@ -759,19 +760,19 @@
       },
       {
         "rank": 8,
-        "name": "alicebrown323/pro-tools-desktop",
-        "description": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+        "name": "ItsNotRexed/Hookshot",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
+          "totalStars": 84,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341995740?v=4"
+          "https://avatars.githubusercontent.com/u/300290919?v=4"
         ],
         "tags": [
           "#C++"
@@ -779,19 +780,19 @@
       },
       {
         "rank": 9,
-        "name": "cathycollins-io08/ableton-live-11-desktop",
-        "description": "Ableton Live 11 2026 desktop setup with full plugin suite, multitrack session engine and bundled instruments for offline Windows 11 deployment",
+        "name": "hiruhiru2005/sync-strata",
+        "description": "A one-click local LLM app for Windows and Linux: Qwen3.8-Flash-Next with the Sync quantizations (XS, S, M), based on Strata.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
-          "forks": 0
+          "totalStars": 76,
+          "forks": 7
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/341539646?v=4"
+          "https://avatars.githubusercontent.com/u/357165387?v=4"
         ],
         "tags": [
           "#C++"
@@ -799,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "carla-butler-46/jetbrains-pycharm-desktop",
-        "description": "JetBrains PyCharm 2026 desktop setup with bundled plugin suite, offline runtime and portable mode for Windows 10 and 11 x64 hosts",
+        "name": "bymodify-ux/Dying-Light-VR",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 211,
-          "forks": 0
+          "totalStars": 64,
+          "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/342044956?v=4"
+          "https://avatars.githubusercontent.com/u/314277417?v=4"
         ],
         "tags": [
           "#C++"
