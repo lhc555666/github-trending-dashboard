@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/21 05:32:06",
+  "lastUpdate": "2026/11/21 06:26:41",
   "charts": {
     "languageDistribution": {
       "Rust": 1,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6804,
-          "forks": 537
+          "totalStars": 6836,
+          "forks": 541
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88717125?v=4"
@@ -42,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5410,
-          "forks": 452
+          "totalStars": 5428,
+          "forks": 454
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85200472?v=4"
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2548,
-          "forks": 65
+          "totalStars": 2550,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87460536?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2066,
-          "forks": 470
+          "totalStars": 2076,
+          "forks": 472
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192405006?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1835,
-          "forks": 19
+          "totalStars": 1849,
+          "forks": 23
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/356367752?v=4"
@@ -122,7 +122,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1370,
+          "totalStars": 1377,
           "forks": 124
         },
         "contributors": [
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1310,
-          "forks": 63
+          "totalStars": 1347,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265551449?v=4"
@@ -162,7 +162,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1261,
+          "totalStars": 1262,
           "forks": 35
         },
         "contributors": [
@@ -202,7 +202,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 885,
+          "totalStars": 888,
           "forks": 72
         },
         "contributors": [
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2548,
-          "forks": 65
+          "totalStars": 2550,
+          "forks": 68
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/87460536?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2066,
-          "forks": 470
+          "totalStars": 2076,
+          "forks": 472
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/192405006?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1370,
+          "totalStars": 1377,
           "forks": 124
         },
         "contributors": [
@@ -284,8 +284,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1310,
-          "forks": 63
+          "totalStars": 1347,
+          "forks": 65
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265551449?v=4"
@@ -304,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1261,
+          "totalStars": 1262,
           "forks": 35
         },
         "contributors": [
@@ -324,7 +324,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 747,
+          "totalStars": 749,
           "forks": 273
         },
         "contributors": [
@@ -356,6 +356,26 @@
       },
       {
         "rank": 8,
+        "name": "hatsunemiku-ai/google-one-tools",
+        "description": "暂无描述",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 366,
+          "forks": 267
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/359323636?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "WollyMonjac/Tiny-2.1",
         "description": "Language model for DOS that fits on a floppy disk",
         "language": {
@@ -375,7 +395,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "waw666waw666/RegisterHub",
         "description": "万能注册机模板 | Universal Auto-Registration Template",
         "language": {
@@ -384,31 +404,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 334,
+          "totalStars": 336,
           "forks": 276
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/184799977?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "smoovplay/smoovplay",
-        "description": "Your console. Your GPU. Smoother gameplay. Open-source real-time frame generation & upscaling for console gaming.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 317,
-          "forks": 20
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/356881351?v=4"
         ],
         "tags": [
           "#Python"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 885,
+          "totalStars": 888,
           "forks": 72
         },
         "contributors": [
@@ -446,7 +446,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 539,
+          "totalStars": 540,
           "forks": 60
         },
         "contributors": [
@@ -466,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 366,
-          "forks": 157
+          "totalStars": 368,
+          "forks": 158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126966774?v=4"
@@ -486,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 317,
+          "totalStars": 320,
           "forks": 18
         },
         "contributors": [
@@ -506,7 +506,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 300,
+          "totalStars": 303,
           "forks": 41
         },
         "contributors": [
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 253,
+          "totalStars": 255,
           "forks": 56
         },
         "contributors": [
@@ -566,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
+          "totalStars": 201,
           "forks": 17
         },
         "contributors": [
@@ -628,8 +628,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 5410,
-          "forks": 452
+          "totalStars": 5428,
+          "forks": 454
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/85200472?v=4"
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
+          "totalStars": 200,
           "forks": 36
         },
         "contributors": [
@@ -768,7 +768,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 84,
+          "totalStars": 85,
           "forks": 0
         },
         "contributors": [
@@ -788,7 +788,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 76,
+          "totalStars": 77,
           "forks": 7
         },
         "contributors": [
@@ -800,8 +800,8 @@
       },
       {
         "rank": 10,
-        "name": "bymodify-ux/Dying-Light-VR",
-        "description": "暂无描述",
+        "name": "renzyxx/WacOS",
+        "description": "A macOS-style desktop shell for Windows 11: menu bar, Dock, Finder, Spotlight, Control Center and Liquid Glass, in native C++.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
@@ -812,7 +812,7 @@
           "forks": 2
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314277417?v=4"
+          "https://avatars.githubusercontent.com/u/353593449?v=4"
         ],
         "tags": [
           "#C++"
