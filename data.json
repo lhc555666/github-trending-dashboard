@@ -1,9 +1,12 @@
 {
-  "lastUpdate": "2026/11/23 06:47:19",
+  "lastUpdate": "2026/11/24 08:17:44",
   "charts": {
     "languageDistribution": {
-      "Python": 4,
-      "Rust": 3,
+      "Rust": 4,
+      "Objective-C++": 1,
+      "Python": 2,
+      "Swift": 1,
+      "JavaScript": 1,
       "Lean": 1
     },
     "starGrowth": {}
@@ -12,42 +15,42 @@
     "All": [
       {
         "rank": 1,
-        "name": "ItsNotRexed/Leonida",
-        "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+        "name": "Marvisak/VIctory",
+        "description": "An attempt at running GTA VI on PC",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 16950,
-          "forks": 1437
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/300290919?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
-        "name": "bookwjitchieni1986/blender-ai-mcp-addon",
-        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-        "language": {
-          "name": "Unknown",
+          "name": "Rust",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2758,
-          "forks": 39
+          "totalStars": 6236,
+          "forks": 801
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/356367752?v=4"
+          "https://avatars.githubusercontent.com/u/60314886?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Rust"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "ivall/xcl",
+        "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+        "language": {
+          "name": "Rust",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 5135,
+          "forks": 652
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/32580210?v=4"
+        ],
+        "tags": [
+          "#Rust"
         ]
       },
       {
@@ -60,8 +63,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2267,
-          "forks": 139
+          "totalStars": 3329,
+          "forks": 222
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215285446?v=4"
@@ -72,6 +75,26 @@
       },
       {
         "rank": 4,
+        "name": "AFK-surf/xnulinux",
+        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "language": {
+          "name": "Objective-C++",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 2592,
+          "forks": 103
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/221804798?v=4"
+        ],
+        "tags": [
+          "#Objective-C++"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "iamajmeena/neonclipping",
         "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
         "language": {
@@ -80,8 +103,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2161,
-          "forks": 125
+          "totalStars": 2346,
+          "forks": 149
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265551449?v=4"
@@ -91,7 +114,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "omonkeyz/xbox-emulator",
         "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
         "language": {
@@ -100,8 +123,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1398,
-          "forks": 85
+          "totalStars": 1727,
+          "forks": 112
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246595960?v=4"
@@ -111,17 +134,17 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "R0Y00/Xbox2Windows",
-        "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+        "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1352,
-          "forks": 132
+          "totalStars": 1702,
+          "forks": 181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128987794?v=4"
@@ -131,47 +154,47 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Lemxy/WinRust",
-        "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 1271,
-          "forks": 70
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/183076981?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
         "rank": 8,
-        "name": "MSNightmare/FastUnlock",
-        "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+        "name": "os6/nospeaker",
+        "description": "make your macbook's trackpad talk using its haptic motor",
         "language": {
-          "name": "Unknown",
+          "name": "Swift",
           "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 685,
-          "forks": 112
+          "totalStars": 1575,
+          "forks": 78
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/291905677?v=4"
+          "https://avatars.githubusercontent.com/u/239950?v=4"
         ],
         "tags": [
-          "#Trending"
+          "#Swift"
         ]
       },
       {
         "rank": 9,
+        "name": "4lwayz/portwatch-vi",
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1305,
+          "forks": 29
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/359682649?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "leanprover-community/riemann-hypothesis",
         "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
         "language": {
@@ -180,8 +203,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 678,
-          "forks": 172
+          "totalStars": 928,
+          "forks": 341
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/41703605?v=4"
@@ -189,51 +212,11 @@
         "tags": [
           "#Lean"
         ]
-      },
-      {
-        "rank": 10,
-        "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-        "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 627,
-          "forks": 516
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/208099046?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
       }
     ],
     "Python": [
       {
         "rank": 1,
-        "name": "ItsNotRexed/Leonida",
-        "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 16951,
-          "forks": 1437
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/300290919?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "iamajmeena/neonclipping",
         "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
         "language": {
@@ -242,8 +225,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2161,
-          "forks": 125
+          "totalStars": 2346,
+          "forks": 149
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/265551449?v=4"
@@ -253,20 +236,40 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "R0Y00/Xbox2Windows",
-        "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+        "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1352,
-          "forks": 132
+          "totalStars": 1702,
+          "forks": 181
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128987794?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "ubiquitarianism/leonida",
+        "description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 724,
+          "forks": 163
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/283527159?v=4"
         ],
         "tags": [
           "#Python"
@@ -282,8 +285,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 627,
-          "forks": 516
+          "totalStars": 720,
+          "forks": 599
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/208099046?v=4"
@@ -294,6 +297,26 @@
       },
       {
         "rank": 5,
+        "name": "ThreatDefence/agentic-attack-detections",
+        "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 585,
+          "forks": 121
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/260813551?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "sybil-solutions/skill-distill",
         "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
         "language": {
@@ -302,31 +325,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 467,
-          "forks": 42
+          "totalStars": 536,
+          "forks": 48
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284200730?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "ThreatDefence/agentic-attack-detections",
-        "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 447,
-          "forks": 95
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/260813551?v=4"
         ],
         "tags": [
           "#Python"
@@ -342,8 +345,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 374,
-          "forks": 87
+          "totalStars": 449,
+          "forks": 94
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/11882322?v=4"
@@ -354,19 +357,19 @@
       },
       {
         "rank": 8,
-        "name": "free-dam-man/cloud-exit-node-deploy",
-        "description": "加载技能",
+        "name": "lukendeasy/open-diagram",
+        "description": "Python building blocks for dense architecture diagrams that check their own layout",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 315,
-          "forks": 122
+          "totalStars": 372,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/184605110?v=4"
+          "https://avatars.githubusercontent.com/u/358372972?v=4"
         ],
         "tags": [
           "#Python"
@@ -374,6 +377,26 @@
       },
       {
         "rank": 9,
+        "name": "sous-labs/songe",
+        "description": "A training engine for your local model, using your idle compute",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 350,
+          "forks": 49
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/355131544?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "sfewer-r7/CVE-2026-123007",
         "description": "Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2.",
         "language": {
@@ -382,31 +405,11 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 293,
-          "forks": 119
+          "totalStars": 299,
+          "forks": 122
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/122022313?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "estebanarosemena/StellarHub",
-        "description": "No bloatware, no account, no subscriptions, no payments, no telemetry; free forever. Top Tier control for your Windows PC. Live hardware stats, drivers, apps, disk space, cleanup and hardware tests, all in one app.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 289,
-          "forks": 23
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/69443735?v=4"
         ],
         "tags": [
           "#Python"
@@ -416,19 +419,19 @@
     "JavaScript": [
       {
         "rank": 1,
-        "name": "duwqijlk/google-trial-tool",
-        "description": "暂无描述",
+        "name": "4lwayz/portwatch-vi",
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 438,
-          "forks": 172
+          "totalStars": 1305,
+          "forks": 29
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/126966774?v=4"
+          "https://avatars.githubusercontent.com/u/359682649?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -436,26 +439,6 @@
       },
       {
         "rank": 2,
-        "name": "nkjDSLcvanv/antigravity-codex-theme",
-        "description": "Google Antigravity 的 Codex 风格浅色与深色主题，提供简体中文界面、实时会话状态和每轮 Token 统计。主题、汉化和Token统计模块可按需安装与修改。全程不修改 Antigravity 安装包本体文件。支持右侧旁路提问（Side Question）与 SSH Remote 远端会话。",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 420,
-          "forks": 21
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/155653392?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 3,
         "name": "xikhar/papercraft",
         "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
         "language": {
@@ -464,8 +447,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 273,
-          "forks": 25
+          "totalStars": 511,
+          "forks": 51
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -475,20 +458,40 @@
         ]
       },
       {
-        "rank": 4,
-        "name": "pritamux/gridlines",
-        "description": "An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding.",
+        "rank": 3,
+        "name": "duwqijlk/google-trial-tool",
+        "description": "暂无描述",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 196,
-          "forks": 8
+          "totalStars": 452,
+          "forks": 173
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/211746129?v=4"
+          "https://avatars.githubusercontent.com/u/126966774?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "crhywun/g1-acq",
+        "description": "暂无描述",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 362,
+          "forks": 112
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/38809664?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -504,8 +507,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 195,
-          "forks": 37
+          "totalStars": 248,
+          "forks": 45
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/312857664?v=4"
@@ -516,19 +519,19 @@
       },
       {
         "rank": 6,
-        "name": "ATtacK030130/antigrative-dashboard",
-        "description": "Compact Antigravity token throughput and quota widget",
+        "name": "pritamux/gridlines",
+        "description": "An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 187,
+          "totalStars": 230,
           "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/356890064?v=4"
+          "https://avatars.githubusercontent.com/u/211746129?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -536,19 +539,19 @@
       },
       {
         "rank": 7,
-        "name": "RMvdesi/obsidian-prism",
-        "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+        "name": "duwqijlk/browser-capture",
+        "description": "Zero-dependency browser CDP + stealth Hook capture & reverse-engineering AI Skill / CLI for BitBrowser, AdsPower, and Chrome/VisibleV8",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 171,
-          "forks": 10
+          "totalStars": 182,
+          "forks": 91
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/42763205?v=4"
+          "https://avatars.githubusercontent.com/u/126966774?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -556,19 +559,19 @@
       },
       {
         "rank": 8,
-        "name": "AnnoyingC/scene-cv",
-        "description": "An explorable 3D résumé template: a desk room at a rainy night window, built with Blender and three.js.",
+        "name": "tarqmamdouh/agent-theater",
+        "description": "Your AI agents, live on a pixel-art stage. Works with Claude Code.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 168,
-          "forks": 0
+          "totalStars": 173,
+          "forks": 15
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/153698635?v=4"
+          "https://avatars.githubusercontent.com/u/11979856?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -584,7 +587,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 166,
+          "totalStars": 168,
           "forks": 7
         },
         "contributors": [
@@ -596,19 +599,19 @@
       },
       {
         "rank": 10,
-        "name": "crhywun/g1-acq",
-        "description": "暂无描述",
+        "name": "nestjs/agent-skills",
+        "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 163,
-          "forks": 49
+          "totalStars": 157,
+          "forks": 4
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/38809664?v=4"
+          "https://avatars.githubusercontent.com/u/28507035?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -626,8 +629,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 457,
-          "forks": 12
+          "totalStars": 655,
+          "forks": 29
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300290919?v=4"
@@ -638,19 +641,19 @@
       },
       {
         "rank": 2,
-        "name": "cuesta4/GOW3rehooked",
-        "description": "GOW3rehooked - the definitive GOW3 Remastered experience on PC. ",
+        "name": "RyanLebedev6104/robrun-cheat",
+        "description": "ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 327,
-          "forks": 10
+          "totalStars": 632,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/49216888?v=4"
+          "https://avatars.githubusercontent.com/u/312603512?v=4"
         ],
         "tags": [
           "#C++"
@@ -658,19 +661,19 @@
       },
       {
         "rank": 3,
-        "name": "mattj-x96k7/jujutsu-infinite-script",
-        "description": "Jujutsu Infinite Script — Auto-Spin Special Grade Innates, Boss Raid Macro & Domain Unlocker: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "chanke17/KuroCat",
+        "description": "🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture (typing & gaming), 2.5D head tracking, hunting boba eyes, and Black/Siamese skins",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 323,
-          "forks": 0
+          "totalStars": 297,
+          "forks": 36
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278789091?v=4"
+          "https://avatars.githubusercontent.com/u/153577001?v=4"
         ],
         "tags": [
           "#C++"
@@ -678,19 +681,19 @@
       },
       {
         "rank": 4,
-        "name": "nick-jonesdev98n2/fortnite-hwid-spoofer-cheat",
-        "description": "Fortnite Chapter 6 Perm HWID smbios-utility (EAC/BattlEye) + External AI Soft-Aim & Edit Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "Sophieg1108/life-is-strange-2-cheat-trainer",
+        "description": "Life is Strange 2 external-overlay, Trainer & External ESP Overlay (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 322,
+          "totalStars": 292,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279155990?v=4"
+          "https://avatars.githubusercontent.com/u/330555180?v=4"
         ],
         "tags": [
           "#C++"
@@ -698,19 +701,19 @@
       },
       {
         "rank": 5,
-        "name": "benking-eng95e2/arise-crossover-script-x64",
-        "description": "Arise Crossover Script — Keyless Auto-Dungeon, Shadow Arise Macro, Boss Kill & Mounts (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "Stavrou97341/rob-run-trainer-mod-menu",
+        "description": "ROB RUN Trainer & Mod Menu — Infinite Stamina, Loot Filter & 144Hz Unlocker: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 317,
+          "totalStars": 286,
           "forks": 0
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278787290?v=4"
+          "https://avatars.githubusercontent.com/u/330512770?v=4"
         ],
         "tags": [
           "#C++"
@@ -718,19 +721,19 @@
       },
       {
         "rank": 6,
-        "name": "dmitry-devops03l1/matrix-hub-keyless-executor-pc",
-        "description": "Matrix Hub v3 — Windows 10/11 Keyless LuaU Script Injector & Decompiler (98% sUNC): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "gableotter/fortnite-hwid-spoofer-cheat",
+        "description": "Fortnite HWID Spoofer & Fortnite External ESP (2026) — EAC/BattlEye Permanent Fortnite HWID Spoofer, SMBIOS & Disk Cleaner",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 282,
-          "forks": 0
+          "totalStars": 262,
+          "forks": 9
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278799129?v=4"
+          "https://avatars.githubusercontent.com/u/356907255?v=4"
         ],
         "tags": [
           "#C++"
@@ -738,19 +741,19 @@
       },
       {
         "rank": 7,
-        "name": "eric-wilson-io2092x5/cs2-skin-changer",
-        "description": "CS2 Skin Changer & Inventory Unlocker — All Knives, Gloves, Agents & Stickers: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "lucasito92/delta-executor-pc",
+        "description": "Delta Executor PC & Delta Roblox Executor (2026) — Keyless Delta Executor PC for Windows 10/11 x64 & Auto-Execute Hub",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 280,
-          "forks": 0
+          "totalStars": 250,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279164926?v=4"
+          "https://avatars.githubusercontent.com/u/312614143?v=4"
         ],
         "tags": [
           "#C++"
@@ -758,19 +761,19 @@
       },
       {
         "rank": 8,
-        "name": "antonmoore-dev00v1/opiumware-keyless-executor-pc",
-        "description": "Opiumware v2.6.0-hotfix1 — Windows 10/11 Keyless LuaU Script Injector & Decompiler (100% sUNC): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "Albertop596/escape-from-tarkov-cheat-radar",
+        "description": "Escape from Tarkov Radar & EFT 2D Map Radar ESP (2026) — External Escape from Tarkov Radar, High-Tier Loot Filter & Boss ESP",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 279,
-          "forks": 0
+          "totalStars": 250,
+          "forks": 11
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278802641?v=4"
+          "https://avatars.githubusercontent.com/u/312685074?v=4"
         ],
         "tags": [
           "#C++"
@@ -778,19 +781,19 @@
       },
       {
         "rank": 9,
-        "name": "ivandx20w9/lynx-keyless-executor-pc",
-        "description": "Lynx 1.748 — Windows 10/11 Keyless LuaU Script Injector & Decompiler (100% sUNC): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "stevie215/wave-executor",
+        "description": "Wave Executor PC (2026) — Keyless Wave Executor for Roblox Windows 10/11 x64 with Auto-Inject & Script Hub",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 278,
-          "forks": 0
+          "totalStars": 248,
+          "forks": 8
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/279288731?v=4"
+          "https://avatars.githubusercontent.com/u/356866995?v=4"
         ],
         "tags": [
           "#C++"
@@ -798,19 +801,19 @@
       },
       {
         "rank": 10,
-        "name": "alex-ivanovdev01t6/volcano-keyless-executor-pc",
-        "description": "Volcano v3.2.11.5 — Windows 10/11 Keyless LuaU Script Injector & Decompiler (96% sUNC): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+        "name": "SamuelReed5186/xeno-roblox-executor",
+        "description": "Xeno Executor & Xeno Roblox Executor v1.3 (2026) — Keyless Xeno Executor PC, Multi-Instance Attach & Script Hub",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 277,
-          "forks": 0
+          "totalStars": 247,
+          "forks": 10
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/278811309?v=4"
+          "https://avatars.githubusercontent.com/u/312409870?v=4"
         ],
         "tags": [
           "#C++"
