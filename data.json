@@ -1,11 +1,12 @@
 {
-  "lastUpdate": "2026/11/25 07:49:37",
+  "lastUpdate": "2026/11/26 06:45:33",
   "charts": {
     "languageDistribution": {
       "Rust": 5,
-      "Objective-C++": 1,
       "JavaScript": 1,
-      "Python": 3
+      "C": 1,
+      "Python": 2,
+      "Swift": 1
     },
     "starGrowth": {}
   },
@@ -21,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 11761,
-          "forks": 1748
+          "totalStars": 12772,
+          "forks": 2093
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60314886?v=4"
@@ -41,8 +42,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 8024,
-          "forks": 1077
+          "totalStars": 8384,
+          "forks": 1158
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/360790281?v=4"
@@ -53,46 +54,6 @@
       },
       {
         "rank": 3,
-        "name": "EL4CTEO/fast-anything",
-        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-        "language": {
-          "name": "Rust",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3727,
-          "forks": 267
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/215285446?v=4"
-        ],
-        "tags": [
-          "#Rust"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "AFK-surf/xnulinux",
-        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-        "language": {
-          "name": "Objective-C++",
-          "color": "text-gray-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 3591,
-          "forks": 168
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/221804798?v=4"
-        ],
-        "tags": [
-          "#Objective-C++"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "4lwayz/portwatch-vi",
         "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
         "language": {
@@ -101,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3132,
-          "forks": 84
+          "totalStars": 4510,
+          "forks": 137
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/359682649?v=4"
@@ -112,27 +73,47 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "iamajmeena/neonclipping",
-        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "rank": 4,
+        "name": "EL4CTEO/fast-anything",
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
         "language": {
-          "name": "Python",
-          "color": "text-blue-500"
+          "name": "Rust",
+          "color": "text-gray-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2531,
-          "forks": 159
+          "totalStars": 4051,
+          "forks": 292
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/265551449?v=4"
+          "https://avatars.githubusercontent.com/u/215285446?v=4"
         ],
         "tags": [
-          "#Python"
+          "#Rust"
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "name": "AFK-surf/xnulinux",
+        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "language": {
+          "name": "C",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 4023,
+          "forks": 193
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/221804798?v=4"
+        ],
+        "tags": [
+          "#C"
+        ]
+      },
+      {
+        "rank": 6,
         "name": "fxceless/victory-fork",
         "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
         "language": {
@@ -141,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2393,
-          "forks": 632
+          "totalStars": 3152,
+          "forks": 923
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36782933?v=4"
@@ -152,7 +133,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "ubiquitarianism/leonida",
         "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
         "language": {
@@ -161,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2028,
-          "forks": 444
+          "totalStars": 2380,
+          "forks": 540
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283527159?v=4"
@@ -172,7 +153,7 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "R0Y00/Xbox2Windows",
         "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
         "language": {
@@ -181,14 +162,34 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1929,
-          "forks": 221
+          "totalStars": 1959,
+          "forks": 231
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128987794?v=4"
         ],
         "tags": [
           "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "os6/nospeaker",
+        "description": "make your macbook's trackpad talk using its haptic motor",
+        "language": {
+          "name": "Swift",
+          "color": "text-gray-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 1906,
+          "forks": 100
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/239950?v=4"
+        ],
+        "tags": [
+          "#Swift"
         ]
       },
       {
@@ -201,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1828,
-          "forks": 121
+          "totalStars": 1849,
+          "forks": 122
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246595960?v=4"
@@ -215,26 +216,6 @@
     "Python": [
       {
         "rank": 1,
-        "name": "iamajmeena/neonclipping",
-        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 2531,
-          "forks": 159
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/265551449?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 2,
         "name": "ubiquitarianism/leonida",
         "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
         "language": {
@@ -243,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2028,
-          "forks": 444
+          "totalStars": 2380,
+          "forks": 540
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283527159?v=4"
@@ -254,7 +235,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "R0Y00/Xbox2Windows",
         "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
         "language": {
@@ -263,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1929,
-          "forks": 221
+          "totalStars": 1959,
+          "forks": 231
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/128987794?v=4"
@@ -274,7 +255,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "zero5122/offline-file-converter-windows",
         "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
         "language": {
@@ -283,11 +264,31 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1047,
-          "forks": 0
+          "totalStars": 1062,
+          "forks": 2
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/358666762?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "sous-labs/songe",
+        "description": "A training engine for your local model, using your idle compute",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 881,
+          "forks": 72
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/355131544?v=4"
         ],
         "tags": [
           "#Python"
@@ -303,8 +304,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 760,
-          "forks": 62
+          "totalStars": 818,
+          "forks": 66
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/284200730?v=4"
@@ -315,46 +316,6 @@
       },
       {
         "rank": 6,
-        "name": "sous-labs/songe",
-        "description": "A training engine for your local model, using your idle compute",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 756,
-          "forks": 65
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/355131544?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-        "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 736,
-          "forks": 610
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/208099046?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "ThreatDefence/agentic-attack-detections",
         "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
         "language": {
@@ -363,8 +324,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 644,
-          "forks": 134
+          "totalStars": 715,
+          "forks": 144
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/260813551?v=4"
@@ -374,27 +335,7 @@
         ]
       },
       {
-        "rank": 9,
-        "name": "ProjectLeonidaL/leonida",
-        "description": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 414,
-          "forks": 47
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/360490330?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
-        "rank": 10,
+        "rank": 7,
         "name": "bikini/minecraft2shell",
         "description": "Minecraft to native RCE",
         "language": {
@@ -403,11 +344,71 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 375,
-          "forks": 27
+          "totalStars": 442,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/63224111?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "LooperSalty/AnyXboxX",
+        "description": "AnyXboxX — prototype d'émulateur Xbox Series X (HLE du GDK sur Unicorn)",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 384,
+          "forks": 62
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/106304476?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "R44VC0RP/dashsplat",
+        "description": "Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm road atlas, tracked vehicles and a diffusion-repaired chase view.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 322,
+          "forks": 58
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/89211796?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "AyushRajSinghParihar/weaponized-curiosity",
+        "description": "Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 180,
+          "forks": 11
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/145347508?v=4"
         ],
         "tags": [
           "#Python"
@@ -425,8 +426,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3132,
-          "forks": 84
+          "totalStars": 4510,
+          "forks": 137
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/359682649?v=4"
@@ -445,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 836,
-          "forks": 237
+          "totalStars": 1343,
+          "forks": 320
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38809664?v=4"
@@ -465,8 +466,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 643,
-          "forks": 68
+          "totalStars": 733,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215908419?v=4"
@@ -477,19 +478,19 @@
       },
       {
         "rank": 4,
-        "name": "duwqijlk/google-trial-tool",
-        "description": "暂无描述",
+        "name": "Moh4696/inkworks-skill",
+        "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 462,
-          "forks": 174
+          "totalStars": 286,
+          "forks": 31
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/126966774?v=4"
+          "https://avatars.githubusercontent.com/u/110087282?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -505,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 263,
-          "forks": 48
+          "totalStars": 274,
+          "forks": 53
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/312857664?v=4"
@@ -517,6 +518,46 @@
       },
       {
         "rank": 6,
+        "name": "ElloboDK/KeyCat",
+        "description": "菜单栏桌面宠物黑猫：跟着键盘动爪、跟着鼠标转头，烦躁时甩尾捶桌（macOS 13+，通用二进制）",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 250,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/48611756?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "erkamyaman/rea-games",
+        "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+        "language": {
+          "name": "JavaScript",
+          "color": "text-yellow-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 245,
+          "forks": 42
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/88717125?v=4"
+        ],
+        "tags": [
+          "#JavaScript"
+        ]
+      },
+      {
+        "rank": 8,
         "name": "pritamux/gridlines",
         "description": "An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding.",
         "language": {
@@ -525,7 +566,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 235,
+          "totalStars": 241,
           "forks": 9
         },
         "contributors": [
@@ -536,7 +577,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "duwqijlk/browser-capture",
         "description": "Zero-dependency browser CDP + stealth Hook capture & reverse-engineering AI Skill / CLI for BitBrowser, AdsPower, and Chrome/VisibleV8",
         "language": {
@@ -545,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
-          "forks": 101
+          "totalStars": 198,
+          "forks": 104
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/126966774?v=4"
@@ -556,60 +597,20 @@
         ]
       },
       {
-        "rank": 8,
-        "name": "cloudflare/oxlint-config",
-        "description": "Shared Oxlint rules for Cloudflare JavaScript and TypeScript projects",
+        "rank": 10,
+        "name": "zou172866/Antigravity-agy-dart",
+        "description": "Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions, and saves tokens.",
         "language": {
           "name": "JavaScript",
           "color": "text-yellow-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 186,
+          "totalStars": 188,
           "forks": 6
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/314135?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "tarqmamdouh/agent-theater",
-        "description": "Your AI agents, live on a pixel-art stage. Works with Claude Code.",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 179,
-          "forks": 16
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/11979856?v=4"
-        ],
-        "tags": [
-          "#JavaScript"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "nestjs/agent-skills",
-        "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
-        "language": {
-          "name": "JavaScript",
-          "color": "text-yellow-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 161,
-          "forks": 4
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/28507035?v=4"
+          "https://avatars.githubusercontent.com/u/295114258?v=4"
         ],
         "tags": [
           "#JavaScript"
@@ -627,7 +628,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1023,
+          "totalStars": 1020,
           "forks": 0
         },
         "contributors": [
@@ -647,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 711,
-          "forks": 37
+          "totalStars": 741,
+          "forks": 41
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/300290919?v=4"
@@ -667,8 +668,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 450,
-          "forks": 46
+          "totalStars": 598,
+          "forks": 58
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153577001?v=4"
@@ -687,8 +688,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 319,
-          "forks": 12
+          "totalStars": 379,
+          "forks": 16
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/184076081?v=4"
@@ -707,8 +708,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 265,
-          "forks": 25
+          "totalStars": 268,
+          "forks": 26
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86260922?v=4"
@@ -727,8 +728,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 228,
-          "forks": 12
+          "totalStars": 235,
+          "forks": 14
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/44925968?v=4"
@@ -739,19 +740,19 @@
       },
       {
         "rank": 7,
-        "name": "QakajaVeca60/deadlock-cheat-esp-aimbot-win11",
-        "description": "Deadlock Cheat ESP Aimbot Win11 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+        "name": "lhoyer/spectral-explorer",
+        "description": "Open USB optical spectrometer (400–650 nm, up to 1 nm resolution). 3D-printable hardware + desktop software for science education and experiments.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 212,
-          "forks": 13
+          "totalStars": 138,
+          "forks": 27
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298456348?v=4"
+          "https://avatars.githubusercontent.com/u/1277888?v=4"
         ],
         "tags": [
           "#C++"
@@ -759,19 +760,19 @@
       },
       {
         "rank": 8,
-        "name": "GimetuLoxa79/rob-run-cheat-mod-menu-v2",
-        "description": "Rob Run Cheat Mod Menu V2 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+        "name": "oguz463/OLEDTextFix",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 209,
-          "forks": 4
+          "totalStars": 135,
+          "forks": 1
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298427724?v=4"
+          "https://avatars.githubusercontent.com/u/22803432?v=4"
         ],
         "tags": [
           "#C++"
@@ -779,19 +780,19 @@
       },
       {
         "rank": 9,
-        "name": "ivanmustafa/rob-run-cheats-mod-menu",
-        "description": "Rob Run Cheats Mod Menu [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+        "name": "ItsNotRexed/Blueshell",
+        "description": "暂无描述",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 206,
-          "forks": 0
+          "totalStars": 118,
+          "forks": 5
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/331505194?v=4"
+          "https://avatars.githubusercontent.com/u/300290919?v=4"
         ],
         "tags": [
           "#C++"
@@ -799,19 +800,19 @@
       },
       {
         "rank": 10,
-        "name": "diane7022/gta-6-pc-companion-toolkit",
-        "description": "GTA 6 PC Companion Toolkit [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+        "name": "PlutonusDev/OpenEra",
+        "description": "An open-source compatibility layer and runtime environment for running Xbox One / Series X|S (Era / GameCore) titles natively on Windows.",
         "language": {
           "name": "C++",
           "color": "text-purple-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 205,
-          "forks": 2
+          "totalStars": 115,
+          "forks": 3
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/298897111?v=4"
+          "https://avatars.githubusercontent.com/u/46195982?v=4"
         ],
         "tags": [
           "#C++"
