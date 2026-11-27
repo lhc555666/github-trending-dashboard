@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/27 06:37:47",
+  "lastUpdate": "2026/11/27 07:39:21",
   "charts": {
     "languageDistribution": {
       "Rust": 6,
@@ -22,8 +22,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 13505,
-          "forks": 2280
+          "totalStars": 13519,
+          "forks": 2283
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/60314886?v=4"
@@ -42,7 +42,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6042,
+          "totalStars": 6090,
           "forks": 174
         },
         "contributors": [
@@ -62,8 +62,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 4303,
-          "forks": 308
+          "totalStars": 4321,
+          "forks": 310
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/215285446?v=4"
@@ -82,8 +82,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3444,
-          "forks": 989
+          "totalStars": 3524,
+          "forks": 1014
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/169477042?v=4"
@@ -102,8 +102,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 3297,
-          "forks": 994
+          "totalStars": 3301,
+          "forks": 996
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/36782933?v=4"
@@ -122,8 +122,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2554,
-          "forks": 584
+          "totalStars": 2556,
+          "forks": 587
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283527159?v=4"
@@ -142,8 +142,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1964,
-          "forks": 104
+          "totalStars": 1965,
+          "forks": 105
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/239950?v=4"
@@ -162,8 +162,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1876,
-          "forks": 611
+          "totalStars": 1880,
+          "forks": 616
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/64326402?v=4"
@@ -183,7 +183,7 @@
         "stats": {
           "todayStars": "-",
           "totalStars": 1853,
-          "forks": 125
+          "forks": 126
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/246595960?v=4"
@@ -202,8 +202,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1702,
-          "forks": 258
+          "totalStars": 1725,
+          "forks": 262
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/68546545?v=4"
@@ -224,8 +224,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 2554,
-          "forks": 584
+          "totalStars": 2556,
+          "forks": 587
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/283527159?v=4"
@@ -244,8 +244,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1072,
-          "forks": 2
+          "totalStars": 1073,
+          "forks": 3
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/358666762?v=4"
@@ -264,7 +264,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 943,
+          "totalStars": 946,
           "forks": 82
         },
         "contributors": [
@@ -276,6 +276,26 @@
       },
       {
         "rank": 4,
+        "name": "gary23w/f-ck_data_brokers",
+        "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+        "language": {
+          "name": "Python",
+          "color": "text-blue-500"
+        },
+        "stats": {
+          "todayStars": "-",
+          "totalStars": 466,
+          "forks": 23
+        },
+        "contributors": [
+          "https://avatars.githubusercontent.com/u/61893883?v=4"
+        ],
+        "tags": [
+          "#Python"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "bikini/minecraft2shell",
         "description": "Minecraft to native RCE",
         "language": {
@@ -284,7 +304,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 459,
+          "totalStars": 458,
           "forks": 42
         },
         "contributors": [
@@ -295,27 +315,27 @@
         ]
       },
       {
-        "rank": 5,
-        "name": "gary23w/f-ck_data_brokers",
-        "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+        "rank": 6,
+        "name": "stellarr-studio/kelvaroq",
+        "description": "Experimental Xbox Series compatibility runtime for Windows x64, built in Rust.",
         "language": {
           "name": "Python",
           "color": "text-blue-500"
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 455,
-          "forks": 21
+          "totalStars": 359,
+          "forks": 110
         },
         "contributors": [
-          "https://avatars.githubusercontent.com/u/61893883?v=4"
+          "https://avatars.githubusercontent.com/u/360379433?v=4"
         ],
         "tags": [
           "#Python"
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "R44VC0RP/dashsplat",
         "description": "Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm road atlas, tracked vehicles and a diffusion-repaired chase view.",
         "language": {
@@ -335,26 +355,6 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "stellarr-studio/kelvaroq",
-        "description": "Experimental Xbox Series compatibility runtime for Windows x64, built in Rust.",
-        "language": {
-          "name": "Python",
-          "color": "text-blue-500"
-        },
-        "stats": {
-          "todayStars": "-",
-          "totalStars": 348,
-          "forks": 108
-        },
-        "contributors": [
-          "https://avatars.githubusercontent.com/u/360379433?v=4"
-        ],
-        "tags": [
-          "#Python"
-        ]
-      },
-      {
         "rank": 8,
         "name": "Lappercn/tender-master",
         "description": "招投标大师 (Bidding Master) —— 涵盖国内 20+ 核心公开招投标平台（中国政府采购网、全国公共资源交易平台、国家电网、南方电网、中石油、中化、国家能源、中国华能、中国电信、中国邮政、国铁 95306、中国国航、中国烟草、金采网等）的深网采集与数据解析底座。项目包含早期的多站点自动化解析脚本、跨平台标题清洗与 MD5 指纹去重、6 级预算金额与多联系人防错配正则提取引擎，以及演进后的「六张网」DDD 领域驱动架构（含主从分布式任务队列、断网暂存回放、Windows 浏览器进程树防泄漏守卫、FastAPI 开放查询接口与 Vue 3 可视化管理台）。本项目为大模型普及前夜的个人工程探索归档，完全免费开源，仅供技术学习与架构交流。",
@@ -364,7 +364,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 252,
+          "totalStars": 257,
           "forks": 68
         },
         "contributors": [
@@ -384,7 +384,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 199,
+          "totalStars": 200,
           "forks": 2
         },
         "contributors": [
@@ -404,8 +404,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 195,
-          "forks": 99
+          "totalStars": 197,
+          "forks": 102
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/86799516?v=4"
@@ -426,7 +426,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 6042,
+          "totalStars": 6090,
           "forks": 174
         },
         "contributors": [
@@ -446,8 +446,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 1695,
-          "forks": 388
+          "totalStars": 1703,
+          "forks": 391
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/38809664?v=4"
@@ -466,7 +466,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 848,
+          "totalStars": 858,
           "forks": 92
         },
         "contributors": [
@@ -486,7 +486,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 479,
+          "totalStars": 481,
           "forks": 50
         },
         "contributors": [
@@ -506,8 +506,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 321,
-          "forks": 62
+          "totalStars": 325,
+          "forks": 64
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/88717125?v=4"
@@ -526,7 +526,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 290,
+          "totalStars": 292,
           "forks": 59
         },
         "contributors": [
@@ -586,8 +586,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 193,
-          "forks": 37
+          "totalStars": 195,
+          "forks": 38
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/144567857?v=4"
@@ -606,7 +606,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 155,
+          "totalStars": 162,
           "forks": 2
         },
         "contributors": [
@@ -648,8 +648,8 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 714,
-          "forks": 76
+          "totalStars": 718,
+          "forks": 77
         },
         "contributors": [
           "https://avatars.githubusercontent.com/u/153577001?v=4"
@@ -668,7 +668,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 600,
+          "totalStars": 668,
           "forks": 0
         },
         "contributors": [
@@ -728,7 +728,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 129,
+          "totalStars": 130,
           "forks": 3
         },
         "contributors": [
@@ -748,7 +748,7 @@
         },
         "stats": {
           "todayStars": "-",
-          "totalStars": 123,
+          "totalStars": 129,
           "forks": 15
         },
         "contributors": [
